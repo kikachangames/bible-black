@@ -25,7 +25,6 @@
     <li>28/04 - 0%</li>
     <li>29/04 - 0%</li>
     <li>30/04 - 0%</li>
-
 </ul>
 <br/>
 <h3>Lançamento</h3>
@@ -49,7 +48,7 @@
 </div>
 <div style="display:inline-block;">
 <h3>Manolo-chan</h3>
-  <p>Edição de imagens e programação</p>
+  <p>Líder de projeto, edição de imagens e programação.</p>
 </div>
   <br/>
 
@@ -67,7 +66,7 @@
   </div>
 <div style="display:inline-block;">
   <h3>Kazuki Minoru</h3>
-   <p>Revisão e Quality Check</p>
+   <p>Revisão e Quality Check.</p>
 </div>
 <br/>
 
