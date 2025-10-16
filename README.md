@@ -57,7 +57,7 @@
 </div>
 <div style="display:inline-block;">
   <h3>Takumi</h3>
-    <p>Tradução</p>
+    <p>Tradução.</p>
 </div>
 <br/>
 
