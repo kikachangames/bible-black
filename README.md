@@ -1,9 +1,7 @@
 <h1>Bible Black -La Noche de Walpurgis-</h1>
-<p>Patch Pt-Br</p>
-<br/>
+
+⚠️ AVISO: Este jogo não é adequado para menores ou pessoas sensíveis. <br/>
 <img src="https://kikachangames.github.io/bible-black/img/1.png">
-<br/>
-<br/>
 
 <h3>"A noite de Walpurgis está chegando, então estamos conjurando os espíritos dos mortos..."</h3>
 <p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da visual novel<a href="https://vndb.org/v9" target="_blank"> Bible Black -La Noche de Walpurgis-</a>, lançada pela Active em 2000.</p>
