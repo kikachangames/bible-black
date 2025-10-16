@@ -1,4 +1,4 @@
-<h1>Bible Black -La Noche de Walpurgis-</h1>
+<h1>Bible Black -A Noite de Walpurgis-</h1>
 
 <p>⚠️ AVISO: Este jogo não é adequado para menores.</p> <br/>
 <img src="https://kikachangames.github.io/bible-black/img/bb.jpg">
