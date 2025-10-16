@@ -1,6 +1,6 @@
 <h1>Bible Black -La Noche de Walpurgis-</h1>
 
-<p>⚠️ AVISO: Este jogo não é adequado para menores ou pessoas sensíveis.</p> <br/>
+<p>⚠️ AVISO: Este jogo não é adequado para menores.</p> <br/>
 <img src="https://kikachangames.github.io/bible-black/img/bb.jpg">
 
 <h3>"A noite de Walpurgis está chegando, então estamos conjurando os espíritos dos mortos..."</h3>
