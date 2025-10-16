@@ -10,7 +10,7 @@
 <br/>
 
 <h3>Sinopse</h3>
-<p>Rumores dizem que alguns alunos realizam rituais satânicos na escola, mas os professores fingem não saber de nada. Você é um estudante comum que encontra o livro usado pelo culto — e, ao abri-lo, desperta seus poderes sombrios. Agora, os boatos giram em torno de você, e tanto amigos quanto membros da escola começam a desconfiar. O que fará com esse poder maligno?</p>
+<p>Rumores dizem que alguns alunos realizam rituais satânicos na escola, mas os professores fingem não saber de nada. Você é um estudante comum que encontra o livro usado pelo culto — e, ao abri-lo, desperta seus poderes sombrios. Agora, os boatos giram em torno de você, e tanto os seus amigos quanto os membros da escola começam a desconfiar. O que fará com esse poder maligno?</p>
 <br/>
 
 <h3>Progresso da tradução: 9,09%</h3>
