@@ -71,7 +71,7 @@
    <p>Revisão e Quality Check.</p>
 </div>
 <br/>
-
+<br/>
 
 <h3>Agradecimentos</h3>
 <p><a href="http://web.archive.org/web/20050211030741/http://www.active-soft.jp/" target="_blank">Active Software</a></p>
