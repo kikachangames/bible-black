@@ -13,11 +13,11 @@
 <p>Rumores dizem que alguns alunos realizam rituais satânicos na escola, mas os professores fingem não saber de nada. Você é um estudante comum que encontra o livro usado pelo culto — e, ao abri-lo, desperta seus poderes sombrios. Agora, os boatos giram em torno de você, e tanto os seus amigos quanto os membros da escola começam a desconfiar. O que fará com esse poder maligno?</p>
 <br/>
 
-<h3>Progresso da tradução: 9,09%</h3>
+<h3>Progresso da tradução: 18,18%</h3>
 
 <ul>
     <li>20/04 - 100%</li>
-    <li>21/04 - 0%</li>
+    <li>21/04 - 100%</li>
     <li>22/04 - 0%</li>
     <li>23/04 - 0%</li>
     <li>24/04 - 0%</li>
@@ -87,7 +87,7 @@
 
 
 <hr>
-<p><small>Última atualização: 15/10/2025.</small></p>
+<p><small>Última atualização: 19/10/2025.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
 
