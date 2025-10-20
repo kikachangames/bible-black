@@ -1,0 +1,5033 @@
+﻿#Size=136892
+
+[MSG$00024C,21]
+Zoar com a Imari
+
+[MSG$00027E,16]
+Se trocar
+
+[MSG$0002B3,2]
+Sim
+
+[MSG$0002D2,8]
+Não
+
+[MSG$0002FF,23]
+Ser educado e ir
+
+[MSG$000333,19]
+Vazar, claro
+
+[MSG$00036B,31]
+Peça uma pose mais ousada
+
+[MSG$0003A7,27]
+Faça ela ficar pelada
+
+[MSG$0003FF,14]
+Pensar sobre
+
+[MSG$00042A,7]
+Pegar
+
+[MSG$00046F,18]
+Olhar antes
+
+[MSG$0004A7,7]
+Descer
+
+[MSG$0004D3,10]
+Pegar
+
+[MSG$0004FA,18]
+Olhar antes
+
+[MSG$000531,10]
+Pegar
+
+[MSG$000560,16]
+Despi-la
+
+[MSG$0005C3,5]
+Imari
+
+[MSG$0005E5,10]
+Irmã
+
+[MSG$00060C,5]
+Outro alguém
+
+[MSG$00064E,12]
+Ir pra escola
+
+[MSG$00067F,14]
+Pensar sobre
+
+[MSG$0006AA,22]
+Olhar em volta
+
+[MSG$0006FB,14]
+Pensar sobre
+
+[MSG$000726,22]
+
+Olhar em volta
+
+[MSG$000759,22]
+Checar os armários
+
+[MSG$000793,16]
+Opening Sequence
+
+[MSG$0007BB,7]
+Feature
+
+[MSG$0009C2,18]
+Abril 20 - Manhã
+
+[MSG$000A40,18]
+Voz "Acorde..."
+
+[MSG$000A6C,67]
+Através da névoa da minha sonolência, posso ouvir o sussurro de um anjo...
+
+[MSG$000AB4,38]
+Mas meu corpo quer dormir mais...
+
+[MSG$000AE7,27]
+Voz "Anda, acorda..."
+
+[MSG$000B1C,33]
+Mas não vou cair nessa.
+
+[MSG$000B42,17]
+Não é anjo coisa nenhuma.
+
+[MSG$000B60,77]
+Estou ouvindo o sussurro de um diabo querendo interromper meu sono da beleza...
+
+[MSG$000BBA,24]
+Voz "Eu falei pra acordar!"
+
+[MSG$000BEC,35]
+Voz "Ei, levanta agora!"
+
+[MSG$000C29,38]
+Seu tom de voz muda gradualmente...
+
+[MSG$000C5C,16]
+Voz "LEVANTA!"
+
+[MSG$000C86,22]
+Mexe, mexe mexe
+
+[MSG$000CA9,66]
+Ela deve ter perdido a paciência. Agora partiu pro físico.
+
+[MSG$000CF0,87]
+O demônio foi desmascarado e agora tá mostrando suas presas para esse infeliz cordeiro.
+
+[MSG$000DE4,15]
+Minase "Aff..."
+
+[MSG$000E0D,14]
+Ah, cala a boca...
+
+[MSG$000E20,54]
+Rolei na cama e tentei fugir dela...
+
+[MSG$000E63,24]
+Que saco!
+
+[MSG$000E88,92]
+Não, é pior que um saco, é tortura! Pior, é criminoso, isso aí!
+
+[MSG$000EF1,23]
+Porém eu tento resistir.
+
+[MSG$000F15,100]
+Esse é um momento de pura alegria para mim... quando estou a mimir. É imperdoável interromper isso..
+
+[MSG$000F7E,41]
+É meu momento favorito do dia.
+
+[MSG$00102D,73]
+Quando você acorda e logo depois volta a dormir...
+
+[MSG$00107B,31]
+Não tem nada igual...
+
+[MSG$0010A7,63]
+Como um feto dentro da mãe...é um mundo de paz absoluta...
+
+[MSG$0010F3,42]
+Voice "Cacete, eu falei pra LEVANTAR!"
+
+[MSG$001137,57]
+Ao som dessa voz, perco a gravidade num instante.
+
+[MSG$001279,4]
+Bam!
+
+[MSG$00130E,9]
+(rolando)
+
+[MSG$0013A8,6]
+Pow!
+
+[MSG$0013BB,14]
+Minase "AI!"
+
+[MSG$0013E3,71]
+A dor me arrasta instantaneamente de volta ao mundo real.
+
+[MSG$001437,24]
+Minase "AI AI AI AI AI!"
+
+[MSG$001469,110]
+Eu me levanto, esfregando minha cabeça dolorida, que parece ter rolado pelo chão e batido contra a parede..
+
+[MSG$001582,35]
+Minase "Ei, que ideia foi essa?!"
+
+[MSG$0015BF,53]
+Eu grito para a garota parada na minha frente, com as mãos na cintura.
+
+[MSG$001601,36]
+Só uma pessoa seria violenta assim.
+
+[MSG$001632,51]
+Seu nome é Kurumi Imari, minha vizinha,
+
+[MSG$001672,103]
+Imari e eu nos conhecemos faz tempo. Desde o prézinho, somos o que chamam de ''amigos de infância''
+
+[MSG$0016DE,35]
+|E claro, continuamos colegas de sala.
+
+[MSG$00170E,77]
+Ela se aproveita que meus pais a pediram pra cuidar de mim;
+
+[MSG$001760,73]
+e agora é parte da rotina dela estragar meu sono, Desgraçada!
+
+[MSG$0017B6,94]
+Claro que eu não sou de acordar cedo, e graças a Imaru nunca me atraso pra aula...
+
+[MSG$001819,102]
+Então não dá pra expulsá-la nem se eu quisesse, mas continua irritante...
+
+[MSG$00188C,37]
+Ela é um mau necessário.
+
+[MSG$0018BE,30]
+Imari "Já amanheceu. Anda!"
+
+[MSG$0018F6,50]
+Disse a Imari, abrindo a janela.
+
+[MSG$00192D,54]
+Há luz lá fora. De fato, amanheceu.
+
+[MSG$001970,29]
+Minase "É, da pra ver."
+
+[MSG$0019A7,42]
+Eu respondo com um tom de nojo na voz.
+
+[MSG$0019D6,75]
+Gradualmente eu me levanto. Por que ela tem que me acordar com tanta violência?
+
+[MSG$001A2E,46]
+Eu abocejo e olho pra Imari com olhos cerrados.
+
+[MSG$001A69,42]
+Imari "Até que enfim. Pronto, vamos indo?"
+
+[MSG$001AAD,83]
+Eu sento na cama e esfrego o rosto. Imari não liga e continua a me apressar.
+
+[MSG$001B0D,30]
+Minase "E o café da manhã?"
+
+[MSG$001B45,44]
+Eu coço a cabeça e falo para as costas da Imari.
+
+[MSG$001B7E,49]
+Me ouvindo, ela ri e aponta para o relógio.
+
+[MSG$001BBC,46]
+Imari "Como se desse tempo pra isso!"
+
+[MSG$001C04,30]
+Minase "Tá bom, tábom então..."
+
+[MSG$001C3C,95]
+Eu concedo relutantemente e então começo a tirar o moletom que uso para dormir em vez do pijama.
+
+[MSG$001CA8,48]
+Vendo isso, Imari vira de costas.
+
+[MSG$001D09,37]
+Imari "Me avisa quando terminar."
+
+[MSG$001D48,14]
+Minase "Tá,"
+
+[MSG$001D70,50]
+Isso já é rotina, ela está acostumada.
+
+[MSG$001DA7,79]
+Quando vocês fazem isso a anos, essas interações não parecem estranhas.
+
+[MSG$001E03,27]
+Minase "Cadê minha irmã?"
+
+[MSG$001E38,53]
+Pergunto pra Imari enquanto troco de roupa.
+
+[MSG$001E7A,119]
+Eu moro nesta casa com minha irmã mais velha. Eu a chamo de irmã, embora ela seja, na verdade, minha prima. Mas já que
+
+[MSG$001EF6,74]
+|crescemos junto por causa da minha família, vejo-a como minha irmã.
+
+[MSG$001F4D,82]
+Meus pais não estão morando conosco agora porque meu pai foi transferido no trabalho.
+
+[MSG$001FAC,46]
+A transferência aconteceu de repente no ano passado.
+
+[MSG$001FDF,102]
+Minha irmã e eu pensamos se deveríamos ir junto, mas ficamos aqui por causa da escola.
+
+[MSG$002052,110]
+Eu pensei que seria o começo de bons tempos para mim, ficar longe dos meus pais autoritários... mas minha irmã
+
+[MSG$0020C5,35]
+|e Imari ainda são um problema.
+
+[MSG$0020F5,73]
+Meus pais confiaram na Imari pra me acordar de manhã
+
+[MSG$002143,59]
+|E ficar de olho comigo no geral. Não é uma maravilha?
+
+[MSG$002183,36]
+E a Imari é pontual.
+
+[MSG$0021B4,59]
+Imari "A Yukiko? Ela tava saindo quando eu cheguei."
+
+[MSG$002209,18]
+Minase "Ah é?"
+
+[MSG$002235,101]
+A irmã mais velha Yukiko, mesmo sendo estudante da faculdade, sai ainda mais cedo do que eu.
+
+[MSG$00229F,72]
+Não por causa da aula, mas sim pra trabalhar.
+
+[MSG$0022F4,72]
+Imari "Eu queria que você fosse como ela nisso, Minase."
+
+[MSG$002356,63]
+Imari só fala isso porque não sabe do emprego da Yukiko.
+
+[MSG$0023A2,67]
+Imari "Enfim, chega de papo! Vai logo se vestir."
+
+[MSG$002422,98]
+Eu tiro minhas roupas e fico deshorts, avisando pra Imari, que está de costas.
+
+[MSG$002491,33]
+Minase "Já pode se virar."
+
+[MSG$0024CC,81]
+Imari "Foi rápido. Queria que fosse rápido assim pra sair da cama..."
+
+[MSG$002537,39]
+Ela diz ao me ver.
+
+[MSG$00259D,12]
+Imari "Ugh!"
+
+[MSG$0025C3,21]
+Minase "Seu tarado!"
+
+[MSG$0025F2,24]
+O rosto da Imari ficou todo vermelho.
+
+[MSG$00260F,41]
+Ela está morrendo de vergonha, que hilário.
+
+[MSG$002645,22]
+treme,treme,treme
+
+[MSG$002668,22]
+A mão dela não para quieta...
+
+[MSG$002683,48]
+Espera, não é vergonha... ela á é com ódio!
+
+[MSG$0026B8,54]
+Seu rosto está um tomate e os olhos mais vermelhos ainda.
+
+[MSG$00272D,18]
+Imari "Seu imbecil!"
+
+[MSG$00281B,6]
+SMACK!
+
+[MSG$00282E,45]
+A palma dela levanta e me estapeia.
+
+[MSG$002860,22]
+Agora sim eu acordei.
+
+[MSG$002883,107]
+Imari "Isso lá é hora de fazer pegadinha? Se veste logo, senão vamos nos atrasar!"
+
+[MSG$00292C,50]
+Imari se vira após a exclamação.
+
+[MSG$00296B,59]
+Minase "Precisava bater na minha cara?!"
+
+[MSG$0029C0,48]
+Imari tem tolerância zero pra esse tipo de brincadeira.
+
+[MSG$0029F5,51]
+Eu visto o uniforme, reclamando em voz baixa.
+
+[MSG$002A40,83]
+Se ela esperar mais que isso ela vai ficar furiosa, então melhor ser rápido.
+
+[MSG$002AA0,50]
+Eu tiro meu pijama e visto a roupa adequada.
+
+[MSG$002AD7,57]
+Então eu olho pro espelho e aviso a Imari.
+
+[MSG$002B1D,26]
+Minase "Já pode se virar."
+
+[MSG$002B83,13]
+Imari "Ótimo."
+
+[MSG$002BAA,45]
+Ela se vira ao dizer isso.
+
+[MSG$002BE4,74]
+Imari "Ok, vá lavar o rosto. Vou te esperar na porta."
+
+[MSG$002C48,16]
+Minase "Certo."
+
+[MSG$002CFB,66]
+Fiz como ela pediu e escover os dentes de rosto lavado.
+
+[MSG$002D4A,60]
+Ela é tão mandona... Parece até que é minha mãe...
+
+[MSG$002D8B,72]
+Imari...ela deve achar que o mundo gira em torno dela.
+
+[MSG$002E31,26]
+Abril 20 - Indo para a escola
+
+[MSG$002ED6,75]
+Imari e eu saímos da casa lado a lado em direção a escola.
+
+[MSG$002F2E,106]
+Claro, dá um leve constrangimento fazer isso com uma menina, mesmo sendo uma amiga de infância.
+
+[MSG$002F9D,81]
+Mas já que ela que me acorda, não dá pra só agradecer e vazar!
+
+[MSG$002FF3,56]
+|Não tenho escolha a não ser andar com ela para lá.
+
+[MSG$003038,77]
+Mesmo com a pressa dela, ainda temos tempo de sobra até a aula começar.
+
+[MSG$00308A,60]
+Dava tempo de chegar antes do primeiro toque se ela não me desse pressa.
+
+[MSG$0030D3,88]
+Ainda assim, é melhor que cheguemos cedo... Assim ninguém vai nos ver juntos.
+
+[MSG$003138,14]
+Minase "Uaaaah."
+
+[MSG$003160,67]
+Enquanto ando para a escola, eu dou uma bocejada enorme.
+
+[MSG$0031A8,63]
+Ainda está cedo e não vejo ninguém aqui.
+
+[MSG$0031F4,28]
+Imari "Ainda com sono?"
+
+[MSG$00322A,94]
+Imari pergunta, virando-se pra mim após meu segundo bocejo.
+
+[MSG$003295,60]
+Minase "Óbvio, por causa de Alguém que me acordou antes da hora!"
+
+[MSG$0032EB,73]
+Imari "Se não fosse por mim, você ia dormir até não poder mais, Minase."
+
+[MSG$00334E,24]
+Pior que é...
+
+[MSG$003373,76]
+Imari "Lembra da vez que não pude te acordar?
+
+[MSG$0033C4,54]
+|Você ainda tava dormindo quando saí da escolal!"
+
+[MSG$003415,81]
+Imari "Como que você dorme por tanto tempo assim? Você vai morrer."
+
+[MSG$003480,73]
+Minase "Eu já teria morrido faz tempo se dormir demais matasse."
+
+[MSG$0034E3,19]
+Imari "Se você diz..."
+
+[MSG$003561,22]
+Abril 20 - Portão da escola
+
+[MSG$0035F6,68]
+Após mais 10 minutos de caminhada, chegamos na escola.
+
+[MSG$00363F,61]
+Ao passar pelo portão, notamos que ainda não tem ninguém aqui.
+
+[MSG$003689,107]
+Ao tocar do primeiro sino, o coordenador da escola fecha o portão e julga os atrasados.
+
+[MSG$003701,105]
+Parece o Juizo Final. Uma horda de estudantes correndo enquanto os portões se fecham
+
+[MSG$00376F,17]
+|para as almas perdidas.
+
+[MSG$00378D,52]
+Felizmente, nunca fui uma dessas almas graças a Imari.
+
+[MSG$0037C6,58]
+Ao se atrasar duas vezes, eles contam o dia inteiro como falta.
+
+[MSG$003805,70]
+Se ela não me acordasse, eu já teria reprovado.
+
+[MSG$0038A9,18]
+Abril 20 - Armário
+
+[MSG$00395D,69]
+Imari "Chegamos bem cedo. Acha que somos os únicos aqui?"
+
+[MSG$0039BC,101]
+Imari olhou a area dos armários. Ao abrir o dela, ela pega seus sapatos e os veste
+
+[MSG$003A26,26]
+|enquanto me pergunta.
+
+[MSG$003A4D,92]
+|Verdade, não tem quase ninguém na escola. Não está vazio, mas ainda assim.
+
+[MSG$003AAE,38]
+As crianças dos clubes de manhã
+
+[MSG$003AD9,86]
+|chegam pelo menos uma hora antes da gente. Mas nem eles apareceram
+
+[MSG$003B34,43]
+hoje por algum motivo.
+
+[MSG$003B6C,18]
+Minase "Sei lá."
+
+[MSG$003B98,70]
+Eu calço meus tênis ao tirá-los do meu armário.
+
+[MSG$003BE3,68]
+A sola já está desgastada, mas como não tenho outro, basta usar essa porcaria.
+
+[MSG$003C34,27]
+Minase "Quem se importa, afinal?"
+
+[MSG$003C69,41]
+Ainda tem bastante tempo antes do primeiro toque.
+
+[MSG$003C97,62]
+A essa hora, nunca tem tanta gente nas salas.
+
+[MSG$003CDA,51]
+A hora do rush começa mesmo no toque de advertência.
+
+[MSG$003D1A,68]
+Não é toda vez que eu e Imari ficamos sozinhos na sala de aula.
+
+[MSG$003D63,93]
+Não sei se é por causa da hora, ou porque geral se atrasou mesmo.
+
+[MSG$003DCD,100]
+Provavelmente é a segunda opção. O que quer dizer que podia ter dormido mais.
+
+[MSG$003E36,47]
+Não fazer isso seria negar minha natureza...
+
+[MSG$003E72,105]
+Depois do nos calçarmos, Imari e eu saímos dos armários e fomos para o terceiro andar...
+
+[MSG$003F39,20]
+Abril 20 - Sala de aula
+
+[MSG$003FCB,22]
+Ito "Isso tá certo?"
+
+[MSG$003FFC,13]
+Murai "Claro."
+
+[MSG$004024,51]
+Murai "Mas ainda assim, alguém pode ver!"
+
+[MSG$004072,20]
+Ito "Shh, silêncio!"
+
+[MSG$0040A1,18]
+Ito "Ok, Saeki."
+
+[MSG$00414E,40]
+Saeki "Tá, vamos lá..."
+
+[MSG$004191,85]
+A garota do meio concentrou-se e balbuciou algumas palavras.
+
+[MSG$0041F3,15]
+Saeki "Atah..."
+
+[MSG$00421D,18]
+Saeki "Malkuth..."
+
+[MSG$00424A,20]
+Saeki "V'Geburah..."
+
+[MSG$004279,20]
+Saeki "V'Gedulah..."
+
+[MSG$0042A8,18]
+Saeki "Liolahm..."
+
+[MSG$0042D5,76]
+Ela faz o sinal da cruz ao terminar.
+
+[MSG$004326,87]
+Após isso, ela pega uma adaga da mesa e fura seu dedo.
+
+[MSG$00438A,11]
+Saeki "Oh!"
+
+[MSG$0043B0,57]
+Ela empurra a lâmina, perfurando sua carne.
+
+[MSG$0043EE,75]
+Gotas de sangue escorrem de seu dedo, mas ela os coloca em um copo na mesa.
+
+[MSG$004446,76]
+Saeki "Este é o meu sangue, que é derramado pelo sacrifício de vocês."
+
+[MSG$0044AD,74]
+Ela repete as preçes da Santa Ceia, continuando com sua reza.
+
+[MSG$004504,81]
+Saeki "Espiritos dos póstumos de 12 anos atrás, Eu invoco-lhes para dar-me sua guia."
+
+[MSG$00456F,70]
+Saeki "Para que aqueles que agora vivem em paz escapem de tua ira..."
+
+[MSG$0045CF,102]
+Saeki " Eu invoco-lhe para mostra-me a verdade, em nome do sangue de Cristo jorrado por ti..."
+
+[MSG$00464F,57]
+As estudantes do lado do Saeki estão todas segurando o fôlego.
+
+[MSG$004695,57]
+Naquele momento, a fumaça da vela começou a se mover.
+
+[MSG$004756,14]
+(Porta abrindo)
+
+[MSG$004771,65]
+Mas com o abrir da porta, o vento apagou o fogo.
+
+[MSG$0047F1,13]
+Murai "AH!"
+
+[MSG$004818,30]
+Minase "Ei, o que é isso?"
+
+[MSG$004850,119]
+Quando abrimos a porta da sala, escutamos seus gritos agundos.
+
+[MSG$0048CC,51]
+O cheiro de incenso estava forte ali dentro.
+
+[MSG$00490C,31]
+Imari "O que... Vocês estão fazendo?"
+
+[MSG$004945,95]
+A sala está escura, com cortinas pretas nas janelas bloqueando a luz do sol.
+
+[MSG$0049B1,28]
+Murai "Você... Nos assustou!"
+
+[MSG$004A45,48]
+Ito "Bem, era só não gritar."
+
+[MSG$004A8F,33]
+Murai "Ow! Não resisti..."
+
+[MSG$004ACA,31]
+Minase "Sai fora, quem nos assustou foi VOCÊ."
+
+[MSG$004B03,114]
+EU rosno para as garotas discutindo entre si, entrando com uma careta no rosto.
+
+[MSG$004B82,103]
+Pelo visto, elas estavam fazendo um ritual trevoso na mesa.
+
+[MSG$004BEE,63]
+|Evidente, graças a parafernalha nas carteiras.
+
+[MSG$004C3A,82]
+Imari "O que diabos é isso? Chegando mais cedo, se escondendo com as cortinas...."
+
+[MSG$004CA6,99]
+A lider do grupo está sentada calmamente na mesa da frente. É a lider do grupinho, Kaori Saeki.
+
+[MSG$004D0E,34]
+Ela é conhecida por ser perturbada.
+
+[MSG$004D3D,120]
+Também difícil de se dar bem, tão introvertida que só aparece no intervalo sozinha lendo seus livrinhos.
+
+[MSG$004DBA,31]
+|Pelo menos é o que sei dela.
+
+[MSG$004DE6,57]
+Ainda assim, pelo visto ela tem seu nicho.
+
+[MSG$004E24,72]
+Saeki muitas vezes é acompanhada por outras garotas e fazem umas cerimônias macabras,
+
+[MSG$004E71,66]
+|que elas se divertem fazendo e chamando de Magia Negra.
+
+[MSG$004EC0,114]
+Enquanto alguns as ridiculam por sua cafonice, ela tem um pouco de apoio. Não sou um de suas apoiadores.
+
+[MSG$004F3F,82]
+Quer dizer, magica e tarot... Nada disso tem provas empíricas,
+
+[MSG$004F96,81]
+|não é produtivo. Ninguem com cérebro devia fazer isso...
+
+[MSG$00504A,34]
+Saeki "Unindo-se aos mortos..."
+
+[MSG$005086,92]
+Saeki "É quase a noite de Walpurgis, então estamos conjurando os espíritos
+
+[MSG$0050E7,40]
+|dos mortos de 12 anos atrás."
+
+[MSG$005129,85]
+Enquanto ela fala, Saeki guarda todas suas parafernalhas que estavam na mesa.
+
+[MSG$005183,110]
+As outras garotas correm para abrir as cortinas, instantaneamente iluminando o local.
+
+[MSG$005249,26]
+Minase "Espíritos, é?"
+
+[MSG$00527D,25]
+Eu repito com desprezo.
+
+[MSG$0052A3,75]
+Está falando da Sociedade Secreta de Magia negra que dizem...
+
+[MSG$0052F3,41]
+que frequentavam a escola... não é?
+
+[MSG$005329,112]
+Era só um ''grupinho'' mesmo, a escola nem os reconheciam como um clube oficial.
+
+[MSG$00539E,87]
+Não é a primeira vez que escuto desse grupo, mas até hoje não há prova alguma que ele existe.
+
+[MSG$005402,101]
+Só que Saeki acredita no rumor e o propaga até hoje...
+
+[MSG$00546C,78]
+Ainda por cima respeitando a sociedade com uma pitada de inveja.
+
+[MSG$0054C7,65]
+Minase "Você já não está muito crescidinha pra acreditar em fantasmas?"
+
+[MSG$005522,112]
+Minase "Não acredito que vieram pra cá pra só pra fazer essa idiotice."
+
+[MSG$0055AC,33]
+Eu digo ao passar por elas.
+
+[MSG$0055D2,54]
+Não tenho interesse nenhum no que elas fazem,
+
+[MSG$00560D,65]
+e ouvir a resposta delas vai ser ainda mais improdutivo.
+
+[MSG$00568D,23]
+Ito "Idiotice?!"
+
+[MSG$0056BE,69]
+Uma delas, Ito, se ofendeu com o que falei e bloqueou o caminho.
+
+[MSG$005710,46]
+Ito "O que fazemos aqui é sério!"
+
+[MSG$005769,6]
+Whack!
+
+[MSG$00577C,88]
+Ito bate na mesa com a mão, me encarando com ódio.
+
+[MSG$0057D9,69]
+Essa Ito é sempre estérica, a maior bocuda da sala...
+
+[MSG$00582B,38]
+Minase "Tá bom, desculpa por te ofender."
+
+[MSG$00586B,12]
+Ito "Hmph!"
+
+[MSG$005939,75]
+Murai "Não é culpa dele. Ele não sabe o verdadeiro poder da Saeki."
+
+[MSG$00599E,57]
+Murai "Ele nem sabe o que aconteceu aqui 12 anos atrás..."
+
+[MSG$0059F1,66]
+Murai sentiu a hostilidade no ar, tentando acalmar Ito.
+
+[MSG$005A38,90]
+Saeki vai colocando as mesas no lugar com a cabeça fria.
+
+[MSG$005A9F,73]
+As outras duas são seguidoras fieis da Saeki. Ayumi Murai and Mika Ito.
+
+[MSG$005AED,81]
+Graças a "magia negra" da Saeki, essas meninas acreditam nessa baboseira.
+
+[MSG$005B4B,99]
+Claro, não há nada de errado em ter interesse em feitiços e tarot. Ainda mais pras meninas.
+
+[MSG$005BB3,84]
+Saeki tem suas apoiadoras, cada um com suas crenças...
+
+[MSG$005C14,96]
+Já até ouvi algumas falarem que simpatias funcionam. Mas acho que é só coincidência.
+
+[MSG$005C81,69]
+Minase "A cerimônia demoniaca de 12 anos atrás, é?"
+
+[MSG$005CE0,79]
+Minase "Tem rumores assim em todas as escola, duvido que seja verdade!"
+
+[MSG$005D49,27]
+Ito "Como pode ter certeza?"
+
+[MSG$005D7E,59]
+Minase "É impossível. Não vão me dizer que vocês acreditam?"
+
+[MSG$005DD3,12]
+Ito "Grr..."
+
+[MSG$005E7C,49]
+É aí que Saeki entra na discussão.
+
+[MSG$005EBA,106]
+Saeki "Na Noite de Walpurgis, há 12 anos, 6 alunas desta escola realizaram uma cerimônia de Magia Negra..."
+
+[MSG$005F3E,80]
+Saeki "E todas as meninas que participaram desta cerimônia morreram de formas misteriosas."
+
+[MSG$005FA8,114]
+Saeki "Dizem que eles espalharam sangue por todo o quarto. Que o quarto parecia uma cena do inferno.."
+
+[MSG$006034,38]
+Saeki fala em tom casual.
+
+[MSG$006067,115]
+Claro, há muitas variações desse boato, mas a história básica é mais ou menos o que Saeki acabou de me contar.
+
+[MSG$0060E7,58]
+Há muitos outros rumores infantis assim sobre nossa escola.
+
+[MSG$00612E,77]
+O fantasma que aparece no espelho no patamar de uma das escadas.
+
+[MSG$006180,46]
+Histórias sobre o velho piano na Sala de Música.
+
+[MSG$0061B3,42]
+Se for listar, vou ficar aqui o dia todo.
+
+[MSG$0061EA,93]
+Mas nenhuma é tão bizarra e ridícula quanto a da cerimônia de Magia Negra de 12 anos atrás.
+
+[MSG$006254,74]
+Minase "Como posso acreditar nessa história? É tão absurdo."
+
+[MSG$0062B8,88]
+Minase "E outra, você diz que elas morreram, mas o que foi que as matou, afinal?"
+
+[MSG$00632A,73]
+Saeki "O diabo. Elas foram mortas por demônios..."
+
+[MSG$00638D,107]
+Saeki "Não é fácil derrotar demônios. Aliás, muitas pessoas acabam morrendo invocando demônios."
+
+[MSG$006412,24]
+Saeki me responde calmamente.
+
+[MSG$00642F,73]
+Não sei como ela consegue pronunciar a palavra "demônio" com uma cara séria...
+
+[MSG$006485,31]
+Minase "Que palhaçada..."
+
+[MSG$0064BE,79]
+Minase "Você tá vendo é muito anime...Demônios não existem."
+
+[MSG$006527,33]
+Ito se enfurece ao ouvir isso.
+
+[MSG$0065F3,46]
+Ito "Então como você explica a Sala Secreta?"
+
+[MSG$00663B,83]
+Ito "Assim como dizem os boatos...aquele quarto estava trancado a sete chaves esse tempo todo."
+
+[MSG$0066A8,54]
+Ito está falando sobre o depósito no porão.
+
+[MSG$0066E3,78]
+Segundo o corpo docente, eles guardam todas as carteiras e equipamentos não utilizados lá.
+
+[MSG$00673E,95]
+Mas é verdade que a sala não é usada há muito tempo... e está trancada há anos.
+
+[MSG$0067A2,55]
+Por isso que se tornou assunto de inúmeros rumores.
+
+[MSG$0067E6,69]
+E por causa desses rumores, os alunos têm medo de chegar perto de lá...
+
+[MSG$006830,89]
+e os professores que estão aqui há muito tempo parecem querer evitar ir pra lá...
+
+[MSG$006896,92]
+Bem, não que um depósito seja algo que você usa com frequência... mas é meio estranho que
+
+[MSG$0068F7,36]
+|está trancado há tanto tempo.
+
+[MSG$006928,77]
+Mesmo assim, não há razão para ligar aquela sala com cerimônias e o Diabo.
+
+[MSG$006982,41]
+Minase "É só um depósito qualquer."
+
+[MSG$0069C5,84]
+Ito "Sim, mas ninguém nunca viu o que tem dentro, e os professores se recusam a abrir."
+
+[MSG$006A33,92]
+Ito "Como se tivesse sido selado há 12 anos...trancado desde então, sem ser usado."
+
+[MSG$006AA9,92]
+Minase "Isso é só mais um boato. Pelo que sabemos, eles podem estar usando o lugar todos os dias. Né?"
+
+[MSG$006B1F,42]
+Ito "Você não tem como saber isso."
+
+[MSG$006B63,55]
+Minase "Mas parece mais plausível do que esse boato."
+
+[MSG$006BB4,96]
+Ito "Quem não deve, não teme. Você que tá chamando de rumor. E se ninguém viu o lugar
+
+[MSG$006C19,49]
+|Não tem como você me provar errada."
+
+[MSG$006D0B,79]
+Imari "Pensando bem, ouvi algo de um dos alunos que se formaram..."
+
+[MSG$006D74,66]
+Imari de repente interrompeu, depois de ouvir silenciosamente nosso papo.
+
+[MSG$006DC3,44]
+Minase "O que você ouviu?"
+
+[MSG$006E09,86]
+Ito "Que tinha um clube chamado Rose & Cross Society, há muito tempo..."
+
+[MSG$006E79,58]
+Minase "Ah, não me diga que você acredita nessas coisas também?"
+
+[MSG$006ECD,27]
+Bufei para Imari.
+
+[MSG$006EED,105]
+A Imari também é mulher, então eu meio que consigo entender por que ela estaria interessada nessas coisas....
+
+[MSG$006F63,110]
+Mas se ela acreditar, então sou eu contra o resto da sala...
+
+[MSG$006FDE,74]
+Imari "Não, não acredito, mas é verdade que tinha um clube com esse nome."
+
+[MSG$007042,53]
+Minase "Como você tem certeza disso?"
+
+[MSG$007091,104]
+Imari "Alguém do Clube de Arte me contou. Não era um clube oficial, então não há registros escolares
+
+[MSG$0070FE,77]
+|e não está em nenhum dos álbuns de fim de ano... mas ouvi dizer que realmente existe."
+
+[MSG$007165,31]
+Minase "E as cerimônias?"
+
+[MSG$00719E,67]
+Imari "Não sei disso. Não me interessei o suficiente para perguntar."
+
+[MSG$0071FB,63]
+Minase "A história só vai complicando mais, né?"
+
+[MSG$007254,109]
+Minase "Ok, digamos, que EXISTIA um clube assim. Mas esse negócio de cerimônia
+
+[MSG$0072C6,70]
+que vocês sabem é um boato mesmo. Então esquece os demônios!"
+
+[MSG$00737C,98]
+Ito "Sabe de uma coisa? Acho que você tem muito medo de histórias de fantasmas, Minase.
+
+[MSG$0073E3,82]
+Você deve ficar com tanto medo que não consegue ir ao banheiro sozinho."
+
+[MSG$00744F,6]
+Grr...
+
+[MSG$007462,66]
+Imari "Pensando bem, Minase...lembra quando éramos pequenos,
+
+[MSG$0074A9,58]
+assistindo um filme de terror juntos e você fez xixi nas calças?"
+
+[MSG$0074FD,70]
+Imari deixa escapar isso de repente, como se tivesse acabado de se lembrar.
+
+[MSG$007548,44]
+Por que do nada você lembrou disso?!
+
+[MSG$007579,89]
+Enfim, isso aconteceu lá no jardim de infância! Você não precisa mais se lembrar dessa porcaria AGORA.
+
+[MSG$0075DF,61]
+Ito "Você´e um fofo, né Minase?"
+
+[MSG$007636,7]
+Damn...
+
+[MSG$00764A,66]
+Graças a Imari e sua boca grande, minha reputação agora está em pedaços.
+
+[MSG$007699,47]
+Imari "Foi mal, eu não devia ter falado disso."
+
+[MSG$0076E2,58]
+Imari realmente parece se desculpar enquanto olha para mim.
+
+[MSG$007721,93]
+É tarde demais para se desculpar, garota. É isso que eles querem dizer quando dizem ''quanto menos se fala, melhor.''
+
+[MSG$00778B,72]
+Ito "Saeki, bota juízo na cabeça dele também. Ele é tão teimoso!"
+
+[MSG$0077ED,117]
+Saeki estava ouvindo essa conversa o tempo todo sem dizer uma palavra - como se não tivesse nada a ver com ela - mas agora,
+
+[MSG$007867,48]
+a pedido de Ito, ela abre a boca para falar.
+
+[MSG$007942,85]
+Saeki "Você é livre para acreditar ou não. Mas mesmo que um boato seja inacreditável,
+
+[MSG$00799C,52]
+sempre tem um fundo de verdade nisso, sabe?."
+
+[MSG$0079EA,80]
+Saeki "Até Schliemann descobrir Tróia, todos pensavam que o poema épico de Homero
+
+[MSG$007A3F,46]
+|A Ilíada não passava de uma obra de ficção."
+
+[MSG$007A87,85]
+Saeki "O mesmo aconteceu com Machu Picchu. Era considerado apenas uma lenda até Hiram Bingham
+
+[MSG$007AE1,16]
+|descobrir isso."
+
+[MSG$007B0C,109]
+Saeki "Você nunca pode descartar nada como 100% mentira ou invenção. Não antes de verificar você mesmo..."
+
+[MSG$007B93,99]
+Bem, ela tem razão, mas isso ainda não é motivo para concordar que magia negra e demônios existem.
+
+[MSG$007C35,72]
+Ito "Ela tá certa, Minase. Como ela disse agora há pouco: quem não deve não teme.
+
+[MSG$007C82,99]
+Você zomba do que pensa ser um boato, mas rumores não começam sem nenhuma pista..."
+
+[MSG$007CFF,79]
+Ito "Então, agradeceremos se você não rejeitar nossas crenças quando você não sabe de nada!"
+
+[MSG$007D5B,70]
+Assim que ela vê que está em vantagem, Ito me conta isso.
+
+[MSG$007DA6,50]
+Você pode ouvir a confiança transbordando de sua voz.
+
+[MSG$007DE5,77]
+Minase "Você pode dizer o que quiser, mas boato é boato. E só isso."
+
+[MSG$007E4C,108]
+Eu lanço esse último comentário para elas enquanto ficam furiosas, passando pelas meninas para que eu possa fugir dali.
+
+[MSG$007EC5,102]
+Minase "Eu entendo que você queira acreditar. Não me importa se você acredita ou não. Mas, pelo amor de Deus,
+
+[MSG$007F30,69]
+|Não faz isso no meio da sala. É estranho."
+
+[MSG$007F8F,63]
+Ito "Ainda tá sentido? Por que você não aceita a derrota com elegância?"
+
+[MSG$007FE8,17]
+Minase "(Rindo)"
+
+[MSG$008013,70]
+Eu ignoro Ito, que ainda está tentando me provocar, e caminho até minha mesa.
+
+[MSG$00805E,94]
+Eu não conseguiria convencer essas pessoas do contrário, mesmo que continuássemos a conversa, e além disso,
+
+[MSG$0080C1,63]
+Tenho coisas melhores para fazer do que andar com essas loucas.
+
+[MSG$00810D,86]
+Depois de um tempo, nossos colegas começaram a entrar na sala e o lugar ficou muito mais barulhento.
+
+[MSG$00820E,77]
+Murai "Acho que já terminamos aqui. O professor deve chegar em breve."
+
+[MSG$008275,50]
+E com isso, Ito, Saeki e as outras vão embora.
+
+[MSG$008329,10]
+Porta abrindo
+
+[MSG$008340,57]
+A porta se abre e o professor entra...na hora certa.
+
+[MSG$008386,33]
+Imari vai até sua mesa.
+
+[MSG$0083AC,98]
+Assim que ela se senta, ela olha para mim e junta as duas mãos em um gesto de desculpas.
+
+[MSG$008413,58]
+Acho que ela ainda se sente culpada pelo que aconteceu antes.
+
+[MSG$00845A,50]
+Enquanto me preparo para a aula, tento me acalmar.
+
+[MSG$008499,94]
+Nós nunca resolvemos realmente o problema, mas não vai ajudar entrar em um debate com a Ito.
+
+[MSG$0084FC,82]
+E eu realmente não dou a mínima para o porão, ou o que aconteceu há 12 anos.
+
+[MSG$00855B,81]
+Então me recomponho e me concentro na aula, que estava chata como sempre.
+
+[MSG$00860A,22]
+Abril 20 - Depois da aula
+
+[MSG$0086A7,18]
+..................
+
+[MSG$0086C6,12]
+............
+
+[MSG$0086DF,6]
+......
+
+[MSG$008703,11]
+Toque escolar
+
+[MSG$00879F,96]
+Quando o sinal final toca, os alunos ao meu redor se levantam de suas cadeiras em massa - liberados da
+
+[MSG$008804,55]
+|aula finalmente - e seguem seus caminhos.
+
+[MSG$008848,105]
+Alguns vão para seus clubes... outros se preparam para ir para casa, enquanto outros ainda vão para seus empregos de meio período...
+
+[MSG$0088BE,76]
+E depois há os poucos relutantes que são arrastados para reuniões de clubes...
+
+[MSG$008951,65]
+Imari "Ei, você vem para a reunião hoje, né?"
+
+[MSG$0089AC,16]
+Lá vem ela...
+
+[MSG$0089C9,78]
+Eu tinha acabado de colocar tudo o que estava na minha mesa na bolsa e estava prestes a me levantar.
+
+[MSG$008A1C,59]
+E chega a Imari - infelizmente.
+
+[MSG$008A64,62]
+Ela faz isso o tempo todo, e o tempo todo é um pé no saco.
+
+[MSG$008AAF,29]
+Atividades extracurriculares...
+
+[MSG$008AD1,108]
+Eu faço parte do Clube de Arte. De todos os clubes culturais da escola (cuja maioria do pessoal são membros fantasmas),
+
+[MSG$008B42,30]
+até que é um clube legal
+
+[MSG$008B6D,83]
+A Imari praticamente me forçou a entrar para esse clube. Isso desde o primeiro ano,
+
+[MSG$008BC5,78]
+e todos que não tinham uma vocação óbvia tinham que escolher uma coisa ou outra,
+
+[MSG$008C18,45]
+Foi quando Imari recomendou o Clube de Arte.
+
+[MSG$008C52,86]
+No começo, pensei que conseguiria escapar simplesmente abandonando as reuniões diárias,
+
+[MSG$008CAD,95]
+mas graças a Imari no meu pescoço o tempo todo, de alguma forma eu aguentei até o último ano.
+
+[MSG$008D19,100]
+Não é que eu não goste de desenhar, mas não suporto a ideia de passar meu tempo livre aqui.
+
+[MSG$008D8A,92]
+Então tento faltar em todas as oportunidades que tenho. Mas desde que escapei nos últimos dias seguidos,
+
+[MSG$008DEB,26]
+Imari ficou de olho em mim.
+
+[MSG$008E0A,73]
+Não será fácil escapar de Imari agora que ela fez um ataque preventivo.
+
+[MSG$008E60,34]
+Imari "Você vem ou não?"
+
+[MSG$008E9C,6]
+Aff...
+
+[MSG$008ECF,38]
+Minase "Tá bom, eu vou..."
+
+[MSG$008F0F,72]
+Não achei que conseguiria me safar, então decidi ir.
+
+[MSG$008F5C,87]
+Já que eu estava ausente nos últimos dias, era melhor aparecer do que faltar.
+
+[MSG$008FC0,40]
+Imari "Hein! Você está bem dócil hoje."
+
+[MSG$009002,88]
+Imari "Que surpresa boa! Tá vendo como é bom passar tempo com a gente?"
+
+[MSG$009074,24]
+Minase "Sonha."
+
+[MSG$0090A6,89]
+Imari "Ok, então não me deixa na mão. Vou lá destrancar a sala."
+
+[MSG$009119,20]
+Minase "Sim, senhora."
+
+[MSG$009152,29]
+Minase "Urgh, hoje não dá..."
+
+[MSG$009189,66]
+Eu também não estou me sentindo inspirado hoje, então melhor vazar.
+
+[MSG$00920A,80]
+Imari "De jeito nenhum, deixa de coisa! Você tem matado aula todos os dias ultimamente."
+
+[MSG$009274,74]
+Imari "O professor também está irritado com você. Somos veteranos e se faltarmos às reuniões,
+
+[MSG$0092C3,57]
+estaremos dando um mau exemplo para os alunos mais novos."
+
+[MSG$009316,68]
+Não que eu tenha pensado por um momento que ela me deixaria ir tão facilmente.
+
+[MSG$009367,54]
+Minase "Tá bom, tá bom. Estarei lá se eu puder ir..."
+
+[MSG$0093B7,31]
+Imari "Prometa que vai!"
+
+[MSG$0093F0,50]
+Minase "Eu vou se der."
+
+[MSG$00943C,22]
+treme,treme,treme
+
+[MSG$00945F,43]
+Meu comportamento instável faz com que o rosto de Imari fique...
+
+[MSG$009497,38]
+Imari "VÁ PRA LÁ NÃO IMPORTA O QUE ACONTEÇA!"
+
+[MSG$0094D7,54]
+Imari franze a testa ferozmente, gritando em total exasperação.
+
+[MSG$009512,97]
+Neste ponto, não há como acalmá-la, a menos que eu vá. Se eu ignorá-la, será um inferno.
+
+[MSG$009580,35]
+Minase "Ok, ok, estarei lá!"
+
+[MSG$0095BD,73]
+Não é o que eu quero, mas não vejo outra maneira de escapar da ira de Imari.
+
+[MSG$009645,54]
+Imari "Por que você não disse isso logo no começo?"
+
+[MSG$009695,72]
+Imari "Tá, te vejo lá, vou ali destrancar a porta."
+
+[MSG$0096F7,20]
+Minase "Sim senhora!"
+
+[MSG$009749,76]
+Para ter certeza, Imari me adverte uma última vez e depois sai da sala.
+
+[MSG$0097A2,48]
+Ok, agora que Imari se foi, por que eu simplesmente não...
+
+[MSG$0097FF,30]
+Minase "Melhor ir né..."
+
+[MSG$009837,52]
+Já que eu disse a ela que estaria lá, não posso faltar.
+
+[MSG$009870,71]
+Pego minha bolsa, vou para o corredor e caminho em direção à Sala de Arte.
+
+[MSG$0098E8,35]
+E se eu faltar mesmo assim...
+
+[MSG$009910,93]
+É um velho truque meu, garantir a ela que estarei na reunião e então fugir imediatamente.
+
+[MSG$009972,60]
+Não há outra maneira de escapar da furiosa Imari.
+
+[MSG$0099BB,94]
+Quer dizer, que fracassado iria a essas reuniões de clube, quando nem é uma obrigação absoluta?
+
+[MSG$009A1E,52]
+Deixa quem realmente quer aparecer pra aula ir.
+
+[MSG$009A5F,50]
+Que ingênuo da sua parte, Imari...acreditando em mim tão facilmente.
+
+[MSG$009A96,58]
+É por isso que nossos pais mandam não confiar em estranhos.
+
+[MSG$009AD5,78]
+Não sendo capaz de ver através de mim depois de todos esses anos... você realmente é ingênua.
+
+[MSG$009B30,24]
+Minase "Eu vou é pra casa!"
+
+[MSG$009B62,59]
+Pego minha bolsa, cantarolando, e corro em direção aos armários.
+
+[MSG$009BA2,69]
+Quem liga para as reuniões do clube? Isso é pra idiotas..
+
+[MSG$009BEC,17]
+Hahaha, estou livre!
+
+[MSG$009CF6,45]
+Imari "Ei, tá indo pra onde?"
+
+[MSG$009D3D,9]
+Ops...
+
+[MSG$009D53,66]
+Imari está com as mãos na cintura no final do corredor.
+
+[MSG$009DA2,66]
+Imari "Você não estava planejando ir para casa, estava?"
+
+[MSG$009DFE,45]
+BDesgraçada! Ela é vidente por acaso?
+
+[MSG$009E38,44]
+Minase "Claro que não...eu nunca faria isso...hahaha!"
+
+[MSG$009E7E,32]
+Imari "A sala é pra lá."
+
+[MSG$009EB8,81]
+Imari aponta o dedo na direção oposta. Seus olhos estão cheios de suspeita.
+
+[MSG$009F16,98]
+Minase "Ei, qual é! Você sabe que eu não vou faltar. Eu só ia no banheiro primeiro.."
+
+[MSG$009F92,39]
+Imari "O banheiro também é pra lá."
+
+[MSG$009FD3,49]
+Imari aponta o dedo na direção oposta.
+
+[MSG$00A011,75]
+Minase "Só senti vontade de usar um banheiro diferente pela primeira vez... só isso."
+
+[MSG$00A076,33]
+Imari "Tudo bem, vamos então."
+
+[MSG$00A0B1,75]
+Minase "Sim, mas sabe de uma coisa? De repente, fiquei com dor de estômago..."
+
+[MSG$00A116,105]
+Minase "E além disso, estou começando a ter febre. Acho que o curry que comi ontem à noite deve ter estragado!
+
+[MSG$00A184,54]
+Ou isso ou é aquela epidemia de E.Coli..."
+
+[MSG$00A1D4,47]
+Imari "Tá de sacanagem com a minha cara?"
+
+[MSG$00A21D,74]
+Imari "Ou você acha mesmo que eu vou cair numa mentira podre dessas?"
+
+[MSG$00A281,21]
+Minase "Não."
+
+[MSG$00A2B0,29]
+Imari "Então vem logo."
+
+[MSG$00A2E7,20]
+Minase "Sim, senhora."
+
+[MSG$00A315,16]
+(barulhos de passos)
+
+[MSG$00A332,57]
+Imari agarra meu braço e me arrasta em direção à Sala de Arte.
+
+[MSG$00A3C9,19]
+Abril 20 - Sala de Arte
+
+[MSG$00A47E,10]
+Porta abre
+
+[MSG$00A4C7,73]
+Ainda me arrastando pelo braço, Imari abre a porta da Sala de Arte.
+
+[MSG$00A515,61]
+Os membros usam a sala apenas para reuniões do clube.
+
+[MSG$00A55F,70]
+Minase "Ai, ai! Não precisa puxar com tanta força, eu não vou embora!"
+
+[MSG$00A5BF,110]
+Imari "Não confio em você. Outro dia me distraí por um segundo e você pulou da janela."
+
+[MSG$00A647,95]
+Ah, é, acabei torcendo o tornozelo naquela vez. Fiquei lascado nos dias seguintes..
+
+[MSG$00A6AB,49]
+Eu poderia muito bem ter ficado para a reunião.
+
+[MSG$00A6E9,61]
+Imari "Qual é, você é o vice-presidente, aja como tal!"
+
+[MSG$00A740,99]
+Vice-presidente...Pensando bem, nós decidimos sobre essas coisas no começo do semestre.
+
+[MSG$00A7A8,39]
+Nem preciso dizer que Imari é nossa presidente.
+
+[MSG$00A7E2,15]
+Porta abrindo...
+
+[MSG$00A89C,38]
+Eu empurro a porta da Sala de Arte.
+
+[MSG$00A8C7,56]
+Os membros usam a sala apenas para reuniões do clube.
+
+[MSG$00A90C,26]
+Imari "Ah, aí está você!"
+
+[MSG$00A940,50]
+Imari "Então o vice-presidente está se juntando a nós hoje!"
+
+[MSG$00A98C,64]
+Ah, cala a boca, tá? Estou aqui porque você fica me enchendo o saco!
+
+[MSG$00A9D9,99]
+Vice-presidente...Pensando bem, nós decidimos sobre essas coisas no começo do semestre
+
+[MSG$00AA41,39]
+Nem preciso dizer que Imari é nossa presidente.
+
+[MSG$00AAEA,77]
+Ao entrar na Sala de Arte, o forte cheiro de terebintina e gasolina me assalta.
+
+[MSG$00AB44,76]
+Há cavaletes espalhados por toda a sala e cada um tem sua própria tela
+
+[MSG$00AB95,8]
+|por perto.
+
+[MSG$00ABAA,105]
+Os membros do Clube de Arte que chegaram aqui antes de mim estão diante de seus cavaletes, desenhando com seus pincéis.
+
+[MSG$00AC20,75]
+Haverá uma exposição escolar, então todos estão trabalhando muito duro.
+
+[MSG$00AC78,103]
+Nem preciso dizer que eu mesmo devia participar. Mas claro, ainda não tenho nada pronto.
+
+[MSG$00AD1E,88]
+Imari "Tudo bem, já que você está aqui, quero que você faça um trabalho sério!"
+
+[MSG$00AD90,24]
+Minase "Tá me ouvindo?"
+
+[MSG$00ADC2,78]
+Eu tiro minha tela da minha mesa, coloco-a no cavalete e sento-me.
+
+[MSG$00AE9A,35]
+A tela na minha frente é branca.
+
+[MSG$00AEC2,58]
+Quero dizer, totalmente branca... Ainda não toquei nela...
+
+[MSG$00AF09,15]
+Minase "Ugh..."
+
+[MSG$00AF32,8]
+Eu bufo.
+
+[MSG$00AF3F,56]
+Um gênio não pega num pincel quando não está inspirado.
+
+[MSG$00AF7C,88]
+Não consigo me forçar a esboçar quando não estou com vontade... isso não vai gerar nada.
+
+[MSG$00AFE1,107]
+Como de costume, pego meu estojo e a borracha amassada. E então começo a puxar a borracha para matar o tempo.
+
+[MSG$00B059,13]
+Alongando...
+
+[MSG$00B073,11]
+Cortando...
+
+[MSG$00B08B,95]
+Adoro quando a limpa tipos está prestes a quebrar depois que você a estica até o limite...
+
+[MSG$00B0EF,85]
+Sinto uma descarga de adrenalina quando faço isso e isso estimula minha criatividade... só que não.
+
+[MSG$00B151,11]
+Amassa...
+
+[MSG$00B169,13]
+Alonga...
+
+[MSG$00B183,11]
+Corta...
+
+[MSG$00B1AF,4]
+Pop!
+
+[MSG$00B28E,14]
+Minase "Ai!"
+
+[MSG$00B2B6,27]
+Imari "O que você tá fazendo?"
+
+[MSG$00B2EB,41]
+Minase "Ainda tô pensando no que pintar."
+
+[MSG$00B32E,59]
+Imari "Mentiroso, Você tá é me enrolando!"
+
+[MSG$00B383,34]
+Imari "Me mostra o que sabe."
+
+[MSG$00B3BF,52]
+Dito isso, Imari tenta dar uma olhada na minha tela.
+
+[MSG$00B3F8,61]
+Eu imediatamente tento tirá-la de vista, mas é tarde demais.
+
+[MSG$00B442,40]
+Imari "Nossa, você não fez nada!"
+
+[MSG$00B484,66]
+Imari "Cara, eu queria saber como fazer você tomar jeito."
+
+[MSG$00B4E0,65]
+Imari diz isso enquanto olha para minha tela, bufando o tempo todo.
+
+[MSG$00B552,10]
+Porta abre
+
+[MSG$00B569,32]
+Imari "Ah...é a Sra. Takashiro."
+
+[MSG$00B5D5,49]
+A porta se abre e nossa orientadora entra.
+
+[MSG$00B60B,89]
+É a Hiroko Takashiro, instrutora de arte e conselheira do Clube de Arte,
+
+[MSG$00B679,88]
+Por causa de sua boa aparência e também porque ela ensina arte, ela é muito popular entre ambos
+
+[MSG$00B6D6,24]
+|garotas e garotos.
+
+[MSG$00B6FB,72]
+Alguns alunos escolheram entrar na arte por causa dela...
+
+[MSG$00B748,74]
+e os meninos do Clube de Arte nunca perdem uma reunião. É tudo graças a ela
+
+[MSG$00B797,20]
+Sendo a professora
+
+[MSG$00B7B0,55]
+|alguns são da opinião leviana de que Arte = Fácil de passar.
+
+[MSG$00B7F4,93]
+Bem, não vou discutir sobre isso... quero dizer, já que não há prova escrita para esta aula
+
+[MSG$00B856,28]
+|por que não seria popular?
+
+[MSG$00B87F,37]
+Takashiro "Todo mundo está trabalhando duro?"
+
+[MSG$00B8BE,68]
+A Sra. Takashiro fala conosco enquanto nos concentramos em nossostrabalhos.
+
+[MSG$00B907,48]
+Ela está fazendo a ronda, olhando para cada cavalete.
+
+[MSG$00B944,82]
+Takashiro "Olha só! O vice-presidente do clube está aqui hoje, que surpresa!"
+
+[MSG$00B9B0,43]
+Ela diz enquanto se aproxima de Imari e de mim.
+
+[MSG$00BAAB,60]
+Minase "Você me faz parecer um membro fantasma ou algo assim."
+
+[MSG$00BB01,79]
+Takashiro "Se você sabe do que estou falando, então você deveria ser mais diligente
+
+[MSG$00BB55,19]
+|sobre sua frequência."
+
+[MSG$00BB82,20]
+Minase "Sim, senhora."
+
+[MSG$00BBB0,56]
+Takashiro "Hmm? Mas sua tela ainda está em branco, Minase."
+
+[MSG$00BC02,79]
+Assim que ela vê minha tela, ela faz esse comentário. Ela parece tão exasperada
+
+[MSG$00BC56,10]
+|quanto Imari.
+
+[MSG$00BC6D,78]
+Takashiro "Poxa! Quero que você faça um esforço sério, já que vamos
+
+[MSG$00BCC0,48]
+|exibi-los na exposição de arte da faculdade.
+
+[MSG$00BD0B,30]
+Isso seria uma vergonha para o clube!"
+
+[MSG$00BD43,47]
+Minase "Nesse caso, não vamos exibir o meu."
+
+[MSG$00BD8C,76]
+Takashiro "Ah, não fale assim. Veja como sua presidente está trabalhando duro!"
+
+[MSG$00BDF2,41]
+Ms. Takashiro dá um tapinha no ombro de Imari.
+
+[MSG$00BE28,19]
+Imari "Ha ha ha..."
+
+[MSG$00BE55,34]
+Imari sorri, parecendo envergonhada.
+
+[MSG$00BE7C,75]
+Ela sempre soube como parecer melhor que eu. Sempre fazendo as coisas certas...
+
+[MSG$00BECC,59]
+E é por isso que pareço ainda mais imprestável.
+
+[MSG$00BF14,51]
+Takashiro "Por que você não pede para a Sra. Imari lhe ensinar?"
+
+[MSG$00BF61,59]
+Takashiro "Já sei, você deveria ter o modelo da Sra. Imari para você.
+
+[MSG$00BFA1,43]
+Ela está quase terminando o esboço dela."
+
+[MSG$00BFE6,48]
+O que diabos ela está pensando? A Imari não é modelo!
+
+[MSG$00C023,56]
+Minase "Hein? Por que eu tenho que esboçar ela entre todas as pessoas?"
+
+[MSG$00C075,6]
+Whack!
+
+[MSG$00C088,24]
+Imari "Como é!?"
+
+[MSG$00C0BA,101]
+Takashiro "Ah, é? Acho que a Sra. Imari seria a modelo ideal. Ela definitivamente tem potencial."
+
+[MSG$00C139,18]
+Imari "Ehehehe..."
+
+[MSG$00C165,37]
+Minase "Tá de sacanagem..."
+
+[MSG$00C1A4,113]
+Takashiro "E se eu te deixar com a Sra. Imari como modelo, você não terá chance de relaxar, não é mesmo?"
+
+[MSG$00C22F,33]
+Esse deve ser o verdadeiro motivo.
+
+[MSG$00C25D,15]
+Minase "Mas..."
+
+[MSG$00C286,102]
+Takashiro "Não há tempo para reclamar. Se não se apressar, não cumprirá o prazo."
+
+[MSG$00C306,15]
+Verdade...
+
+[MSG$00C322,54]
+Takashiro "Tudo bem, conto com você, Imari."
+
+[MSG$00C372,19]
+Imari "Sim senhora!"
+
+[MSG$00C39F,81]
+O quê? Assim, tudo se resolve? E eu não tenho nada a dizer sobre isso?
+
+[MSG$00C3FD,92]
+Takashiro "Tudo bem, então, tenho algo para cuidar, então vou deixar vocês no comando."
+
+[MSG$00C497,75]
+Takashiro sai da sala e todos voltam ao trabalho em silêncio.
+
+[MSG$00C521,63]
+Imari "Você sabe a sorte que você tem de me ter como modelo?"
+
+[MSG$00C57A,21]
+Minase "Aham."
+
+[MSG$00C5A9,31]
+Eu suspiro e sinto pena de mim mesmo.
+
+[MSG$00C5CD,87]
+Eu ainda não tinha decidido um tema, mas nunca pensei que teria que fazer um retrato.
+
+[MSG$00C631,80]
+Teria sido muito mais fácil fazer apenas uma natureza-morta ou esboçar algum cenário.
+
+[MSG$00C686,57]
+Ter que esboçar Imari torna tudo dez mil vezes pior.
+
+[MSG$00C6CC,83]
+Imari não dá a mínima para os meus sentimentos. Ela traz uma cadeira e se senta.
+
+[MSG$00C7B0,26]
+Imari "Tá bom assim?"
+
+[MSG$00C7E4,42]
+Imari faz uma pose natural na cadeira.
+
+[MSG$00C81B,86]
+Eu me resigno ao fato de que de uma forma ou de outra terei que esboçar Imari.
+
+[MSG$00C87E,32]
+Minase "Hum...é, acho que sim."
+
+[MSG$00C8B8,44]
+Eu balanço meu lápis acima da minha cabeça dramaticamente.
+
+[MSG$00C8E9,25]
+Sem motivo, claro.
+
+[MSG$00C90F,81]
+Minase "Preciso que você faça algum tipo de pose, ou esse retrato ficará sem graça."
+
+[MSG$00C97A,82]
+Imari "Sim, mas você tem que pensar na modelo também! Se eu tiver que segurar uma pose,
+
+[MSG$00C9D1,16]
+Vou ficar cansada."
+
+[MSG$00C9FB,77]
+Minase "Então levanta um dos joelhos. Isso não vai te cansar, vai?"
+
+[MSG$00CA62,25]
+Imari "Ok...assim?"
+
+[MSG$00CB1D,58]
+Imari dobra um dos joelhos e o segura com as mãos.
+
+[MSG$00CB5C,55]
+Nada mal. A saia dela sobe e é bem erótico.
+
+[MSG$00CB98,16]
+Só mais um pouco...
+
+[MSG$00CBD5,52]
+Minase "Ok, você pode abrir um pouco mais as pernas?"
+
+[MSG$00CC23,43]
+Imari "Hm? Assim...ficou melhor?"
+
+[MSG$00CC68,79]
+Imari obedece abrindo um pouco as pernas. Não mais que alguns centimetros.
+
+[MSG$00CCBC,44]
+Nesse ritmo, nunca vou ver a calcinha dela.
+
+[MSG$00CCF5,70]
+Minase "Não, isso não é bom o suficiente. Abra bem as pernas, agora!!"
+
+[MSG$00CDE4,4]
+POW!
+
+[MSG$00CE79,56]
+Assim que as palavras saíram da minha boca, Imari me bateu.
+
+[MSG$00CF59,42]
+Imari "O que você está tentando fazer, afinal?"
+
+[MSG$00CF9D,79]
+Minase "Eu tava brincando...pra que eu iria querer ver sua calcinha suja?"
+
+[MSG$00D017,6]
+SMACK!
+
+[MSG$00D02A,39]
+Desta vez ela me dá um tapa forte na cara.
+
+[MSG$00D05E,70]
+Imari "Sujo é você! Cale a boca e comece a desenhar, seu idiota!"
+
+[MSG$00D0C9,37]
+Minase "Tá bom, fique pelada."
+
+[MSG$00D196,4]
+POW!
+
+[MSG$00D2C6,45]
+Imari "Ficar pelada pra que?"
+
+[MSG$00D30D,74]
+Minase "O quê, você não vai tirar a roupa? Temos que pelo menos ver sua calcinha
+
+[MSG$00D35C,39]
+|para causar algum impacto, entende?"
+
+[MSG$00D39D,22]
+Imari "Ah, vai a merda!"
+
+[MSG$00D3CD,47]
+Minase "Ah, cara, agora perdi a motivação."
+
+[MSG$00D416,49]
+Imari "Anda! Pare de reclamar e continue!"
+
+[MSG$00D461,37]
+Relutantemente volto para minha tela.
+
+[MSG$00D50F,31]
+Imari "Me deixa linda, vai!"
+
+[MSG$00D548,61]
+Minase "Não conte com isso. Não é como se a modelo fosse."
+
+[MSG$00D59F,13]
+Imari "Grrr!"
+
+[MSG$00D5C6,77]
+Imari "Bom, se você não começar a levar isso a sério, eu vou ficar puta!"
+
+[MSG$00D62D,20]
+Minase "Sim, senhora."
+
+[MSG$00D65B,49]
+Pego meu lápis de carvão e começo a esboçar.
+
+[MSG$00D699,12]
+Esboço...
+
+[MSG$00D6B2,10]
+Olho...
+
+[MSG$00D6C9,12]
+Esboço...
+
+[MSG$00D6E2,10]
+Apago...
+
+[MSG$00D6F9,10]
+Olho...
+
+[MSG$00D710,12]
+Esboço...
+
+[MSG$00D729,29]
+Uma hora depois...
+
+[MSG$00D7CB,13]
+Minase "...."
+
+[MSG$00D7E5,39]
+Olho para minha tela e fico sem palavras.
+
+[MSG$00D819,22]
+Nossa... Tá horrível!
+
+[MSG$00D83C,40]
+Isso vai me causar problemas!
+
+[MSG$00D871,69]
+Até eu mal consigo olhar para isso. Tenho medo do meu próprio talento.
+
+[MSG$00D93B,34]
+Imari "E aí? Como ficou?"
+
+[MSG$00D977,57]
+Péssimo! Se ela vir isso, ela vai ficar uma fera.
+
+[MSG$00D9BD,86]
+Minase "Ei, não olhe ainda, se você ver agora, você vai desmaiar... de tão bonito!"
+
+[MSG$00DA2E,58]
+Imari "Sério? Agora fiquei curiosa."
+
+[MSG$00DA82,49]
+Minase "Espere! Não é hora de encerrar a aula?"
+
+[MSG$00DACD,55]
+Imari "O quê? Meu Deus, eu não percebi que era tão tarde!"
+
+[MSG$00DB1E,46]
+Ela olha o relógio e vê que são quase 17h.
+
+[MSG$00DC00,59]
+Imari "Desculpe, preciso ir para casa, tenho algo para fazer.
+
+[MSG$00DC40,61]
+Você pode trancar e trazer esta chave de volta para a sala dos professores?"
+
+[MSG$00DC97,83]
+Imari junta as mãos de forma suplicante e me deixa com a chave.
+
+[MSG$00DCF7,12]
+Minase "EU?"
+
+[MSG$00DD1D,72]
+Imari "Qual é, você é o vice-presidente. É o mínimo que você pode fazer..."
+
+[MSG$00DD7F,23]
+Minase "Ah, tá bom."
+
+[MSG$00DDB0,26]
+Eu pego a chave da Imari.
+
+[MSG$00DDCF,36]
+Perfeito! Ufa, me safei.
+
+[MSG$00DE00,68]
+Minase "Ei, que pena. Acho que vou deixar você ver meu esboço na próxima vez."
+
+[MSG$00DE5E,61]
+Imari "Hein? Ah, não se preocupe, tenho tempo para dar uma olhada.."
+
+[MSG$00DEB5,33]
+Imari tenta dar uma olhada no esboço.
+
+[MSG$00DEE3,51]
+Minase "De jeito nenhum! Devíamos guardar isso para a próxima vez!"
+
+[MSG$00DF30,54]
+Rapidamente movo a tela para longe do alcance dela... e da sua vista.
+
+[MSG$00DF73,17]
+Imari "Tem certeza?"
+
+[MSG$00DF9F,22]
+Minase "Sim! Vai embora."
+
+[MSG$00DFE4,46]
+Imari "Tá. De qualquer forma, estou contando com você!"
+
+[MSG$00E050,59]
+Imari rapidamente reúne suas coisas e sai da Sala de Arte.
+
+[MSG$00E098,50]
+Graças a Deus consegui escapar de mostrar meu esboço a ela.
+
+[MSG$00E0D7,67]
+Mas provavelmente terei que deixá-la ver isso algum dia...
+
+[MSG$00E11F,4]
+Ugh.
+
+[MSG$00E128,41]
+É melhor consertar essa porcaria logo.
+
+[MSG$00E15E,35]
+Vamos ver o que consigo fazer.
+
+[MSG$00E20B,12]
+Esboço...
+
+[MSG$00E224,12]
+Esboço...
+
+[MSG$00E23D,12]
+Esboço...
+
+[MSG$00E256,12]
+Esboço...
+
+[MSG$00E26F,79]
+Agora que a presidente foi embora, os outros também começam a se preparar para voltar para casa.
+
+[MSG$00E2C3,108]
+Sonho, continuo a lutar silenciosamente contra este desenho de Imari que não se parece em nada com ela...
+
+[MSG$00E33C,48]
+Minase "Por que estou preso aqui fazendo isso, afinal?"
+
+[MSG$00E386,12]
+Esboço...
+
+[MSG$00E39F,10]
+Apago...
+
+[MSG$00E3B6,12]
+Esboço...
+
+[MSG$00E3CF,7]
+Snap...
+
+[MSG$00E3E3,13]
+Rabisco...
+
+[MSG$00E3FD,12]
+Esboço...
+
+[MSG$00E416,10]
+Apago...
+
+[MSG$00E42D,12]
+Rabisco...
+
+[MSG$00E446,10]
+Apago...
+
+[MSG$00E45D,12]
+Rabisco...
+
+[MSG$00E476,16]
+Minase "Urgh..."
+
+[MSG$00E4A0,102]
+Eu luto até quase a hora de sair da escola. Paro um momento para conferir meu trabalho à distância.
+
+[MSG$00E59C,14]
+Minase "NOSSA!"
+
+[MSG$00E5C4,23]
+Uau, que diabos...?
+
+[MSG$00E5E8,54]
+Quanto mais eu me esforço, pior parece que está ficando.
+
+[MSG$00E623,70]
+Que talento incrível. Isto não é um mero esboço...vai muito além disso.
+
+[MSG$00E66E,41]
+Isto é o que chamam de arte cósmica!
+
+[MSG$00E6A4,45]
+Minase "Deixa pra lá, acho que só não tô afiado hoje."
+
+[MSG$00E767,50]
+De repente olho em volta e vejo que estou completamente sozinho.
+
+[MSG$00E7A6,31]
+Minase "Bem... hora de ir pra casa."
+
+[MSG$00E7DF,68]
+Tenho certeza de que devo estar enferrujado, já que não desenho nada há tanto tempo.
+
+[MSG$00E828,79]
+Eu me forço a acreditar nisso e enfio a tela bem lá no fundo, onde ninguém vai
+
+[MSG$00E87C,18]
+|ver.
+
+[MSG$00E89B,40]
+Então pego minhas coisas e saio da sala.
+
+[MSG$00E921,18]
+Abril 20 - A chave
+
+[MSG$00E9BA,87]
+Eu me certifico de que tudo está trancado e vou em direção à sala dos professores para devolver a chave.
+
+[MSG$00EA1E,100]
+Olho para fora e vejo que ainda há alguns clubes esportivos por aí, gritando enquanto praticam.
+
+[MSG$00EA8F,85]
+Caminho lentamente em direção à sala dos professores. Não há muitos alunos restantes no corredor.
+
+[MSG$00EAE9,68]
+É estranho para mim, já que nunca fui o último a sair.
+
+[MSG$00EC07,14]
+(Porta abrindo)
+
+[MSG$00EC22,52]
+Abro a porta e entro na sala praticamente deserta.
+
+[MSG$00EC63,88]
+Está quase vazio, pois a esta hora a maioria dos professores está em reuniões de clube,
+
+[MSG$00ECC8,100]
+Os que ainda estão lá estão sentados em suas mesas, fumando enquanto trabalham em questões de meio de prova.
+
+[MSG$00ED31,47]
+Nenhum dos orientadores do corpo docente retornou ainda.
+
+[MSG$00ED6D,71]
+Eu caminho pela sala dos professores sem dizer uma palavra, indo em direção à caixa de chaves.
+
+[MSG$00EDC1,83]
+Todas as chaves da escola ficam guardadas nesta caixa. Elas são retiradas conforme a necessidade.
+
+[MSG$00EE19,75]
+Imari sempre fica responsável pela chave da Sala de Arte, então raramente eu a devolvo.
+
+[MSG$00EE71,5]
+Click
+
+[MSG$00EF0C,15]
+Eu abro a caixa.
+
+[MSG$00EF28,39]
+Lá dentro, há várias chaves penduradas em ganchos.
+
+[MSG$00EF5C,81]
+Pego a chave prateada da Sala de Arte do meu bolso e procuro o gancho que em devo
+
+[MSG$00EFB2,15]
+|pendurá-la.
+
+[MSG$00EFCE,45]
+Minase "Vejamos...Sala de Artes..."
+
+[MSG$00F015,40]
+Procuro uma placa que diz ''Sala de Artes.''
+
+[MSG$00F042,22]
+Eventualmente a encontro.
+
+[MSG$00F065,20]
+Minase "Aí está você."
+
+[MSG$00F093,8]
+Click...
+
+[MSG$00F0A8,77]
+Quando devolvo a chave e começo a fechar a caixa, percebo algo,
+
+[MSG$00F102,13]
+Minase "Hein?"
+
+[MSG$00F129,49]
+Eu paro e dou outra olhada no molho de chaves.
+
+[MSG$00F167,73]
+Esta chave não tem uma placa com o nome da sala ao qual pertence,
+
+[MSG$00F1BD,84]
+Eu nunca fui de notar essas coisas antes, mas por algum motivo, desta vez eu notei.
+
+[MSG$00F216,66]
+Ao contrário das outras chaves, esta é feita de latão e está brilhando.
+
+[MSG$00F265,21]
+Ao pegar a chave,
+
+[MSG$00F28F,64]
+Sua placa me diz o que ela abre.
+
+[MSG$00F2D4,38]
+E foi isso que despertou meu interesse...
+
+[MSG$00F307,83]
+A placa de madeira tem algumas escritas fracas, que parecem estar prestes a desbotar.
+
+[MSG$00F35F,44]
+Eu olho de soslaio, tentando ler o que diz.
+
+[MSG$00F398,33]
+Minase "Porão...depósito."
+
+[MSG$00F3D3,35]
+Essas são as palavras que consigo entender.
+
+[MSG$00F403,67]
+Minase "Depósito no porão? A chave que abre a Sala Secreta?"
+
+[MSG$00F4EB,24]
+Depósito no porão...
+
+[MSG$00F510,42]
+A sala que todos chamam de Sala Secreta...
+
+[MSG$00F53F,43]
+Só tem um porão neste prédio.
+
+[MSG$00F56F,77]
+E definitivamente há uma placa na porta dizendo ''Sala de armazenamento.''
+
+[MSG$00F5C9,29]
+A chave para a Sala Secreta...
+
+[MSG$00F5EB,55]
+Bem debaixo do meu nariz...nunca imaginei que encontraria isso aqui.
+
+[MSG$00F62F,42]
+Se eu usar essa chave, posso abrir aquela porta...
+
+[MSG$00F65E,53]
+Isso significa que posso descobrir se esse boato é verdadeiro.
+
+[MSG$00F6A0,62]
+Não que eu espere encontrar algo tão surpreendente lá embaixo.
+
+[MSG$00F6E3,45]
+Mas eu quero saber por que está sempre trancado.
+
+[MSG$00F71D,66]
+Pode ser uma coincidência, ou pode haver algum segredo escondido...
+
+[MSG$00F76C,59]
+O boato pode ter surgido apenas porque ninguém nunca
+
+[MSG$00F7AC,22]
+|viu o que tem lá dentro.
+
+[MSG$00F7C7,64]
+Mas ao usare essa chave, irei me tornar a testemunha da verdade.
+
+[MSG$00F814,58]
+Esta é uma grande oportunidade para pôr fim à antiga lenda.
+
+[MSG$00F85B,60]
+Não há nada de errado em descobrir com meus próprios olhos.
+
+[MSG$00F8AF,58]
+Certificando-me de que ninguém me vê, retiro a chave do gancho
+
+[MSG$00F8EE,29]
+|e coloco-a no meu bolso.
+
+[MSG$00F910,28]
+Nenhum dos professores me viu.
+
+[MSG$00F939,58]
+Contanto que eu devolva quando terminar, qual o problema?
+
+[MSG$00F978,67]
+Eles são rigorosos com as chaves, mas como ninguém nunca usa esta,
+
+[MSG$00F9C0,60]
+Tenho certeza de que ninguém vai sentir falta se eu não demorar muito.
+
+[MSG$00FA01,57]
+E não é como se alguém precisasse usar essa chave mesmo.
+
+[MSG$00FA53,71]
+Fecho a caixa de chaves e saio da sala dos professores como se nada tivesse acontecido.
+
+[MSG$00FAF8,26]
+Abril 20 - Escadas do porão
+
+[MSG$00FB99,76]
+Assim que saio pela porta, coloco a mão no bolso e toco na chave,
+
+[MSG$00FBEA,42]
+Sinto o latão frio contra meu dedo...
+
+[MSG$00FC21,88]
+Se Ito e Saeki estivessem por perto, eu as deixaria vir para me testemunhar abrindo a porta da
+
+[MSG$00FC7E,85]
+|Sala Secreta, mas como elas sempre saem da escola às pressas, não tem como
+
+[MSG$00FCD8,28]
+|elas estarem aqui a essa hora.
+
+[MSG$00FD01,89]
+Nom, sempre posso falar pra elas mais tarde. Tudo o que preciso fazer é lembrar onde a chave está guardada,
+
+[MSG$00FD5F,39]
+E vou poder pega-la de novo.
+
+[MSG$00FD8B,74]
+E provavelmente será melhor mostrar depois que eu mesmo tiver visto primeiro.
+
+[MSG$00FDE2,92]
+Pretendo contar tudo sobre isso num tom de voz calmo e comedido, enquanto me deleito
+
+[MSG$00FE43,50]
+|com a superioridade de quem já viu tudo.
+
+[MSG$00FE7A,47]
+Já consigo ver o ciúme nos olhos delas...
+
+[MSG$00FEB6,65]
+Sentindo-me satisfeito, tiro a chave da Sala Secreta do meu bolso,
+
+[MSG$00FEFC,70]
+deixe-o tilintar no ar e desço as escadas em direção ao primeiro andar.
+
+[MSG$00FFCC,50]
+Chego ao primeiro andar e sigo em direção ao meu objetivo.
+
+[MSG$01000B,18]
+A porta secreta...
+
+[MSG$010022,36]
+Parece apenas uma porta comum.
+
+[MSG$01004B,64]
+Está lá, bem no fundo da escada, num lugar solitário.
+
+[MSG$010090,120]
+Não há nada de especial nesta porta... A placa diz: "Depósito do porão".
+
+[MSG$010115,92]
+Só uma coisa chama a atenção... a placa que diz ''ENTRADA PROIBIDA.''
+
+[MSG$010176,56]
+Essa é a única razão pela qual a chamam de Sala Secreta.
+
+[MSG$0101BB,74]
+Atrás desta porta estão as escadas que levam ao depósito do porão.
+
+[MSG$01020A,86]
+É a porta lá de baixo que está trancada, então não deve ser um problema abri-la,
+
+[MSG$01026D,83]
+Eu encaro a porta por um momento, então estendo a mão e agarro a maçaneta fria na minha mão.
+
+[MSG$0102CD,46]
+Girl "Você não pode entrar aí, é proibido."
+
+[MSG$010315,13]
+Minase "Huh?"
+
+[MSG$0103DB,55]
+Fiquei abalado pela voz que de repente me chamou.
+
+[MSG$010417,71]
+Tiro a mão da maçaneta e olho na direção da voz.
+
+[MSG$01046B,34]
+Uma aluna está me encarando.
+
+[MSG$01049A,40]
+É uma garota da minha turma, Rika Shiraki.
+
+[MSG$0104C7,98]
+Ela é bonita, sempre tira notas altas e, para completar, também é presidente do
+
+[MSG$01052E,17]
+|Conselho Estudantil.
+
+[MSG$01054C,72]
+Shiraki "Não adianta descer lá, não viu que a porta tá trancada?"
+
+[MSG$0105AE,103]
+Ela me lança um olhar de desprezo, mas sua voz é bastante atenciosa enquanto caminha em minha direção.
+
+[MSG$01061A,30]
+Claro que eu sabia disso.
+
+[MSG$010645,22]
+Minase "Sim, eu vi."
+
+[MSG$010675,61]
+Tento parecer calmo. Respondo a ela da forma mais indiferente possível.
+
+[MSG$0106B7,80]
+Ela pode ser uma convidada indesejada, mas não posso simplesmente ignorar a Rika Shiraki.
+
+[MSG$010714,87]
+Rika Shiraki...Eu a conheço de vista, mas esta é a primeira vez que falo com ela.
+
+[MSG$010770,29]
+O sentimento parece ser mútuo.
+
+[MSG$01079A,63]
+Na verdade, há uma boa chance de que ela nem me conhecesse.
+
+[MSG$0107DE,75]
+Quer dizer, ela se esforçou para me repreender. Fazer o que, né?
+
+[MSG$01082E,47]
+Eu não sou o tipo de cara que se destaca mesmo.
+
+[MSG$01086A,33]
+Começo a encarar Shiraki novamente.
+
+[MSG$010890,71]
+Ela é linda...que beleza e personalidade perfeita ela tem.
+
+[MSG$0108DC,59]
+Não é de se admirar que todos gostem dela, tanto meninos quanto meninas.
+
+[MSG$010924,56]
+E ela é tão diferente da Imari! Só isso me deixa bobo.
+
+[MSG$010961,77]
+Se eu tivesse que compará-las, diria que Shiraki era um cão de raça pura com pedigree,
+
+[MSG$0109B3,53]
+enquanto Imari era como um vira-lata de rua.
+
+[MSG$0109F5,86]
+Não, isso pode ser duro demais. Imari ia me matar se soubesse que pensei isso.
+
+[MSG$010A58,47]
+Shiraki "Mas por que você quer ir lá embaixo?"
+
+[MSG$010AA1,46]
+Os olhos enormes de Shiraki se arregalam quando ela me pergunta isso.
+
+[MSG$010ADC,33]
+Minase "Para descobrir a verdade..."
+
+[MSG$010B17,27]
+Shiraki sorri com minhas palavras.
+
+[MSG$010B3F,26]
+Shiraki "Você é engraçado."
+
+[MSG$010B73,80]
+Sorrio junto com Shiraki. Não acredito que Shiraki tenha engolido minha história.
+
+[MSG$010BC8,64]
+Tenho certeza de que ela pensou que eu estava brincando. Bom, isso funciona para mim.
+
+[MSG$010C15,67]
+Minase "Você acredita naquele boato sobre o depósito no porão?"
+
+[MSG$010C72,80]
+Pergunto a ela casualmente. Eu realmente quero saber o que essa garota pensa sobre o boato.
+
+[MSG$010CCF,15]
+Shiraki "Que?"
+
+[MSG$010CF8,52]
+Ela inclina a cabeça diante dessa pergunta repentina e idiota.
+
+[MSG$010D31,54]
+Eu estava tentando ser casual, mas talvez eu tenha sido muito abrupto?
+
+[MSG$010D74,62]
+Mas depois de pensar um pouco, ela me respondeu em um tom sério.
+
+[MSG$010DBF,36]
+Shiraki "Bem, não tenho muita certeza."
+
+[MSG$010DFD,97]
+Shiraki "Acho que nunca pensei nisso. De qualquer forma, acho que os rumores são interessantes porque
+
+[MSG$010E63,51]
+|são rumores...isso vale para qualquer tipo de boato."
+
+[MSG$010EB0,99]
+Shiraki "Acho que é mais divertido continuar acreditando, em vez de ficar desapontado quando você descobre
+
+[MSG$010F18,40]
+|a verdade, assim como com o Papai Noel."
+
+[MSG$010F5A,29]
+Minase "Você acha isso mesmo?"
+
+[MSG$010F91,58]
+Que ponto de vista romântico, eu nunca conseguiria imitar isso.
+
+[MSG$010FD0,48]
+Eu prefiro que tudo seja preto ou branco.
+
+[MSG$01100D,46]
+Minase "Muito interessante, vou lembrar disso."
+
+[MSG$011055,58]
+Shiraki "Quando você descobrir a verdade, por favor me avise."
+
+[MSG$01111E,51]
+Ela sorri enquanto diz isso e vai embora lentamente.
+
+[MSG$01115E,26]
+A porta está trancada mesmo?
+
+[MSG$01117D,41]
+Mas a chave daquela porta está no meu bolso.
+
+[MSG$0111AB,46]
+Tenho certeza que ela nunca nem sonhou que eu tinha a chave,
+
+[MSG$0111DE,77]
+Esse é o nível da grandeza da lenda do porão para nós, estudantes.
+
+[MSG$011238,86]
+A chave para o jardim secreto, hein? Como foi aquela história de Gaskell? Alguém encontrou a
+
+[MSG$011293,44]
+|chave para o que supostamente era um jardim trancado,
+
+[MSG$0112C4,64]
+|e quando foi aberto, não havia nada além de um gramado devastado...
+
+[MSG$011311,74]
+É como Shiraki disse. Fofoca e verdade raramente são a mesma coisa.
+
+[MSG$011368,26]
+Minase "Vamos lá..."
+
+[MSG$01139C,10]
+Porta abre
+
+[MSG$0113B3,80]
+Mais uma vez, certifico-me de que não há ninguém por perto. Então giro a maçaneta e abro a porta.
+
+[MSG$011408,28]
+A porta abre facilmente.
+
+[MSG$0114B5,111]
+Está escuro lá dentro. As escadas que levam ao depósito no porão são mal iluminadas pela luz de fora.
+
+[MSG$011531,21]
+Minase "Está escuro..."
+
+[MSG$011560,67]
+Nessa escuridão, as escadas parecem um buraco ainda mais escuro e ameaçador.
+
+[MSG$0115A8,66]
+E dentro desse buraco há uma escada íngreme que leva ao porão.
+
+[MSG$0115F7,46]
+Atrás daquelas escadas sinistras fica a Sala Secreta.
+
+[MSG$011632,45]
+Está frio aqui. Parece que o ar condicionado está ligado.
+
+[MSG$01166C,61]
+É a atmosfera perfeita para um boato assustador como esse.
+
+[MSG$0116AE,80]
+Uma atmosfera tão misteriosa...é o lugar perfeito para fazer algo em segredo.
+
+[MSG$011755,41]
+Procuro um interruptor para a escada.
+
+[MSG$01178B,53]
+Há algum tipo de interruptor no topo da escada.
+
+[MSG$0117C5,13]
+Eu o ligo.
+
+[MSG$0117DF,8]
+Click...
+
+[MSG$01186C,58]
+Instantaneamente, uma lâmpada branca fraca acende na escuridão.
+
+[MSG$0118B3,86]
+A luz é extremamente fraca. Seria um exagero chamá-la de ''luz''.
+
+[MSG$01190E,96]
+Mesmo que este lugar nunca seja usado, o mínimo que eles poderiam fazer seria colocar luzes fluorescentes.
+
+[MSG$01197B,41]
+Bem, melhor que nada, eu acho...
+
+[MSG$0119F8,34]
+Está muito escuro para descer.
+
+[MSG$011A1F,33]
+Nem consigo ver para onde estou indo.
+
+[MSG$011A4D,30]
+Preciso acender a luz.
+
+[MSG$011A70,46]
+Eu sei que tem outro interruptor aqui em algum lugar.
+
+[MSG$011AB6,80]
+Mantendo minhas mãos contra a parede, desço lentamente a escada escura.
+
+[MSG$011B13,66]
+As escadas são de concreto. São simples e de aparência sombria.
+
+[MSG$011B62,103]
+Posso ouvir o som assustador dos meus próprios passos descendo as escadas naquele espaço fechado e apertado.
+
+[MSG$011BCE,70]
+Desço as escadas com cuidado, quase perdendo o equilíbrio várias vezes.
+
+[MSG$011C21,22]
+Baque, baque, baque...
+
+[MSG$011CC0,100]
+Já desci mais de 10 degraus quando meus pés tocaram o chão plano. Parece que cheguei ao fim,
+
+[MSG$011D31,64]
+Na minha frente há uma pesada porta de aço, bloqueando meu caminho.
+
+[MSG$011D7E,38]
+Minase "Então esta é a Sala Secreta..."
+
+[MSG$011DBE,27]
+Que nome apropriado.
+
+[MSG$011DE6,39]
+É uma porta de aço simples e antiga.
+
+[MSG$011E12,64]
+Há uma placa de metal; tudo o que ela diz é''Sala de armazenamento.''
+
+[MSG$011E5F,46]
+Podiam pelo menos ter pintado de rosa ou vermelho.
+
+[MSG$011E92,34]
+Mas não, isso também seria assustador.
+
+[MSG$011EC1,111]
+Não é a primeira vez que venho aqui. Mas é a primeira vez que vejo bem esta porta.
+
+[MSG$011F3D,87]
+Há também algumas pichações na porta. Pode ser obra de algum arruaceiro,
+
+[MSG$011F99,55]
+mas alguém rabiscou símbolos e diagramas enigmáticos.
+
+[MSG$011FD5,45]
+Eles fazem tudo parecer ainda mais assustador, de alguma forma.
+
+[MSG$01200F,73]
+Traço uma das letras, escrita com caligrafia fluida, com meu dedo.
+
+[MSG$01205D,60]
+Mas não consigo ler, pois não parece estar em japonês.
+
+[MSG$0120A6,94]
+A mesma coisa com os diagramas acima e ao redor da porta. Eu também não faço ideia do que eles significavam.
+
+[MSG$012109,59]
+Mas era muito artificial e assustador para ser grafite.
+
+[MSG$012151,66]
+Minase "Bem, certamente não parece apenas um depósito..."
+
+[MSG$0121AD,104]
+Eu tremo ao dizer isso. Está muito mais frio aqui embaixo do que lá em cima, provavelmente porque não há luz do sol.
+
+[MSG$01221A,83]
+Com essa temperatura, certamente não é confortável estar vestido apenas com o uniforme escolar.
+
+[MSG$01227A,57]
+Minase "Vou só dar uma olhada rápida e sair daqui."
+
+[MSG$0122CD,32]
+Eu tiro a chave do meu bolso.
+
+[MSG$0122FA,56]
+Então coloco a chave no buraco da fechadura, embaixo da maçaneta.
+
+[MSG$012337,49]
+A chave desliza para dentro do buraco; é um encaixe perfeito.
+
+[MSG$012375,50]
+Minase "Ok, hora do tour da Sala Secreta."
+
+[MSG$0123C1,47]
+Eu agarro a chave e giro-a para a direita, com força.
+
+[MSG$0123FD,8]
+Click...
+
+[MSG$012412,45]
+Eu posso sentir e ouvir os tambores destrancando...
+
+[MSG$012444,61]
+Agora não há nada que me impeça de abrir esta porta.
+
+[MSG$01248E,61]
+A partir deste momento, a Sala Secreta não será mais secreta...
+
+[MSG$0124D0,115]
+Eu agarro a maçaneta de aço frio...lenta e cuidadosamente, giro-a para a direita...e abro a pesada porta...
+
+[MSG$012550,9]
+Crek...
+
+[MSG$012566,77]
+Ouço o som de metal contra metal. Então a porta abre para dentro.
+
+[MSG$0125C0,53]
+Eu paro quando está cerca de 30 cm aberto e olho para dentro.
+
+[MSG$0125FA,77]
+Não que eu acredite nesse boato, mas não tenho ideia do que posso encontrar lá.
+
+[MSG$01264C,43]
+Estando sozinho, estou um pouco nervoso.
+
+[MSG$012684,82]
+O que posso ver através da abertura estreita é um vasto espaço escuro, tão preto quanto tinta...
+
+[MSG$0126E3,82]
+Eu posso sentir o quão frio o ar está lá dentro...cheira uma mistura de poeira e mofo.
+
+[MSG$01273A,49]
+Parece até um cemitério...
+
+[MSG$012778,73]
+Mas não consigo ver nada dentro do quarto, por causa desse breu.
+
+[MSG$0127CE,29]
+Eu empurrei a porta ainda mais.
+
+[MSG$0127F8,9]
+Crek...
+
+[MSG$01280E,19]
+Abril 20 - Porão
+
+[MSG$012977,29]
+Minase "Cof...Cof...Gulp..."
+
+[MSG$0129AE,74]
+Assim que abro a porta, quase engasgo com o ar empoeirado do quarto.
+
+[MSG$0129FD,87]
+Toda essa poeira pode ser a prova de que esta sala realmente não foi aberta há mais de 10 anos.
+
+[MSG$012A61,67]
+Eu agito meus braços em volta de mim, tentando sacudir a poeira das minhas roupas.
+
+[MSG$012AB1,56]
+Depois de fazer isso, dou uma boa olhada ao redor da sala.
+
+[MSG$012AF6,65]
+Mas mesmo com a porta aberta, está escuro demais para ver qualquer coisa,
+
+[MSG$012B3C,58]
+já que não há janelas para deixar entrar luz no lugar.
+
+[MSG$012B7B,86]
+A luz da escada é muito fraca e nem chega até aqui.
+
+[MSG$012BDE,42]
+Não tem como eu ver o interior desta sala.
+
+[MSG$012C15,86]
+Dou um passo para dentro do quarto escuro e começo a tatear em busca de um interruptor de luz nas paredes.
+
+[MSG$012C70,45]
+Tem que ter pelo menos um aqui.
+
+[MSG$012CAA,55]
+Posso sentir a textura áspera do concreto sob minha mão.
+
+[MSG$012CEE,46]
+Depois de uns 10 segundos, sinto algo duro.
+
+[MSG$012D29,20]
+Minase "Achei?"
+
+[MSG$012D57,94]
+Agarro com os dedos o que penso ser um interruptor de luz e giro-o na direção oposta.
+
+[MSG$012DC2,50]
+Ouve-se um estalo e a energia é ligada...
+
+[MSG$012E01,19]
+Espra aí...
+
+[MSG$012E21,13]
+Minase "Hein?"
+
+[MSG$012E48,74]
+A luz deveria ter acendido, mas o lugar continua tão escuro quanto antes.
+
+[MSG$012E97,40]
+Não dá certo, então me desespero.
+
+[MSG$012ECC,22]
+Click, click, click...
+
+[MSG$012EEF,85]
+Eu tento ligar e desligar o interruptor, repetidamente, mas nada acontece.
+
+[MSG$012F49,43]
+Esse não é o interruptor da luz?
+
+[MSG$012F81,77]
+Começo a procurar outro interruptor em algum lugar, passando a mão pela parede.
+
+[MSG$012FD3,54]
+Mas não consigo encontrar nada que possa ligar a luz.
+
+[MSG$013016,19]
+Minase "Droga..."
+
+[MSG$013043,43]
+Talvez os disjuntores não estivessem mais funcionando.
+
+[MSG$013073,98]
+Como a sala não era usado há muito tempo, faria sentido que cortassem a eletricidade.
+
+[MSG$0130E2,69]
+Mas não pude fazer nada, pois a caixa da fonte estava trancada.
+
+[MSG$013134,94]
+Talvez eu devesse voltar depois de encontrar algo que pudesse iluminar meu caminho. Mas eu não pensei
+
+[MSG$013197,41]
+|Que acharia algo assim aqui na escola.
+
+[MSG$0131CD,95]
+Tento lembrar se já vi uma lanterna em algum lugar da escola, mas não consigo.
+
+[MSG$013231,58]
+Se o pior acontecesse, eu teria que trazer de casa...
+
+[MSG$013278,91]
+Estou sem saber o que fazer. Olho fixamente para a escuridão à minha frente. Depois de conseguir abrir esta porta,
+
+[MSG$0132D8,74]
+Não acredito que vou voltar para casa de mãos vazias por causa da escuridão.
+
+[MSG$01332F,104]
+Depois de um tempo, meus olhos se acostumam com o escuro e consigo distinguir o contorno tênue do quarto.
+
+[MSG$0133A4,71]
+Mas a sala está vazia e não parece haver nada nela.
+
+[MSG$0133F0,68]
+Está vazio demais para um cômodo que antes era usado como depósito.
+
+[MSG$013441,77]
+Me culpando por não ter vindo preparado, dou alguns passos em direção à escuridão.
+
+[MSG$013493,78]
+Não consigo ver nada, mas não suporto a ideia de sair de mãos vazias.
+
+[MSG$0134EE,108]
+Sinto a poeira rodopiando a cada passo que dou. Freneticamente, tiro todas as teias de aranha que me cobrem.
+
+[MSG$013567,5]
+Pow
+
+[MSG$013579,71]
+Não fui muito longe antes de sentir meu pé bater em algo no chão.
+
+[MSG$0135CD,68]
+Eu paro e olho para os meus pés, sem esperar poder ver...
+
+[MSG$013616,33]
+E claro, não consigo ver nada...
+
+[MSG$013664,73]
+Preparando-me, abaixo-me e pego o que quer que esteja no chão.
+
+[MSG$0136BA,8]
+Crash...
+
+[MSG$0136CF,111]
+É sólido e pesado, mas de repente algo cai... O som do aço reverbera pela sala.
+
+[MSG$01374B,13]
+Srá que quebrou?
+
+[MSG$013765,43]
+Peguei a ponta do objeto na minha mão.
+
+[MSG$013795,32]
+Eu passo minhas mãos sobre o que sobrou.
+
+[MSG$0137C2,25]
+Minase "Uma vela..."
+
+[MSG$0137F5,54]
+Pelo formato e pelo toque, tenho certeza de que é uma vela grande.
+
+[MSG$013830,23]
+Ainda está de bom tamanho.
+
+[MSG$013854,60]
+Então, o que quer que estivesse na ponta provavelmente era um castiçal.
+
+[MSG$01389D,101]
+Dei sorte dessa vez. Agora, se eu conseguir encontrar uma luz, poderei usá-la para explorar o cômodo.
+
+[MSG$01391A,22]
+Minase "O que é isso?"
+
+[MSG$01394A,58]
+Tento descobrir o que é usando meu pé.
+
+[MSG$013989,85]
+É algo duro, e toda vez que rola no chão há um som de clique.
+
+[MSG$0139EB,59]
+Ao tirar meu pé, me abaixo no chão para senti-lo.
+
+[MSG$013A33,39]
+É um objeto longo e fino em forma de bastão.
+
+[MSG$013A5F,34]
+É frio. E feito de aço.
+
+[MSG$013A86,29]
+Passo as mãos por todo o corpo.
+
+[MSG$013AB0,31]
+Minase "O castiçal..."
+
+[MSG$013AE9,31]
+Da vela que caiu.
+
+[MSG$013B15,75]
+A ponta está dividida em 3, e ainda há uma vela de bom tamanho presa nela.
+
+[MSG$013B6D,101]
+Tive sorte dessa vez. Agora, se eu conseguir encontrar uma luz, poderei usá-la para explorar o quarto.
+
+[MSG$013BDF,55]
+Minase "Tenho quase certeza de que tem um isqueiro na minha mochila..."
+
+[MSG$013C30,57]
+Enfiei a mão na bolsa e encontrei um isqueiro barato.
+
+[MSG$013C6E,62]
+Então eu limpo a poeira da vela e acendo o isqueiro.
+
+[MSG$013CB9,5]
+Flick
+
+[MSG$013CCB,5]
+Flick
+
+[MSG$013CDD,5]
+Flick
+
+[MSG$013CEF,11]
+(acendeu)
+
+[MSG$013E56,59]
+Eu seguro o isqueiro perto da vela e acendo o pavio.
+
+[MSG$013E96,96]
+Demorou um pouco, provavelmente porque não era usado há muito tempo, mas continuei até que finalmente
+
+[MSG$013EFB,47]
+|a cera começou a derreter e a vela foi acesa.
+
+[MSG$013F37,60]
+A chama era fraca no início, mas gradualmente ficou mais forte.
+
+[MSG$013F80,80]
+Esperei até ter certeza de que não iria apagar e então o segurei para iluminar o quarto..
+
+[MSG$013FDD,116]
+A luz de uma única vela não era suficiente para iluminar todo o ambiente, mas ainda era melhor que nada.
+
+[MSG$01405E,61]
+Finalmente, a luz da vela dissipou a escuridão...
+
+[MSG$0140A0,53]
+E aos poucos fui conseguindo ver o resto da sala.
+
+[MSG$0140DA,27]
+Selado há 12 anos...
+
+[MSG$0140FA,58]
+A verdade que eu estava procurando estava agora diante dos meus olhos...
+
+[MSG$0141B9,38]
+Minase "O que...que diabos é isso?"
+
+[MSG$0141F9,40]
+Fiquei sem palavras diante da visão que tinha sobre mim.
+
+[MSG$01422E,23]
+Uma cena tão bizarra...
+
+[MSG$01424A,102]
+A luz âmbar da vela revelou uma cena que parecia saída de um filme de ocultismo de baixo orçamento....
+
+[MSG$0142BD,62]
+E era algo muito mais terrível do que qualquer rumor que eu já tinha ouvido...
+
+[MSG$014308,36]
+Uma sala medindo 10m de cada lado...
+
+[MSG$014331,67]
+Uma sala assustadora que só poderia ser de ''depósito'' apenas no nome...
+
+[MSG$014379,29]
+Os vestígios de uma cerimônia...
+
+[MSG$01439B,62]
+Sem dúvida, os vestígios da cerimónia realizada há 12 anos...
+
+[MSG$0143E6,25]
+Completamente intacta...
+
+[MSG$01440C,38]
+Minase "Que tipo de piada é essa??!"
+
+[MSG$01444C,40]
+Era elaborado demais para ser uma mera brincadeira.
+
+[MSG$014481,119]
+Com a vela na mão, ando cambaleando pelo quarto. A poeira espessa que se acumulara no chão é agitada pelos meus passos.
+
+[MSG$0144FD,116]
+Debaixo da poeira, posso ver diagramas misteriosos e palavras escritas em tinta branca ou algo assim no chão preto,
+
+[MSG$01457E,16]
+Um círculo enorme...
+
+[MSG$014593,66]
+E uma cruz, que parecia dividir o círculo em seções...
+
+[MSG$0145DA,48]
+Palavras enigmáticas espalhadas por todo este diagrama...
+
+[MSG$014617,73]
+E ao lado do círculo, há outro diagrama: um triângulo e um círculo.
+
+[MSG$01466D,42]
+Poderia ser isso o que chamam de talismã?
+
+[MSG$0146A4,56]
+Havia inúmeras velas ao redor deste talismã...
+
+[MSG$0146E9,62]
+No fundo da sala vejo que um altar foi construído.
+
+[MSG$014734,80]
+Um olhar mais atento me mostra que é um altar simples, apenas um sofá coberto com um pano.
+
+[MSG$014789,64]
+Ao redor do altar, incenso e urnas de metal estão espalhados desordenadamente.
+
+[MSG$0147D6,84]
+Mas o que torna esta sala realmente assustadora são as manchas assustadoras nas paredes e no teto.
+
+[MSG$014837,52]
+Essas manchas decoram o ambiente quase geometricamente.
+
+[MSG$014870,88]
+Não consegui ver nenhuma no chão preto, mas tenho certeza de que elas simplesmente não se destacam.
+
+[MSG$0148D5,71]
+Eu caminho cuidadosamente pela sala, tentando não pisar no talismã.
+
+[MSG$014929,48]
+Sem pensar, pego o cálice em cima da mesa.
+
+[MSG$01495E,115]
+Lá dentro, vejo um líquido que se solidificou e ficou preto. Assim que vejo isso, coloco o copo no chão.
+
+[MSG$0149DE,109]
+Enquanto exploro o quarto, encontro outras coisas no chão, entre os castiçais, como um sabre longo e facas.
+
+[MSG$014A50,42]
+Eles usaram essas coisas na cerimônia?
+
+[MSG$014A87,57]
+Não consigo nem imaginar o que poderia ter acontecido naquele dia...
+
+[MSG$014AC5,45]
+Não, estou com muito medo até de tentar imaginar.
+
+[MSG$014AFF,74]
+Minase "Então o boato sobre o que aconteceu há 12 anos... era verdade?"
+
+[MSG$014B63,15]
+Estou apavorado.
+
+[MSG$014B77,97]
+A cena diante dos meus olhos... não há dúvida de que ela demonstra o que aconteceu aqui há 12 anos.
+
+[MSG$014BE5,86]
+Assim como o boato... não, é tão realista que joga o boato pela janela.
+
+[MSG$014C40,95]
+O quarto que qualquer um imaginaria depois de ouvir esse boato...aqui estava, recriado diante dos meus olhos.
+
+[MSG$014CAC,32]
+Isso tem que ser tipo de piada de mau gosto.
+
+[MSG$014CD9,82]
+Era isso que eu queria pensar, mas era tarde demais para simplesmente ignorar.
+
+[MSG$014D30,69]
+Ninguém seria estúpido o suficiente para ir tão longe só por uma brincadeira.
+
+[MSG$014D82,23]
+Eu mesmo vi isso...
+
+[MSG$014D9E,83]
+Minha intenção era provar que era apenas um boato. Mas acabei descobrindo que
+
+[MSG$014DF6,29]
+|era verdade...com meus próprios olhos.
+
+[MSG$014E20,55]
+O quarto assustador e o frio no ar me fizeram tremer.
+
+[MSG$014E5C,72]
+Então encontrei um lugar na parede que não tinha manchas e me encostei nele.
+
+[MSG$014EB1,25]
+Minase "O que diabos..."
+
+[MSG$014EE4,44]
+Minase "Não acredito que o boato era verdade."
+
+[MSG$014F2A,102]
+Não sei o quanto disso era verdade. Mas, pelo menos, realmente existia uma Sociedade de Magia Negra.,
+
+[MSG$014F95,76]
+e eles realizaram algum tipo de cerimônia aqui... isso é inegável.
+
+[MSG$014FEE,31]
+Mas o que aconteceu aqui?
+
+[MSG$015012,87]
+Uma coisa que tenho certeza é que as meninas não foram mortas pelo Diabo, como Saeki disse.
+
+[MSG$015076,62]
+Digo a mim mesmo que, ao olhar mais de perto as manchas na parede,.
+
+[MSG$0150C1,31]
+Minase "Não é possível..."
+
+[MSG$0150FA,29]
+De repente me encontro exausto.
+
+[MSG$015124,95]
+Nunca imaginei que uma sala como a descrita naquele boato estaria atrás da porta.
+
+[MSG$015188,88]
+Mesmo que eu tenha acabado de ver algo totalmente alucinante, não quero acreditar nisso.
+
+[MSG$0151ED,67]
+Agora não posso dizer a Saeki que o boato era verdade.
+
+[MSG$01523D,71]
+Não, agora que vi isso, não quero nem contar a ninguém.
+
+[MSG$015291,54]
+Agora entendo por que os professores não falam sobre isso.
+
+[MSG$0152CC,47]
+Esta sala não é nada para se gabar para os alunos.
+
+[MSG$015308,86]
+Eu me pergunto se os professores que encontraram esta sala a trancaram porque tinham medo de
+
+[MSG$015363,41]
+|estudantes falarem sobre o ritual.
+
+[MSG$015391,55]
+E assim eles se afastaram daqui, por anos e anos...
+
+[MSG$0153D5,59]
+Mas não, ainda não há razão para mantê-lo trancado assim.
+
+[MSG$015415,77]
+Se fosse uma monstruosidade, eles não teriam deixado tudo do jeito que estava..
+
+[MSG$01546F,31]
+Por que eles escolheriam fazer isso?
+
+[MSG$01549B,38]
+O que diabos aconteceu aqui, afinal?
+
+[MSG$0154CE,16]
+Minase "Phew..."
+
+[MSG$0154F8,16]
+Eu suspirei profundamente.
+
+[MSG$015515,65]
+Se isso fosse o que estava reservado para mim, eu gostaria de nunca ter descoberto.
+
+[MSG$01555B,79]
+Pensei que me sentiria aliviado em saber a verdade, mas isso foi totalmente o oposto.
+
+[MSG$0155B7,46]
+Lembrei-me do que Rika Shiraki me disse.
+
+[MSG$0155ED,92]
+''Eu acho que os rumores são interessantes porque são rumores... isso vale para qualquer tipo de boato.''
+
+[MSG$015656,20]
+Minase "Boato...?"
+
+[MSG$015684,60]
+Tentando me afastar da parede, coloquei minha mão contra ela.
+
+[MSG$0156C5,107]
+Eu queria sair deste quarto amaldiçoado o mais rápido possível. Se eu ficasse aqui por mais tempo, certamente ficaria louco..
+
+[MSG$01573D,14]
+Minase "Ah!"
+
+[MSG$015765,10]
+Arrasta...
+
+[MSG$01577C,61]
+Enquanto estou de pé, apoio minha mão, a que tenho contra a parede.
+
+[MSG$0157BE,62]
+Naquele momento minha mão direita afunda de repente no concreto.
+
+[MSG$015809,10]
+Arrasta...
+
+[MSG$015820,14]
+Minase "Eita!"
+
+[MSG$015848,42]
+Perco o equilíbrio e quase caio de bunda.
+
+[MSG$01587F,23]
+Minase "Ai, o que há?"
+
+[MSG$01592C,33]
+Eu olho mais de perto para a parede.
+
+[MSG$01595A,111]
+Vejo que o bloco de concreto que toquei com a mão afundou, de forma não natural, cerca de dois centímetros a mais que os outros.
+
+[MSG$0159CE,48]
+Defeito estrutural? Ou apenas deterioração?
+
+[MSG$015A0B,36]
+Curioso, empurro o bloco um pouco mais.
+
+[MSG$015A3C,10]
+Arrasta...
+
+[MSG$015ACC,23]
+O bloco afunda mais.
+
+[MSG$015AE8,21]
+Era oco por dentro?
+
+[MSG$015B0A,62]
+Acho isso bizarro e consigo empurrar o bloco para o lado.
+
+[MSG$015B55,7]
+Pow...
+
+[MSG$015BF2,38]
+Há um pequeno espaço atrás do bloco.
+
+[MSG$015C25,37]
+Mas por que haveria um buraco aqui?
+
+[MSG$015C4F,39]
+Não há dúvidas de que foi feito intencionalmente.
+
+[MSG$015C83,35]
+Eu acendo a vela no buraco.
+
+[MSG$015CAB,39]
+Agora que o espaço está iluminado pela minha vela,
+
+[MSG$015CD7,93]
+Eu consigo ver algo que parece uma pequena caixa quadrada envolta em um pano branco ou algo assim.
+
+[MSG$015D41,31]
+Minase "Que diabos é isso?"
+
+[MSG$015D7A,81]
+O pano está enrolado em volta do que quer que seja...quase parece uma grande lancheira.
+
+[MSG$015DD0,26]
+O que diabos poderia ser?
+
+[MSG$015DF7,97]
+Se alguém escondeu isso em um lugar como esse, deve ser algo que não queriam que ninguém encontrasse.
+
+[MSG$015EC4,68]
+Eu o pego, retiro-o do buraco e o seguro com as duas mãos.
+
+[MSG$015F0D,18]
+É bem pesado.
+
+[MSG$015F2C,50]
+Tem cerca de 25 cm de comprimento e cerca de 35 cm de altura...
+
+[MSG$015F63,32]
+Provavelmente tem cerca de 4 cm de espessura...
+
+[MSG$015F90,41]
+Eu sacudo e ouço um som de farfalhar.
+
+[MSG$015FBE,21]
+O que poderia estar dentro?
+
+[MSG$015FE0,45]
+Não consigo dizer com o pano por cima...
+
+[MSG$01607B,37]
+Com cuidado, retiro o pano branco.
+
+[MSG$0160AD,45]
+Algo totalmente inesperado pode estar lá dentro.
+
+[MSG$0160DF,70]
+Se estiver escondido nesta sala, não há como dizer o que pode ser,
+
+[MSG$016132,90]
+Pode ser enrolado algumas vezes... demora um pouco para eu conseguir ver o interior.
+
+[MSG$016191,103]
+Finalmente consigo dar uma olhada. Dentro do pano branco, vejo algo feito de couro preto.
+
+[MSG$016205,31]
+Eu desembrulho o pano um pouco mais...
+
+[MSG$016229,50]
+E por fim o pano branco é removido completamente.
+
+[MSG$01629C,17]
+Minase "Um livro?!"
+
+[MSG$0162C7,70]
+Um livro com acabamentos de couro resistentes emergiu do tecido branco.
+
+[MSG$01631A,38]
+É um livro enorme, com páginas tamanho B5.
+
+[MSG$016345,57]
+Há algum tipo de diagrama branco na capa preta.
+
+[MSG$016383,42]
+Uma espada enfiada de cabeça para baixo em um hexágono...
+
+[MSG$0163BA,93]
+E há uma corrente de metal enrolada no topo do livro, Parece mantê-lo fechado.
+
+[MSG$01641C,104]
+Este é um livro bizarro e até cafona. Definitivamente não é algo que você encontraria em uma livraria local.
+
+[MSG$016491,73]
+Deve ser muito antigo. A capa de couro está toda mofada e desgastada em alguns lugares.
+
+[MSG$0164E7,51]
+Quero olhar para dentro, então desengancho a corrente de metal.
+
+[MSG$01651F,27]
+E eu abro o livro lentamente.
+
+[MSG$0165C4,14]
+(Página virando)
+
+[MSG$0165DF,67]
+Ao virar a capa grossa, vejo um desenho estranho na folha de guarda.
+
+[MSG$01662F,87]
+Foi desenhado com tinta preta e parece ainda mais assustador à luz âmbar da vela.
+
+[MSG$016693,14]
+(Página virando)
+
+[MSG$0166AE,104]
+Viro outra página e encontro uma página queimada e descolorida, coberta com estranhas palavras escritas à mão.
+
+[MSG$016723,22]
+I turn another page...
+
+[MSG$016746,111]
+A escrita parece continuar falando sobre algo, interrompida apenas por algum desenho ou diagrama estranho ocasional.
+
+[MSG$0167BA,39]
+Claro que não tem como eu ler.
+
+[MSG$0167EE,64]
+Continuo folheando, examinando cada página como um autômato.
+
+[MSG$01683B,60]
+Depois de ler tudo rapidamente, fecho o livro.
+
+[MSG$016901,16]
+Minase "Suspiro..."
+
+[MSG$01692B,71]
+Dei uma olhada no livro inteiro, mas não consegui ler nada.
+
+[MSG$01697F,70]
+Tudo o que consegui entender foi que provavelmente era um livro sobre magia...
+
+[MSG$0169CA,79]
+Existem inúmeros desenhos de formas geométricas...talismãs desenhados no chão.
+
+[MSG$016A26,71]
+Provavelmente, este livro foi lido pelas pessoas que usaram esta sala...
+
+[MSG$016A72,96]
+E foi provavelmente neste livro que eles aprenderam sobre as cerimônias que realizavam aqui.
+
+[MSG$016ADF,93]
+Eu conseguia entender por que alguém iria querer acreditar neste livro... Eu não tinha ideia de onde eles o conseguiram,
+
+[MSG$016B41,90]
+|mas certamente parecia muito mais convincente do que qualquer livro duvidoso que você encontraria em uma livraria.
+
+[MSG$016BA8,63]
+Eu realmente gostaria de saber o que diz, mas não tenho a mínima ideia.
+
+[MSG$016BEC,69]
+Se pelo menos estivesse escrito em japonês eu conseguiria desvendá-lo...
+
+[MSG$016C3E,82]
+De qualquer forma, definitivamente parece valer a pena trazê-lo para casa e tentar entendê-lo.
+
+[MSG$016C95,67]
+Não tenho certeza se conseguirei ler, mas pelo menos,
+
+[MSG$016CDD,71]
+os que usaram esta sala conseguiram. Nunca saberei a menos que eu tente.
+
+[MSG$016D31,100]
+Não que eu tenha interesse em magia ou algo assim. Mas estou curioso para saber o que este livro diz.
+
+[MSG$016DA2,94]
+Algo tão envolvente que fez com que os alunos de 12 anos atrás ficaram totalmente obcecados...
+
+[MSG$016E05,38]
+Eu tinha certeza de que era isso que continha.
+
+[MSG$016E38,107]
+Não só isso, mas ele tinha sido mantido cuidadosamente escondido todo esse tempo. Certamente tinha que ser muito importante...
+
+[MSG$016EB0,96]
+E mais uma coisa...este livro pode conter pistas sobre o que aconteceu aqui há 12 anos.
+
+[MSG$016F99,72]
+Embrulhei o livro novamente do jeito que o encontrei e o coloquei na minha bolsa.
+
+[MSG$016FE6,84]
+Graças ao livro, minha bolsa (geralmente finíssima) parece que vai estourar.
+
+[MSG$017047,65]
+Depois coloquei o bloco de volta no lugar, cobrindo o espaço oco.
+
+[MSG$017095,5]
+Pá
+
+[MSG$0170A7,17]
+Minase "Prontinho."
+
+[MSG$0170D2,50]
+Peguei minha bolsa, agora pesada por causa do livro.
+
+[MSG$017109,46]
+Então apaguei a vela e saí do quarto.
+
+[MSG$017144,10]
+Reeeek...
+
+[MSG$01715B,4]
+Pá
+
+[MSG$0171EA,103]
+Fecho a porta de aço e a tranco. Se eu tivesse escolha, nunca mais entraria em uma sala como aquela.
+
+[MSG$017256,90]
+Ainda assim, assim que fechei a porta, de alguma forma senti que voltaria um dia...
+
+[MSG$01733A,59]
+Eu me certifico de que a porta está trancada e corro em direção às escadas.
+
+[MSG$01737A,47]
+Subo as escadas e entro furtivamente no corredor.
+
+[MSG$0173B6,12]
+Porta fechando
+
+[MSG$017453,79]
+Fecho a porta e começo a andar pelo corredor como se nada tivesse acontecido.
+
+[MSG$0174A7,56]
+Felizmente, não havia ninguém lá para perceber o que eu estava fazendo.
+
+[MSG$0174EC,90]
+Tenho certeza de que ninguém acreditaria que algo tão bizarro estava escondido no porão.
+
+[MSG$017553,50]
+Algo assim tinha que ser visto para ser acreditado.
+
+[MSG$01758A,31]
+Um boato não é nada mais que um boato.
+
+[MSG$0175AE,89]
+As pessoas podem ridicularizar as fofocas que trocam porque ninguém realmente viu a fonte.
+
+[MSG$017614,68]
+E isso porque lá no fundo eles sabem que não pode ser real.
+
+[MSG$01765D,113]
+...É possível que quem começou o boato tenha visto aquela cena bizarra lá embaixo.
+
+[MSG$0176DB,64]
+De qualquer forma, provavelmente seria melhor não contar a ninguém o que vi.
+
+[MSG$017720,109]
+É uma pena que eu não possa contar a Ito e Saeki sobre isso, mas a essa altura a notícia só iria agradá-las.
+
+[MSG$017792,35]
+Seria mais sensato não contar.
+
+[MSG$0177C2,49]
+Vou em direção à Sala dos Professores para devolver a chave,
+
+[MSG$0177F8,77]
+Olho para o relógio e vejo que são quase 18h. É melhor eu ir para casa logo.
+
+[MSG$0178A3,40]
+Abril 20 - Salão em frente à Sala dos Professores
+
+[MSG$01796C,55]
+Takashiro "Ah, é você, Minase. Então você ainda está aqui?"
+
+[MSG$0179BD,71]
+Quando estou prestes a entrar na Sala dos Professores quando Takashiro me chama.
+
+[MSG$017A09,32]
+Droga. O timing dela poderia ser pior?
+
+[MSG$017A36,38]
+Minase "Sim, mas já tô de saída."
+
+[MSG$017A76,66]
+Enquanto respondo, coloco a mão no bolso onde escondi a chave.
+
+[MSG$017ABD,59]
+Haveria problemas se ela descobrisse que eu peguei aquela chave.
+
+[MSG$017AFD,73]
+Afinal, aquele depósito no porão também é tabu entre os professores.
+
+[MSG$017B53,104]
+Takashiro "Mas, sabe, quando fui à Sala de Arte, ela já estava trancada. Isso já faz um tempo."
+
+[MSG$017BD5,27]
+Ela está obviamente confusa.
+
+[MSG$017BF5,14]
+Pensa, Minase...
+
+[MSG$017C10,66]
+Minase "Bem, esqueci de devolver a chave. É por isso que voltei."
+
+[MSG$017C6C,69]
+Tentei sair dessa com a primeira mentira que me veio à cabeça.
+
+[MSG$017CBE,55]
+Takashiro "Ah, nesse caso, eu vou guardar pra você."
+
+[MSG$017D0F,29]
+Péssima ideia!
+
+[MSG$017D31,88]
+Isso é muito ruim. Se ela abrir a caixa, verá que a chave da Sala de Arte já está lá.
+
+[MSG$017D96,99]
+Minase "Não, tudo bem. Como vice-presidente, assumo total responsabilidade pela devolução da chave."
+
+[MSG$017E13,59]
+Takashiro "Ah, tem certeza? Então eu deixo isso com você.."
+
+[MSG$017EE4,89]
+Takashiro ainda parece perturbada com meu comportamento, mas ela volta para a Sala dos Professores.
+
+[MSG$017F4A,60]
+Eu me esgueiro pela Sala dos Professores para escapar do olhar de Takashiro.
+
+[MSG$017F8B,69]
+Eu rapidamente tiro a chave do meu bolso e a coloco de volta na caixa.
+
+[MSG$017FDD,9]
+Fecho
+
+[MSG$017FF3,25]
+Minase "Ufa! Graças a Deus."
+
+[MSG$018026,49]
+Suspiro, fecho a caixa e saio da Sala dos Professores.
+
+[MSG$0180E8,75]
+Continuo em direção aos armários, troco meus sapatos e saio do pátio da escola.
+
+[MSG$018140,68]
+Eu saio e respiro o ar fresco, deixando-o encher meus pulmões.
+
+[MSG$018191,16]
+Minase "Ufa..."
+
+[MSG$0181BB,72]
+Lá fora, posso ver alguns alunos voltando para casa depois do treino da equipe.
+
+[MSG$018210,109]
+Eles estão todos caminhando em direção aos portões da escola, envolvidos em conversas inúteis com seus amigos e colegas de equipe....
+
+[MSG$01828A,12]
+Minase "..."
+
+[MSG$0182A3,75]
+É difícil acreditar que há poucos minutos eu estava naquela sala assustadora.
+
+[MSG$0182FB,68]
+São dois mundos totalmente diferentes...aquela sala e onde estou agora.
+
+[MSG$018344,46]
+Um lugar onde a realidade e a fantasia se cruzam...
+
+[MSG$018377,46]
+Essa é a maneira perfeita de descrever aquele lugar.
+
+[MSG$0183B2,24]
+Minase "Estou indo para casa."
+
+[MSG$0183E4,34]
+Eu vou para casa junto com os outros.
+
+[MSG$018413,102]
+Eu passo pelo mesmo portão que os outros. No meu caminho para casa esta noite, meus passos parecem muito mais pesados...
+
+[MSG$018486,23]
+Porque minha bolsa é pesada?
+
+[MSG$0184AA,61]
+Isso mesmo, esse livro de magia está aqui dentro da minha bolsa.
+
+[MSG$0184F4,15]
+Abril 20 - Casa
+
+[MSG$0185E8,8]
+Click...
+
+[MSG$0185FD,20]
+Minase "Cheguei..."
+
+[MSG$01862B,69]
+Entro na casa vazia e silenciosa, sem chamar ninguém em particular.
+
+[MSG$018675,55]
+É um hábito meu, desde quando eu morava com minha família.
+
+[MSG$0186B9,42]
+Tiro meus sapatos e subo para meu quarto.
+
+[MSG$01876C,57]
+Normalmente eu simplesmente jogaria minha bolsa na cama, mas não hoje.
+
+[MSG$0187B2,94]
+Antes de jogá-lo fora, eu o abro, retiro o Livro de Magia embrulhado em pano e o coloco na minha mesa.
+
+[MSG$01881D,49]
+Então sento-me à minha mesa e retiro o pano.
+
+[MSG$01885B,71]
+Dou uma segunda olhada no livro, desta vez sob luzes fluorescentes...
+
+[MSG$0188E2,44]
+Um hexagrama branco desenhado na capa preta...
+
+[MSG$018913,57]
+Ele praticamente grita que é um livro sobre magia...
+
+[MSG$018959,86]
+Mas agora o livro dá uma impressão diferente de quando o vi naquele quarto escuro.
+
+[MSG$0189BC,66]
+Agora que está na minha mesa, ele se destaca como um polegar machucado.
+
+[MSG$018A03,38]
+É tão incongruente perto do meu laptop.
+
+[MSG$018A36,54]
+É um livro de aparência antiga cujo lugar é num museu.
+
+[MSG$018A71,73]
+Pela aparência das páginas, é muito mais antigo do que apenas 10 ou 20 anos.
+
+[MSG$018ABF,52]
+Um século... não, provavelmente tem alguns séculos...
+
+[MSG$018B00,36]
+Quem diabos escreveu isso e para quem?
+
+[MSG$018B29,52]
+E por que eu o encontrei naquele depósito no porão?
+
+[MSG$018B6A,73]
+É um mistério total, mas de qualquer forma, aqui está ele na minha mesa agora.
+
+[MSG$018BC0,86]
+Se eu pudesse ler o que estava nele, talvez eu pudesse desvendar um pouco do mistério...
+
+[MSG$018C23,38]
+Eu desato a corrente e abro o livro.
+
+[MSG$018CCF,64]
+Viro as páginas e examino a escrita sob as luzes fluorescentes.
+
+[MSG$018D1C,89]
+As páginas estão amareladas e manchadas aqui e ali. Junto com os diagramas enigmáticos,
+
+[MSG$018D7A,44]
+há notas manuscritas perfeitamente.
+
+[MSG$018DB3,93]
+Olhando mais de perto, vejo que as páginas não são feitas de papel...elas são feitas de pergaminho.
+
+[MSG$018E1D,98]
+O pergaminho, feito de pele de carneiro, era amplamente utilizado na Europa medieval para escrita. Ouvi dizer que é
+
+[MSG$018E84,86]
+|Usado até os dias de hoje, mas não é algo que você vê com frequência no Japão.
+
+[MSG$018EE7,12]
+(Viro a página)
+
+[MSG$018F00,47]
+Viro as páginas e passo os olhos pelo texto.
+
+[MSG$018F3C,40]
+Claro que nada realmente me chama a atenção.
+
+[MSG$018F69,90]
+Posso ver que está escrito no alfabeto romano, mas não tenho ideia de qual idioma é.
+
+[MSG$018FD0,78]
+A única coisa que posso ter certeza é que não é inglês. Não que eu seja fluente,
+
+[MSG$019023,60]
+mas não sou tão burro a ponto de não reconhecer que não é inglês.
+
+[MSG$019064,69]
+As palavras escritas nessas páginas que são grego para mim.
+
+[MSG$0190B6,91]
+Deve ser francês ou algo assim. Não, provavelmente é uma mistura de várias línguas diferentes..
+
+[MSG$019116,78]
+Aqui e ali vejo algumas palavras que não estão escritas no alfabeto romano.
+
+[MSG$019171,12]
+(Viro a página)
+
+[MSG$019187,12]
+(Viro a página)
+
+[MSG$0191A0,41]
+Não consigo ler nada.
+
+[MSG$0191CE,100]
+Se eu tentasse ler isso com a ajuda de um dicionário, levaria muito tempo e esforço.
+
+[MSG$01923F,109]
+Quem quer que tenha sido o dono deste livro há 12 anos deve ter estudado muito, se conseguiu ler tudo isso.
+
+[MSG$0192B9,12]
+(Viro a página)
+
+[MSG$0192D2,60]
+Paro para examinar uma página com o desenho de um grande talismã.
+
+[MSG$01931B,67]
+Formas geométricas...combinações complexas de triângulos e círculos...
+
+[MSG$019363,54]
+Eu não tinha ideia do que qualquer uma dessas coisas era.
+
+[MSG$0193A6,64]
+Minase "Não creio que eles pudessem ter qualquer tipo de poder, mas..."
+
+[MSG$019400,23]
+Viro mais algumas páginas.
+
+[MSG$019424,12]
+(Viro a página)
+
+[MSG$01943A,12]
+(Viro a página)
+
+[MSG$0194A4,76]
+Olhei atentamente para as ilustrações intercaladas com o texto.
+
+[MSG$0194F5,35]
+Todos eles eram muito bizarros.
+
+[MSG$019525,112]
+Atos anormais de cópula, desenhos monstruosos de animais e humanos... todas as ilustrações eram revoltantes.
+
+[MSG$01959A,58]
+Minha curiosidade me levou a olhar atentamente para esses desenhos.
+
+[MSG$0195E1,117]
+Cada desenho ilustrava o que estava acontecendo no livro naquela página. Mesmo que você não conseguisse ler o texto, era claro
+
+[MSG$01965B,37]
+|que uma história bizarra estava sendo contada.
+
+[MSG$01968D,36]
+Um desses desenhos me chamou a atenção.
+
+[MSG$0196BE,62]
+O primeiro mostrava um homem e uma mulher fazendo sexo em uma floresta.
+
+[MSG$019709,69]
+Mais tarde, a mulher desaparece e o homem é esfaqueado na cabeça,
+
+[MSG$019753,99]
+no coração e no pênis com uma espada, por um padre. A espada é decorada com uma cruz invertida.
+
+[MSG$0197C3,115]
+O cadáver é deixado onde está e dilacerado por leões, que enterram as partes do corpo no meio de uma determinada estrada.
+
+[MSG$019843,75]
+Então chega a lua cheia e um feiticeiro aparece com um livro debaixo do braço.
+
+[MSG$01989B,77]
+O feiticeiro desenha um círculo no chão, acrescentando uma cruz e símbolos secretos.
+
+[MSG$0198F5,56]
+Então ele entra no círculo e começa a entoar um feitiço.
+
+[MSG$01993A,69]
+Nesse momento, a mulher reaparece e tenta seduzir o feiticeiro.
+
+[MSG$019984,84]
+Mas o feiticeiro recusa seus avanços, pois está protegido pelo poder do círculo.
+
+[MSG$0199E5,94]
+Enfurecida, a mulher se transforma em uma súcubo feia e mostra suas presas para o feiticeiro.
+
+[MSG$019A48,67]
+Mas isso não tem efeito sobre o feiticeiro, seguro no círculo mágico.
+
+[MSG$019A98,90]
+TO feiticeiro continua a entoar seu feitiço, até que finalmente a súcubo desiste e vai embora.
+
+[MSG$019AFF,84]
+Quando o feiticeiro termina de cantar, as partes do corpo do homem formam um esqueleto e
+
+[MSG$019B58,9]
+ele levanta.
+
+[MSG$019B6E,112]
+O feiticeiro louva os céus e ergue o livro em direção ao céu. O esqueleto voa em direção à lua,
+
+[MSG$019BEB,56]
+Depois de ver esse desenho, fecho o livro e suspiro.
+
+[MSG$019CA8,48]
+Minase "Então é um feitiço para ressuscitar os mortos, é?"
+
+[MSG$019CF2,22]
+Que palhaçada...
+
+[MSG$019D15,88]
+Não sei quais os fundamentos ou para que propósito o autor teve ao criar este livro, mas
+
+[MSG$019D72,58]
+|só pude concluir que ele estava ridicularizando seus leitores.
+
+[MSG$019DB9,64]
+Se ele escreveu de boa fé, então ele deve ser muito louco.
+
+[MSG$019DFE,88]
+Havia outros desenhos semelhantes ao longo do livro, mas tudo era a mesma bobagem.
+
+[MSG$019E63,57]
+Ainda assim, pode ser precipitado rotular tudo como uma piada só por isso.
+
+[MSG$019EA1,48]
+Mas será que existe mesmo algo como magia?
+
+[MSG$019EDE,93]
+Eu não acredito nesse tipo de coisa, mas pelo menos, quem escreveu este livro,
+
+[MSG$019F40,68]
+e quem usou esse depósito há 12 anos acredita na magia...
+
+[MSG$019F91,46]
+Ou será que eles só queriam acreditar??
+
+[MSG$01A050,8]
+Click...
+
+[MSG$01A065,17]
+Voice "Cheguei!"
+
+[MSG$01A090,63]
+Ouço a porta abrir. Então ouço uma voz familiar chamando.
+
+[MSG$01A0DC,15]
+É minha irmã.
+
+[MSG$01A0F8,62]
+Fiquei tão entretido com este livro que perdi a noção do tempo...
+
+[MSG$01A143,8]
+Click...
+
+[MSG$01A18A,32]
+Yukiko "Ei, eu disse que cheguei em casa!"
+
+[MSG$01A1C4,61]
+Yukiko "Se você está aqui, o mínimo que você pode fazer é me responder!"
+
+[MSG$01A21B,51]
+Minha irmã mais velha abre a porta do meu quarto e entra.
+
+[MSG$01A253,25]
+Ela poderia pelo menos bater!
+
+[MSG$01A279,28]
+Yukiko "O que está fazendo aí?"
+
+[MSG$01A2AF,111]
+Yukiko "Ora, ora! Você está estudando mesmo, estou impressionada! Talvez eu não devesse te incomodar assim.."
+
+[MSG$01A3B4,39]
+Minha irmã olha o livro na minha mesa.
+
+[MSG$01A3E0,91]
+É tarde demais para eu esconder, então deixo que ela veja. Eu conheço minha irmã... se eu tentar esconder,
+
+[MSG$01A440,33]
+ela fará qualquer coisa para dar uma olhada.
+
+[MSG$01A4E7,13]
+Yukiko "Hein?"
+
+[MSG$01A50E,66]
+Yukiko "Ei, o que é isso? Tão obrigando vocês a aprender latim agora?"
+
+[MSG$01A56B,21]
+Minase "Até parece."
+
+[MSG$01A59A,47]
+Yukiko "Eu sei! Eu estava só brincando, claro.."
+
+[MSG$01A5E3,78]
+Yukiko "Mas onde você conseguiu esse livro? Ele está em péssimas condições!"
+
+[MSG$01A64B,55]
+Minase "Ah, isso? Eu peguei emprestado na escola."
+
+[MSG$01A69C,52]
+Yukiko "Vai mesmo me dizer que consegue ler isso?"
+
+[MSG$01A6EA,85]
+Yukiko "Ah, não precisa responder. Eu sei que isso está além da sua capacidade mental."
+
+[MSG$01A759,5]
+Grrr!
+
+[MSG$01A76B,44]
+Minase "Como se você conseguisse ler!"
+
+[MSG$01A7B1,97]
+Minha irmã se formou em Literatura Francesa e tem um bom domínio de francês, inglês e outras línguas.
+
+[MSG$01A817,82]
+Mas é só o que ela diz... Não tenho certeza de quão linguista ela realmente é.
+
+[MSG$01A876,27]
+Yukiko "Ah, claro que consigo!"
+
+[MSG$01A8AB,38]
+Minha irmã bate no peito.
+
+[MSG$01A8D6,44]
+Aqueles seios enormes dos quais ela tem tanto orgulho balançam.
+
+[MSG$01A907,30]
+Tenho minhas dúvidas...
+
+[MSG$01A932,41]
+Yukiko "Aqui, mostra pra mim."
+
+[MSG$01A975,49]
+Minha irmã me empurra para fora do caminho e se senta.
+
+[MSG$01AA43,29]
+Yukiko "Vejamos..."
+
+[MSG$01AA7A,62]
+Ela folheia as páginas e examina as linhas do texto.
+
+[MSG$01AAC5,70]
+Yukiko "Que tipo de livro é esse? É religioso ou algo assim?"
+
+[MSG$01AB25,43]
+Minase "E eu lá sei? Não dá pra eu ler!"
+
+[MSG$01AB6A,65]
+É o que eu digo a ela. Não vou deixar transparecer que é sobre magia.
+
+[MSG$01ABB8,43]
+Yukiko "Certo, idiotice minha perguntar."
+
+[MSG$01ABFD,63]
+Yukiko "Há muitas citações religiosas neste livro.
+
+[MSG$01AC41,45]
+Há também algumas passagens do Evangelho.
+
+[MSG$01AC89,38]
+Minha irmã continua virando as páginas.
+
+[MSG$01ACBC,60]
+Yukiko "Além disso, está escrito em muitas línguas diferentes."
+
+[MSG$01AD12,65]
+Yukiko "É principalmente latim e francês...há um pouco de hebraico também."
+
+[MSG$01AD6D,81]
+Yukiko "E tem algumas que eu não consigo ler... grego... e acho que isso é gaélico..."
+
+[MSG$01ADD8,56]
+Minha irmã murmura para si mesma enquanto olha o livro.
+
+[MSG$01AE1D,53]
+Minase "Não se preocupe com tudo isso, apenas leia pra mim."
+
+[MSG$01AE6C,35]
+Yukiko "Como se fosse fácil assim!"
+
+[MSG$01AEA9,42]
+Ela para de virar as páginas quando me ouve.
+
+[MSG$01AEE0,62]
+Minase "Qual é, você acabou de me dizer que seria fácil para você..."
+
+[MSG$01AF38,69]
+Yukiko "Não vou ler é nada se você for reclamar."
+
+[MSG$01AF97,52]
+Minase "Tá, foi mal. Vai ler agora?"
+
+[MSG$01AFE5,31]
+Eu me rebaixei para minha irmã.
+
+[MSG$01B009,67]
+Se eu a irritasse, não sei o que ela me faria fazer.
+
+[MSG$01B059,91]
+Yukiko "Bem melhor. Tudo bem, vou ler isso para você, meu irmãozinho ignorante."
+
+[MSG$01B0CE,56]
+Ela volta para a primeira página e olha fixamente para o texto.
+
+[MSG$01B113,24]
+Yukiko "Está em francês."
+
+[MSG$01B146,77]
+Yukiko "É uma frase difícil. Mas, claro, é moleza para mim."
+
+[MSG$01B1AD,75]
+Sim, me conte sobre isso, depois que você foi reprovado no exame de admissão na primeira vez!
+
+[MSG$01B205,37]
+Yukiko "Ready? I'm going to read it!"
+
+[MSG$01B244,59]
+Minha irmã começa a traduzir enquanto lê, sem pressa.
+
+[MSG$01B284,33]
+Isto é o que diz a primeira linha:
+
+[MSG$01B2B2,69]
+''Gremoire du constitutions avec un recveil des plus reres secrets.''
+
+[MSG$01B304,82]
+Yukiko "Este é o grande Grimório, contendo os segredos mais raros do mundo..."
+
+[MSG$01B370,45]
+Yukiko "Ha, ha, ha! Então é um Livro de Magia!"
+
+[MSG$01B3B7,49]
+Minase "Deixa pra lá! Continua lendo!"
+
+[MSG$01B402,28]
+Yukiko "Ei, não me apressa."
+
+[MSG$01B438,73]
+O próximo parágrafo era longo, e minha irmã levou um tempo para traduzi-la.
+
+[MSG$01B48E,105]
+Yukiko "As grandes leis da magia. Aqui você encontrará cânticos secretos para os Espíritos Sagrados das Trevas."
+
+[MSG$01B511,90]
+Yukiko "O trono dos Apóstolos será assumido por aquele a quem foi confiado a responsabilidade
+
+[MSG$01B570,34]
+|Com a chave para o reino dos Céus,
+
+[MSG$01B597,118]
+|nas palavras do Senhor Jesus Cristo a São Pedro: ''Eu te confiarei a chave do Reino dos Céus,''
+
+[MSG$01B612,84]
+e somente ele terá o poder de comandar o Senhor das Trevas e seus servos."
+
+[MSG$01B681,93]
+Yukiko "E eles também serão seus servos, e lhe trarão honra, glória e adoração.
+
+[MSG$01B6E3,91]
+Novamente de acordo com as palavras do Senhor Jesus Cristo, ''Servirás somente a um Deus.''"
+
+[MSG$01B758,86]
+Yukiko "Pelo poder da chave da Igreja, você se tornará o governante do Inferno..."
+
+[MSG$01B7C9,22]
+Yukiko "O que é ISSO?"
+
+[MSG$01B7F9,39]
+Minha irmã inclina a cabeça depois de ler.
+
+[MSG$01B82D,45]
+Eu não tinha ideia do que era aquilo.
+
+[MSG$01B867,14]
+(Flip)
+
+[MSG$01B882,25]
+Minha irmã vira a página.
+
+[MSG$01B8A8,48]
+Yukiko "A próxima parte é sobre Oração, e diz:"
+
+[MSG$01B8F3,109]
+Yukiko "Oramos para que este livro sirva a todos aqueles que o lerem e oramos pelo sucesso de seus empreendimentos,
+
+[MSG$01B965,27]
+e quem isso os beneficia."
+
+[MSG$01B99A,80]
+Yukiko "Pelo sangue do Senhor Jesus Cristo com o qual enchemos nossas taças diárias,
+
+[MSG$01B9EF,47]
+rezamos para que este livro sirva a todos que o lerem."
+
+[MSG$01BA38,83]
+Yukiko "Em nome do Pai, do Filho e do Espírito Santo, tu és purificado."
+
+[MSG$01BAA5,86]
+Yukiko "Após assumir o papel de governante do Inferno, serás purificado pelo Pai,
+
+[MSG$01BB00,33]
+Filho e Espírito Santo...??"
+
+[MSG$01BB26,21]
+Isso não está errado?"
+
+[MSG$01BB56,94]
+Yukiko "O estilo de escrita é semelhante ao do Evangelho, mas o que ele diz é totalmente o oposto.
+
+[MSG$01BBB9,29]
+Jesus nunca usaria magia!"
+
+[MSG$01BBF0,14]
+(flip)
+
+[MSG$01BC0B,115]
+Yukiko "A próxima página é uma lista do que está no livro... um índice. E essas palavras ridículas..."
+
+[MSG$01BC98,60]
+Yukiko "Feitiços...Invocação de Demônios...Ressuscitação dos Mortos..."
+
+[MSG$01BCEE,43]
+Minha irmã começa a ler a lista em voz alta.
+
+[MSG$01BD26,91]
+Assim como as ilustrações do livro, nenhum dos feitiços parecia realizável.
+
+[MSG$01BD8E,57]
+Yukiko "Um feitiço para fazer uma jovem dançar nua..."
+
+[MSG$01BDE1,39]
+Minase "Ei, traduz esse aí."
+
+[MSG$01BE22,45]
+Quando ela ouve isso, minha irmã para de ler.
+
+[MSG$01BE5C,19]
+Yukiko "Qual?"
+
+[MSG$01BE89,72]
+Minase "O que você acabou de ler, o da mulher pelada..."
+
+[MSG$01BEEB,72]
+Minha irmã parece exasperada e me encara com o canto do olho.
+
+[MSG$01BFC9,42]
+Yukiko "Seu punheteiro de merda!"
+
+[MSG$01C01E,4]
+Pá!
+
+[MSG$01C0B3,12]
+Minase "AI!"
+
+[MSG$01C0D9,58]
+Minha irmã me bateu nas costas o mais forte que pôde.
+
+[MSG$01C120,31]
+Minase "Vá com calma comigo, droga."
+
+[MSG$01C159,32]
+Yukiko "Você é um PERVERTIDO!"
+
+[MSG$01C193,5]
+Grrr!
+
+[MSG$01C1A5,19]
+Minase "Deixa pra lá!"
+
+[MSG$01C1D2,100]
+Yukiko "Calma, calma... Já que é para meu querido irmãozinho, vai ser um prazer traduzir para você."
+
+[MSG$01C250,14]
+Minase "....."
+
+[MSG$01C26B,94]
+Yukiko "Tudo bem, então vou ler para você agora. Fique atento, seu taradinho."
+
+[MSG$01C2E3,108]
+Minase "Chega disso! Só escolhi essa porque pensei que você também poderia fazer algo interessante."
+
+[MSG$01C390,70]
+Minha irmã abre o livro na página que eu havia pedido e começa a ler.
+
+[MSG$01C3E3,112]
+Yukiko "Primeiro, você escreve a primeira letra do nome da mulher com seu próprio sangue em um pedaço de pergaminho novo."
+
+[MSG$01C46E,109]
+Yukiko "Em seguida, você enrola o pergaminho em volta de uma pedra e coloca a pedra em cima do manuscrito para a missa.
+
+[MSG$01C4E0,35]
+E então recite a Oração do Senhor."
+
+[MSG$01C51E,80]
+Yukiko "Então você enche a porta pela qual essa mulher deveria passar com pedras."
+
+[MSG$01C588,92]
+Yukiko "E essa mulher vai enlouquecer. Quando você a vir dançando nua de uma maneira depravada,
+
+[MSG$01C5E9,53]
+você deve olhar para ela não com inveja, mas com pena..."
+
+[MSG$01C638,38]
+Yukiko "Há um aviso no final."
+
+[MSG$01C678,80]
+Yukiko "Mas tenha isso em mente... isso não é para os fracos de coração... Ouviu?"
+
+[MSG$01C6E2,75]
+Yukiko "Não diz que não é para os jovens e depravados...Sorte sua!"
+
+[MSG$01C747,35]
+Minase "Ah, cala essa boca!"
+
+[MSG$01C784,74]
+Yukiko "Mas é difícil acreditar que algo assim realmente funcionaria."
+
+[MSG$01C7E8,78]
+Yukiko "Qualquer um que acredite no que este livro diz é um retardado. Um retardado mesmo!"
+
+[MSG$01C850,39]
+Dito isso, minha irmã me encara fixamente.
+
+[MSG$01C884,103]
+Yukiko "Falando sério, não sei como você conseguiu colocar as mãos em um livro idiota como esse.."
+
+[MSG$01C905,41]
+Yukiko "E quando foi escrito, afinal??"
+
+[MSG$01C948,60]
+Minha irmã folheia as páginas do livro enquanto fala.
+
+[MSG$01C991,80]
+Yukiko "Nunca vi fotos antigas como essas, nem mesmo na biblioteca da pós-graduação."
+
+[MSG$01C9FB,102]
+Yukiko "E eu não sei quem escreveu isso, mas não acredito que alguém escreveria uma porcaria tão ridícula!"
+
+[MSG$01CA7B,80]
+Yukiko "Escuta. Não me diga que você está pensando em tentar isso em alguém!"
+
+[MSG$01CAE5,53]
+Minha irmã fixa seu olhar frio em mim enquanto diz isso.
+
+[MSG$01CB27,31]
+Minase "O que te interessa?"
+
+[MSG$01CB60,106]
+Yukiko "Eu sei que você é meu irmão mais novo, mas tenho vergonha de você. E pensar que você levaria essa bobagem a sério!"
+
+[MSG$01CBE4,117]
+Yukiko "Se você está tão ansioso para ver alguém dançando nu... Bem, eu posso fazer isso pra você!"
+
+[MSG$01CD19,66]
+Minha irmã se agarra pelos peitos e os mostra para mim.
+
+[MSG$01CD68,38]
+Minase "Eu não quero ver isso."
+
+[MSG$01CDA8,22]
+Eu lhe viro as costas.
+
+[MSG$01CDCB,28]
+Yukiko "Vamos, pode olhar!"
+
+[MSG$01CE01,77]
+Minha irmã começa a massagear os seios e aproxima-os do meu rosto.
+
+[MSG$01CE5B,12]
+Minase "..."
+
+[MSG$01CE74,68]
+Minha irmã se empolga e joga os seios em cima da minha cabeça.
+
+[MSG$01CEC5,23]
+Boing boing boing...
+
+[MSG$01CEE9,56]
+Yukiko "Pronto! O que acha? Tá gostando?"
+
+[MSG$01CF3B,16]
+Minase "......."
+
+[MSG$01CF58,25]
+Boing boing boing...
+
+[MSG$01CF7E,35]
+Minase "Sai! Sai de mim!"
+
+[MSG$01CFBB,98]
+Estou ficando cansado de minha irmã zombar de mim, então eu a empurro e a levo em direção à porta,
+
+[MSG$01D02A,27]
+Yukiko "Ficou bravinho?"
+
+[MSG$01D05F,25]
+Minase "Não! Vai embora!"
+
+[MSG$01D092,73]
+Empurro minha irmã para fora da porta. Ela sorri enquanto entra no corredor.
+
+[MSG$01D0E8,118]
+Yukiko "Tudo bem ler esse livro obsceno, mas não faça nada que possa te levar à prisão, seu pervertido."
+
+[MSG$01D178,31]
+Minase "Sai fora daqui, porra!"
+
+[MSG$01D1D5,6]
+Pá!
+
+[MSG$01D1E8,66]
+Eu jogo um travesseiro nela, que bate na porta no momento em que ela a fecha.
+
+[MSG$01D237,39]
+Pelo amor de Deus, ela me tira do sério as vezes!
+
+[MSG$01D263,40]
+Estou furioso enquanto me jogo de volta no meu assento.
+
+[MSG$01D31D,61]
+Minase "Um feitiço que faz uma mulher dançar pelada, é?"
+
+[MSG$01D374,39]
+Que tipo de feitiço é esse?
+
+[MSG$01D3A8,92]
+Eu sei que livros de magia são duvidosos, mas quem diria que essas coisas poderiam ser tão descaradamente
+
+[MSG$01D409,36]
+|indecente? É quase revigorante.
+
+[MSG$01D43A,68]
+Mas será que um feitiço tão obviamente fraudulento pode ter algum efeito real?
+
+[MSG$01D48B,78]
+Por que um livro que cita a Bíblia e Jesus também incluiria conteúdo obsceno assim?
+
+[MSG$01D4E6,41]
+Tanto faz...eu nunca saberia se não tentasse.
+
+[MSG$01D51C,114]
+Quer dizer, eu tenho o livro aqui na minha frente. Não custa nada tentar uma vez. E se fosse falso,
+
+[MSG$01D593,40]
+não aconteceria nada.
+
+[MSG$01D5C8,57]
+Minase "Por que não tentar uma vez só por diversão?"
+
+[MSG$01D61B,13]
+Flip
+
+[MSG$01D635,58]
+Abro o livro na página que contém o que estou procurando.
+
+[MSG$01D674,76]
+Ok, decidi testá-lo, então agora tenho que escolher alguém para usá-lo.
+
+[MSG$01D6CD,26]
+Minase "Mas em quem?"
+
+[MSG$01D701,76]
+Mesmo sabendo que não poderia funcionar, fico animado.
+
+[MSG$01D752,16]
+Peladas dançando...
+
+[MSG$01D767,64]
+Se um feitiço tão bom for real, quem não gostaria de usá-lo?
+
+[MSG$01D7B4,118]
+Se eu fosse fazer isso, pelo menos usaria alguém atraente, ou então não teria graça.
+
+[MSG$01D82F,45]
+De qualquer forma, é só uma simpatia... Eu deveria mirar alto.
+
+[MSG$01D869,55]
+Mas, por precaução, é melhor isentar as pessoas próximas a mim.
+
+[MSG$01D8A5,72]
+Claro que duvido que algo aconteça, mas é melhor ser precavido.
+
+[MSG$01D8FA,21]
+Então, em quem eu uso?
+
+[MSG$01DB67,17]
+A Imari?
+
+[MSG$01DB7D,102]
+Não, eu não deveria tentar algo assim com ela. É do jeito dela, mas ela cuida de mim todos os dias.
+
+[MSG$01DBF0,45]
+Além disso, não tenho vontade de ver Imari nua.
+
+[MSG$01DC22,49]
+Qual seria o sentido de ver seus peitos lisos?
+
+[MSG$01DC58,52]
+E além disso, costumávamos tomar banho juntos quando éramos crianças.
+
+[MSG$01DC99,32]
+Mesmo que eu visse os seios dela agora...
+
+[MSG$01DCC6,62]
+Tá, acho que quero dar uma olhada nela nua agora sim...
+
+[MSG$01DD09,37]
+Afinal, ela tem um corpo adulto...
+
+[MSG$01DD3B,23]
+Boing, boing, boing...
+
+[MSG$01DD5F,9]
+Não, espera aí.
+
+[MSG$01DD6D,82]
+Pensa bem... se Imari de repente começasse a dançar nua em algum lugar público...
+
+[MSG$01DDC4,47]
+...Iam achar que ela ficou maluca.
+
+[MSG$01DE00,98]
+E como amigo de infância dessa doida, além de ser aquela de quem ela cuida todas as manhãs,
+
+[MSG$01DE67,55]
+então eu estaria sujeito à mesma humilhação que Imari.
+
+[MSG$01DEAB,90]
+Toda vez que sairmos, o pessoal ia falar: ''Ei, olha o doido e a puta!'' Ou...
+
+[MSG$01DF12,79]
+"Eles ficam bem juntos, não é? Bem, claro, já que são iguais!"
+
+[MSG$01DF6E,91]
+''Não chega perto, eles vão tirar sua roupa!'' Coisa assim.
+
+[MSG$01DFD6,83]
+E Imari e eu seremos lançados no inferno de uma vida escolar implacavelmente cruel...
+
+[MSG$01E02E,50]
+Aterrorizante... só de pensar nisso é aterrorizante.
+
+[MSG$01E290,20]
+Que tal minha irmã?
+
+[MSG$01E2A9,70]
+Não, se ela descobrir, ela vai me matar, vai ser um banho de sangue.
+
+[MSG$01E2FC,71]
+Quer dizer, se eu tentar com ela e funcionar, como ela não vai saber?
+
+[MSG$01E350,59]
+Eu tremo...só de pensar no que vai rolar.
+
+[MSG$01E390,76]
+Minha irmã certamente me pagaria 100 vezes mais pelo que fiz a ela.
+
+[MSG$01E3E9,65]
+Minha irmã acredita em retaliar três vezes; esse é o lema dela.
+
+[MSG$01E42F,93]
+Se esse feitiço realmente funcionar, ela vai fazer três vezes pior comigo.
+
+[MSG$01E499,104]
+Eu provavelmente acabaria sendo escravo da minha irmã pelo resto da minha vida, ou pior.
+
+[MSG$01E50E,24]
+E pensa,
+
+[MSG$01E52B,75]
+...se Yukiko de repente começasse a dançar nua em algum lugar público...
+
+[MSG$01E57B,47]
+...Também iam achar que ela enlouqueceu.
+
+[MSG$01E5B7,63]
+E, embora ela fosse apenas minha prima, como membro da minha família,
+
+[MSG$01E5FB,110]
+meus pais e eu seríamos rejeitados pela sociedade como um todo, por termos o mesmo sangue em nossas veias que essa aberração,
+
+[MSG$01E676,79]
+Sempre que eu saisse, ia ter que ouvir, ''Olha lá! É a Família Sacana!'' Ou...
+
+[MSG$01E6D2,55]
+''Essa família é de um culto naturalista!'' ou...
+
+[MSG$01E716,57]
+''A Tara e o Dinho!'' Coisa assim.
+
+[MSG$01E75C,35]
+E isso destruiria a família.
+
+[MSG$01E78C,76]
+Meus pais perderiam seus empregos, se endividariam e fugiriam da cidade.
+
+[MSG$01E7DD,37]
+Minha irmã iria para a prostituição,
+
+[MSG$01E807,55]
+E eu mesmo ficaria viciado em alguma neocrença imbecil.
+
+[MSG$01E84B,57]
+Aterrorizante... só de pensar nisso era aterrorizante.
+
+[MSG$01E933,82]
+Alguém que não fosse tão próximo de mim e que tivesse um interesse em comum nisso seria o ideal.
+
+[MSG$01E992,21]
+Eu consigo pensar em uma...
+
+[MSG$01E9AC,9]
+Mika Ito.
+
+[MSG$01EAFE,76]
+Ela disse algo absurdo, que acreditava na magia negra de Saeki.
+
+[MSG$01EB4F,69]
+Foi ela quem me atacou hoje...ela seria perfeita para isso,
+
+[MSG$01EBA1,84]
+Para eu testar essa teoria mágica... não consegui pensar em pessoa melhor para tentar.
+
+[MSG$01EBFA,99]
+E já que ela teria a chance de usar seu próprio corpo para descobrir se a magia existia ou não,
+
+[MSG$01EC62,35]
+deveria ser uma honra para ela também.
+
+[MSG$01EC92,22]
+Ok, vai ser ela então.
+
+[MSG$01ECB5,73]
+Independentemente de haver ou não magia, eu ainda tiraria algo disso.
+
+[MSG$01ED0B,9]
+(Rindo)
+
+[MSG$01ED21,47]
+Só de pensar nisso, um sorriso me cai no rosto.
+
+[MSG$01ED55,22]
+Vai ser ótimo.
+
+[MSG$01EDAC,52]
+Minase "Não, espere. Calma aí, Minase...."
+
+[MSG$01EDFA,106]
+Percebi o quanto estava me afobando e interrompi abruptamente esse tesão precoce.
+
+[MSG$01EE69,91]
+Eu deixei minha imaginação correr solta, mas pensando bem, por que eu estava levando isso tão a sério?
+
+[MSG$01EED1,62]
+Não existe mágica. Fui eu quem disse isso.
+
+[MSG$01EF14,79]
+Mas aqui estava eu ​​pensando sobre o que aconteceria se realmente existisse...
+
+[MSG$01EF68,36]
+Eu evo ser o maior idiota do mundo.
+
+[MSG$01EF91,56]
+Não sou diferente de Saeki e suas apoiadores.
+
+[MSG$01EFD6,106]
+Melhor manter as coisas simples. Se eu criasse expectativas, só ficaria decepcionado quando nada acontecesse.
+
+[MSG$01F04D,39]
+De qualquer forma, eu tinha uma cobaia.
+
+[MSG$01F081,11]
+Mika Ito...
+
+[MSG$01F099,86]
+Ela não era nada feia e era uma das mulheres mais populares da nossa classe.
+
+[MSG$01F0F4,70]
+Tenho certeza de que todos os caras iam curtir ver ela sem roupa.
+
+[MSG$01F147,113]
+Não, isso é só um experimento para descobrir se a magia existe ou não. Ela tirar a roupa foi é um bônus.
+
+[MSG$01F1BD,26]
+Foi o que eu disse a mim mesmo.
+
+[MSG$01F1E4,39]
+E então me lembrei do depósito.
+
+[MSG$01F218,113]
+Se o boato sobre o que aconteceu lá fosse verdade, então este livro poderia ser mais poderoso do que qualquer um poderia imaginar.
+
+[MSG$01F28E,39]
+Vou ter que ter isso em mente.
+
+[MSG$01F2C2,57]
+Agora que tudo está resolvido, começo meus preparativos...
+
+[MSG$01F300,89]
+A julgar pela tradução que ouvi, o feitiço em si não parece ser muito complicado.
+
+[MSG$01F366,21]
+Minase "Vamos lá..."
+
+[MSG$01F395,28]
+Eu olho as anotações da minha irmã.
+
+[MSG$01F3BE,112]
+Minase "Primeiro, você escreve a primeira letra do nome da mulher com seu próprio sangue em um pedaço de pergaminho novo."
+
+[MSG$01F448,90]
+Não há como eu ter algum pergaminho comigo, e nenhuma chance de eu conseguir algum...
+
+[MSG$01F4AF,73]
+Minase "Vou substituir isso por um pedaço de papel não utilizado."
+
+[MSG$01F512,110]
+Minase "Em seguida, você enrola o pergaminho em volta de uma pedra e coloca a pedra em cima do manuscrito para a missa."
+
+[MSG$01F59A,55]
+Manuscrito para a Missa... Acho que estão falando da Bíblia.
+
+[MSG$01F5D6,65]
+Tenho quase certeza de que há uma Bíblia em algum lugar em casa.
+
+[MSG$01F61C,73]
+A julgar pelo conteúdo do Livro da Magia, o Novo Testamento deve dar pro gasto.
+
+[MSG$01F672,45]
+Minase "E então recite a Oração do Senhor..."
+
+[MSG$01F6BA,66]
+Oração do Senhor? Há uma no livro, mas está escrita em latim.
+
+[MSG$01F701,78]
+Bom, mesmo que eu não entenda o que está escrito, posso ler em voz alta.
+
+[MSG$01F75C,81]
+Minase "Em seguida, tenho que enterrar a pedra sob uma porta pela qual a mulher passará."
+
+[MSG$01F7C7,90]
+É mais fácil do que eu pensava... Se isso é tudo o que você precisa fazer para fazer uma mulher dançar nua,
+
+[MSG$01F826,45]
+então não haveria necessidade ir num bar strip.
+
+[MSG$01F860,76]
+Minase "Por fim, enterre a pedra sob uma porta pela qual a mulher passará..."
+
+[MSG$01F8C6,104]
+Porta? Não sei onde a Ito mora. Provavelmente consigo descobrir o endereço dela se eu olhar no registro da turma.
+
+[MSG$01F933,104]
+Mas se pode ser qualquer porta, então a escola seria o melhor lugar, já que ela certamente passaria por ela.
+
+[MSG$01FA30,81]
+Poucos minutos depois, eu tinha tudo o que precisava para o feitiço disposto na minha mesa.
+
+[MSG$01FA8E,73]
+Não é exatamente o que o livro pede, mas tenho certeza de que é bem próximo disso.
+
+[MSG$01FAE4,66]
+Minase "Primeiro, escrevo a primeira letra do nome da mulher..."
+
+[MSG$01FB40,77]
+Pego um estilete da minha mesa, pressiono contra meu dedo e corto lateralmente.
+
+[MSG$01FB9A,14]
+Minase "Ai!"
+
+[MSG$01FBC2,42]
+Há um corte no meu dedo de cerca de 5 mm de comprimento.
+
+[MSG$01FBF1,62]
+Pequenas bolhas vermelhas aparecem no corte e depois escorrem pelo meu dedo.
+
+[MSG$01FC34,37]
+Eu pego as gotas de sangue enquanto elas caem.
+
+[MSG$01FC66,82]
+Enrolo um band-aid no meu dedo e coloco um pedaço de papel novo na minha frente.
+
+[MSG$01FCC5,104]
+Então mergulho um palito de dente no sangue e escrevo uma única letra no pedaço de papel em branco.
+
+[MSG$01FD8B,33]
+Minase "Deve ser o bastante."
+
+[MSG$01FDC6,78]
+Eu seco a folha e pego uma pedra que encontrei e que parece ter o tamanho certo.
+
+[MSG$01FE21,76]
+Então enrolo a folha de papel em volta da pedra e a coloco sobre a Bíblia.
+
+[MSG$01FEF7,32]
+Minase "Agora a oração..."
+
+[MSG$01FF31,31]
+Eu recito as palavras do livro.
+
+[MSG$01FF5D,42]
+Minase "Pater noster, qui es in caelis..."
+
+[MSG$01FFA1,60]
+Começo a ler a longa passagem num tom calmo e mecânico.
+
+[MSG$01FFEA,65]
+Minase "Et ne nos inducas in tentationem, sed libera nos a malo."
+
+[MSG$020045,16]
+Minase "Amen..."
+
+[MSG$02006F,97]
+Finally Terminei e estou pronto. Agora só falta enterrar a pedra no lugar certo.
+
+[MSG$0200DD,27]
+Minase "Tudo pronto."
+
+[MSG$02018E,43]
+Olhando para o relógio, vejo que são 9 horas.
+
+[MSG$0201C6,54]
+Posso ir até a escola agora e enterrar essa coisa...
+
+[MSG$020201,61]
+Agora que cheguei até aqui, mal posso esperar para ver os resultados.
+
+[MSG$020243,87]
+Pelos meus cálculos, se eu enterrar agora, o momento da verdade chegará amanhã.
+
+[MSG$0202A7,56]
+Mas se nada sair disso tudo...que perda de tempo...
+
+[MSG$020382,65]
+Coloco a pedra embrulhada no meu bolso e saio de casa.
+
+[MSG$0203C8,52]
+E eu corro pelas ruas escuras em direção à escola.
+
+[MSG$020462,26]
+Abril 20 - Escola á noite
+
+[MSG$020518,74]
+Cerca de 10 minutos depois, estou em frente aos portões desertos da escola.
+
+[MSG$02056F,46]
+O céu está escuro e a brisa da noite é fria.
+
+[MSG$0205AA,46]
+A escola sinistramente silenciosa está na minha frente.
+
+[MSG$0205DD,69]
+A essa hora, não há dúvidas de que a escola está bem fechada.
+
+[MSG$02062F,89]
+Lá dentro também está escuro como breu. Só consigo ver as luzes de emergência no corredor.
+
+[MSG$02068D,48]
+A sala dos professores também parece estar deserta.
+
+[MSG$0206CA,67]
+Certifico-me de que não há ninguém por perto para me ver e subo pelo portão preto.
+
+[MSG$02071A,20]
+Minase "Lá vou eu."
+
+[MSG$020748,8]
+Thump...
+
+[MSG$020763,74]
+Cerca de 10 minutos depois, estou em frente aos portões desertos da escola.
+
+[MSG$0207BA,46]
+A escola sinistramente silenciosa está na minha frente.
+
+[MSG$0207ED,69]
+A essa hora, não há dúvidas de que a escola está bem fechada.
+
+[MSG$02083F,89]
+Lá dentro também está escuro como breu. Só consigo ver as luzes de emergência no corredor.
+
+[MSG$02089D,83]
+Mas os portões ainda estão abertos; talvez isso signifique que ainda há alguém na Sala dos Professores.
+
+[MSG$0208FD,65]
+Certifico-me de que não há ninguém por perto para me ver e entro pelo portão.
+
+[MSG$0209C7,60]
+Eu pulo o muro e pouso em segurança no terreno da escola.
+
+[MSG$020A10,56]
+Estar aqui à noite é outra coisa...
+
+[MSG$020A4D,75]
+Há uma brisa fria no pátio deserto da escola, passando pelo rosto.
+
+[MSG$020AA5,58]
+O prédio da escola me parece uma enorme lápide...
+
+[MSG$020AE4,46]
+E eu serei o único a caminhar por ela...
+
+[MSG$020B1F,21]
+Minase "Vamos lá..."
+
+[MSG$020B96,57]
+Ela vai ter que passar por algum lugar pra entrar na escola...
+
+[MSG$020BD4,48]
+Um lugar no qual poderei enterrar a pedra...
+
+[MSG$020C09,28]
+Mas onde?
+
+[MSG$020C32,45]
+Não há lugar algum onde eu possa cavar um buraco por aqui.
+
+[MSG$020C64,25]
+A não ser...
+
+[MSG$020C8A,52]
+Tenho quase certeza que consigo fazer isso na frente dos armários.
+
+[MSG$020D01,58]
+Tem que ser um lugar por onde ela tenha certeza de passar.
+
+[MSG$020D48,108]
+Ela definitivamente terá que passar pelo portão da escola, mas não há lugar para enterrar a pedra por ali.
+
+[MSG$020DC1,39]
+Por onde mais ela certamente passará?
+
+[MSG$020E6F,41]
+Abril 20 - Terreno em frente aos armários
+
+[MSG$020F18,33]
+Chego em frente aos armários.
+
+[MSG$020F46,87]
+Olho para o chão, tenho certeza de que consigo cavar um buraco ali, mas não apenas com as mãos.
+
+[MSG$020FAA,72]
+Eu me agacho e começo a arranhar um buraco com um pedaço de pau que encontro por perto.
+
+[MSG$020FF7,63]
+Escolho um local perto da entrada dos armários para nossas aulas.
+
+[MSG$021043,7]
+Cavando
+
+[MSG$021057,48]
+Minase "Eu não sei o que diabos estou fazendo..."
+
+[MSG$0210A1,87]
+Minase "Droga... se nada resultar de todo esse trabalho, a culpa será do livro!"
+
+[MSG$021112,76]
+Continuo resmungando assim enquanto continuo a cavar o buraco no chão.
+
+[MSG$021163,75]
+Finalmente tenho um buraco onde a pedra pode passar. Eu a jogo no buraco.
+
+[MSG$0211BB,49]
+Eu cubro com terra para que ninguém a cave de volta.
+
+[MSG$0211F1,87]
+Quando o buraco estiver completamente escondido, eu piso pelo terreno para que fique camuflado.
+
+[MSG$02124D,37]
+Não acho que alguém vai perceber
+
+[MSG$02127F,78]
+Agora só me resta esperar até amanhã. Tudo o que posso fazer agora é observar em silêncio.
+
+[MSG$0212DA,108]
+Eu tiro a sujeira das minhas mãos e saio do terreno da escola exatamente como cheguei, escalando o portão da escola....
+
+[MSG$0213A4,21]
+Abril 20 - Noite/Em casa
+
+[MSG$021457,75]
+Quando chego em casa, janto atrasado e tomo banho, á meia-noite.
+
+[MSG$0214AF,37]
+Minase "Eu deveria ir dormir agora."
+
+[MSG$0214EE,76]
+I close the book, which I'd left open on my desk. Then I turn out the light.
+
+[MSG$021547,43]
+Eu deslizo para a cama e penso no dia seguinte.
+
+[MSG$02157F,74]
+Muitas coisas aconteceram hoje, mas agora tudo o que consigo pensar é no amanhã.
+
+[MSG$0215CE,103]
+Não que eu acredite nesse negócio de mágica, mas estaria mentindo se dissesse que não esperava algo.
+
+[MSG$021642,45]
+Todas as minhas perguntas serão respondidas amanhã...
+
+[MSG$02167C,9]
+.........
+
+[MSG$021692,6]
+......
+
+[MSG$0216A5,3]
+...
