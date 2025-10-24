@@ -3,7 +3,7 @@
 <p>⚠️ AVISO: Este jogo não é adequado para menores.</p> <br/>
 <img src="https://kikachangames.github.io/bible-black/img/bb.jpg">
 
-<h3>"A noite de Walpurgis está chegando, então estamos conjurando os mortos..."</h3>
+<h3>"Zazas Zazas Nasatanada Zazas!"</h3>
 <br/>
 
 <p>Nesta página você poderá acompanhar o progresso da tradução, para a língua portuguesa, da visual novel<a href="https://vndb.org/v9" target="_blank"> Bible Black -La Noche de Walpurgis-</a>, lançada pela Active em 2000.</p>
@@ -87,7 +87,7 @@
 
 
 <hr>
-<p><small>Última atualização: 19/10/2025.</small></p>
+<p><small>Última atualização: 23/10/2025.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
 
