@@ -48,7 +48,7 @@
 </div>
 <div style="display:inline-block;">
 <h3>Manolo-chan</h3>
-  <p>Líder de projeto, edição de imagens e programação.</p>
+  <p>Líder de projeto e programação.</p>
 </div>
   <br/>
 
@@ -67,6 +67,15 @@
 <div style="display:inline-block;">
   <h3>Kazuki Minoru</h3>
    <p>Revisão e Quality Check.</p>
+</div>
+<br/>
+
+<div style="display:inline-block;vertical-align:top;">
+<img src="https://kikachangames.github.io/projetos/crynvalen.png">
+  </div>
+<div style="display:inline-block;">
+  <h3>Crynvalen</h3>
+   <p>Edição de imagens.</p>
 </div>
 <br/>
 <br/>
