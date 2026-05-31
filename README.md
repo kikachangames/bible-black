@@ -44,7 +44,7 @@
 <h3>Equipe</h3>
 <div>
 <div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/air/manolo.png">
+<img src="https://kikachangames.github.io/air/manolo.png" width="160" height="160">
 </div>
 <div style="display:inline-block;">
 <h3>Manolo-chan</h3>
@@ -53,7 +53,7 @@
   <br/>
 
 <div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/projetos/img/takumi.png">
+<img src="https://kikachangames.github.io/projetos/img/takumi.png" width="160" height="160">
 </div>
 <div style="display:inline-block;">
   <h3>Takumi</h3>
@@ -62,7 +62,7 @@
 <br/>
 
 <div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/moon/kazuki.png">
+<img src="https://kikachangames.github.io/moon/kazuki.png" width="160" height="160">
   </div>
 <div style="display:inline-block;">
   <h3>Kazuki Minoru</h3>
@@ -71,7 +71,7 @@
 <br/>
 
 <div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/projetos/img/crynvalen.png">
+<img src="https://kikachangames.github.io/projetos/img/crynvalen.png" width="160" height="160">
   </div>
 <div style="display:inline-block;">
   <h3>Crynvalen</h3>
