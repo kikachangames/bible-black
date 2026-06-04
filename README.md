@@ -82,6 +82,7 @@
 
 <h3>Agradecimentos</h3>
 <p><a href="http://web.archive.org/web/20050211030741/http://www.active-soft.jp/" target="_blank">Active Software</a></p>
+<p><a href="https://everpresentfeelingoficial.wordpress.com/" target="_blank">Ever Present Feeling</a></p>
 <p><a href="https://github.com/RikuKH3/bblack_transkit" target="_blank">RikuKH3</a></p>
 <p><a href="https://www.youtube.com/@TakumiEnferrujado" target="_blank">Takumi Enferrujado</a></p>
 <br/>
@@ -94,7 +95,7 @@
 
 
 <hr>
-<p><small>Última atualização: 31/05/2026.</small></p>
+<p><small>Última atualização: 04/06/2026.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
 
