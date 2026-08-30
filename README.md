@@ -43,14 +43,6 @@
 
 <h3>Equipe</h3>
 <div>
-<div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/air/manolo.png" width="160" height="160">
-</div>
-<div style="display:inline-block;">
-<h3>Manolo-chan</h3>
-  <p>Líder de projeto e programação.</p>
-</div>
-  <br/>
 
 <div style="display:inline-block;vertical-align:top;">
 <img src="https://kikachangames.github.io/projetos/img/takumi.png" width="160" height="160">
@@ -62,13 +54,13 @@
 <br/>
 
 <div style="display:inline-block;vertical-align:top;">
-<img src="https://kikachangames.github.io/moon/kazuki.png" width="160" height="160">
-  </div>
-<div style="display:inline-block;">
-  <h3>Kazuki Minoru</h3>
-   <p>Revisão e Quality Check.</p>
+<img src="https://kikachangames.github.io/air/manolo.png" width="160" height="160">
 </div>
-<br/>
+<div style="display:inline-block;">
+<h3>Manolo-chan</h3>
+  <p>Programação e revisão.</p>
+</div>
+  <br/>
 
 <div style="display:inline-block;vertical-align:top;">
 <img src="https://kikachangames.github.io/projetos/img/crynvalen.png" width="160" height="160">
@@ -95,7 +87,7 @@
 
 
 <hr>
-<p><small>Última atualização: 04/06/2026.</small></p>
+<p><small>Última atualização: 29/08/2026.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
 
