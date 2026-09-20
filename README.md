@@ -16,14 +16,15 @@
 <p>Rumores dizem que alguns alunos realizam rituais satânicos na escola, mas os professores fingem não saber de nada. Você é um estudante comum que encontra o livro usado pelo culto — e, ao abri-lo, desperta seus poderes sombrios. Agora, os boatos giram em torno de você, e tanto os seus amigos quanto os membros da escola começam a desconfiar. O que fará com esse poder maligno?</p>
 <br/>
 
-<h3>Progresso da tradução: 36,4%</h3>
+<h3>Progresso da tradução</h3>
+<p>[▓▓▓▓░░░░░░] 40%</p>
 
 <ul>
     <li>20/04 - 100%</li>
     <li>21/04 - 100%</li>
     <li>22/04 - 100%</li>
     <li>23/04 - 100%</li>
-    <li>24/04 - 0%</li>
+    <li>24/04 - 35%</li>
     <li>25/04 - 0%</li>
     <li>26/04 - 0%</li>
     <li>27/04 - 0%</li>
@@ -63,7 +64,7 @@
 </div>
 <div style="display:inline-block;">
 <h3>Manolo-chan</h3>
-  <p>Programação e revisão.</p>
+  <p>Tradução e Programação.</p>
 </div>
   <br/>
 
