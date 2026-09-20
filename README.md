@@ -69,6 +69,15 @@
   <br/>
 
 <div style="display:inline-block;vertical-align:top;">
+<img width="160" height="160" alt="darksoner" src="https://github.com/user-attachments/assets/b89f0cbb-8637-4416-8bf1-607dc71bd45c" />
+</div>
+<div style="display:inline-block;">
+<h3>Darksoner</h3>
+  <p>Revisão.</p>
+</div>
+  <br/>
+
+<div style="display:inline-block;vertical-align:top;">
 <img src="https://kikachangames.github.io/projetos/img/crynvalen.png" width="160" height="160">
   </div>
 <div style="display:inline-block;">
@@ -85,7 +94,7 @@
 <p><a href="https://www.youtube.com/@TakumiEnferrujado" target="_blank">Takumi Enferrujado</a></p>
 <br/>
 
-<h3>Download</h3>
+<h3>Download do patch</h3>
 <p>Em breve...</p>
 
 <br/>
@@ -93,7 +102,7 @@
 
 
 <hr>
-<p><small>Última atualização: 29/08/2026.</small></p>
+<p><small>Última atualização: 20/09/2026.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
 
