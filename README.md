@@ -69,7 +69,7 @@
   <br/>
 
 <div style="display:inline-block;vertical-align:top;">
-<img width="160" height="160" alt="dark" src="https://github.com/user-attachments/assets/470fb897-be20-40f1-aa4e-a1ff6ed633f8" />
+<img width="160" height="160" alt="darksoner" src="https://github.com/user-attachments/assets/f6dac883-b314-4b2a-bbf6-99f26bff74bc" />
 </div>
 <div style="display:inline-block;">
 <h3>Darksoner</h3>
