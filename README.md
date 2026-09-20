@@ -1,4 +1,4 @@
-<p>⚠️ AVISO: Este jogo não é adequado para menores.</p> <br/>
+<p>⚠️ AVISO: Este jogo não é adequado para menores.</p>
 <div class="tags-badges">
   <img src="https://img.shields.io/badge/18+-darkred?style=flat" alt="Conteúdo 18+" />
   <img src="https://img.shields.io/badge/Magia%20negra-2f3e46?style=flat" alt="Magia negra" />
@@ -69,7 +69,7 @@
   <br/>
 
 <div style="display:inline-block;vertical-align:top;">
-<img width="160" height="160" alt="dark" src="https://github.com/user-attachments/assets/a2a38bd7-97e4-4ce8-83cc-9b72dc9b0a86"/>
+<img width="160" height="160" alt="dark" src="https://github.com/user-attachments/assets/58e6f819-bf5a-49d9-a79c-0c9fb9d2e214"/>
 </div>
 <div style="display:inline-block;">
 <h3>Darksoner</h3>
