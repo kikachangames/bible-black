@@ -1,10 +1,9 @@
+<p>⚠️ AVISO: Este jogo não é adequado para menores.</p> <br/>
 <div class="tags-badges">
   <img src="https://img.shields.io/badge/18+-darkred?style=flat" alt="Conteúdo 18+" />
   <img src="https://img.shields.io/badge/Magia%20negra-2f3e46?style=flat" alt="Magia negra" />
   <img src="https://img.shields.io/badge/Mistério-4b0000?style=flat" alt="Mistério" />
-  div>
-<p>⚠️ AVISO: Este jogo não é adequado para menores.</p> <br/>
-
+</div>
 <img src="https://kikachangames.github.io/bible-black/img/bb.jpg">
 
 <h3>"Zazas Zazas Nasatanada Zazas!"</h3>
