@@ -1,0 +1,5653 @@
+﻿#Size=156358
+
+[MSG$0002FF,20]
+Grim&rio de Hon&rio
+
+[MSG$000320,40]
+Saeki "Esse $ o grim&rio do Papa Hon&rio."
+
+[MSG$000362,98]
+Saeki "Dizem que o manuscrito original foi escrito pelo Papa Hon&rio III no s$culo XIII,
+
+[MSG$0003C9,32]
+|mas na verdade era um falso papa.
+
+[MSG$0003EE,61]
+|Chama-se Cardus, quem o escreveu... $ um livro de magia infame."
+
+[MSG$000445,59]
+Saeki "O mais impressionante $ que voc] consegue perceber que
+
+[MSG$000485,81]
+|os rituais foram fortemente influenciados pelos utilizados nas cerim\nias da missa cat&lica.
+
+[MSG$0004DB,53]
+Exceto, $ claro, que o conte`do $ de Magia Negra.
+
+[MSG$000515,71]
+Existem in`meros feiti~os que afirmam ter sido aprovados pelo Papa.
+
+[MSG$000576,52]
+Saeki "Existem muitas lendas em torno deste livro.
+
+[MSG$0005AF,80]
+Segundo uma fonte, voc] pode us#-lo para encontrar a localiza~=o do esconderijo dos
+
+[MSG$000604,18]
+|Cavaleiros Templ#rios."
+
+[MSG$000643,10]
+Drag=o Vermelho
+
+[MSG$00065A,65]
+Saeki "Drag=o Vermelho. No Jap=o, $ conhecido como o livro m#gico Akaryu."
+
+[MSG$0006B6,81]
+Saeki "Como livro destinado [ divulga~=o da magia, $ o mais conhecido."
+
+[MSG$000722,79]
+Saeki "O curso foca principalmente na comunica~=o com esp%ritos e em como atuar como m$dium.
+
+[MSG$000776,61]
+E $ baseado em um manuscrito escrito no s$culo XVI...
+
+[MSG$0007B8,58]
+Embora supostamente tenha sido publicado no s$culo XIX."
+
+[MSG$00080D,66]
+Saeki "Como h# muita sobreposi~=o com 'O Grande Grim&rio',
+
+[MSG$000854,65]
+$ frequentemente considerado uma vers=o alterada, com v#rios adendos."
+
+[MSG$0008C3,12]
+A Franga Preta
+
+[MSG$0008DC,77]
+Saeki "Este $ um livro para a divulga~=o da magia chamado 'Black Pullet'.
+
+[MSG$00092E,61]
+; um livro de magia muito conhecido e popular no Jap=o."
+
+[MSG$000985,54]
+Saeki "Dizem que $ baseado em um manuscrito antigo.
+
+[MSG$0009C0,74]
+Cont$m in`meros amuletos contra o mal, bem como c%rculos de prote~=o
+
+[MSG$000A0F,35]
+|e os c@nticos que os acompanham."
+
+[MSG$000A4C,84]
+Saeki "O famoso c@ntico: 'Elohim Essaim, eu te imploro' est# registrado neste livro."
+
+[MSG$000ACD,14]
+O Grande Grim&rio
+
+[MSG$000AE8,104]
+Saeki "Este $ um livro de magia publicado na Fran~a por volta do s$culo XVIII, conhecido como 'O Grande Grim&rio'."
+
+[MSG$000B6A,105]
+Saeki "O livro aborda a necromancia, principalmente a comunica~=o com os esp%ritos dos mortos e a invoca~=o de dem\nios."
+
+[MSG$000C00,46]
+O Livro da Magia Sacra de Abram$lin, o Mago
+
+[MSG$000C3B,58]
+Saeki "Este $ um famoso livro de magia chamado 'Abram$lin'."
+
+[MSG$000C8F,106]
+Saeki "Dizem que foi escrito pelo feiticeiro Abra=o de W}rzburg para seu filho Lameque, no s$culo XV.
+
+[MSG$000CFE,66]
+Mas algumas fontes dizem que na verdade foi escrito no s$culo XVIII."
+
+[MSG$000D5A,89]
+Saeki "; um livro sobre a pr#tica da magia e cont$m todos os tipos de s%mbolos m#gicos."
+
+[MSG$000DE0,9]
+Lemegeton
+
+[MSG$000DF6,63]
+Saeki "'Lemegeton'. Popularmente conhecido como a 'Chave Menor de Salom=o',
+
+[MSG$000E3A,70]
+$ um grande livro de magia que dizem ter sido escrito pelo Rei Salom=o."
+
+[MSG$000E9A,73]
+Saeki "Tamb$m $ conhecido como 'Goetia', em refer]ncia ao primeiro texto, ou Livro Um."
+
+[MSG$000EFD,75]
+Saeki "; composto por 4 textos no total... Ars Goetia,
+
+[MSG$000F4D,62]
+Ars Theurgia Goetia, Ars Paulina e Ars Almadel.
+
+[MSG$000F90,110]
+Cont$m informa~^es sobre feiti~os poderosos, como invocar 72 dem\nios diferentes, e outros encantamentos."
+
+[MSG$001018,112]
+Saeki "; o mais famoso de todos os livros de magia. Todos que j# se aventuraram na magia possuem uma c&pia
+
+[MSG$00108D,42]
+disso, juntamente com a 'Chave de Salom=o'."
+
+[MSG$0010E4,15]
+Grimorium Verum
+
+[MSG$001100,98]
+Saeki "Esse $ o 'Livro da Verdade' e foi publicado em M]nfis pelo eg%pcio Aribek,
+
+[MSG$001167,22]
+no s$culo XVI."
+
+[MSG$001197,109]
+Saeki "O manuscrito original foi escrito em hebraico, usando a 'Chave de Salom=o' como guia. Diz-se que um
+
+[MSG$001209,45]
+monge dominicano traduziu para japon]s."
+
+[MSG$001250,66]
+Saeki "Existem outros livros de magia baseados na 'Chave de Salom=o'
+
+[MSG$001297,75]
+|e suas varia~^es como a 'Verdadeira Magia Negra', ou os 'Segredos dos Segredos', etc."
+
+[MSG$00130F,14]
+Chave de Salom=o
+
+[MSG$00132A,107]
+Saeki "A 'Chave de Salom=o'. De todos os livros de magia, este $ considerado o mais importante."
+
+[MSG$0013AF,65]
+Saeki "Dizem que foi escrito pelo rei hebreu Salom=o,
+
+[MSG$0013F5,84]
+e existem, de fato, registros de sua exist]ncia que remontam ao s$culo I a.C."
+
+[MSG$001463,115]
+Saeki "Por isso, existem muitas vers^es em diversos idiomas. A edi~=o mais antiga $ a vers=o grega,
+
+[MSG$0014DB,62]
+do s$culo XII, que pertence ao Museu Brit@nico."
+
+[MSG$001534,118]
+Saeki "O livro aborda rituais de invoca~=o de dem\nios e diversas cerim\nias em detalhes. In`meros praticantes de magia
+
+[MSG$0015AF,96]
+|reconheceram seu poder ao longo dos anos. No s$culo XV, chegou a ser proibido pela Igreja."
+
+[MSG$001629,80]
+Saeki "N=o seria exagero dizer que todos os livros de magia foram
+
+[MSG$00167E,49]
+|influenciado de alguma forma pela 'Chave de Salom=o'..."
+
+[MSG$00181D,48]
+Diga [ Imari que n=o quer almo~ar com ela.
+
+[MSG$00186A,45]
+Ir almo~ar na cantina
+
+[MSG$0018BC,18]
+Gozar fora
+
+[MSG$0018EB,15]
+Gozar dentro
+
+[MSG$00191F,18]
+Enfiar no cu
+
+[MSG$00194E,27]
+Implorar pra ela fazer anal
+
+[MSG$00198E,4]
+Claro
+
+[MSG$0019AF,6]
+Sem chance
+
+[MSG$0019DA,20]
+O Grim&rio do Papa Hon&rio
+
+[MSG$001A27,10]
+Drag=o Vermelho
+
+[MSG$001A6A,12]
+A Franga Preta
+
+[MSG$001AAF,14]
+O Grande Grim&rio
+
+[MSG$001AF6,46]
+O Livro da Magia Sacra de Abram$lin, o Mago
+
+[MSG$001B5D,9]
+Lemegeton
+
+[MSG$001B9F,15]
+Grimorium Verum
+
+[MSG$001BE7,14]
+Chave de Salom=o
+
+[MSG$001C36,20]
+O Grim&rio do Papa Hon&rio
+
+[MSG$001C83,10]
+Drag=o Vermelho
+
+[MSG$001CC6,12]
+A Franga Preta
+
+[MSG$001D0B,14]
+O Grande Grim&rio
+
+[MSG$001D52,46]
+O Livro da Magia Sacra de Abram$lin, o Mago
+
+[MSG$001DB9,9]
+Lemegeton
+
+[MSG$001DFB,15]
+Grimorium Verum
+
+[MSG$001E43,14]
+Chave de Salom=o
+
+[MSG$001E8A,10]
+- Parar de olhar -
+
+[MSG$001EB9,34]
+Explicar a hist&ria
+
+[MSG$001EF8,13]
+Rejeitar
+
+[MSG$001F2A,39]
+Confesse o segredo do Livro de Magia
+
+[MSG$001F6E,18]
+Recuse-se a mostrar pra ela.
+
+[MSG$001FA5,26]
+Quero gozar no rosto dela.
+
+[MSG$001FDC,17]
+Gozar na boca dela
+
+[MSG$002012,20]
+Deixe-se levar pela sua lux`ria.
+
+[MSG$002043,18]
+Simplesmente a rejeite.
+
+[MSG$0021B4,18]
+23 de abril - Manh=
+
+[MSG$0022AA,18]
+Imari "Acorda..."
+
+[MSG$0022D6,23]
+Imari "J# amanheceu..."
+
+[MSG$002307,17]
+Imari "Anda!"
+
+[MSG$002332,25]
+(Mexe, mexe, remexe...)
+
+[MSG$0023E8,64]
+Como sempre, ignoro descaradamente a Imari, que est# tentando me acordar.
+
+[MSG$002435,49]
+Fiquei acordado at$ as 3 da manh= ontem [ noite, lendo aquele livro.
+
+[MSG$00246B,61]
+Mesmo assim, ainda n=o consegui compreender os detalhes do ritual.
+
+[MSG$0024B5,51]
+Imari "Voc] vai se levantar, n$? T# bom, ent=o..."
+
+[MSG$002502,64]
+Ap&s alguns ru%dos, consigo ouvir Imari falando sozinha.
+
+[MSG$00254F,57]
+Imari "Bom, tenho exatamente o que voc] precisa!"
+
+[MSG$0025A2,44]
+Imari "Diga-me, Mike, o que $ isso?"
+
+[MSG$0025E8,21]
+Imari "Bem,
+
+[MSG$002602,80]
+$ algo que foi projetado apenas pra quem n=o consegue se levantar
+
+[MSG$002657,42]
+|de manh= com um despertador normal.
+
+[MSG$002686,69]
+; uma ferramenta inovadora que aproveita ao m#ximo as maravilhas da ci]ncia."
+
+[MSG$0026E5,111]
+Imari "; bem simples. Voc] programa o temporizador e prende o cord=o ao corpo da pessoa. Quando chegar a hora de levantar,
+
+[MSG$002759,87]
+voc] ter# uma experi]ncia de despertar agrad#vel gra~as a uma corrente el$trica de alta voltagem."
+
+[MSG$0027CA,35]
+Imari "Nossa, que legal Mike.
+
+[MSG$0027F2,95]
+Agora, mesmo algu$m como eu, que tenho press=o baixa, n=o precisar# mais se preocupar em levantar da cama."
+
+[MSG$00286B,50]
+Imari "Ent=o, por que n=o vemos como isso funciona?"
+
+[MSG$0028B7,21]
+Imari "Vamos l#..."
+
+[MSG$0028E6,48]
+Sinto algo sendo preso [ minha perna....
+
+[MSG$002923,7]
+(Clique...)
+
+[MSG$002E7E,4]
+*Bzzt!*
+
+[MSG$002E8F,14]
+Minase "Augh!"
+
+[MSG$002EB7,68]
+Eu salto da cama quando uma forte descarga el$trica sacode meu corpo.
+
+[MSG$002F00,66]
+Quando coloco as m=os na cabe~a, todo o meu cabelo fica arrepiado.
+
+[MSG$002FEE,45]
+Imari "Vixe, a voltagem tava muito forte?"
+
+[MSG$003035,35]
+Minase "T# tentando me matar?!"
+
+[MSG$003072,18]
+Eu grito com Imari.
+
+[MSG$003091,31]
+Minase "Que merda foi essa?!"
+
+[MSG$0030CA,63]
+Observo com mais aten~=o aquela coisa parecida com uma pulseira em volta da minha perna.
+
+[MSG$00310E,31]
+Tem um cabo saindo dele.
+
+[MSG$00313A,53]
+Eu rastreio o cabo at$ uma caixa preta de apar]ncia estranha.
+
+[MSG$003174,33]
+Parece um despertador enorme.
+
+[MSG$0031A2,49]
+Imari "Comprei no canal de compras da Home Shopping Network."
+
+[MSG$0031ED,78]
+Imari "Ele foi projetado para fazer voc] pular da cama com um choque el$trico cronometrado."
+
+[MSG$003255,41]
+Quem compraria um dispositivo de tortura desses?
+
+[MSG$003283,37]
+N=o seria melhor se matar de vez?
+
+[MSG$0032B5,62]
+Imari "N=o entendi... Eu n=o configurei a voltagem l# em cima..."
+
+[MSG$00330D,61]
+Dito isso, Imari come~a a inspecionar o medidor da caixa preta.
+
+[MSG$003357,60]
+Imari "Ah, espera, foi mal... o n%vel de sa%da estava no m#ximo."
+
+[MSG$0033DF,59]
+Imari "Eu li "M%nimo" em vez de "M#ximo"... ha, ha, ha!"
+
+[MSG$003434,95]
+Ah, foi? Ent=o qual seria a voltagem para acordar algu$m?
+
+[MSG$003498,51]
+Se eu tivesse um cora~=o fraco, j# estaria morto, com certeza.
+
+[MSG$0034D8,51]
+Arranco a pulseira e saio da cama.
+
+[MSG$003510,47]
+Nossa... N=o acredito que ela comprou uma coisa dessas.
+
+[MSG$00354C,56]
+Imari "Achei que seria perfeito para voc], Minase..."
+
+[MSG$00359E,83]
+Imari diz isso baixinho, num tom de desculpas, enquanto eu come~o a me vestir, irritado.
+
+[MSG$0035FE,44]
+Imari "Bom, comprei s& pra voc], ent=o use, ok?"
+
+[MSG$003644,18]
+Mas nem morto!
+
+[MSG$00367E,26]
+23 de abril - Indo pra escola.
+
+[MSG$003723,29]
+Estamos indo para a escola como de costume.
+
+[MSG$00374D,24]
+Algo n=o me parece certo...
+
+[MSG$00376A,24]
+Tudo est# normal demais...
+
+[MSG$00378F,62]
+; dif%cil acreditar que eu tenha lan~ado aquele feiti~o m#gico ontem.
+
+[MSG$0037D2,71]
+N=o h# d`vidas de que Imari $ a mesma Imari de sempre.
+
+[MSG$003826,54]
+Mas como isso $ poss%vel? Tenho certeza de que devia funcionar...
+
+[MSG$003869,15]
+Minase "Ei..."
+
+[MSG$003892,13]
+Imari "Oi?"
+
+[MSG$0038B9,35]
+Minase "T# sentindo alguma diferen~a?"
+
+[MSG$0038F6,25]
+Imari "Em qu]?"
+
+[MSG$003929,66]
+Minase "Sabe... tipo, ser# que voc] sente algo diferente por mim?"
+
+[MSG$003985,12]
+Imari "Hein?"
+
+[MSG$0039AB,62]
+Minase "Quer dizer... voc] n=o sente nada quando olha para mim?"
+
+[MSG$003A03,21]
+Imari "Nadinha..."
+
+[MSG$003A32,23]
+Imari "Ah, calma..."
+
+[MSG$003A63,62]
+Imari olha para mim como se tivesse acabado de ter uma ideia.
+
+[MSG$003AAE,14]
+Minase "O qu]?"
+
+[MSG$003AD6,28]
+Imari "Voc] t# com o cabelo todo bagun~ado."
+
+[MSG$003B0C,4]
+Ah!
+
+[MSG$003B1D,50]
+N=o adiantou, o feiti~o n=o fez efeito...
+
+[MSG$003B5C,107]
+Mas por qu]? N=o havia como questionar o poder do feiti~o que lancei em Murai, ent=o como Imari poderia n=o ter sido afetada?
+
+[MSG$003BD4,86]
+Eu sei que n=o errei o feiti~o. Ent=o, como $ que consegui com uma e n=o com a outra?
+
+[MSG$003C2F,68]
+Ou ser# que existe algum tipo de diferen~a entre as duas?
+
+[MSG$003C80,79]
+Pensando bem, o Livro de Magia tinha mesmo uma nota de advert]ncia no final...
+
+[MSG$003CDC,72]
+'Se a pessoa que recebe o feiti~o j# tiver algum sentimento por quem o lan~a,
+
+[MSG$003D29,50]
+$ duvidoso que o feiti~o surta efeito.
+
+[MSG$003D60,44]
+O amor falso $ impotente diante do amor verdadeiro...'
+
+[MSG$003D99,30]
+Ent=o quer dizer que a Imari...
+
+[MSG$003DCA,26]
+23 de abril - Indo para a escola
+
+[MSG$003E6F,31]
+Estamos indo para a escola como de costume...
+
+[MSG$003E9B,52]
+Tudo est# como sempre esteve... at$ agora.
+
+[MSG$003EDC,48]
+Mas alguma mudan~a precisa acontecer hoje.
+
+[MSG$003F11,94]
+Isso mesmo, se o feiti~o que lancei ontem for real, devo estar vendo os resultados hoje.
+
+[MSG$003F7C,24]
+E se rolar...
+
+[MSG$003FA1,78]
+Eu me perco em devaneios sobre o que o dia de hoje pode me reservar e dou um sorriso de canto de boca.
+
+[MSG$003FFC,35]
+Imari "T# rindo que qu]?"
+
+[MSG$004039,19]
+Minase "Nada n=o..."
+
+[MSG$004067,91]
+Percebo que Imari est# me olhando com desconfian~a e rapidamente volto ao meu modo normal.
+
+[MSG$0040CF,105]
+Imari "N=o sei, tenho um mau pressentimento... voc] est# pensando em alguma safadeza, n=o $?"
+
+[MSG$004152,42]
+Minase "N=o acredito que voc] t# fazendo isso mesmo!"
+
+[MSG$004196,36]
+Imari "Meh, n=o importa."
+
+[MSG$0041DC,18]
+23 de abril - Arm#rios
+
+[MSG$00426D,64]
+Eu tiro meus sapatos de rua e pego meus t]nis no meu arm#rio.
+
+[MSG$0042BA,9]
+(Mexe...)
+
+[MSG$0042D0,13]
+Minase "Hmm?"
+
+[MSG$0042F7,83]
+No instante em que tiro os sapatos do arm#rio, algo quadrado cai no ch=o.
+
+[MSG$004389,35]
+Imari "Ei, voc] deixou cair alguma coisa."
+
+[MSG$0043C6,13]
+Eu me abaixo e pego.
+
+[MSG$0043E0,26]
+Imari "Uma carta?"
+
+[MSG$004414,22]
+$ um envelope branco.
+
+[MSG$00442F,63]
+A aba est# fechada e n=o h# nada escrito na parte externa.
+
+[MSG$00447B,29]
+Imari "Quem botou isso a%?"
+
+[MSG$0044B2,62]
+Imari me encara com desconfian~a enquanto examino o envelope.
+
+[MSG$0044FD,34]
+Minase "$ uma carta de amor?"
+
+[MSG$00456B,14]
+Imari "O que?!"
+
+[MSG$004593,71]
+Ao ouvir o que eu acabei de dizer, Imari fica vermelha e olha mais uma vez.
+
+[MSG$0045E7,43]
+Imari "T# mais pra uma carta de chantagem!"
+
+[MSG$00462C,95]
+Imari "Por que algu$m mandaria uma carta de amor, logo pra voc]? Devem ter se enganado com o arm#rio."
+
+[MSG$0046A6,64]
+Minase "Voc] n=o precisa ficar t=o estressado com isso, sabe?"
+
+[MSG$004700,25]
+Viro o envelope.
+
+[MSG$00471E,90]
+Em letras pequenas e leg%veis, no verso do envelope, est=o escritas as palavras: ''Para Minase.''
+
+[MSG$004785,30]
+Minase "$ pra mim."
+
+[MSG$0047BD,30]
+Imari "O qu]? Deixa eu ver!"
+
+[MSG$004827,39]
+Dito ent=o, Imari examina o envelope.
+
+[MSG$00485B,57]
+Imari "Ei, $ mesmo! Olha que letra bonita!"
+
+[MSG$0048AE,69]
+Imari "Inacredit#vel... como algu$m pode ter um gosto t=o ruim pra homem?"
+
+[MSG$00490D,19]
+Que sacana...
+
+[MSG$004925,25]
+Imari est# visivelmente perturbada.
+
+[MSG$00494B,52]
+Minase "Imari... Voc] n=o t# com ci`mes, est#?"
+
+[MSG$004999,13]
+Imari "Hein?!"
+
+[MSG$0049F2,59]
+Imari "T# maluco? Vai sonhando, Minase!"
+
+[MSG$004ADC,6]
+Smack!
+
+[MSG$004AEF,67]
+Ainda falando, Imaki d# um tapa no meu ombro com a palma da m=o.
+
+[MSG$004B3F,54]
+Meu ombro est# me matando. Que dor desgra~ada...
+
+[MSG$004B7A,61]
+Imari perdeu completamente a cabe~a e, por isso, se esqueceu de pegar leve no soco.
+
+[MSG$004BC4,58]
+Imari "N=o suporto essas suas bobagens. Eu vou $ embora!"
+
+[MSG$004C18,99]
+Imari "S$rio, Minase, n=o se empolgue tanto com essa carta. V# para a aula, por favor?
+
+[MSG$004C80,48]
+Voc] sabe que isso deve ser algum tipo de piada de mau gosto!"
+
+[MSG$004CCA,91]
+Com essas palavras, Imari se afasta de mim bufando e sobe as escadas sozinha, pisando forte.
+
+[MSG$004D56,35]
+Minase "Nossa, que bicho mordeu ela?"
+
+[MSG$004D93,19]
+Maluca...
+
+[MSG$004DAB,79]
+Esfrego meu ombro dolorido com uma das m=os e examino o envelope com mais aten~=o.
+
+[MSG$004E07,59]
+N=o h# nada escrito no envelope al$m do meu nome.
+
+[MSG$004E47,48]
+Eu seguro uma das extremidades dele e o rasgo.
+
+[MSG$004E84,63]
+Dentro, encontro uma `nica folha de papelaria. Est# dobrada cuidadosamente.
+
+[MSG$004EC8,14]
+Eu a removo.
+
+[MSG$004EE3,18]
+$ uma nota curta.
+
+[MSG$004EFA,45]
+E o que estava escrito, em uma caligrafia elegante era:
+
+[MSG$004F34,12]
+Caro Minase,
+
+[MSG$004F45,112]
+Tenho algo importante para lhe dizer. Estarei esperando por voc] atr#s da escola na hora do almo~o."
+
+[MSG$004FBA,20]
+Por favor apare~a...Rika."
+
+[MSG$004FDB,50]
+Rika...S& pode ser a Rika Shiraki.
+
+[MSG$00501A,37]
+Ent=o $ uma carta de amor de Rika Shiraki!?
+
+[MSG$005044,42]
+Boa! Ent=o o feiti~o funcionou, afinal!ll!
+
+[MSG$00507B,101]
+Viva Satan#s! Se isso significar resultados como este, eu venderia minha alma ao Diabo feliz da vida!
+
+[MSG$0050ED,60]
+Almo~o, hein? Ela est# me chamando para encontr#-la atr#s da escola...
+
+[MSG$00512E,61]
+Deve ser alguma declara~=o de amor que me aguarda...
+
+[MSG$005178,19]
+23 de abril - Devaneio
+
+[MSG$005343,51]
+Shiraki "Minase... Preciso te dizer... Eu te amo!"
+
+[MSG$005390,72]
+N&s nos encaramos... Agora s& conseguimos ver um ao outro e nada mais.
+
+[MSG$0053E5,33]
+Minase "Eu tamb$m te amo, Rika..."
+
+[MSG$005420,30]
+Shiraki "Estou t=o feliz!"
+
+[MSG$005458,9]
+(Aperta)
+
+[MSG$00546E,39]
+Nos abra~amos com for~a, e depois...
+
+[MSG$0054A2,24]
+Minase "Posso beijar voc]?"
+
+[MSG$0054D4,23]
+Eu sussurro em seu ouvido.
+
+[MSG$0054F8,16]
+Shiraki "Sim..."
+
+[MSG$005522,28]
+Ela me responde em baixo tom.
+
+[MSG$00554B,43]
+Aproximo minha boca cada vez mais dos l#bios dela...
+
+[MSG$005583,16]
+Minase "Mmmm..."
+
+[MSG$0056C1,35]
+Saeki "O que est# fazendo, Minase?""
+
+[MSG$0056FE,22]
+Eu congelo.
+
+[MSG$005719,78]
+Saeki est# parada na minha frente. E est# me olhando como se eu tivesse feito algo idiota.
+
+[MSG$005774,33]
+Saeki "$ melhor voc] ficar atento..."
+
+[MSG$0057AF,41]
+Saeki "Porque voc] parece muito idiota agora..."
+
+[MSG$0057F2,46]
+Ela diz enquanto vai embora.
+
+[MSG$00582D,4]
+D'oh!
+
+[MSG$00583E,68]
+Ela $ a `ltima pessoa no mundo que eu gostaria de ter como plateia.
+
+[MSG$00588F,68]
+Ah, bem. No momento, n=o me importo nem um pouco com o que Saeki pensa de mim.
+
+[MSG$0058D8,47]
+Estou ansioso pela hora do almo~o...
+
+[MSG$005990,10]
+(Porta abre)
+
+[MSG$0059A7,51]
+N=o h# ningu$m na sala ainda.
+
+[MSG$0059E7,64]
+Sento-me no meu lugar e mato o tempo at$ a aula come~ar, sonhando acordado.
+
+[MSG$005A34,18]
+..................
+
+[MSG$005A53,12]
+............
+
+[MSG$005A7D,10]
+(Sinal toca)
+
+[MSG$005B24,39]
+.......................................
+
+[MSG$005B58,30]
+..............................
+
+[MSG$005B83,18]
+..................
+
+[MSG$005BA2,12]
+............
+
+[MSG$005BBB,6]
+......
+
+[MSG$005BCE,81]
+O `ltimo sinal toca, indicando o fim da aula da manh=. } hora do almo~o.
+
+[MSG$005C47,21]
+23 de abril - Hora Do Almo~o
+
+[MSG$005D06,34]
+Imari "Vamos comer juntinhos!"
+
+[MSG$005D42,50]
+Imari traz sua cadeira at$ minha mesa.
+
+[MSG$005D79,60]
+Ela tem uma lancheira pequena embrulhada num paninho bem fofo.
+
+[MSG$005DC2,46]
+N=o tenho outra op~=o sen=o almo~ar com Imari.
+
+[MSG$005DF5,58]
+Nem preciso dizer que estou lhe fazendo um favor ao comer com ela.
+
+[MSG$005E34,72]
+Ent=o n=o vou me esquecer de cobrar algum tipo de recompensa por isso.
+
+[MSG$005F06,18]
+Imari "Hora do rango!"
+
+[MSG$005F32,63]
+Imari e eu comemos em sil]ncio, atacando cada uma de nossas respectivas lancheiras.
+
+[MSG$005F7E,51]
+Mas n=o me esque~o de ficar de olho no almo~o dela.
+
+[MSG$005FB6,95]
+Eu decido o que vou roubar e, quando ela n=o est# olhando, estendo a m=o com meus hashis.
+
+[MSG$006022,15]
+*Swoosh...* Munch!
+
+[MSG$00603E,23]
+Imari "T# &timo, n$?"
+
+[MSG$00606F,18]
+Ela nem viu.
+
+[MSG$006086,51]
+Eu me empolgo e acabo fazendo de novo.
+
+[MSG$0060C6,15]
+*Swoosh...* Munch!
+
+[MSG$0060E2,12]
+Imari "Hein?"
+
+[MSG$006108,22]
+Munch, munch, munch...
+
+[MSG$00612B,47]
+Imari "Ei, t# roubando minha comida, $?"
+
+[MSG$006174,21]
+Minase "T\ nada."
+
+[MSG$0061A3,57]
+Imari "Mentiroso. Ent=o me mostre o que voc] tem na boca."
+
+[MSG$0061F6,22]
+Munch, munch, munch...
+
+[MSG$006219,80]
+Com pressa, mastigo o que roubei e abro a boca para a inspe~=o de Imari.
+
+[MSG$006276,14]
+Minase "Aaah..."
+
+[MSG$00629E,45]
+Imari "Eca, n=o me mostre essa sua boca imunda!"
+
+[MSG$00637A,6]
+*Smack!*
+
+[MSG$00638D,76]
+Imari grita ao ver a massa mastigada e irreconhec%vel dentro da minha boca.
+
+[MSG$0063DE,76]
+Que grosseria! Foi ela quem me mandou mostrar. Precisava me bater!?
+
+[MSG$006437,46]
+Enfim, nosso divertido hor#rio de almo~o est# chegando ao fim.
+
+[MSG$00646A,77]
+Assim que termino de arrumar minha mesa, saio da sala para ir ao banheiro...
+
+[MSG$00656F,19]
+Takashiro "Minase-kun!"
+
+[MSG$00659C,75]
+Estou caminhando pelo corredor quando ou~o uma voz.  ; a Takashiro-sensei.
+
+[MSG$0065F4,28]
+Minase "O que foi, sensei?"
+
+[MSG$00662A,65]
+Takashiro olha diretamente nos meus olhos e come~a a falar devagar.
+
+[MSG$006678,103]
+Takashiro "Minase-kun, $ verdade que voc] come~ou a praticar magia negra na escola?"
+
+[MSG$0066F9,89]
+Por causa do incidente com Murai ontem, alguns boatos come~aram a circular entre os alunos.
+
+[MSG$006757,63]
+Mas eu n=o fazia ideia de que chegaria nos professores, tamb$m.
+
+[MSG$0067A3,89]
+Takashiro "N=o aprovo que voc] fa~a isso na escola, mesmo que seja brincadeira..."
+
+[MSG$006816,91]
+Ela diz isso com uma express=o s$ria. Estava bem longe de sua express=o alegre de costume.
+
+[MSG$00687E,32]
+Minase "Claro, n=o vai se repetir."
+
+[MSG$0068B8,32]
+Pe~o desculpas como um bom aluno.
+
+[MSG$0068DD,79]
+Estou um pouco irritado por estar sendo repreendido dessa forma...  ; apenas um boato.
+
+[MSG$006931,69]
+E ningu$m consegue provar isso. Mas eu n=o estava com vontade de bater boca.
+
+[MSG$006983,21]
+Minase "Isso $ tudo?"
+
+[MSG$0069B2,21]
+Takashiro "Hm... sim."
+
+[MSG$0069E1,46]
+Desvio do olhar de Takashiro e passo por ela.
+
+[MSG$006A1C,17]
+Takashiro "Espere."
+
+[MSG$006A47,43]
+Eu paro quando a ou~o me chamar novamente.
+
+[MSG$006A7F,41]
+Takashiro "Ah, n=o $ nada. Deixa pra l#."
+
+[MSG$006AC2,77]
+Ela parece um pouco confusa, mas depois balan~a a cabe~a negativamente ao dizer isso.
+
+[MSG$006B1C,76]
+Takashiro "Se houver algo que eu possa fazer, $ s& me avisar que eu te ajudo..."
+
+[MSG$006B82,84]
+Tenho um pouco de receio de Takashiro, mas apenas aceno com a cabe~a e me afasto.
+
+[MSG$006BDB,45]
+Takashiro estava agindo de forma um pouco estranha.
+
+[MSG$006C0D,93]
+N=o $ do feitio dela ser t=o hipersens%vel por algo trivial como rumores de magia negra.
+
+[MSG$006C7D,21]
+23 de abril - Hora Do Almo~o
+
+[MSG$006D19,68]
+Assim que o sinal do almo~o toca, come~o a sair da sala de aula.
+
+[MSG$006D62,73]
+$ claro que estou a caminho de encontrar Rika Shiraki, que me escreveu aquela carta...
+
+[MSG$006DEA,44]
+Imari "Para onde voc] est# indo com tanta pressa?"
+
+[MSG$006E30,67]
+A intrometida Imari j# est# tentando me manter longe do meu grande amor.
+
+[MSG$006E80,60]
+Ela tem uma lanchinha embrulhada num paninho bonitinho.
+
+[MSG$006EC1,47]
+Acho que ela est# planejando almo~ar comigo...
+
+[MSG$006EFD,46]
+Minase "Vou buscar algo para o almo~o."
+
+[MSG$006F45,37]
+Imari "Voc] n=o trouxe almo~o hoje?"
+
+[MSG$006F84,30]
+Claro que n=o, t# na minha mochila.
+
+[MSG$006FCF,42]
+Minase "Quem vai querer almo~ar com VOC}?"
+
+[MSG$007013,59]
+Ha, ha, ha. Agora pelo menos ela vai entender a mensagem.
+
+[MSG$00708D,12]
+Imari "Huh?"
+
+[MSG$0070B3,42]
+Imari fica vermelha e me encara em choque.
+
+[MSG$0070E2,43]
+A lancheira em suas m=os come~a a tremer.
+
+[MSG$00711A,71]
+Imari "Ah, $? Pois bem, escute bem, nunca mais almoce comigo!"
+
+[MSG$00719F,86]
+Imari cospe essas palavras na minha dire~=o, senta-se e come~a a comer sozinha.
+
+[MSG$007202,32]
+Talvez eu tenha sido um pouco cruel demais...
+
+[MSG$00722F,62]
+Esse pensamento passou pela minha cabe~a, mas mesmo assim sa% da sala.
+
+[MSG$00727A,11]
+Imari "..."
+
+[MSG$007292,16]
+Imari "...Babaca."
+
+[MSG$0072C7,60]
+Minase "Hoje estou com vontade de almo~ar no refeit&rio."
+
+[MSG$00731D,30]
+Imari "E seu almo~o?"
+
+[MSG$007355,28]
+Minase "Vou comer depois."
+
+[MSG$0073BD,31]
+Imari "Por que voc] t# agindo assim?"
+
+[MSG$0073F6,12]
+Minase "..."
+
+[MSG$00740F,87]
+Droga, Imari n=o vai recuar sem uma resposta. Mas eu n=o tenho tempo para isso.
+
+[MSG$007473,34]
+Minase "Ei, livre arb%trio."
+
+[MSG$0074AF,53]
+Dito isso, saio correndo da sala.
+
+[MSG$0074E9,79]
+Se eu deixar a Imari continuar com o interrogat&rio incessante, a hora do almo~o j# ter# acabado.
+
+[MSG$007545,28]
+Imari "Nossa, $ s$rio!?"
+
+[MSG$007626,19]
+Takashiro "Minase?"
+
+[MSG$007653,75]
+Estou caminhando pelo corredor quando ou~o uma voz. $ a Takashiro-sensei.
+
+[MSG$0076AB,28]
+Minase "Oi, Takashiro-sensei?"
+
+[MSG$0076E1,65]
+Takashiro looks straight into my eyes and begins to speak slowly.
+
+[MSG$00772F,103]
+Takashiro Minase, $ verdade que voc] come~ou a praticar magia negra na escola?"
+
+[MSG$0077B0,84]
+Por causa do incidente com Murai ontem, alguns boatos come~aram a circular entre os alunos,
+
+[MSG$007809,63]
+mas eu n=o fazia ideia de que chegaria nos professores, tamb$m..
+
+[MSG$007855,89]
+Takashiro "N=o aprovo que voc] fa~a isso na escola, mesmo que seja brincadeira..."
+
+[MSG$0078C8,91]
+Ela diz isso com uma express=o s$ria no rosto. Estava bem longe de sua express=o alegre de costume.
+
+[MSG$007930,32]
+Minase "Claro, n=o vai se repetir."
+
+[MSG$00796A,32]
+Pe~o desculpas como um bom aluno.
+
+[MSG$00798F,79]
+Estou um pouco irritado por estar sendo repreendido dessa forma... $ apenas um boato,
+
+[MSG$0079E3,69]
+E ningu$m consegue provar isso. Mas eu n=o estava com vontade de bater boca.
+
+[MSG$007A35,21]
+Minase "Isso $ tudo?"
+
+[MSG$007A64,21]
+Takashiro "Um...sim."
+
+[MSG$007A93,46]
+Desvio o olhar de Takashiro e passo por ela.
+
+[MSG$007ACE,17]
+Takashiro "Espera."
+
+[MSG$007AF9,43]
+Eu paro quando a ou~o me chamar novamente.
+
+[MSG$007B31,41]
+Takashiro "Ah, n=o $ nada. Deixa pra l#."
+
+[MSG$007B74,77]
+Ela parece um pouco confusa, mas depois balan~a a cabe~a negativamente ao dizer isso.
+
+[MSG$007BCE,76]
+Takashiro "e houver algo que eu possa fazer, $ s& me avisar que eu te ajudo..."
+
+[MSG$007C34,84]
+Tenho um pouco de receio de Takashiro, mas apenas aceno com a cabe~a e me afasto.
+
+[MSG$007C8D,45]
+Takashiro estava agindo de forma um pouco estranha.
+
+[MSG$007CBF,93]
+N=o $ do feitio dela ser t=o hipersens%vel por algo trivial como rumores de magia negra.
+
+[MSG$007D29,28]
+23 de abril - Atr#s da Escola
+
+[MSG$007DD0,47]
+Caminho em dire~=o [ parte de tr#s do pr$dio da escola.
+
+[MSG$007E0C,83]
+Atr#s do pr$dio da escola... que lugar melhor para fazer algo em segredo?
+
+[MSG$007E64,74]
+Para comprovar meu argumento, h# bitucas de cigarro amassadas espalhadas por todo o ch=o.
+
+[MSG$007EBB,106]
+Esquece os cigarros, na real. Hoje em dia ou~o dizer que h# alunos que usam drogas pesadas na escola mesmo.
+
+[MSG$007F32,42]
+Olho em volta, procurando por Rika Shiraki.
+
+[MSG$007F69,22]
+Minase "Cad] ela?"
+
+[MSG$007F99,36]
+N=o vejo ningu$m por perto.
+
+[MSG$007FC2,26]
+Era uma pegadinha, ent=o?
+
+[MSG$007FE1,60]
+N=o, n=o pode ser. Seria muita coincid]ncia.
+
+[MSG$00802A,19]
+Shiraki "Minase..."
+
+[MSG$008057,35]
+Ou~o uma voz e me viro na dire~=o dela.
+
+[MSG$008087,67]
+Vejo Rika Shiraki emergir silenciosamente das sombras do pr$dio.
+
+[MSG$008111,46]
+Inquieta e agitada, ela caminha em minha dire~=o.
+
+[MSG$008144,40]
+Ela cora enquanto seus olhos se voltam para mim.
+
+[MSG$008179,63]
+Ela parece uma pessoa completamente diferente daquela que conheci outro dia.
+
+[MSG$0081C5,59]
+Seus gestos femininos a tornam o oposto completo de Imari.
+
+[MSG$008205,45]
+que n=o tem um pingo de charme.
+
+[MSG$008237,75]
+Eu convivo com a Imari todos os dias e ela definitivamente n=o $ ing]nua como a Shiraki.
+
+[MSG$00828F,63]
+Shiraki "Sinto muito... por ter te pedido em uma carta para nos encontrarmos aqui..."
+
+[MSG$0082E8,64]
+Ser chamado por uma garota para que ela possa confessar seu amor por voc]...
+
+[MSG$00832D,43]
+$ o come~o perfeito para uma hist&ria de amor.
+
+[MSG$008365,72]
+Eu costumava zombar desse tipo de coisa, acreditando que s& existia em mang#s.
+
+[MSG$0083B2,51]
+Mas agora que aconteceu comigo, at$ que gostei.
+
+[MSG$0083F2,63]
+E como a garota em quest=o $ ningu$m menos que Rika Shiraki,
+
+[MSG$008436,72]
+Ela $ a garota mais popular de toda a escola, e eu aprecio isso ainda mais.
+
+[MSG$00848B,29]
+Minase "Que isso, sem problemas."
+
+[MSG$0084C2,55]
+Minase "Voc] $ a garota mais popular de toda a escola, n=o tenho o que reclamar."
+
+[MSG$008513,90]
+Mesmo sabendo qual ser# a resposta dela, respondo em tom de voz calmo.
+
+[MSG$00857A,23]
+Shiraki "Minase...eu..."
+
+[MSG$0085AB,31]
+Shiraki "Estou apaixonada por voc]!"
+
+[MSG$0085E4,64]
+Shiraki me encara com um olhar fulminante e dispara sua resposta.
+
+[MSG$008631,7]
+Gulp...
+
+[MSG$008645,62]
+No instante em que ou~o suas palavras, elas me atravessam o cora~=o.
+
+[MSG$008688,109]
+Embora eu tivesse uma boa ideia do que ela ia dizer, ouvi-la dizer aquilo foi avassalador.
+
+[MSG$008702,101]
+Se eu n=o soubesse que foi causado pelo feiti~o, provavelmente me mijaria nas cal~as.
+
+[MSG$008774,118]
+Shiraki "N=o fa~o ideia do porqu], mas por algum motivo n=o consigo parar de pensar em voc] desde ontem."
+
+[MSG$008804,38]
+Ent=o ela sente tanto assim por mim...
+
+[MSG$00882F,38]
+Num caso como este, ser# que...
+
+[MSG$008862,84]
+Shiraki "S& de pensar em voc], sinto como se meu cora~=o fosse explodir."
+
+[MSG$0088D0,31]
+Shiraki "Como agora mesmo, olha..."
+
+[MSG$008909,85]
+Dito isso, ela pega minha m=o na sua e a pressiona com for~a contra o seio esquerdo.
+
+[MSG$0089E7,7]
+(Aperta)
+
+[MSG$0089FB,11]
+Minase "?!"
+
+[MSG$008A13,16]
+O que $ isso?
+
+[MSG$008A30,72]
+Fiquei perplexo com o que acabou de acontecer. Ser# que isso tamb$m faz parte do feiti~o?
+
+[MSG$008A7D,86]
+Consigo sentir sua pulsa~=o forte sob minha m=o, que est# firmemente posicionada sobre seu seio farto.
+
+[MSG$008AE0,84]
+; t=o macio... N=o tenho d`vidas de que neste momento estou agarrando os peitos dela.
+
+[MSG$008B41,65]
+Ela n=o me d# a m%nima aten~=o, mesmo enquanto estou ali parada, perplexa.
+
+[MSG$008B8F,16]
+Shiraki "Me come!"
+
+[MSG$008BB9,7]
+Huh...?
+
+[MSG$008BCD,40]
+Shiraki "Eu quero que voc] me coma aqui mesmo!"
+
+[MSG$008C0F,19]
+Shiraki "Vai, me fode!"
+
+[MSG$008C3C,11]
+O que...
+
+[MSG$008C54,66]
+Fiquei t=o chocada com as palavras de Shiraki que quase desmaiei ali mesmo.
+
+[MSG$008CA3,110]
+Eu jamais imaginei que Shiraki um dia me diria algo assim. Embora seja uma surpresa bem-vinda.
+
+[MSG$008D1E,63]
+Minase "Bem, eu n=o posso simplesmente fazer isso com voc] de repente, sabe?..."
+
+[MSG$008D77,72]
+Mas estou completamente sem saber o que fazer; as coisas est=o acontecendo muito r#pido.
+
+[MSG$008DC4,98]
+Eu jamais imaginei que algo assim pudesse acontecer, ent=o $ dif%cil para mim encontrar as palavras para expressar o que sinto.
+
+[MSG$008E33,106]
+WQuem diria que Rika Shiraki, a Santinha em pessoa, exigiria sexo logo depois de confessar seu amor por mim?
+
+[MSG$008EAA,42]
+Shiraki "N=o quer me comer?"
+
+[MSG$008EEE,52]
+Shiraki diz isso com um olhar triste nos olhos.
+
+[MSG$008F2F,63]
+Minase "Eu nunca disse isso! Claro que eu quero."
+
+[MSG$008F88,17]
+Shiraki "Mesmo?"
+
+[MSG$008FB3,14]
+Minase "Mesmo."
+
+[MSG$008FDB,30]
+Shiraki "Que bom!"
+
+[MSG$009013,46]
+Ela parece radiante de alegria ao dizer isso.
+
+[MSG$009046,67]
+Nunca imaginei que a magia pudesse mudar tanto os sentimentos de uma pessoa.
+
+[MSG$009096,39]
+Shiraki "Ent=o, vamos fazer isso. Agora mesmo."
+
+[MSG$0090D7,5]
+Hein?!
+
+[MSG$0090EB,41]
+Minase "Aqui mesmo? Agora?"
+
+[MSG$00912E,69]
+Shiraki "N=o aguento mais esperar. Estou toda molhada desde ontem!"
+
+[MSG$00918D,22]
+Shiraki "Quer ver? Olha..."
+
+[MSG$00923D,68]
+Dito isso, ela segura a barra da saia e a levanta.
+
+[MSG$00928E,7]
+Gulp...
+
+[MSG$0092A2,68]
+Consigo ver suas coxas p#lidas; sua roupa %ntima branca est# marcando nelas.
+
+[MSG$0092F3,84]
+E est# tudo pegajoso e molhado por causa dos fluidos dela, bem na pequena protuber@ncia da vulva.
+
+[MSG$009354,95]
+A situa~=o j# passou do ponto de apenas umedecer sua roupa %ntima... est# escorrendo em gotas pelas suas coxas.
+
+[MSG$0093C0,108]
+Mesmo do lugar onde estou observando-a, consigo sentir um forte aroma feminino vindo de entre suas pernas.
+
+[MSG$009439,54]
+Shiraki "A culpa $ toda sua... fa~a algo a respeito!"
+
+[MSG$009489,67]
+Eu a encaro e tento com todas as minhas for~as n=o pegar no meu pau.
+
+[MSG$0094D1,85]
+Para falar a verdade, desde que apertei os seios dela, meu pau est# pulsando.
+
+[MSG$009533,43]
+Minase "T# bom, t# bom. Vou te comer sim."
+
+[MSG$009578,77]
+Minase "Mas n=o aqui. $ bom ir pra algum lugar onde n=o vamos ser vistos."
+
+[MSG$0095DF,59]
+Deixando-me levar pelo desejo, levo-a [ academia pr&xima.
+
+[MSG$00961F,59]
+Tenho certeza de que ningu$m vai entrar naquele dep&sito.
+
+[MSG$009667,14]
+23 de abril - Gin#sio
+
+[MSG$0096F4,56]
+Shiraki e eu entramos sorrateiramente na quadra. Por sorte, n=o havia ningu$m l#.
+
+[MSG$009739,22]
+Minase "Voc] t# bem?"
+
+[MSG$009769,90]
+Estou preocupada com Shiraki, que n=o para de olhar para tr#s enquanto a puxo para a frente pela m=o.
+
+[MSG$009802,16]
+Shiraki "Sim..."
+
+[MSG$00982C,24]
+Ela cora enquanto acena com a cabe~a.
+
+[MSG$009849,70]
+O l%quido entre as pernas dela j# est# escorrendo pelos tornozelos.
+
+[MSG$00989C,12]
+Porta abrindo
+
+[MSG$009931,65]
+Abro lentamente a porta de a~o que d# acesso ao dep&sito ao lado da academia.
+
+[MSG$00997F,50]
+H# esteiras e arm#rios espalhados por dentro.
+
+[MSG$0099F0,98]
+Conduzi Shiraki para dentro, fechei a porta e tranquei-a. Em seguida, deitei-a delicadamente sobre a pilha de colchonetes.
+
+[MSG$009A5F,51]
+Minase "Ningu$m entrar# aqui por um tempo."
+
+[MSG$009AAC,29]
+Shiraki "Anda, me come logo!"
+
+[MSG$009B85,71]
+Shiraki me olha com olhos suplicantes enquanto me faz esse apelo.
+
+[MSG$009BD9,63]
+N=o vejo nenhum vest%gio de sua pureza habitual. Ela est# como uma cadela no cio.
+
+[MSG$009C25,88]
+Coloquei as m=os em seus quadris e, desajeitadamente, desabotoei e depois abri o z%per de sua saia.
+
+[MSG$009C8A,83]
+Ela levanta os quadris sem que eu pe~a, e eu deslizo a saia para baixo, tirando-a do seu corpo.
+
+[MSG$009D73,45]
+Mais uma vez, eu encaro a parte inferior do seu corpo exposta.
+
+[MSG$009DAD,83]
+Suas calcinhas brancas parecem t=o puras... mas quase como uma contradi~=o [ sua apar]ncia.
+
+[MSG$009E05,46]
+Elas est=o encharcadas, como se ela tivesse se mijado.
+
+[MSG$009E40,72]
+Minase "$ muita baba. Voc] $ bem mais safada do que parece, n$?"
+
+[MSG$009EA2,31]
+Shiraki "Ai, que vergonha..."
+
+[MSG$009EDB,30]
+Ao ouvir minhas palavras, ela cora.
+
+[MSG$009F06,74]
+Aproximo meu rosto da #rea `mida e come~o a cheirar aquele odor f$tido.
+
+[MSG$009F5D,59]
+Shiraki "Pare com isso, n=o quero que voc] sinta meu cheiro a% embaixo."
+
+[MSG$009FB2,42]
+Tem um forte odor feminino.
+
+[MSG$009FE1,68]
+N=o me importo se ela n=o quer... continuo a apreciar o cheiro.
+
+[MSG$00A032,42]
+Parece que ela $ s& uma garota mesmo, n$?
+
+[MSG$00A069,33]
+Shiraki "Tira minha blusa tamb$m..."
+
+[MSG$00A0A4,65]
+Desabotoei os bot^es da blusa dela um por um, expondo seus seios.
+
+[MSG$00A17B,97]
+Por baixo da blusa dela, encontro um suti= branco combinando com a calcinha, que cont$m um par de peitos enormes.
+
+[MSG$00A1E1,34]
+Acaricio-os por cima do suti=.
+
+[MSG$00A210,25]
+Shiraki "T# fazendo c&cegas..."
+
+[MSG$00A243,77]
+Shiraki sussurra isso enquanto se vira. Eu a ignoro e ent=o agarro seu suti=
+
+[MSG$00A295,28]
+puxando o para cima.
+
+[MSG$00A347,15]
+Shiraki "Ah..."
+
+[MSG$00A370,73]
+Libertos de suas amarras, suas tetas gigantes saltam para fora de uma vez.
+
+[MSG$00A3BE,61]
+Vejo que seus mamilos rosados est=o ambos eretos.
+
+[MSG$00A408,64]
+Minase "Que mamilos safados, j# est=o de p$?"
+
+[MSG$00A462,36]
+Shiraki "Por sua causa, est=o!"
+
+[MSG$00A4A0,80]
+N=o perco tempo, agarro um punhado de seus seios macios e come~o a massage#-la.
+
+[MSG$00A4FD,72]
+Consigo sentir a agrad#vel elasticidade dos seus seios na palma das minhas m=os.
+
+[MSG$00A54A,53]
+Eles s=o bem flex%veis e el#sticos para o tamanho que t]m...
+
+[MSG$00A58C,64]
+Shiraki "N=o me provoca... anda logo e me mostra seu pau."
+
+[MSG$00A5E6,79]
+Coloquei as m=os em sua calcinha e comecei a tirar sua `ltima pe~a de roupa.
+
+[MSG$00A642,82]
+Eu a seguro pelos quadris com as duas m=os e puxo lentamente para baixo sua calcinha, que est#
+
+[MSG$00A699,33]
+|encharcada com seus fluidos corporais...
+
+[MSG$00A6C7,55]
+Quando consigo baixar as meias at$ os tornozelos dela, eu as tiro.
+
+[MSG$00A794,34]
+Volto meu olhar para a virilha dela.
+
+[MSG$00A7BB,78]
+Esta $ a primeira vez que vejo a vagina dela. Ainda $ virgem e bem formada...
+
+[MSG$00A816,79]
+Incapaz de me conter, arranco suas roupas e pulo em cima de seu corpo nu.
+
+[MSG$00A872,90]
+Meu p]nis ficou ereto na dire~=o do corpo nu dela e pulsa com avidez.
+
+[MSG$00A8D1,45]
+Estamos ambos t=o excitados que mal conseguimos nos conter.
+
+[MSG$00A90B,40]
+Shiraki "Seu... Seu pau $ enorme..."
+
+[MSG$00A94D,36]
+Shiraki "Eu quero sent%-lo..."
+
+[MSG$00A98B,53]
+Shiraki fica extasiada enquanto contempla meu pau duro.
+
+[MSG$00A9CD,58]
+Sentindo o olhar dela sobre mim, pressionei-o contra sua vulva `mida.
+
+[MSG$00AA9C,15]
+Shiraki "Ah..."
+
+[MSG$00AAC5,73]
+Estimulo o clit&ris dela com a cabe~a do meu pau, cobrindo-o com o l%quido dela.
+
+[MSG$00AB1B,23]
+Minase "Pronta?"
+
+[MSG$00AB4C,46]
+Shiraki "Sim... enfie o m#ximo que puder!"
+
+[MSG$00AB94,27]
+Minase "L# vai!"
+
+[MSG$00ABC9,105]
+Eu a ou~o responder e levo meu p]nis at$ a entrada de sua vagina, e lentamente empurro meus quadris para frente...
+
+[MSG$00AC3F,72]
+Meu p]nis rosado e inchado abre-a lentamente, penetrando
+
+[MSG$00AC8C,27]
+|sua vagina que brilhava de t=o melada.
+
+[MSG$00AD3D,9]
+Metendo
+
+[MSG$00AD53,19]
+Shiraki "Ugh...ah!"
+
+[MSG$00AD80,48]
+Quando avan~o, ela treme e grita.
+
+[MSG$00ADB5,35]
+Eu a ignoro e entro completamente.
+
+[MSG$00ADE5,48]
+Sua buceta estreita aperta meu p]nis sem piedade.
+
+[MSG$00AE1A,89]
+$ t=o apertada que eu n=o conseguiria me mexer se n=o fosse pela umidade.
+
+[MSG$00AE80,52]
+Shiraki "Eu consigo sentir voc] dentro de mim, Minase..."
+
+[MSG$00AECE,30]
+Shiraki "Estou t=o feliz..."
+
+[MSG$00AF06,48]
+Os olhos de Shiraki se enchem de l#grimas enquanto ela diz isso.
+
+[MSG$00AF3B,48]
+Mesmo que n=o seja verdade, neste momento n=o me importo...
+
+[MSG$00AF78,48]
+Esque~am os detalhes, agora Shiraki $ meu...
+
+[MSG$00AFB5,52]
+Afasto todos os pensamentos ociosos e continuo a avan~ar.
+
+[MSG$00AFF6,43]
+Shiraki "Mmm...mmm...I can feel it moving!"
+
+[MSG$00B03B,50]
+Consigo senti-la ao meu redor enquanto come~o a acelerar.
+
+[MSG$00B07A,105]
+Sinto ondas intensas de prazer por todo o meu corpo [ medida que me aprofundo em Shiraki. Se eu perder a concentra~=o,
+
+[MSG$00B0E8,29]
+eu vou gozar logo logo...
+
+[MSG$00B112,59]
+Shiraki "Oh! Oh! $ minha primeira vez, mas t# t=o gostoso!"
+
+[MSG$00B167,34]
+Ela diz isso enquanto seus seios balan~am.
+
+[MSG$00B18E,87]
+$ dif%cil de acreditar, mas esta $ a primeira vez de Shiraki. E em vez de sentir dor,
+
+[MSG$00B1EA,23]
+ela t# $ gostando.
+
+[MSG$00B20E,82]
+Perceber que fui eu quem tirou a virgindade de Shiraki me deu uma euforia intensa.
+
+[MSG$00B26D,55]
+Shiraki "Ah...ahhh...isso... mais forte!"
+
+[MSG$00B2BE,50]
+A pedido dela, come~o a rebolar os quadris com avidez.
+
+[MSG$00B2F5,54]
+Ela responde movendo os quadris em sincronia com os meus.
+
+[MSG$00B338,28]
+Minase "(respirando pesadamente)"
+
+[MSG$00B36E,66]
+Nossa paix=o violenta me leva rapidamente [ beira da ejacula~=o.
+
+[MSG$00B3BD,46]
+Minase "Nossa... n=o consigo mais me conter."
+
+[MSG$00B405,56]
+Shiraki "Espere por mim... Estou quase gozando tamb$m..."
+
+[MSG$00B457,47]
+Shiraki me implora para esperar enquanto rebola os quadris.
+
+[MSG$00B48B,69]
+Ela tenta atingir o cl%max acelerando os movimentos do quadril.
+
+[MSG$00B4DD,36]
+Squish...squish...squish...squish...
+
+[MSG$00B50E,97]
+O som lascivo e `mido de nossos corpos entrela~ados ecoa por todo o quarto.
+
+[MSG$00B57C,43]
+Minase "N=o esfregue com tanta for~a, ou eu vou... ah!"
+
+[MSG$00B5C1,55]
+Shiraki est# com tanto tes=o que eu n=o consigo aguentar..
+
+[MSG$00B5FD,37]
+Estou correndo o risco de gozar dentro...
+
+[MSG$00B62F,26]
+Tento retirar meu pau [s pressas.
+
+[MSG$00B656,43]
+Shiraki "N=o! Eu quero que voc] goze dentro mesmo!"
+
+[MSG$00B69B,30]
+Minase "Mas $ perigoso."
+
+[MSG$00B6D3,22]
+Shiraki "N=o ligo!
+
+[MSG$00B723,29]
+Isso vai dar em merda...
+
+[MSG$00B745,77]
+O pensamento me ocorre, e tento retrair os quadris, ignorando Shiraki.
+
+[MSG$00B79F,13]
+Shiraki "N=o!"
+
+[MSG$00B7C6,82]
+Nesse instante, Shiraki tenta me impedir de ejacular, apertando meu p]nis com for~a
+
+[MSG$00B81D,32]
+enquanto repetindo ''N=o!''
+
+[MSG$00B84A,16]
+Minase "Agh..."
+
+[MSG$00B874,57]
+Eu gemo quando sinto o aperto repentino ao redor do meu p]nis.
+
+[MSG$00B8B2,53]
+Quase gozei, mas eu me contenho desesperadamente.
+
+[MSG$00B8F4,56]
+Shiraki "Ahh...Eu vou gozar...Eu vou gozar..."
+
+[MSG$00B946,55]
+Shiraki "Minase, Goza comigo, agora!"
+
+[MSG$00B997,88]
+Ela me prende entre as pernas para me impedir de escapar e come~a a mover os quadris.
+
+[MSG$00B9FC,38]
+Minase "Eu n=o consigo mais segurar..."
+
+[MSG$00BA3C,61]
+Sei que n=o posso escapar deste ]xtase final e me preparo para ele.
+
+[MSG$00BA86,21]
+Shiraki "Eu t\ gozando!"
+
+[MSG$00BAB5,14]
+Minase "Ahhh!"
+
+[MSG$00BAE8,31]
+Minase "Bem, se $ o que voc] quer..."
+
+[MSG$00BB21,73]
+Digo isso, paro de tentar me conter e come~o a rebolar com for~a.
+
+[MSG$00BB77,34]
+Shiraki "Eu vou gozar... eu t\ gozando!"
+
+[MSG$00BBB3,104]
+Ela tamb$m tem um olhar extasiado no rosto. O intenso prazer de estar perto do cl%max a est# fazendo desmaiar.
+
+[MSG$00BC28,24]
+Minase "Vou gozar tamb$m!"
+
+[MSG$00BC5A,51]
+Shiraki "Goza dentro, vai! Me enche de porra!"
+
+[MSG$00BCA7,14]
+Minase "Ahhh!"
+
+[MSG$00BCCF,35]
+Nesse momento, fico completamente ensandecido.
+
+[MSG$00BCFF,16]
+Shiraki "AHHHH!"
+
+[MSG$00BDA2,14]
+Ejaculando...
+
+[MSG$00BE36,26]
+S]men saindo...
+
+[MSG$00BE5D,92]
+Meu corpo inteiro se contorce em espasmos enquanto eu libero um jato de s]men da ponta do 
+
+[MSG$00BEBE,32]
+|meu p]nis, ainda enterrado dentro dela.
+
+[MSG$00BEEB,26]
+S]men saindo...
+
+[MSG$00BF12,51]
+A cada espasmo, eu ejaculo uma quantidade incr%vel de esperma.
+
+[MSG$00BF4A,57]
+Shiraki est# atordoada, embriagada por seu primeiro encontro sexual.
+
+[MSG$00BF90,28]
+Minase "(respirando pesadamente)"
+
+[MSG$00BFC6,95]
+Estou tomado por um prazer imenso por ter me aliviado. Retiro meu p]nis do corpo dela.
+
+[MSG$00C0AB,15]
+Spurt, Spurt...
+
+[MSG$00C0C7,45]
+Shiraki "Inacredit#vel... voc] ainda t# gozando."
+
+[MSG$00C10E,55]
+Eu ejaculo mais 2 ou 3 vezes depois de ter retirado o p]nis.
+
+[MSG$00C14A,66]
+Quando finalmente termino, deixo-me cair no ch=o, exausto.
+
+[MSG$00C199,25]
+Shiraki "$ t=o quentinho..."
+
+[MSG$00C1CC,74]
+O s]men que ela est# expelindo de entre as pr&prias pernas continua a pingar
+
+[MSG$00C21B,25]
+|e acumular no tapete...
+
+[MSG$00C292,46]
+Shiraki "Obrigada, Minase. Foi incr%vel!"
+
+[MSG$00C2DA,79]
+Shiraki "Mas, por favor, n=o me odeie agora. Eu n=o sou assim normalmente..."
+
+[MSG$00C343,39]
+Ela parece constrangida ao dizer isso.
+
+[MSG$00C36F,97]
+$ claro que sei melhor do que ningu$m que foi o meu feiti~o que a fez agir daquela maneira.
+
+[MSG$00C3DD,39]
+Minase "$ claro que eu n=o te odeio."
+
+[MSG$00C41E,25]
+$ o que eu digo para ela.
+
+[MSG$00C43C,81]
+Ela se levanta lentamente, ajoelha-se no tapete e come~a a juntar suas roupas amassadas.
+
+[MSG$00C517,50]
+Shiraki "Ai... minha calcinha est# toda grudenta agora."
+
+[MSG$00C563,80]
+Shiraki empina sua bundinha firme na minha dire~=o enquanto olha para sua calcinha molhada
+
+[MSG$00C5B8,44]
+|com uma express=o envergonhada no rosto.
+
+[MSG$00C5F1,90]
+Com a bunda dela desprotegida empinada desse jeito, consigo ver bem o fundo do seu cuzinho.
+
+[MSG$00C658,70]
+Enquanto a observo, meu pau murcho come~a a inchar novamente.
+
+[MSG$00C6A3,56]
+Depois de produzir tanta porra... como pode ter alguma coisa sobrando?
+
+[MSG$00C6E8,47]
+Shiraki "Oh... Estou transbordando com seu s]men."
+
+[MSG$00C731,65]
+Shiraki percebe que minha porra ainda est# saindo de sua vagina.
+
+[MSG$00C77F,41]
+Shiraki "Huh? Qual $ o problema, Minase?"
+
+[MSG$00C7C2,64]
+Ela percebe que estou olhando para a parte inferior do corpo dela e me pergunta isso.
+
+[MSG$00C82A,46]
+Eu me levanto e fico bem atr#s da bunda da Shiraki.
+
+[MSG$00C8DE,15]
+Shiraki "Ah..."
+
+[MSG$00C907,46]
+Ela murmura algo ao ver meu p]nis.
+
+[MSG$00C942,61]
+Minase "Como voc] pediu, vou te despeda~ar."
+
+[MSG$00C999,15]
+Shiraki "O que?"
+
+[MSG$00C9C2,33]
+Dito isso, eu a agarrei pela bunda.
+
+[MSG$00C9F0,15]
+Shiraki "Augh!"
+
+[MSG$00CA19,28]
+Shiraki "N=o... A% n=o..."
+
+[MSG$00CA5A,74]
+Minase "A culpa $ sua por se exibir assim... agora eu quero fazer de novo."
+
+[MSG$00CABE,33]
+Digo isso enquanto olho fixamente para a bunda dela..
+
+[MSG$00CB65,15]
+Shiraki "O que?"
+
+[MSG$00CB8E,44]
+Shiraki "A sua piroca... j# t# t=o grande..."
+
+[MSG$00CBD4,44]
+Ela sussurra ao ver meu p]nis ereto.
+
+[MSG$00CC0D,38]
+Minase "Voc] disse que gostava de mim, n=o $?"
+
+[MSG$00CC4D,16]
+Shiraki "Sim..."
+
+[MSG$00CC77,18]
+Ela acena com a cabe~a.
+
+[MSG$00CC96,59]
+Shiraki "V# em frente... se $ isso que voc] quer, n=o me importo."
+
+[MSG$00CCEB,41]
+Com isso, ela empina a bunda na minha dire~=o.
+
+[MSG$00CD21,48]
+Shiraki "Vai em frente, eu deixo voc] montar na minha bunda..."
+
+[MSG$00CDE4,54]
+Eu pressiono meu p]nis ereto contra seu @nus apertado.
+
+[MSG$00CE27,66]
+Meu p]nis ainda est# pegajoso e molhado do que acabamos de fazer,
+
+[MSG$00CE6E,34]
+Ent=o talvez tenha que for~ar a entrada.
+
+[MSG$00CE9D,37]
+Minase "Vou come~ar a meter..."
+
+[MSG$00CEDC,43]
+Com isso, concentrei toda a minha for~a nos quadris.
+
+[MSG$00CF0C,46]
+Nesse momento, tentei for~ar a abertura do reto dela.
+
+[MSG$00CF47,108]
+Eu empurro com mais for~a, tentando abrir seu @nus com meu p]nis inchado, que lentamente come~a a se contorcer para entrar.
+
+[MSG$00D039,18]
+Shiraki "(Grrr)"
+
+[MSG$00D065,20]
+Shiraki "Au...Ai!"
+
+[MSG$00D093,73]
+Ao penetr#-la, sinto um prazer intenso por todo o meu p]nis.
+
+[MSG$00D0E1,72]
+Est# sens%vel por ter acabado de acontecer, ent=o o est%mulo $ muito grande.
+
+[MSG$00D136,57]
+Shiraki "Est# entrando... seu pau est# entrando no meu cu!"
+
+[MSG$00D189,91]
+Shiraki est# atordoada pela dor e pelo ]xtase, e est# precisando de toda a sua for~a para suportar isso.
+
+[MSG$00D1F1,97]
+Quando consigo enfiar a maior parte do meu pau no cu dela, o @nus dela est# t=o aberto que parece que vai se partir.
+
+[MSG$00D25F,77]
+E est# mais apertado do que eu imaginava. A ponta do meu p]nis est# ardendo de dor.
+
+[MSG$00D2B9,25]
+Minase "Entrou tudo."
+
+[MSG$00D2EC,38]
+Minase "Voc] $ t=o apertada..."
+
+[MSG$00D32D,26]
+Shiraki "Nem me fale..."
+
+[MSG$00D361,58]
+Shiraki "$ uma sensa~=o estranha... mas tamb$m $ um pouco boa."
+
+[MSG$00D3B5,29]
+Ela cora ao dizer isso.
+
+[MSG$00D3DF,99]
+Minase "Se voc] consegue se excitar fazendo sexo anal, isso significa que voc] est# sempre se estimulando nessa regi=o?"
+
+[MSG$00D45C,45]
+Shiraki "Eu nunca coloquei nada na minha bunda."
+
+[MSG$00D4A3,56]
+$ uma pergunta maldosa, mas ela nega, ficando vermelha de vergonha.
+
+[MSG$00D4E8,36]
+Minase "Vou come~ar a me mexer."
+
+[MSG$00D526,35]
+Shiraki "Ok... mas vai devagar."
+
+[MSG$00D563,59]
+Eu a agarro pela bunda e come~o a me mover lentamente em seu @nus.
+
+[MSG$00D5AB,37]
+Shiraki "Augh! Ohh... que del%cia."
+
+[MSG$00D5EA,50]
+Cada movimento meu faz Shiraki se contorcer em ]xtase.
+
+[MSG$00D629,76]
+Estou quase desmaiando de tanto prazer. Se eu n=o me concentrar, posso
+
+[MSG$00D67A,20]
+|gozar a qualquer momento.
+
+[MSG$00D69B,20]
+Mete...mete...
+
+[MSG$00D6BC,47]
+Eu observo meu p]nis entrando e saindo do rabo dela,
+
+[MSG$00D6F0,40]
+e o doce prazer me invade...
+
+[MSG$00D725,64]
+E antes mesmo de passar um minuto, j# estou prestes a gozar.
+
+[MSG$00D772,38]
+Minase "N=o aguento mais..."
+
+[MSG$00D7B3,74]
+Eu movo meus quadris lentamente enquanto anuncio isso para Shiraki, que est# gemendo baixinho.
+
+[MSG$00D80A,44]
+Shiraki "Tudo bem... pode gozar quando quiser."
+
+[MSG$00D851,53]
+Assim que a ou~o dizer isso, chego ao meu limite.
+
+[MSG$00D88B,24]
+Chega.
+
+[MSG$00D8B0,14]
+Minase "Aah!"
+
+[MSG$00D8D8,37]
+Eu gozo com meu pau ainda enfiado no cu dela.
+
+[MSG$00D9FC,22]
+Esporra, esporra, esporra...
+
+[MSG$00DA1F,73]
+Mesmo tendo ejaculado momentos antes, gozo com muita for~a.
+
+[MSG$00DA75,23]
+Shiraki "Ah, $ t=o quente!"
+
+[MSG$00DAA6,59]
+No momento em que eu gozo, ela se encolhe e depois contrai o @nus.
+
+[MSG$00DAEE,34]
+Shiraki "Voc] t@ gozando t=o fundo dentro de mim!"
+
+[MSG$00DB2A,61]
+Ela aperta com for~a, e meu p]nis $ espremido sem piedade.
+
+[MSG$00DB74,14]
+Minase "Augh!"
+
+[MSG$00DC25,68]
+Mal consigo lidar com todo esse prazer e essa nova e estranha estimula~=o.
+
+[MSG$00DC6E,69]
+Meu p]nis $ ejetado completamente do @nus dela quando ela se contrai.
+
+[MSG$00DCC0,16]
+Esporra...splat...
+
+[MSG$00DCDD,68]
+Ainda jorra um fluxo intenso de s]men do meu p]nis ejaculado.
+
+[MSG$00DDB7,6]
+Splat!
+
+[MSG$00DDCA,67]
+Shiraki est# sendo banhada com meu esperma. Seu @nus se abre fracamente
+
+[MSG$00DE12,60]
+E ouve-se o som de todo o s]men acumulado sendo ejaculado.
+
+[MSG$00DE5B,20]
+Shiraki "Oh...oh..."
+
+[MSG$00DE89,46]
+Os olhos de Shiraki est=o desfocados enquanto ela treme.
+
+[MSG$00DEBC,48]
+Termino de ejacular e caio no tapete.
+
+[MSG$00DEF9,39]
+O corpo de Shiraki est# coberto com meu s]men.
+
+[MSG$00DF25,57]
+E h# um s]men espesso escorrendo de suas duas aberturas.
+
+[MSG$00DF6B,74]
+O dep&sito ficou em sil]ncio. O `nico som $ a nossa respira~=o.
+
+[MSG$00DFD7,14]
+23 de abril - Gin#sio
+
+[MSG$00E0F7,48]
+Shiraki "Escuta... posso te ver de novo qualquer dia desses?"
+
+[MSG$00E141,66]
+Rika Shiraki me pergunta isso enquanto sa%mos da sala de armazenamento na academia.
+
+[MSG$00E190,85]
+$ verdade, fui eu quem escolheu Shiraki, mas agora que fiz isso, percebo que
+
+[MSG$00E1EA,46]
+|Eu n=o gosto da Rika Shiraki de verdade...
+
+[MSG$00E225,110]
+Isto $ apenas um caso de amor tempor#rio, provocado por um feiti~o. Estou bem ciente de que as palavras de Shiraki n=o viram
+
+[MSG$00E298,100]
+|do cora~=o. Por mais atraente que ela seja, ainda assim n=o consigo levar essa farsa a s$rio.=...
+
+[MSG$00E309,60]
+Eu s& queria a Rika Shiraki porque ela estava fora do meu alcance.
+
+[MSG$00E352,59]
+E quando finalmente a tive, sujei-a com as minhas pr&prias m=os.
+
+[MSG$00E392,48]
+Ela e eu fizemos sexo, n=o houve nada al$m disso.
+
+[MSG$00E3CF,72]
+Depois do sexo, tudo o que me restou foi uma sensa~=o de vazio e afundamento...
+
+[MSG$00E424,29]
+Minase "Claro. Eu te ligo."
+
+[MSG$00E45B,74]
+Tenho o cuidado de esconder meus sentimentos dela e simplesmente a enrolo.
+
+[MSG$00E4B2,39]
+Shiraki "Certo... ent=o vou esperar."
+
+[MSG$00E517,71]
+Ela parece um pouco triste ao dizer isso e sai cabisbaixa da academia.
+
+[MSG$00E57C,19]
+(O sinal escolar toca)
+
+[MSG$00E59C,86]
+Nesse instante, o sinal sonoro que indica o fim do hor#rio de almo~o $ anunciado pelo sistema de som.
+
+[MSG$00E5F7,59]
+Ao ouvir o sinal, come~o a voltar lentamente para a minha pr&xima aula.
+
+[MSG$00E63F,21]
+23 de abril - Hora do Almo~o
+
+[MSG$00E6E7,71]
+Chego [ sala de aula. Ao passar pela carteira de Imari a caminho do meu lugar...
+
+[MSG$00E76D,71]
+Imari "Onde voc] estava esse tempo todo? A aula vai come~ar!"
+
+[MSG$00E7CE,52]
+Imari est# me encarando com um olhar frio.
+
+[MSG$00E80F,77]
+Por que eu tenho que relatar tudo o que fa~o e onde estive para o Imari, afinal?
+
+[MSG$00E869,12]
+Imari "Huh?"
+
+[MSG$00E88F,22]
+Sniff, sniff, sniff...
+
+[MSG$00E8B2,44]
+Ela come~a a fazer barulhos de fungada perto de mim.
+
+[MSG$00E8EB,52]
+Minase "Por que voc] t# me cheirando assim?"
+
+[MSG$00E939,38]
+Imari "N=o t# sentindo isso?"
+
+[MSG$00E979,52]
+Imari "Tem um cheiro de perfume em voc]."
+
+[MSG$00E9C7,18]
+Caramba, ela $ atenciosa!
+
+[MSG$00E9DE,23]
+Me afasto bruscamente de Imari.
+
+[MSG$00E9FA,22]
+Parece at$ um cachorro
+
+[MSG$00EA1D,95]
+Eu mesma n=o percebi, mas o cheiro pode ter impregnado em mim por causa do ato que acabei de cometer.
+
+[MSG$00EA89,80]
+Minase "$ coisa da sua cabe~a. E tem mais, cheirar algu$m assim $ ass$dio sexual."
+
+[MSG$00EAF3,54]
+Imari "O qu]? Por que eu te assediaria, Minase?"
+
+[MSG$00EB67,42]
+Imari volta para o seu lugar, irritada.
+
+[MSG$00EB9E,85]
+No fim das contas, $ muito mais f#cil para mim estar com Imari do que com Shiraki...
+
+[MSG$00EC00,51]
+$ isso que me passa pela cabe~a quando me sento.
+
+[MSG$00EC40,48]
+A professora entra justamente quando estou me sentando...
+
+[MSG$00EC7D,22]
+23 de abril - Depois Da Aula
+
+[MSG$00ED82,27]
+A aula da tarde come~a.
+
+[MSG$00EDAA,39]
+.......................................
+
+[MSG$00EDDE,30]
+..............................
+
+[MSG$00EE09,18]
+..................
+
+[MSG$00EE28,12]
+............
+
+[MSG$00EE41,6]
+......
+
+[MSG$00EE65,10]
+(Sinal tocando)
+
+[MSG$00EF00,61]
+O sinal toca, eu limpo minha mesa e pego minha mochila.
+
+[MSG$00EF7C,15]
+Saeki "Minase?"
+
+[MSG$00EFA5,64]
+A voz me assusta, e eu fecho a porta do meu arm#rio imediatamente.
+
+[MSG$00EFF2,58]
+Olho para o lado e vejo que foi Kaori Saeki quem falou comigo.
+
+[MSG$00F031,63]
+Ih, rapaz. Se ela visse o que eu tenho na minha mochila, poderia haver problemas.
+
+[MSG$00F07D,26]
+Minase "O que voc] quer?"
+
+[MSG$00F0B1,70]
+Pergunto isso [ Saeki, j# que $ raro ela vir aqui conversar comigo.
+
+[MSG$00F0FC,33]
+Ela pode estar chateada com o que aconteceu ontem.
+
+[MSG$00F12A,45]
+Saeki "Vai fazer alguma coisa de tarde?"
+
+[MSG$00F171,18]
+Minase "Como $?"
+
+[MSG$00F19D,58]
+Saeki "Gostaria de saber se voc] gostaria de sair comigo..."
+
+[MSG$00F1F1,38]
+Saeki me encara com um olhar significativo.
+
+[MSG$00F224,57]
+Quem diria que essa garota me convidaria para sair com ela?
+
+[MSG$00F262,65]
+|Vamos torcer para que ela n=o esteja planejando algum tipo de vingan~a
+
+[MSG$00F2A8,34]
+|por causa de ontem...
+
+[MSG$00F2F7,23]
+Minase "Claro, por que n=o?"
+
+[MSG$00F328,28]
+Aceito o convite de Saeki.
+
+[MSG$00F349,99]
+N=o sei o que ela tem em mente, mas de vez em quando acho que posso apreciar a companhia de gente exc]ntrica.
+
+[MSG$00F3B9,25]
+Saeki "S$rio? Que bom."
+
+[MSG$00F3EC,48]
+Saeki "Muito bem, ent=o, vamos indo."
+
+[MSG$00F436,31]
+Minase "Indo... Aonde?"
+
+[MSG$00F46F,33]
+Saeki "Eu te digo no caminho."
+
+[MSG$00F4AA,77]
+Dito isso, Saeki pega sua bolsa e come~a a sair rapidamente da sala de aula.
+
+[MSG$00F504,21]
+Saeki "Vamos logo!"
+
+[MSG$00F557,30]
+Que pressa, hein?
+
+[MSG$00F57A,45]
+; por isso mesmo que eu n=o gosto dessa garota.
+
+[MSG$00F5AC,77]
+N=o tive outra op~=o sen=o pegar minhas coisas [s pressas e segui-la para fora da sala.
+
+[MSG$00F638,48]
+Imari "Aonde pensa que vai, Minase?"
+
+[MSG$00F682,51]
+Quando estou prestes a sair da minha mesa, Imari pula em cima de mim.
+
+[MSG$00F6BA,33]
+N=o d# pra acreditar na rapidez dela.
+
+[MSG$00F6E8,104]
+Imari "Hoje temos reuni=o do clube! Mas aqui est# voc] com sua mochila... n=o me diga que estava pensando em
+
+[MSG$00F755,13]
+|ir pra casa!"
+
+[MSG$00F77C,71]
+Imari me encara com um olhar penetrante enquanto fala. Ela est# atacando.
+
+[MSG$00F7D0,37]
+Minase "Tenho coisas pra fazer hoje."
+
+[MSG$00F80F,60]
+Sei que isso n=o vai ter fundamento, mas digo mesmo assim.
+
+[MSG$00F850,77]
+N=o tenho a m%nima chance de escapar de Imari com uma desculpa esfarrapada dessas.
+
+[MSG$00F8AA,106]
+Imari "Coisas, $? Voc] realmente acha que vai se safar f#cil assim toda vez?"
+
+[MSG$00F92E,34]
+Ela est# determinada a n=o me deixar ir.
+
+[MSG$00F95D,82]
+Saeki estava esperando do lado de fora da sala, mas voltou e caminhou em nossa dire~=o.
+
+[MSG$00FA12,43]
+Saeki "O que foi? Anda logo!"
+
+[MSG$00FA57,43]
+Ela se intromete entre Imari e eu.
+
+[MSG$00FA8F,35]
+Imari "Qual $ o seu problema, Saeki?"
+
+[MSG$00FACC,78]
+Como ela n=o sabe o que est# acontecendo, Imari fica perdida quando Saeki aparece.
+
+[MSG$00FB27,68]
+Saeki "Desculpe, mas hoje ele $ meu, Imari. Certo, Minase?"
+
+[MSG$00FB85,65]
+Ao dizer isso, Saeki me fez um sinal com um olhar sedutor.
+
+[MSG$00FBD3,21]
+Minase "Sim, claro."
+
+[MSG$00FC02,33]
+Imari "O que t# rolando com voc]s dois?"
+
+[MSG$00FC3E,58]
+Imari n=o faz ideia do que est# acontecendo. Ela est# completamente confusa.
+
+[MSG$00FC85,26]
+Saeki "Anda, vamos embora!"
+
+[MSG$00FCB9,49]
+Saeki pega na minha m=o e come~a a sair da sala.
+
+[MSG$00FDA1,42]
+Imari "Ei...espera! S& um minutinho!"
+
+[MSG$00FDE5,107]
+Para n=o ficar atr#s, Imari tamb$m agarra minha m=o. Imari $ forte como um touro, e Saeki n=o tem a menor chance contra ela.
+
+[MSG$00FE55,90]
+Estou sendo puxado por duas garotas. N=o sei o que fazer. S& por hoje, sou o cara cobi~ado...
+
+[MSG$00FEBC,31]
+Imari "Larga ele. Vem, Minase!"
+
+[MSG$00FEF5,16]
+Imari "Vamos!"
+
+[MSG$00FF1F,8]
+(Aperta!)
+
+[MSG$00FF34,22]
+Minase "Espere um pouco, ei!"
+
+[MSG$00FF64,47]
+Ignorando-me, Imari continua a puxar meu bra~o com for~a.
+
+[MSG$00FFA0,11]
+Saeki "Ah!"
+
+[MSG$00FFC5,60]
+Saeki n=o consegue resistir ao poder de Imari e solta minha m=o.
+
+[MSG$01000E,36]
+Imari me arrasta em dire~=o [ Sala de Arte.
+
+[MSG$010063,20]
+Saeki "Caramba, hein!"
+
+[MSG$0100C3,42]
+Saeki "Saiba que n=o estarei desistindo!"
+
+[MSG$010112,40]
+Minase "Desculpe. Tenho uma reuni=o do clube."
+
+[MSG$010154,31]
+Eu recuso o convite de Saeki.
+
+[MSG$010180,62]
+Tem algo de estranho nela me convidando para ir a algum lugar...
+
+[MSG$0101C3,45]
+Tenho certeza de que ela est# tramando algo.
+
+[MSG$0101FD,26]
+; melhor eu ficar em alerta.
+
+[MSG$010224,48]
+Saeki "Ah, qual $, voc] n=o pode faltar [ reuni=o?"
+
+[MSG$01026E,100]
+Ela faz parecer t=o f#cil, mas se fosse realmente t=o f#cil faltar a reuni^es, eu j# teria desistido h# muito tempo.
+
+[MSG$0102DF,50]
+Minase "Minha vida seria muito mais f#cil se eu pudesse faltar."
+
+[MSG$01032B,23]
+Digo isso com um suspiro.
+
+[MSG$0103A5,21]
+Imari "Pois $."
+
+[MSG$0103D4,76]
+N=o sei de onde ela veio, mas de repente Imari apareceu entre n&s.
+
+[MSG$01042D,40]
+Imari "Certo, vamos l#, Minase."
+
+[MSG$01046F,26]
+Imari "Anda, anda logo!"
+
+[MSG$0104A3,33]
+Minase "Ei... vai com calma, t#?"
+
+[MSG$010502,47]
+Ignorando-me, Imari continua a puxar meu bra~o com for~a.
+
+[MSG$010536,59]
+Ela me arrasta em dire~=o [ Sala de Arte...
+
+[MSG$0105B0,22]
+Saeki "Que droga..."
+
+[MSG$0105E0,30]
+Saeki "Mas eu n=o vou desistir!"
+
+[MSG$010618,19]
+23 de abril - Sala de Arte
+
+[MSG$01071A,53]
+Imari "Do que diabos a Saeki tava falando contigo?"
+
+[MSG$010769,43]
+Minase "Nada. Nada que valha a pena mencionar."
+
+[MSG$0107AE,17]
+Imari "Aham..."
+
+[MSG$0107D9,48]
+Imari tem um olhar de descren~a total .
+
+[MSG$010816,36]
+Imari "Ei, voc] est# de bobeira no domingo?"
+
+[MSG$010854,111]
+Imari me pergunta isso de repente enquanto estou lutando diante da tela, com minha lament#vel imagina~=o e talento art%stico
+
+[MSG$0108C8,25]
+|em for~a total...
+
+[MSG$0108EE,90]
+Tenho a presen~a de esp%rito suficiente para retirar a tela do caminho antes que Imari a veja.
+
+[MSG$010955,37]
+Minase "Por que a pergunta?"
+
+[MSG$010994,54]
+Imari "Nada n=o. Se n=o puder, de boa, tamb$m."
+
+[MSG$0109E4,43]
+Minase "Eu posso. O que quer fazer?"
+
+[MSG$010A29,98]
+Imari "Bem, $ que... seria legal passar um tempo juntos quando n=o tivermos aula, n=o acha?"
+
+[MSG$010AA5,52]
+Imari parece um pouco envergonhada ao dizer isso.
+
+[MSG$010AE6,51]
+Ser# que ela est# mesmo me convidando para sair?
+
+[MSG$010B26,9]
+(Treme...)
+
+[MSG$010B3C,63]
+De jeito nenhum. Eu e Imari nunca, jamais sa%mos juntos antes.
+
+[MSG$010B80,52]
+Quer dizer, n&s nem sequer temos esse tipo de relacionamento.
+
+[MSG$010BC1,16]
+Que estranho...
+
+[MSG$010BD6,49]
+Que bicho mordeu ela?
+
+[MSG$010C14,93]
+Minase "O que deu em voc]? Quer dizer, tudo bem, vamos nos encontrar, mas o que vamos fazer?"
+
+[MSG$010C8B,34]
+Imari "Voc] vai descobrir no Domingo."
+
+[MSG$010CC7,57]
+Imari "E de qualquer forma, se eu te contasse agora, ia estragar a surpresa."
+
+[MSG$010D1A,95]
+N=o gostei nada disso... Espero que ela n=o esteja planejando me levar para algum lugar muito estranho...
+
+[MSG$010D86,108]
+Talvez Imari tenha ca%do nas m=os de algum culto religioso e esteja planejando me levar para l# no domingo...
+
+[MSG$010DFF,88]
+E talvez ela e o l%der maluco do culto, que provavelmente vai se autodenominar Deus,
+
+[MSG$010E5C,35]
+ir=o me lobotomizar...
+
+[MSG$010E8C,54]
+Cruzes... D# medo s& de pensar...
+
+[MSG$010EC7,51]
+Se for esse o caso, terei que resgatar Imari.
+
+[MSG$010F07,76]
+Minase "Olha, Imari, s& n=o se mete com nenhum culto religioso, ok?"
+
+[MSG$010F6D,53]
+Imari "Hein? Do que raios voc] t# falando?"
+
+[MSG$010FBC,96]
+Imari "Ser# que isso $ mais um dos seus devaneios? Acho mesmo que voc] deveria tentar se livrar desse h#bito."
+
+[MSG$011036,23]
+Ah, ent=o n=o $ uma seita.
+
+[MSG$011052,33]
+O que ser#, ent=o...
+
+[MSG$011093,63]
+Ser# que o feiti~o finalmente est# come~ando a fazer efeito?
+
+[MSG$0110D7,57]
+Mas se essa for a causa, ent=o os efeitos s=o muito fracos.
+
+[MSG$01111D,41]
+Imari "Enfim, vamos pra um encontro, t# bom?"
+
+[MSG$011160,39]
+Imari "V] se n=o esquece ou dorme em cima da hora!"
+
+[MSG$0111A1,15]
+Minase "T#."
+
+[MSG$0111CA,67]
+Ap&s essa conversa com Imari, volto a trabalhar na pintura.
+
+[MSG$011212,45]
+N=o tenho tempo para conversas banais como essa.
+
+[MSG$01124C,106]
+Minha prioridade m#xima $, de alguma forma, transformar esse retrato aterrador em algo que o olho humano possa suportar...
+
+[MSG$0112BB,75]
+Mas... mas... por algum motivo, quanto mais tento consertar, mais estranho fica.
+
+[MSG$01138F,78]
+Finalmente a reuni=o do clube terminou, e Imari e eu sa%mos juntos da sala de arte.
+
+[MSG$0113E2,59]
+Trocamos de sapatos nos nossos arm#rios e sa%mos do pr$dio.
+
+[MSG$011464,15]
+Saeki "Minase."
+
+[MSG$01148D,86]
+Olho na dire~=o de onde veio a voz. Kaori Saeki aparece por tr#s de um pilar.
+
+[MSG$0114E8,37]
+Eu n=o sabia que Saeki ainda estava aqui...
+
+[MSG$01151A,46]
+Minase "O que voc] est# fazendo aqui a esta hora?"
+
+[MSG$011562,31]
+Saeki "Estava te esperando."
+
+[MSG$01159B,69]
+Saeki "Voc] vir# comigo agora que sua reuni=o terminou, sim?"
+
+[MSG$0115FA,35]
+Ser# que ela estava esperando at$ agora para isso?
+
+[MSG$01162A,11]
+Imari "..."
+
+[MSG$011642,67]
+Imari est# ao meu lado, observando com uma express=o irritada no rosto.
+
+[MSG$01168A,18]
+Que tens=o...
+
+[MSG$0116A9,58]
+Minase "Desculpe, mas eu j# disse que iria para casa com a Imari."
+
+[MSG$0116FD,44]
+Saeki "Mas eu te pedi primeiro."
+
+[MSG$011743,24]
+Ela at$ que tem raz=o...
+
+[MSG$011760,81]
+E se ela esperou todo esse tempo, ent=o deve ser algo muito importante, n$?
+
+[MSG$0117F0,55]
+Imari "Tudo bem, v# com ela. N=o se preocupe comigo."
+
+[MSG$011841,37]
+Imari "Eu vou pra casa sozinha."
+
+[MSG$011880,73]
+Inesperadamente, Imari interrompe, depois de ouvir minha conversa com Saeki.
+
+[MSG$0118CE,56]
+Por algum motivo, ela n=o parece t=o en$rgica quanto de costume.
+
+[MSG$011913,21]
+Saeki "Perd=o, Imari."
+
+[MSG$011942,49]
+Imari "Sem problema. ; s& um dia sem ele."
+
+[MSG$01198D,50]
+Imari "Certo, ent=o. Te vejo amanh=, Minase."
+
+[MSG$0119D9,14]
+Minase "Claro."
+
+[MSG$011A25,34]
+Dito isso, Imari caminha penosamente para casa.
+
+[MSG$011A86,74]
+Saeki "Agora me sinto meio mal, $ como se eu estivesse te obrigando a vir comigo."
+
+[MSG$011AEA,47]
+Como assim, ''se''? Voc] EST+ me obrigando.
+
+[MSG$011B26,10]
+Enfim...
+
+[MSG$011B35,96]
+Do jeito que ela est# indo, eu sei que ela vai me perseguir para sempre, n=o importa quantas vezes eu a ignore.
+
+[MSG$011B9A,51]
+Nesse caso, posso muito bem acabar logo com isso.
+
+[MSG$011BDA,29]
+Ent=o eu saio do campus com Saeki.
+
+[MSG$011C04,34]
+23 de abril - Saindo com Saeki
+
+[MSG$011CC8,44]
+Saeki e eu sa%mos do campus, lado a lado...
+
+[MSG$011CF9,114]
+Sinto-me desconfort#vel e com uma sensa~=o estranha ao ir com Saeki pelo mesmo caminho que sempre fa~o com Imari.
+
+[MSG$011D78,23]
+Minase "Ent=o, o que foi?"
+
+[MSG$011DA9,55]
+N=o aguento mais o sil]ncio de Saeki.
+
+[MSG$011DED,44]
+Isso n=o poderia ser um encontro, n=o com a Saeki. 
+
+[MSG$011E1E,68]
+O que ser# que essa louca por magia negra quer de mim?
+
+[MSG$011E6F,45]
+Saeki "Bem, eu te acho interessante, Minase."
+
+[MSG$011EB6,90]
+Minase "H=? Voc] disse outro dia que n=o gostava de mim.  O que deu em voc]?"
+
+[MSG$011F2A,36]
+Saeki "Sim, e era isso mesmo."
+
+[MSG$011F68,68]
+Saeki "Voc] zombou da minha magia. Era isso que eu n=o gostava em voc]."
+
+[MSG$011FC6,77]
+Saeki "Mas agora eu sei que voc] $ igual a mim. Ent=o mudei de ideia..."
+
+[MSG$01202D,83]
+Igual...? Me poupe. Por que eu tenho que ser colocado no mesmo saco que uma cigana doida como voc]?
+
+[MSG$01208D,67]
+Saeki "Al$m disso, gostaria de saber o que te fez mudar t=o repentinamente."
+
+[MSG$0120EA,95]
+Saeki "Algu$m que declarava n=o acreditar em magia, de repente come~ou a pratic#-la um dia."
+
+[MSG$012163,33]
+Saeki "Mas por qu]? Diga-me, Minase."
+
+[MSG$01219E,54]
+Essa garota quer que eu revele o segredo do meu poder.
+
+[MSG$0121D9,105]
+Ent=o ela quer ver aquele livro de magia? Bom, tenho certeza de que algu$m como ela imploraria por um livro desses.
+
+[MSG$0122CB,38]
+Saeki "Aqui estamos. Esta $ a minha casa."
+
+[MSG$01230B,31]
+Com isso, Saeki para de andar.
+
+[MSG$01232F,70]
+A casa parece novinha em folha. Consigo ver o nome Saeki na placa.
+
+[MSG$012382,69]
+Saeki "Voc] vai entrar, n=o vai? Tenho muitas perguntas para voc]."
+
+[MSG$0123E1,12]
+Minase "..."
+
+[MSG$0123FA,48]
+Saeki "N=o precisa ter vergonha. N=o tem ningu$m em casa mesmo."
+
+[MSG$012444,46]
+Ela entra sem esperar minha resposta.
+
+[MSG$012477,40]
+N=o tenho outra escolha sen=o segui-la...
+
+[MSG$01253D,65]
+Sou convidado [ for~a a entrar, e ela me leva para o andar de cima, at$ seu quarto.
+
+[MSG$01258B,23]
+23 de abril - Quarto da Saeki
+
+[MSG$012644,35]
+Saeki "Ignore a bagun~a."
+
+[MSG$012681,66]
+O quarto em que entro $ exatamente o que se esperaria de uma garota como Saeki.
+
+[MSG$0126C8,58]
+; dif%cil acreditar que este seja o quarto de uma garota da minha idade...
+
+[MSG$01270F,80]
+O quarto de Imari est# cheio de bichos de pel`cia e objetos diversos espalhados por todo lado,
+
+[MSG$012764,48]
+enquanto este quarto n=o possui qualquer decora~=o.
+
+[MSG$0127A1,54]
+; exatamente o tipo de quarto que voc] esperaria que Saeki tivesse.
+
+[MSG$0127E4,35]
+Ao observar em volta...
+
+[MSG$012814,42]
+H# pilhas de livros espalhadas por toda parte.
+
+[MSG$012846,24]
+Velas de todas as cores...
+
+[MSG$01286E,31]
+Ferramentas que n=o consigo identificar facilmente.
+
+[MSG$012895,41]
+Frascos contendo diversos tipos de incenso.
+
+[MSG$0128CB,82]
+H# c%rculos m#gicos e amuletos colados nas paredes, tornando o lugar mais assustador do que nunca.
+
+[MSG$01292A,31]
+Minase "Voc] tem bom gosto."
+
+[MSG$0129DF,106]
+Digo isso com uma express=o de exaspera~=o no rosto. Volto meu olhar para a enorme estante encostada na parede,
+
+[MSG$012A4E,35]
+e observo os livros que est=o guardados l#.
+
+[MSG$012A7E,91]
+Dizem que um olhar para os livros de algu$m revela seus gostos e prefer]ncias, mas...
+
+[MSG$012AE6,106]
+As prateleiras est=o abarrotadas de livros grossos. Ao contr#rio das minhas pr&prias estantes, n=o h# gibis nem revistas.
+
+[MSG$012B5D,90]
+Observo com mais aten~=o e percebo que n=o h# apenas livros japoneses. H# tamb$m livros estrangeiros.
+
+[MSG$012C64,43]
+Saeki "O que acha da minha cole~=o?"
+
+[MSG$012CA9,85]
+Saeki me pergunta isso enquanto eu olho para as estantes de livros. Ela j# trocou de roupa, tirando o uniforme.
+
+[MSG$012D03,34]
+Ela parece muito orgulhosa de seus livros.
+
+[MSG$012D32,86]
+Encontro muitos dos mesmos t%tulos que peguei emprestados da biblioteca. Mas ela tem muito mais
+
+[MSG$012D8D,18]
+|que l#.
+
+[MSG$012DAC,97]
+Saeki "Tenho quase todos os livros de magia famosos. Claro que s=o todos edi~^es modernas em ingl]s
+
+[MSG$012E12,35]
+|que ainda est=o dispon%veis hoje..."
+
+[MSG$012E4F,84]
+Saeki "Existem muito poucos livros sobre magia negra que foram traduzidos para o japon]s.
+
+[MSG$012EA8,79]
+Ent=o n=o tenho outra escolha a n=o ser l]-los em ingl]s. Mas isso me tornou muito fluente."
+
+[MSG$012F11,63]
+Saeki "Por aqui est=o Crowley, Fortune, Mathers e Waite...
+
+[MSG$012F55,58]
+Tamb$m tenho todos os livros escritos por magos modernos."
+
+[MSG$012FA9,50]
+Dito isso, ela aponta para uma se~=o das prateleiras.
+
+[MSG$012FE8,94]
+Saeki "Que tipo de livros voc] l], Minase? O feiti~o que voc] lan~ou outro dia era semelhante aos
+
+[MSG$01304B,48]
+|que voc] pode encontrar na Chave de Salom=o...."
+
+[MSG$013095,69]
+Minase "N=o tenho muita certeza... quer dizer, eu quase n=o sei de nada."
+
+[MSG$0130F4,68]
+Saeki "N=o acredito em voc]. Ent=o, como descobriu isso?"
+
+[MSG$013152,12]
+Minase "..."
+
+[MSG$01316B,66]
+Saeki "Ent=o voc] realmente n=o sabe de nada. Tudo bem, temos bastante tempo..."
+
+[MSG$0131C7,103]
+Saeki "Se quiser, pode dar uma olhada em qualquer um desses livros. Posso te dar v#rias dicas.
+
+[MSG$013248,65]
+Saeki aponta para a fileira de livros em suas prateleiras enquanto diz isso.
+
+[MSG$013312,70]
+Ela disse que eu posso olhar qualquer um deles, mas os t%tulos est=o todos em ingl]s.
+
+[MSG$01335D,29]
+Pego um livro aleatoriamente.
+
+[MSG$0137F1,87]
+Saeki "E a%? Impressionante, n=o $? Passei por muita coisa para conseguir todos esses livros."
+
+[MSG$013862,91]
+Saeki "Tenho outros livros de Cavarro e dos alquimistas tamb$m. Gostaria de v]-los?"
+
+[MSG$0138D7,51]
+J# chega de aturar as bravatas da Saeki.
+
+[MSG$013917,51]
+Minase "N=o, tudo bem. Acho que j# vi o suficiente."
+
+[MSG$013964,55]
+Saeki "Ah? Mas tenho muito mais para te mostrar."
+
+[MSG$0139B5,61]
+N=o acredito que ela tenha colecionado tantos desses livros estranhos...
+
+[MSG$013A7B,77]
+Saeki "Muito bem, ent=o acho que voc] pode me contar agora. Sobre o seu segredo..."
+
+[MSG$013AE3,27]
+Saeki volta seu olhar para mim.
+
+[MSG$013B03,81]
+N=o gosto do jeito que ela est# me olhando, como se pudesse ver dentro da minha alma...
+
+[MSG$013B61,85]
+Al$m disso, eu nunca prometi a ela que lhe contaria algo, e nunca disse que tinha um segredo.
+
+[MSG$013BBB,68]
+Esse $ o tipo de pessoa que ela $. Ela simplesmente n=o ouve as pessoas.
+
+[MSG$013C0C,38]
+Minase "Mas eu n=o tenho nenhum segredo."
+
+[MSG$013C4C,21]
+Saeki "Mentira."
+
+[MSG$013C7B,26]
+Saeki "Voc] n=o vai me enganar."
+
+[MSG$013CAF,65]
+Saeki "Aquele feiti~o do outro dia... era uma das Maldi~^es do Amor."
+
+[MSG$013D0A,79]
+Saeki "Um feiti~o para manipular a alma de outra pessoa e for~#-la a comportamentos lascivos.
+
+[MSG$013D5E,64]
+Voc] n=o teria conseguido fazer o teste se n=o soubesse nada sobre."
+
+[MSG$013DB9,12]
+Minase "..."
+
+[MSG$013DD2,49]
+Saeki "Voc] $ muito mais cauteloso do que parece."
+
+[MSG$013E1D,36]
+Saeki me encara enquanto diz isso.
+
+[MSG$013E4E,92]
+Saeki "Voc] j# ouviu a hist&ria completa sobre o que aconteceu com aquelas garotas 12 anos atr#s?"
+
+[MSG$013EC4,37]
+Saeki aborda o assunto abruptamente.
+
+[MSG$013EF6,14]
+Minase "N=o."
+
+[MSG$013F1E,65]
+O Clube de Magia de 12 anos atr#s... Ser# que a Saeki est# de olho em mim ou algo assim?
+
+[MSG$013F6C,94]
+Mas, pensando bem, tudo o que sei sobre aquele clube antigo $ o que vi com meus pr&prios olhos...
+
+[MSG$013FCF,40]
+o quarto no por=o e o Livro de Magia,
+
+[MSG$013FFC,49]
+S& posso imaginar o que eles realmente fizeram...
+
+[MSG$01403A,109]
+Saeki "Eles come~aram a praticar magia apenas por curiosidade, e seus feiti~os eram brincadeira de crian~a no in%cio."
+
+[MSG$0140C1,50]
+Saeki "Mas gradualmente as coisas come~aram a piorar..."
+
+[MSG$01410D,109]
+Saeki "Eles come~aram a despeda~ar animais vivos para sacrific#-los e a oferecer seu sangue e suas almas aos dem\nios."
+
+[MSG$014194,85]
+Saeki "Essas garotas, na verdade, realizavam rituais anacr\nicos, sabia? E, por fim..."
+
+[MSG$014203,117]
+A hist&ria de Saeki parece uma completa bobagem, mas como j# vi aquele por=o, tenho a impress=o de que $ tudo verdade.
+
+[MSG$014285,88]
+Saeki "Ouvi dizer que eles usavam o poder para muitas coisas, assim como voc] est# fazendo agora.
+
+[MSG$0142E2,28]
+Maldi~^es e feiti~os do tipo."
+
+[MSG$014318,71]
+Saeki "E dizem que as maldi~^es que lan~avam sobre as pessoas eram eficazes."
+
+[MSG$014379,29]
+Minase "O que voc] est# dizendo?"
+
+[MSG$0143B0,32]
+Saeki "Ah, falei por falar."
+
+[MSG$0143EA,68]
+Saeki "Tudo o que me interessa $ saber como voc], algu$m com
+
+[MSG$014433,85]
+|nenhum conhecimento de bruxaria, de repente foi capaz de exercer esse tipo de poder..."
+
+[MSG$0144A2,60]
+Saeki "Por favor, Minase. Por que voc] n=o compartilharia seu segredo comigo?"
+
+[MSG$0144F8,25]
+Saeki "Por favor, Minase..."
+
+[MSG$01452B,69]
+Saeki implora com os olhos. $ como se ela estivesse me lambendo com o olhar.
+
+[MSG$014575,47]
+Neste momento, consigo ver um outro lado dela.
+
+[MSG$0145B1,12]
+Minase "..."
+
+[MSG$0145CA,61]
+Saeki "Claro, n=o estou pedindo que voc] compartilhe isso gratuitamente..."
+
+[MSG$01469A,71]
+Com isso, Saeki abre bem as pernas na cama, tentando me seduzir.
+
+[MSG$0146E6,74]
+No fundo da saia dela, consigo ver sua virilha indecente, coberta pela roupa %ntima.
+
+[MSG$01473D,49]
+Essa garota $ muito mais atrevida do que parece...
+
+[MSG$014773,86]
+Normalmente, ela tem uma barreira anti-homens ao seu redor, mas agora est# sendo sedutora.
+
+[MSG$0147D6,56]
+Pensando bem, eu n=o me importaria de comer a Kaori Saeki...
+
+[MSG$014813,50]
+Dane-se a sua personalidade. Ela n=o $ feia.
+
+[MSG$014852,21]
+Saeki "Vamos. Por favor?"
+
+[MSG$0148AF,14]
+Minase "Claro."
+
+[MSG$0148D7,40]
+Cedendo [ minha lux`ria, come~o a falar...
+
+[MSG$014904,53]
+Nem preciso dizer que n=o vou mostrar o livro para ela.
+
+[MSG$014946,56]
+Saeki "Ent=o voc] vai me contar? Que bom!"
+
+[MSG$014998,54]
+Saeki "Muito bem, ent=o deixe-me demonstrar minha gratid=o primeiro."
+
+[MSG$0149E8,38]
+Saeki "Tire as cal~as, por favor?"
+
+[MSG$014A28,13]
+Minase "Hein?"
+
+[MSG$014A4F,80]
+Saeki "N=o podemos fazer nada se voc] estiver de cal~as. Vamos, n=o seja t%mido."
+
+[MSG$014AB9,64]
+Percebo que, em algum ponto do processo, Saeki assumiu o controle.
+
+[MSG$014AFE,108]
+Mesmo assim, se ela estiver disposta a fazer sexo comigo, n=o vou recusar. Estou excitado com esse novo lado da Saeki.
+
+[MSG$014B77,61]
+Fa~o o que me mandam e baixo lentamente as cal~as na frente de Saeki.
+
+[MSG$014BB9,41]
+Ela me observa com um sorriso malicioso no rosto.
+
+[MSG$014BEF,38]
+Eu olho para Saeki assim que tiro as cal~as.
+
+[MSG$014C22,24]
+Saeki "Tira tudo."
+
+[MSG$014C54,75]
+A pedido dela, timidamente pego no meu short e o puxo para baixo lentamente.
+
+[MSG$014CA4,49]
+Meu p]nis ereto salta para fora, exposto ao olhar de Saeki.
+
+[MSG$014CE2,61]
+Saeki tem um sorriso no rosto enquanto contempla meu p]nis.
+
+[MSG$014D2C,32]
+Eu j# estou sob o controle dela.
+
+[MSG$014D59,70]
+Saeki "Voc] j# est# duro assim? Ent=o eu te excitei, Minase..."
+
+[MSG$014DBA,77]
+Saeki ri baixinho enquanto diz isso. Devo parecer um idiota aos olhos dela...
+
+[MSG$014E14,71]
+Saeki "Ok, vou fazer algo que vai te fazer sentir bem..."
+
+[MSG$014F23,59]
+Com isso, Saeki tira a blusa e se ajoelha na minha frente.
+
+[MSG$014F6B,56]
+Saeki "Que formato obsceno... e ainda est# tremendo."
+
+[MSG$014FBD,92]
+Dito isso, Saeki lentamente coloca os dedos em volta do meu p]nis e come~a a bombe#-lo para cima e para baixo.
+
+[MSG$015026,16]
+Minase "Ahhh..."
+
+[MSG$015050,86]
+Eu grito com a sensa~=o. Vendo minha rea~=o, Saeki ajusta habilmente seu movimento.
+
+[MSG$0150AB,53]
+Ela $ t=o boa que logo me encontro em ]xtase.
+
+[MSG$0150ED,54]
+Saeki "Ent=o, por que voc] n=o me conta o seu segredinho?"
+
+[MSG$01513D,39]
+Saeki me pergunta isso enquanto acaricia meu p]nis.
+
+[MSG$015169,65]
+Estou extasiado de prazer, mas consigo abrir a boca lentamente.
+
+[MSG$0151B7,52]
+Minase "Eu s& tenho um livro... de magia..."
+
+[MSG$015205,71]
+Saeki "S$rio? Que tipo de livro? Um que eu n=o tenho na minha estante?"
+
+[MSG$015266,83]
+Minase "N=o como os seus. ; mais antigo e est# escrito em latim e franc]s..."
+
+[MSG$0152D3,22]
+Saeki "Interessante..."
+
+[MSG$015303,61]
+Saeki "Ent=o voc] lan~ou aquele feiti~o depois de ler esse livro?"
+
+[MSG$01535A,39]
+Saeki "Mas onde voc] conseguiu esse livro?"
+
+[MSG$01539B,72]
+Saeki me pergunta isso enquanto acelera ligeiramente o movimento de fric~=o.
+
+[MSG$015469,27]
+(Aperta... aperta... aperta...)
+
+[MSG$015491,107]
+Estou come~ando a secretar pela ponta do meu p]nis, e est# fazendo um som obsceno em sincronia com o movimento da m=o dela.
+
+[MSG$015501,77]
+Eu a ou~o e tento absorver o intenso prazer que me domina.
+
+[MSG$01555B,48]
+Minase "Eu encontrei na Sala Secreta trancada..."
+
+[MSG$0155A5,78]
+Minase "O dep&sito no por=o onde fizeram aquele ritual h# 12 anos..."
+
+[MSG$01560D,40]
+Saeki "Voc] entrou na Sala Secreta?"
+
+[MSG$01564F,52]
+Minase "Sim... encontrei a chave na sala dos professores."
+
+[MSG$01569D,84]
+Minase "O boato era verdade. Eles isolaram aquela sala exatamente como estava h# 12 anos."
+
+[MSG$01570B,100]
+Saeki "Eu n=o sabia disso. Acreditei no boato, mas nunca imaginei que eles tivessem deixado as coisas como estavam."
+
+[MSG$015789,97]
+Saeki "Se for esse o caso, significa que o livro que voc] encontrou $ o mesmo que eles usaram na $poca?"
+
+[MSG$015804,33]
+Ela pergunta com entusiasmo.
+
+[MSG$015832,19]
+Minase "Sim... A-Ahhh!"
+
+[MSG$01585F,59]
+Ao mesmo tempo, as m=os dela come~am a se mover mais r#pido, e eu solto um grito.
+
+[MSG$01589F,66]
+N=o sei se ela consegue perceber se estou respondendo ou s& gemendo.
+
+[MSG$0158EE,42]
+Saeki "Ent=o, onde est# o livro agora?"
+
+[MSG$015932,106]
+Saeki "Voc] vai me mostrar, n=o vai? N=o, se chegamos at$ aqui, voc] tem que me mostrar!"
+
+[MSG$0159B6,102]
+Saeki "Se prometer me mostrar, farei algo ainda mais incr%vel para voc]. O que me diz?"
+
+[MSG$015A36,40]
+Ela est# quase balbuciando, de tanta anima~=o.
+
+[MSG$015A6B,27]
+(Aperta... aperta... aperta...)
+
+[MSG$015A93,86]
+Ela n=o parou nem por um segundo. Estou dominado por uma vontade irresist%vel de ejacular.
+
+[MSG$015B16,41]
+Minase "N=o posso. N=o posso te mostrar isso."
+
+[MSG$015B59,67]
+Eu tento desesperadamente resistir [ minha lux`ria e recuso o pedido de Saeki..
+
+[MSG$015BA9,78]
+Saeki "Por que n=o? Voc] n=o confia em mim? N=o seja mau comigo... mostre-me!"
+
+[MSG$015C11,14]
+Minase "N=o..."
+
+[MSG$015C39,40]
+Saeki "Entendi... ent=o $ tipo ultrassecreto?"
+
+[MSG$015CF3,57]
+Sua voz fica triste quando ela diz isso. Sua m=o diminui o ritmo.
+
+[MSG$015D31,52]
+Ao mesmo tempo, minha necessidade de gozar diminui um pouco.
+
+[MSG$015D72,44]
+Minase "Ok, eu j# disse... agora me deixa gozar."
+
+[MSG$015DB8,75]
+J# que ela me deixou nessa expectativa, n=o consigo mais resistir [ vontade de gozar.
+
+[MSG$015E08,49]
+Se ela n=o me deixar gozar agora, ser# uma tortura.
+
+[MSG$015E46,20]
+Saeki "T# bom..."
+
+[MSG$015E74,44]
+Saeki "Mas primeiro eu tamb$m vou ser maldosa."
+
+[MSG$015EBA,10]
+Minase "?"
+
+[MSG$015ED1,101]
+Com isso, Saeki pega algo debaixo da cama e prende em minhas m=os atr#s das minhas costas.
+
+[MSG$015F43,7]
+Snap...
+
+[MSG$015F57,51]
+Sinto algo frio e pesado nos meus pulsos....
+
+[MSG$015F8F,20]
+Algemas...
+
+[MSG$015FB0,97]
+N=o sei por que ela teria um, mas n=o h# d`vida do que $.
+
+[MSG$01601E,80]
+E n=o s=o algemas de brinquedo... s=o do tipo que poderiam ser usadas pela pol%cia.
+
+[MSG$01607B,30]
+Minase "Mas... O que porra?"
+
+[MSG$0160B3,83]
+Eu me debato desesperadamente, com as duas m=os presas. Mas s& se ouve um tilintar
+
+[MSG$01610B,24]
+|e resist]ncia absoluta.
+
+[MSG$016130,58]
+Saeki "Sinto muito, mas isso $ culpa sua, Minase."
+
+[MSG$016184,54]
+Saeki me lan~a um olhar de pena enquanto me debato em v=o.
+
+[MSG$016244,88]
+Ent=o ela me joga na cama. Sou um prisioneiro e n=o tenho escolha a n=o ser fazer o que ela manda.
+
+[MSG$0162A9,111]
+Saeki "Se voc] n=o vai me mostrar, ent=o eu vou te dar um jeito de voc] me mostrar, quer queira ou n=o."
+
+[MSG$0163AE,110]
+Com isso, ela pega meu p]nis, ainda ereto em dire~=o ao teto, e come~a a enrolar um cord=o fino
+
+[MSG$016421,29]
+|amarrando-o firmemente.
+
+[MSG$016443,83]
+Minha pica est# t=o inchada que pareces estar prestes a estourar, e o fio est# cortando minha carne.
+
+[MSG$0164A3,51]
+Minase "Ah... ai! O que voc] pensa que est# fazendo?"
+
+[MSG$0164F0,56]
+Saeki "Isso vai ser muito bom... t=o bom que vai doer."
+
+[MSG$016542,50]
+Saeki "Vamos ver quanto voc] conseguir# aguentar."
+
+[MSG$01658E,25]
+Splish, splish, splish...
+
+[MSG$0165B4,68]
+Com isso, ela come~a a me tocar uma punheta com uma velocidade impressionante.
+
+[MSG$016605,14]
+Minase "Augh!"
+
+[MSG$01662D,54]
+$ t=o estimulante que fico imediatamente pronto para ejacular.
+
+[MSG$016670,24]
+Minase "Eu vou gozar!"
+
+[MSG$0166A2,35]
+Saeki "Quero ver voc] conseguir!"
+
+[MSG$0166DF,59]
+Estou convulsionando. Tento com todas as minhas for~as expulsar meu desejo.
+
+[MSG$016727,11]
+Minase "!?"
+
+[MSG$01673F,18]
+N=o estou gozando....
+
+[MSG$01675E,88]
+Embora a sensa~=o esteja presente, n=o estou sentindo aquela onda que acompanha a ejacula~=o.
+
+[MSG$0167BB,82]
+Estou morrendo de vontade de gozar, mas como estou amarrado, n=o consigo me aliviar.
+
+[MSG$01681A,39]
+Saeki "Viu? consegue, n$?"
+
+[MSG$01685B,21]
+Fap...fap...fap...
+
+[MSG$01687D,68]
+Com uma risadinha maliciosa, ela continua a bombear meu pau com uma velocidade incr%vel.
+
+[MSG$0168CE,15]
+Minase "Ahh..."
+
+[MSG$0168F7,75]
+Saeki "E a%? Voc] nunca sentiu um prazer assim antes, n=o $?"
+
+[MSG$01695C,70]
+Saeki "Mas espere s&, tem algo ainda melhor chegando."
+
+[MSG$0169BC,41]
+Saeki "Vamos, eu deixo voc] gozar."
+
+[MSG$0169FF,19]
+Fap, fap, fap...
+
+[MSG$016A1F,43]
+Minase "Ei, chega! Deixa eu tirar isso daqui...."
+
+[MSG$016A64,44]
+Estou prestes a desmaiar com tanta estimula~=o.
+
+[MSG$016A9D,97]
+Saeki "Se voc] me mostrar o livro de magia, ent=o eu deixarei voc] gozar. At$ l#, pode sofrer."
+
+[MSG$016B18,13]
+Minase "Aaah!"
+
+[MSG$016B3F,40]
+Saeki "Voc] n=o devia se segurar tanto,
+
+[MSG$016B6C,80]
+faz mal para voc]. E por mais que voc] se esforce, n=o vai adiantar de nada."
+
+[MSG$016BD6,87]
+Saeki n=o d# nenhum sinal de que est# me ouvindo e continua a acariciar meu p]nis.
+
+[MSG$016C32,50]
+Mais uma vez estou em agonia devido ao intenso prazer.
+
+[MSG$016C71,14]
+Minase "Augh!"
+
+[MSG$016C99,74]
+Saeki "Voc] j# n=o aguenta mais, n=o $? Vamos, onde est# o livro?"
+
+[MSG$016CFD,60]
+Saeki "Basta me dizer e voc] n=o precisar# mais sofrer..."
+
+[MSG$016D53,82]
+Meu corpo ainda est# convulsionado enquanto cedo [s suas palavras e abro a boca.
+
+[MSG$016DB2,56]
+Minase "T-t# na minha mochila. Agora deixa eu gozar!"
+
+[MSG$016E04,26]
+Saeki "(rindo) Perfeito."
+
+[MSG$016E38,75]
+Saeki "Muito bem, vou deixar voc] fazer o que pediu e te deixar gozar."
+
+[MSG$016F26,48]
+Saeki solta o cord=o que est# prendendo meu pau.
+
+[MSG$016F63,14]
+Minase "Augh!"
+
+[MSG$01707D,7]
+Jorrando
+
+[MSG$017091,91]
+Nesse instante, uma quantidade inacredit#vel de s]men acumulado jorrou da ponta do meu cacete.
+
+[MSG$0170F9,30]
+Saeki "(Rindo) Isso!"
+
+[MSG$017131,20]
+Minase "Ugh...augh!"
+
+[MSG$01715F,19]
+Spurt! Gush! Splat!
+
+[MSG$01717F,72]
+Eu me impulsionava para cima repetidamente, espalhando s]men espesso por todo lado.
+
+[MSG$0171CC,30]
+A porra cai sobre o corpo de Saeki.
+
+[MSG$0171F7,10]
+Caindo
+
+[MSG$017287,78]
+Quando termino de ejacular grandes quantidades de s]men, caio exausto.
+
+[MSG$0172E2,108]
+Saeki me olha com mal%cia enquanto come~a a espremer o s]men que restou na minha uretra, com um movimento como se estivesse ordenhando uma vaca.
+
+[MSG$01735B,28]
+Saeki "Olha pra isso..."
+
+[MSG$017391,52]
+Saeki "Voc] gozou muito! N=o tem vergonha disso, n=o?"
+
+[MSG$0173DF,69]
+Enquanto diz isso, Saeki encara o l%quido branco e pegajoso em suas m=os.
+
+[MSG$017431,77]
+Estou atordoado, ent=o n=o tenho vontade de rebater as palavras de esc#rnio de Saeki.
+
+[MSG$01748B,105]
+Saeki "Voc] deve ter ficado com muito tes=o do que eu fiz com voc]. Voc] tem um lado masoquista, Minase!"
+
+[MSG$01750E,54]
+Cheia de arrog@ncia, Saeki zomba de mim com sua risada.
+
+[MSG$017551,92]
+Saeki "Bem... para te agradecer por contar o seu segredo, vou deixar voc] se colocar dentro de mim."
+
+[MSG$0175C7,47]
+Ela tira minhas algemas e sobe em cima de mim.
+
+[MSG$01760E,48]
+Minase "O livro... est# dentro da minha mochila..."
+
+[MSG$017658,45]
+Confesso, n=o conseguindo mais suportar.
+
+[MSG$017692,34]
+Saeki "Voc] t# com ele agora?!"
+
+[MSG$0176CE,52]
+Saeki "(Rindo) Mas que sorte a minha!"
+
+[MSG$01771C,98]
+Saeki "Voc] me deixou muito feliz, Minase. Para demonstrar minha gratid=o, farei voc] gozar dessa vez."
+
+[MSG$017798,95]
+Com um sorriso audacioso, ela pressiona a boca contra meu p]nis pulsante, prestes a explodir.
+
+[MSG$01787D,13]
+Saeki "Mmmm!"
+
+[MSG$0178A4,112]
+Ela cobre delicadamente a cabe~a do meu p]nis com os l#bios, e ele $ sugado para dentro da boca dela com um som de suc~=o.
+
+[MSG$017921,33]
+Minase "Que gostoso, Saeki."
+
+[MSG$01795C,117]
+Estou ficando louco com a sensa~=o da l%ngua de Saeki, mas consigo encar#-la com um olhar extasiado no rosto.
+
+[MSG$0179DE,109]
+Se eu puder me deliciar assim s& por mostrar aquele livro para ela, $ um pre~o pequeno a pagar. Faz sentido para mim...
+
+[MSG$017A58,94]
+Como se gostasse de me ver estremecer de prazer, Saeki continua a estimular meu p]nis com maestria.
+
+[MSG$017AC3,26]
+Saeki "Mmm...mmm...mmm..."
+
+[MSG$017AF7,24]
+Smack...smack...smack...
+
+[MSG$017B1C,73]
+Toda vez que Saeki me chupa, consigo ouvir o som lascivo que a boca dela faz.
+
+[MSG$017B72,91]
+Saeki franze os l#bios e suga. Ao mesmo tempo, sua l%ngua acaricia levemente minha uretra.
+
+[MSG$017BDA,20]
+Saeki "Mmm...mmm..."
+
+[MSG$017C08,25]
+Squish, squish, squish...
+
+[MSG$017C2E,37]
+Minase "Acho que vou gozar..."
+
+[MSG$017C6D,78]
+Estou prestes a ejacular. ; t=o insuport#vel que preciso pedir arrego a Saeki.
+
+[MSG$017D41,20]
+Meu pau escorrega da boca dela...
+
+[MSG$017D62,32]
+Saeki "Como voc] quer gozar?"
+
+[MSG$017D9C,77]
+Saeki "Voc] quer no meu rosto? Ou prefere na minha boca?"
+
+[MSG$017E03,64]
+Saeki faz essa pergunta ap&s tirar meu p]nis da boca.
+
+[MSG$017E48,59]
+H# um fino fio de muco entre Saeki e minha piroca.
+
+[MSG$017EB0,24]
+Minase "No seu rosto..."
+
+[MSG$017EE2,81]
+Enquanto tento desesperadamente conter o ]xtase iminente, fa~o meu pedido a Saeki.
+
+[MSG$017F38,80]
+Nada vai me dar tanto prazer agora quanto lambuzar o rosto dessa garota arrogante com meu esperma.
+
+[MSG$017F95,22]
+Saeki "(Rindo) T# bom."
+
+[MSG$017FC5,59]
+Saeki "Ent=o, derrame seu leitinho... todo no meu rosto."
+
+[MSG$01801A,96]
+Dito isso, Saeki mant$m meu p]nis apontado para o rosto dela e come~a a bombe#-lo com uma velocidade impressionante.
+
+[MSG$018100,22]
+Shlip, shlip, shlip...
+
+[MSG$018123,24]
+Minase "Ah...ah...ah..."
+
+[MSG$018155,16]
+Saeki "(Rindo)"
+
+[MSG$018180,67]
+Dando uma risadinha, Saeki pega a m=o livre e a coloca na minha bunda.
+
+[MSG$0181C8,26]
+Os dedos dela tocam meu @nus.
+
+[MSG$0181EF,7]
+Tchok!
+
+[MSG$018203,14]
+Minase "Augh!"
+
+[MSG$01822B,74]
+E sem hesitar um segundo, aqueles dedos se enfiaram no meu cu.
+
+[MSG$01827A,78]
+Naquele instante, experimento o ]xtase mais inacredit#vel e atinjo o cl%max.
+
+[MSG$0182D5,24]
+Minase "Eu vou gozaar!"
+
+[MSG$0183F9,6]
+Spurt!
+
+[MSG$01840C,13]
+Saeki "Auuugh!"
+
+[MSG$018433,66]
+Um jato espesso de s]men sai do meu p]nis e espirra por todo o rosto de Saeki.
+
+[MSG$018482,42]
+Meu s]men atinge o rosto dela e ricocheteia.
+
+[MSG$0184B9,19]
+Spurt! Gush! Splat!
+
+[MSG$0184D9,82]
+Eu ejaculei duas, depois tr]s vezes seguidas. O rosto de Saeki logo estava pingando com meu s]men.
+
+[MSG$018530,57]
+Assim que termino de ejacular, caio para tr#s exausto.
+
+[MSG$0185EF,18]
+Minase "(Ofegante)"
+
+[MSG$01861B,38]
+Saeki "Quanta porra..."
+
+[MSG$01865B,39]
+O volume impressionante surpreendeu at$ a mim mesmo.
+
+[MSG$018687,81]
+O s]men que estava grudado no rosto de Saeki come~a escorrer lentamente para o ch=o,
+
+[MSG$0186DD,76]
+seguindo a lei da gravidade. Ela nem est# tentando limpar.
+
+[MSG$018736,53]
+Saeki "Tanto o sabor quanto o cheiro s=o muito fortes..."
+
+[MSG$018785,58]
+Enquanto diz isso, ela lambe o l%quido que escorre do seu rosto.
+
+[MSG$0187CC,49]
+Saeki "Mas voc] ainda pode gozar de novo, n=o pode?"
+
+[MSG$018817,101]
+Saeki "Espero que ainda n=o tenha terminado por hoje. Eu estava s& come~ando..."
+
+[MSG$018896,57]
+Com isso, Saeki me empurra para a cama e fica por cima de mim.
+
+[MSG$0188E7,25]
+Minase "Na sua boca..."
+
+[MSG$01891A,81]
+Enquanto tento desesperadamente conter o ]xtase iminente, fa~o meu pedido a Saeki.
+
+[MSG$018978,22]
+Saeki "(Rindo) T# bom."
+
+[MSG$0189A8,65]
+Saeki "Ent=o, saborearei o gosto do seu leite gostoso na minha boca."
+
+[MSG$018A7C,87]
+Dito isso, Saeki coloca meu p]nis na boca e age com uma velocidade impressionante.
+
+[MSG$018AE0,26]
+Saeki "Mmm...mmm...mmm..."
+
+[MSG$018B14,22]
+Slurp, slurp, slurp...
+
+[MSG$018B37,19]
+Minase "Ah...ah..."
+
+[MSG$018B64,65]
+Ainda fazendo sexo oral, Saeki pega a m=o livre e a coloca na minha bunda.
+
+[MSG$018BAA,28]
+Os dedos dela tocam meu @nus...
+
+[MSG$018BD3,7]
+Enfia!
+
+[MSG$018BE7,14]
+Minase "Augh!"
+
+[MSG$018C0F,74]
+E sem hesitar um segundo, aqueles dedos se enfiaram no meu cu.
+
+[MSG$018C5E,78]
+Naquele instante, experimento o ]xtase mais inacredit#vel e atinjo o cl%max.
+
+[MSG$018CB9,24]
+Minase "Eu vou gozaar!"
+
+[MSG$018DDD,14]
+Ejaculando...
+
+[MSG$018DF8,16]
+Saeki "(gemendo)"
+
+[MSG$018E22,103]
+Come~o a ter convuls^es, com os dedos de Saeki ainda enfiados no meu cu. E ejaculo uma enorme quantidade de s]men na boca dela.
+
+[MSG$018E8E,98]
+O s]men espesso jorra sem parar, e Saeki o recebe na boca sem dizer uma palavra.
+
+[MSG$018EFD,19]
+Spurt! Gush! Splat!
+
+[MSG$018F1D,88]
+Depois de me aliviar por um tempo que pareceu longo, o fluxo finalmente parou.
+
+[MSG$018F82,18]
+Minase "(ofegante)"
+
+[MSG$018FAE,79]
+Ainda estou aproveitando o ]xtase. Ofegante, caio para tr#s, exausto.
+
+[MSG$019002,89]
+Saeki ainda tem meu p]nis na boca. Ela suga o resto do s]men da minha uretra.
+
+[MSG$0190E1,20]
+Pop...
+
+[MSG$019102,47]
+E quando ela tirou meu p]nis da boca,
+
+[MSG$019136,74]
+Ela passa a l%ngua lentamente sobre a enorme quantidade de s]men em sua boca.
+
+[MSG$01918D,20]
+Saeki "Mmm...mmm..."
+
+[MSG$0191BB,14]
+Saeki "Ugh..."
+
+[MSG$0191E3,69]
+Ela franze a testa ao sentir o gosto e a textura. Ent=o, cospe tudo.
+
+[MSG$01922D,64]
+Uma mistura de saliva e meu s]men escorre da boca dela.
+
+[MSG$019272,77]
+Escorre pelo queixo dela, desce pelos seios e cai com um baque no ch=o.
+
+[MSG$0192CC,24]
+Saeki "Um pouco demais pra mim."
+
+[MSG$0192FE,35]
+Saeki "E olha como $ viscoso..."
+
+[MSG$01933B,47]
+Saeki cospe tudo e limpa a boca.
+
+[MSG$019377,49]
+Saeki "Mas ainda tem mais, n=o tem?"
+
+[MSG$0193C2,101]
+Saeki "Espero que voc] ainda n=o tenha terminado por hoje. Porque eu acabei de come~ar..."
+
+[MSG$019441,54]
+Com isso, ela me jogou na cama e montou em cima de mim.
+
+[MSG$019500,75]
+Saeki come~a a tirar a roupa como se estivesse fazendo um show para mim.
+
+[MSG$019558,29]
+Saeki "E a%? Sou bonita?"
+
+[MSG$01958F,65]
+Saeki "Tenho bastante confian~a na minha apar]ncia, sabe?"
+
+[MSG$0195EA,78]
+; verdade, Saeki tinha um corpo que era desperdi~ado em uma ocultista introvertida e exc]ntrica.
+
+[MSG$01963D,84]
+Se ela tivesse uma personalidade e hobbies normais, n=o haveria mais nada a desejar.
+
+[MSG$01969E,82]
+Saeki tira a roupa, ficando apenas de calcinha, e come~a a esfregar meu pau na virilha dela.
+
+[MSG$0196FD,31]
+Saeki "T# gostoso?"
+
+[MSG$019736,102]
+A cabe~a do meu p]nis est# sens%vel. Est# sendo fortemente estimulada pela textura sedosa da calcinha dela.
+
+[MSG$0197A9,14]
+Minase "T#..."
+
+[MSG$0197D1,60]
+Saeki "Ent=o deixe-me fazer algo que far# se sentir ainda melhor!"
+
+[MSG$0198A0,67]
+Ela tira a calcinha e enfia meu pau duro entre seus l#bios vaginais.
+
+[MSG$019969,20]
+Saeki "L# vai..."
+
+[MSG$019997,12]
+Saeki "Mmm!"
+
+[MSG$019A46,10]
+(Esfrega...)
+
+[MSG$019A5D,87]
+Saeki se abaixa lentamente at$ ficar de c&coras. Consigo ver meu p]nis desaparecendo em sua vulva.
+
+[MSG$019AC1,63]
+Consigo sentir o calor do corpo dela contra meu p]nis hipersens%vel...
+
+[MSG$019B0D,16]
+Saeki "Entrou!"
+
+[MSG$019B37,79]
+Saeki "Ok, eu vou fazer toda a movimenta~=o, ent=o voc] s& precisa ficar quietinho, t# bom?"
+
+[MSG$019BA0,61]
+Com isso, Saeki come~a a se mover sobre mim de maneira lasciva.
+
+[MSG$019BEA,49]
+Saeki "Mmm...mmm...E a%? N=o $ uma sensa~=o boa?"
+
+[MSG$019C35,56]
+Ela se move para cima e para baixo, e meu p]nis est# sendo apertado...
+
+[MSG$019C72,69]
+A cada movimento, seus seios, que s=o de tamanho grande, balan~am.
+
+[MSG$019CC4,100]
+Eu fico ali deitado observando, enquanto me perco em ]xtase com o que est# acontecendo na metade inferior do meu corpo.
+
+[MSG$019D35,47]
+Saeki "Que gostoso... voc] est# completamente dentro de mim."
+
+[MSG$019D7E,94]
+Cada vez que nossos corpos se tocam, sinto a cabe~a do meu p]nis atingindo a entrada do `tero dela.
+
+[MSG$019DE1,40]
+Essa sensa~=o me proporciona um prazer intenso.
+
+[MSG$019E16,107]
+Ap&s se movimentar para cima e para baixo por um tempo, Saeki contrai a vulva enquanto inicia um movimento de fric~=o.
+
+[MSG$019E8E,14]
+Minase "Ah!"
+
+[MSG$019EB6,47]
+A estimula~=o $ t=o intensa que soltei um grito.
+
+[MSG$019EF2,50]
+Saeki gosta da minha rea~=o e continua.
+
+[MSG$019F31,43]
+Saeki "Ficou com mais tes=o ainda, $, Minase?"
+
+[MSG$019F76,28]
+Saeki "Ent=o que tal isso?"
+
+[MSG$019FAC,61]
+Saeki usa mais for~a nos quadris e come~a a rebolar com mais intensidade.
+
+[MSG$019FF6,23]
+Squish, squish, squish!
+
+[MSG$01A01A,112]
+Ou~o o som obsceno dos nossos fluidos misturados, ro~ando em nossos corpos cada vez que a bunda dela bate nas minhas coxas.
+
+[MSG$01A097,40]
+Minase "Eu vou gozar se voc] continuar..."
+
+[MSG$01A0D9,97]
+Estou tremendo como se estivesse sendo estuprado por Saeki. Estou pronto para ceder ao meu desejo de gozar.
+
+[MSG$01A147,23]
+Squish, squish, squish!
+
+[MSG$01A16B,19]
+Minase "Ah...ah..."
+
+[MSG$01A198,99]
+Saeki "J# vai gozar? Mas voc] falou tanta coisa... voc] $ um menino forte, n=o $?"
+
+[MSG$01A215,62]
+Ela continua rebolando. Saeki olha para mim enquanto fala.
+
+[MSG$01A260,74]
+Saeki "Certo, eu tamb$m vou gozar em breve, ent=o $ melhor voc] se segurar at$ eu chegar."
+
+[MSG$01A2C4,54]
+Saeki come~a a se mover como se j# fosse gozar.
+
+[MSG$01A307,25]
+Squeak, squeak, squeak...
+
+[MSG$01A32D,47]
+A pr&pria cama geme de agonia com as estocadas de Saeki.
+
+[MSG$01A369,85]
+Fa~o o que Saeki diz e tento desesperadamente me conter, embora esteja [ beira do abismo.
+
+[MSG$01A3CB,37]
+Saeki "Ah...oh...Eu t\ quase..."
+
+[MSG$01A40A,28]
+Minase "(Ofegante)"
+
+[MSG$01A440,19]
+Crek, crek, crek
+
+[MSG$01A460,47]
+Saeki "Eu vou gozar! Vou gozar, Minase!"
+
+[MSG$01A4A9,18]
+Saeki "(Gemendo)"
+
+[MSG$01A4D5,43]
+Saeki "Eu vou gozar! Vou gozar! Vou gozaar!"
+
+[MSG$01A51A,64]
+Nesse instante, Saeki apertou meu p]nis com uma for~a inacredit#vel.
+
+[MSG$01A567,26]
+Minase "N=o aguento maaais!"
+
+[MSG$01A59B,45]
+A estimula~=o me leva a ejacular.
+
+[MSG$01A64E,16]
+(Pau saindo)
+
+[MSG$01A6E4,75]
+Nesse instante, Saeki levanta os quadris e expulsa meu p]nis de sua vulva.
+
+[MSG$01A7B5,6]
+Spurt!
+
+[MSG$01A841,76]
+Uma chuva de s]men jorra em dire~=o a Saeki no instante em que $ liberada.
+
+[MSG$01A89A,12]
+Saeki "; t=o quente!"
+
+[MSG$01A8C0,59]
+Meu s]men jorra em seu corpo nas regi^es %ntimas, todo espumoso.
+
+[MSG$01A908,19]
+Spurt! Gush! Splat!
+
+[MSG$01A928,63]
+N=o demora muito para que a parte inferior do corpo de Saeki esteja coberta com meu s]men.
+
+[MSG$01A974,59]
+Saeki "Mas voc] acabou de gozar... como pode haver tanto?"
+
+[MSG$01A9C9,53]
+Saeki "Onde voc] estava guardando tudo isso?"
+
+[MSG$01AA18,11]
+Ela riu.
+
+[MSG$01AA30,75]
+Eu ejaculo at$ a `ltima gota de s]men e, em seguida, caio exausto.
+
+[MSG$01AA80,22]
+N=o sobrou nada...
+
+[MSG$01AB1C,33]
+Saeki "Ai, estou toda pegajosa."
+
+[MSG$01AB57,68]
+Saeki "Gostaria que voc] pensasse nas consequ]ncias antes de sair gozando dentro das garotas."
+
+[MSG$01ABB5,70]
+Enquanto diz isso, Saeki contempla o s]men branco que escorre de seu corpo.
+
+[MSG$01AC08,28]
+Minase "(Ofegante)"
+
+[MSG$01AC3E,113]
+Estou respirando com dificuldade. N=o tenho energia nem para reagir [ intensa sensa~=o de esgotamento que me domina...
+
+[MSG$01ACBC,74]
+Ignorando-me, Saeki se veste rapidamente, abre minha mochila e tira de l# o
+
+[MSG$01AD0B,14]
+|livro de magia.
+
+[MSG$01ADE3,24]
+Saeki "Aqui est#..."
+
+[MSG$01AE15,71]
+Saeki remove o pano branco e pega o livro de magia em suas m=os.
+
+[MSG$01AE69,20]
+Saeki "O que $ isso?"
+
+[MSG$01AE97,51]
+Saeki prende a respira~=o ao ver o livro.
+
+[MSG$01AED7,54]
+Saeki ";... Este $ o manuscrito original!"
+
+[MSG$01AF27,56]
+Ela o examina de todos os @ngulos, vasculhando o livro inteiro.
+
+[MSG$01AF6C,38]
+Saeki "Mas eu n=o vejo nenhum t%tulo..."
+
+[MSG$01AFAC,54]
+Saeki abre o livro e percorre as p#ginas com os olhos.
+
+[MSG$01AFEF,51]
+Saeki "Incr%vel... isto $ um manuscrito original!"
+
+[MSG$01B03C,50]
+Saeki "Nunca vi nada parecido antes."
+
+[MSG$01B088,69]
+Saeki folheia as p#ginas enquanto diz isso, falando sozinha com entusiasmo.
+
+[MSG$01B0DA,68]
+Saeki "S& que... eu n=o sei latim. Voc] consegue ler isto, Minase?"
+
+[MSG$01B138,47]
+Saeki "Ei... vai ficar deitado a% para sempre?"
+
+[MSG$01B181,67]
+Fiquei impressionado com o tom en$rgico de Saeki e me virei para olh#-la.
+
+[MSG$01B1D1,87]
+Saeki "Como voc] conseguiu ler isso? Voc] sempre tira notas mais baixas que eu em ingl]s."
+
+[MSG$01B242,76]
+Saeki me interroga animadamente. Sem ter escolha, abro a boca para falar.
+
+[MSG$01B29B,114]
+Minase "Eu li aos poucos, usando dicion#rios e outras coisas. Ent=o, na verdade, ainda n=o li tudo."
+
+[MSG$01B327,54]
+Saeki "Ah, ent=o n=o $ como se voc] pudesse realmente ler."
+
+[MSG$01B377,25]
+Saeki parece desapontada.
+
+[MSG$01B39D,107]
+Saeki "Mesmo assim, n=o consigo acreditar que voc] encontrou isso. Se um man%aco visse este livro, ficaria babando por ele."
+
+[MSG$01B422,105]
+Saeki "Tenho quase certeza de que este livro foi escrito no s$culo XV. ; raro o suficiente para estar em um museu."
+
+[MSG$01B4A5,56]
+Minase "Como voc] pode saber disso se nem consegue ler?"
+
+[MSG$01B52A,85]
+Saeki "Idiota. Aprendemos isso na aula de hist&ria. S& depois do s$culo XV,
+
+[MSG$01B584,43]
+quando Gutenberg inventou a imprensa,
+
+[MSG$01B5B4,79]
+que os livros passaram a ser amplamente publicados. At$ ent=o, todos eram manuscritos."
+
+[MSG$01B61D,60]
+Saeki "Ver um livro como este $ um sonho que se tornou realidade para mim."
+
+[MSG$01B673,69]
+Saeki fica absorta na leitura do livro. A cada p#gina virada,
+
+[MSG$01B6BD,71]
+ela solta um suspiro de ]xtase ao ver os diagramas e desenhos.
+
+[MSG$01B709,34]
+Parece at$ uma crian~a numa loja de brinquedos...
+
+[MSG$01B738,51]
+Depois de folhear metade do livro, ela levanta o olhar.
+
+[MSG$01B7AB,109]
+Saeki "Pensando bem, aqueles alunos de 12 anos atr#s... Ouvi dizer que um dia, de repente, come~aram a
+
+[MSG$01B81D,72]
+mergulhar na magia negra e praticar todos aqueles rituais."
+
+[MSG$01B880,52]
+Saeki "Muito provavelmente, foi este livro que deu in%cio a tudo."
+
+[MSG$01B8CE,70]
+Saeki "Aquelas garotas conseguiram obter seus poderes por meio deste livro."
+
+[MSG$01B92E,86]
+Saeki "Este livro possui um poder espec%fico e absoluto. Voc] $ a prova disso."
+
+[MSG$01B99E,54]
+Saeki "; poss%vel que o pr&prio livro seja m#gico."
+
+[MSG$01B9EE,80]
+Saeki "Existem mesmo livros m#gicos assim... aqueles que t]m uma hist&ria por tr#s deles."
+
+[MSG$01BA58,95]
+Saeki "Alguns livros de magia eram amaldi~oados, levando [ loucura aqueles que os possu%am."
+
+[MSG$01BAD1,73]
+Minase "Sim, acredito no poder dos livros.
+
+[MSG$01BB1F,56]
+Mas isso n=o significa que todos tenham esse tipo de poder."
+
+[MSG$01BB71,91]
+Minase "O que aconteceu h# 12 anos $ um bom exemplo. Ningu$m sabe o porqu], mas o ritual falhou."
+
+[MSG$01BBE6,105]
+Minase "Enquanto algu$m estiver usando o mesmo livro, n=o h# garantia de que o resultado final ser# o mesmo."
+
+[MSG$01BC69,88]
+Saeki "Eles n=o estavam preparados. Superestimaram o pr&prio poder e se destru%ram.
+
+[MSG$01BCC6,38]
+Muitos magos acabam fazendo isso."
+
+[MSG$01BD06,83]
+Que absurdo... N=o era ela que tinha tanto respeito pelas garotas?
+
+[MSG$01BD99,89]
+Saeki "Ei, poderia me emprestar este livro por um dia? Gostaria de dar uma olhada melhor nele.
+
+[MSG$01BDF7,35]
+Eu te devolvo amanh=."
+
+[MSG$01BE34,15]
+Minase "Huh..."
+
+[MSG$01BE5D,69]
+Saeki "Ah, vai, voc] pode me emprestar por um dia. N=o seja mesquinho!
+
+[MSG$01BEA7,51]
+Isso n=o vai diminuir seus poderes nem nada do tipo."
+
+[MSG$01BEF4,25]
+Minase "N=o quero."
+
+[MSG$01BF27,65]
+Se eu emprestar para essa garota, tenho a sensa~=o de que vai perder o valor.
+
+[MSG$01BF75,120]
+Saeki "Voc] pode n=o querer, mas eu ainda vou ficar com ele, mesmo que seja [ for~a. Eu deixei voc] transar comigo, n=o deixei?
+
+[MSG$01BFF2,52]
+N=o $ o m%nimo que voc] poderia fazer por mim em troca?"
+
+[MSG$01C040,25]
+Minase "Voc] $ uma folgada."
+
+[MSG$01C073,41]
+Eu, a contragosto, cedo ao pedido de Saeki.
+
+[MSG$01C0A9,51]
+Saeki "N=o se preocupe, voc] poder# t]-lo de volta amanh=."
+
+[MSG$01C0F6,84]
+Minase "Certo... Lembre-se, $ s& por um dia. ; melhor devolver amanh=."
+
+[MSG$01C164,15]
+Saeki "Vou sim."
+
+[MSG$01C1C0,99]
+Saeki "Muito bem, tenho algo para fazer esta noite, ent=o se importaria de ir para casa agora, Minase?"
+
+[MSG$01C23D,117]
+Saeki "Voc] n=o vai poder tomar banho aqui nem nada do tipo. Vamos l#, vai ficar a% sentado pelado para sempre?
+
+[MSG$01C2B7,13]
+Se veste logo!"
+
+[MSG$01C2DE,32]
+Minase "Ei... vai com calma..."
+
+[MSG$01C404,85]
+Com Saeki me pressionando, eu me visto e acabo sendo expulso do quarto dela.
+
+[MSG$01C466,66]
+Ela $ t=o egoc]ntrica! Quando consegue o que quer, fica tipo
+
+[MSG$01C4AD,61]
+|''Voc] n=o presta mais pra nada!'' ;? Precisava disso?
+
+[MSG$01C52A,53]
+Saeki "Boa noite, ent=o. At$ amanh= na escola."
+
+[MSG$01C579,94]
+Saeki "Eu me diverti hoje. Mas n=o pense errado... sobre nosso sexo."
+
+[MSG$01C615,50]
+Saeki se despede de mim e fecha a porta rapidamente.
+
+[MSG$01C654,36]
+Ora essa! Essa $ a minha fala, pelo amor de Deus!
+
+[MSG$01C67D,71]
+Como ela pode dizer isso depois de eu ter feito ela gozar daquele jeito? Isso me irrita...
+
+[MSG$01C6D1,86]
+N=o sei o que ela quer dizer com ''ter uma ideia errada''... Saeki praticamente me estuprou.
+
+[MSG$01C72C,46]
+N=o que n=o tenha sido uma sensa~=o muito boa, no entanto...
+
+[MSG$01C7E3,48]
+Sinto-me exausto e vazio. Caminho lentamente para casa.
+
+[MSG$01C820,81]
+Sem o livro de magia, minha mochila parece estranhamente leve. Isso me deixa inquieto.
+
+[MSG$01C876,26]
+Hoje n=o $ meu dia...
+
+[MSG$01C8B0,48]
+Minase "N=o sei do que voc] est# falando."
+
+[MSG$01C8FA,30]
+Ao dizer isso, desvio o olhar.
+
+[MSG$01C91D,66]
+Se eu olhar para Saeki, acho que n=o conseguirei manter a racionalidade...
+
+[MSG$01C96C,41]
+Saeki "N=o seja t=o frio. Apenas me diga..."
+
+[MSG$01C9AF,68]
+Saeki "Olha s& o que estou fazendo, s& para que voc] me diga. Vamos?"
+
+[MSG$01CA0D,68]
+Saeki abre bem as pernas para que eu possa ter uma vis=o melhor de sua vulva.
+
+[MSG$01CA5E,84]
+; in`til... mesmo que eu tente resistir, meu olhar $ atra%do para a #rea entre as pernas dela.
+
+[MSG$01CABF,84]
+Saeki "Se voc] me disser, farei algo que te far# sentir t=o bem..."
+
+[MSG$01CB2D,66]
+Ih, rapaz... no instante em que ela diz isso, sinto que vou ficar excitado.
+
+[MSG$01CB74,87]
+Mesmo sabendo que n=o deveria, n=o consigo evitar a expectativa para o que ela est# propondo...
+
+[MSG$01CC20,94]
+Minase "Para com isso! Mesmo que eu tivesse um segredo, n=o sou t=o idiota a ponto de contar para algu$m."
+
+[MSG$01CC98,66]
+Minase "Essa n=o $ uma das primeiras regras para ser um mago?"
+
+[MSG$01CCF4,64]
+Afasto minha lux`ria e digo isso a Saeki sem rodeios.
+
+[MSG$01CD39,51]
+Mas mesmo enquanto falo, estou ficando com uma ere~=o...
+
+[MSG$01CD79,80]
+Saeki "Hum! Dou-lhe cr$dito por dizer isso. De fato, o que voc] diz $ verdade."
+
+[MSG$01CE5B,58]
+Saeki "Hum, ent=o investidas sexuais n=o v=o funcionar, n$?"
+
+[MSG$01CEAF,41]
+Saeki "Voc] me acha t=o feia assim?"
+
+[MSG$01CEF2,90]
+O rosto de Saeki volta subitamente [ sua express=o normal, como se nada tivesse acontecido.
+
+[MSG$01CF51,55]
+Ela ajeita a roupa e fica de p$ na minha frente.
+
+[MSG$01CF95,74]
+Respiro fundo, aliviado ao ver que Saeki voltou ao normal.
+
+[MSG$01CFE4,85]
+Se ela tivesse sido um pouco mais incisiva, n=o tenho certeza se teria conseguido resistir.
+
+[MSG$01D0E6,40]
+Saeki "Acho que fiz papel de boba."
+
+[MSG$01D128,117]
+Saeki "Me desculpe. Me empolguei um pouco demais da conta. Por favor, n=o me julgue mal. Estou bem agora."
+
+[MSG$01D1B7,83]
+Enquanto Saeki fala, n=o consigo encontrar nenhum vest%gio da sensualidade que ela demonstrava um instante atr#s.
+
+[MSG$01D20F,38]
+; como se ela tivesse dupla personalidade.
+
+[MSG$01D242,44]
+Minase "Se acabamos por aqui, eu vou embora."
+
+[MSG$01D288,90]
+Saeki "Espere. Vou desistir de descobrir seu segredo, mas voc] poderia me fazer um favor?"
+
+[MSG$01D2FC,27]
+Eu a encaro com desconfian~a.
+
+[MSG$01D31C,40]
+Ela ainda tem alguma carta na manga?
+
+[MSG$01D349,64]
+; verdade, eu n=o esperaria que algu$m como ela desistisse t=o facilmente...
+
+[MSG$01D396,60]
+Minase "O que voc] quer? Vou te ouvir, mas $ s& isso."
+
+[MSG$01D3EC,93]
+Eu ajo como se n=o tivesse escolha. Certamente n=o faria mal nenhum ouvir o que ela tem a dizer.
+
+[MSG$01D456,18]
+Saeki "Obrigada."
+
+[MSG$01D482,31]
+Ao ouvir minha resposta, Saeki sorri.
+
+[MSG$01D4AE,98]
+Saeki "Existe um grupo e n&s, garotas, que gostamos de magia, temos uma esp$cie de clube secreto.
+
+[MSG$01D515,46]
+Sabe, tipo aquelas garotas de 12 anos atr#s."
+
+[MSG$01D55D,113]
+Um clube para garotas deprimidas que praticam Magia Negra? Essa $ a organiza~=o secreta mais sinistra que j# ouvi falar.
+
+[MSG$01D5DB,84]
+Saeki "Veja bem, teremos uma reuni=o hoje, e eu gostaria que voc] viesse assistir os
+
+[MSG$01D634,15]
+|nossos rituais..."
+
+[MSG$01D65D,44]
+Que tipo de rituais seriam esses?
+
+[MSG$01D696,95]
+Espero sinceramente que n=o me algemem e me chicoteiem se eu for junto...
+
+[MSG$01D6FA,45]
+N=o posso descartar essa possibilidade completamente no caso dela...
+
+[MSG$01D734,91]
+Saeki "Acredito no seu poder. N=o vou pedir que se junte a n&s, mas agradeceria muito
+
+[MSG$01D794,50]
+|se voc] ao menos observasse uma de nossas reuni^es..."
+
+[MSG$01D7E0,21]
+Saeki "Que tal? Por favor."
+
+[MSG$01D80F,17]
+O que devo fazer?
+
+[MSG$01D825,81]
+Eu n=o quero muito ir, mas tenho curiosidade de saber o que elas fazem nas reuni^es.
+
+[MSG$01D883,101]
+Al$m disso, elas podem at$ ser um pouco desagrad#veis, mas s=o mulheres, afinal. Por que n=o dar-lhes algum cr$dito?
+
+[MSG$01D8F5,44]
+Minase "Certo. Se tudo o que eu tiver que fazer for assistir."
+
+[MSG$01D93B,25]
+Saeki "S$rio? Que bom."
+
+[MSG$01D96E,103]
+Saeki "Todas ficar=o felizes em t]-lo. Embora, na verdade, sejamos apenas tr]s, incluindo eu."
+
+[MSG$01D9EF,44]
+Minase "Onde vai acontecer essa reuni=o?"
+
+[MSG$01DA35,115]
+Saeki "Juntamos nosso dinheiro e alugamos um quarto em um pr$dio aqui por perto. ; l# que realizamos nossas reuni^es."
+
+[MSG$01DAC2,22]
+O Altar Secreto, $?
+
+[MSG$01DADD,79]
+Eu pensei que elas estivessem apenas brincando, mas agora parece algo muito mais s$rio...
+
+[MSG$01DB39,92]
+Saeki "Vamos nos encontrar [s 10 da noite. Que tal nos encontrarmos em frente ao port=o da escola?"
+
+[MSG$01DBAF,21]
+Saeki "Tudo bem assim?"
+
+[MSG$01DBDE,56]
+Minase "Claro, [s 10 horas em frente ao port=o da escola. Certo?"
+
+[MSG$01DC30,37]
+Saeki "Certo. N=o se esque~a de comparecer."
+
+[MSG$01DC6F,14]
+Minase "T#."
+
+[MSG$01DC97,57]
+Concordo com Saeki e saio do quarto dela, indo para casa.
+
+[MSG$01DCDD,15]
+23 de abril - Casa
+
+[MSG$01DDDB,8]
+(Clique...)
+
+[MSG$01DDF0,18]
+Minase "Cheguei!"
+
+[MSG$01DE4E,52]
+Yukiko "Ol#! Voc] chegou tarde hoje."
+
+[MSG$01DE9C,27]
+Minha irm= me d# as boas-vindas em casa.
+
+[MSG$01DEC4,35]
+Minase "Eu tinha umas coisas pra fazer."
+
+[MSG$01DF01,30]
+Respondi-lhe com a voz cansada.
+
+[MSG$01DF2C,100]
+Yukiko "Isso me lembra que encontrei a Kurumi-chan h# pouco tempo. Ela parecia um pouco deprimida."
+
+[MSG$01DFAA,33]
+Yukiko "Voc]s dois brigaram de novo?"
+
+[MSG$01DFE5,36]
+Minase "Que nada."
+
+[MSG$01E023,103]
+Yukiko "Voc]s dois s=o namorados, ent=o n=o passem o tempo todo brigando. Tentem se dar bem!"
+
+[MSG$01E0A4,52]
+Minase "Desde quando somos namorados?"
+
+[MSG$01E0F2,98]
+Yukiko "Vamos l#, voc]s s=o famosos no bairro. Namorados de inf@ncia s=o t=o raros hoje em dia..."
+
+[MSG$01E1A0,37]
+Yukiko "Ent=o, voc]s dois j# fizeram as pazes?"
+
+[MSG$01E1DF,53]
+Minha irm= faz essa pergunta com um sorriso malicioso no rosto.
+
+[MSG$01E221,59]
+Minase "Que... que tipo de pergunta $ essa?"
+
+[MSG$01E276,61]
+Por algum motivo, essa pergunta repentina me deixa confuso.
+
+[MSG$01E2C0,98]
+Nunca beijei a Imari, muito menos peguei nos seios dela. Espera, quando $ramos crian~as eu lembro de...
+
+[MSG$01E327,86]
+Dei um beijo. Mas sem l%ngua, e ela era t=o despeitada que n=o havia nada para pegar.
+
+[MSG$01E38A,91]
+Al$m disso, nunca fantasiei com a Imari! Quer dizer, talvez tenha feito isso uma ou duas vezes
+
+[MSG$01E3EA,30]
+|por algum motivo estranho, mas...
+
+[MSG$01E415,53]
+Yukiko "Ah, deixa pra l#. N=o importa."
+
+[MSG$01E464,82]
+Yukiko "Kurumi $ a `nica garota que aguentaria algu$m como voc], ent=o $ melhor ser
+
+[MSG$01E4BB,42]
+|gentil com ela ou voc] se arrepender# depois."
+
+[MSG$01E4FF,42]
+Minase "Cuide da sua pr&pria vida, por favor?"
+
+[MSG$01E543,68]
+Minase "Enfim, quem $ voc] para falar? Nunca teve um namorado at$ hoje?"
+
+[MSG$01E5D3,27]
+Yukiko "O que voc] disse?!"
+
+[MSG$01E608,23]
+Minase "N=o $ verdade?"
+
+[MSG$01E639,67]
+Yukiko "Escuta, voc]... voc] sequer sabe o qu=o popular eu sou na escola?"
+
+[MSG$01E696,91]
+Yukiko "Tenho que espantar aqueles caras com um peda~o de pau todos os dias! ; uma baita dor de cabe~a!"
+
+[MSG$01E70B,103]
+Minase "Voc] n=o quer dizer que se esfor~a para pegar no pau deles todos os dias e isso $ uma grande dor de cabe~a?"
+
+[MSG$01E78C,22]
+(Treme, treme, treme)
+
+[MSG$01E875,6]
+Whack!
+
+[MSG$01E888,14]
+Minase "Ai!"
+
+[MSG$01E8B0,50]
+Sou atingido por um soco da minha irm= e sou arremessado para longe.
+
+[MSG$01E8EF,67]
+Yukiko "Como se atreve a dizer uma coisa dessas para sua irm= mais velha!"
+
+[MSG$01E94C,38]
+Dito isso, ela sai furiosa da sala.
+
+[MSG$01EA1C,53]
+Janto, tomo um banho e volto para o meu quarto.
+
+[MSG$01EA5E,49]
+Mas eu n=o estou com o Livro de Magia hoje.
+
+[MSG$01EA9C,82]
+Lembro-me de que estava quase terminando a parte sobre o ritual de abertura do port=o...
+
+[MSG$01EAF3,45]
+Gostaria de n=o ter deixado o livro com Saeki.
+
+[MSG$01EB2D,90]
+Eu estava simplesmente deixando as coisas flu%rem quando emprestei aquele livro para Saeki, mas agora que penso nisso,
+
+[MSG$01EB8C,49]
+noto que emprestei para a pessoa mais perigosa de todas.
+
+[MSG$01EBCA,103]
+Afinal, foi um erro revelar o segredo do livro em troca de alguns momentos de prazer.
+
+[MSG$01EC3E,15]
+Minase "Merda..."
+
+[MSG$01EC67,34]
+Mas agora $ tarde demais para arrependimentos.
+
+[MSG$01EC8E,72]
+N=o me resta nada a fazer sen=o recuperar o livro amanh=.
+
+[MSG$01ECDB,93]
+Certamente, at$ ela teria dificuldade em descobrir o conte`do daquele livro em apenas meio dia.
+
+[MSG$01ED45,66]
+Afasto todos os pensamentos sobre Saeki da minha mente e vou para a cama cedo.
+
+[MSG$01ED8C,79]
+Enquanto n=o estiver com o livro, n=o preciso ficar acordado a noite toda.
+
+[MSG$01EDE8,12]
+Minase "..."
+
+[MSG$01EE01,98]
+Mas mesmo depois de me deitar, n=o consigo parar de pensar no Livro de Magia e n=o consigo dormir.
+
+[MSG$01EE70,28]
+Tenho um pressentimento sinistro...
+
+[MSG$01EE91,47]
+Espero que n=o seja mais do que um mau agouro...
+
+[MSG$01EF57,78]
+Janto, tomo um banho e, como de costume, sento-me com o livro de magia.
+
+[MSG$01F02E,93]
+Tento abrir na p#gina em que comecei a trabalhar ontem [ noite, sobre o ritual de abertura do portal.
+
+[MSG$01F090,44]
+A p#gina sobre o ritual realizado h# 12 anos.
+
+[MSG$01F0C1,56]
+Pretendo terminar de resumir essa se~=o hoje [ noite.
+
+[MSG$01F18F,19]
+(Vira,vira,vira...)
+
+[MSG$01F1AF,50]
+Folheio as p#ginas procurando o ponto onde eu estava.
+
+[MSG$01F1EE,13]
+Minase "Hein?"
+
+[MSG$01F215,96]
+Foi nesse momento que percebi, pela primeira vez, que havia uma p#gina que parecia diferente das demais.
+
+[MSG$01F27A,69]
+Ao tocar na p#gina novamente, percebo que ela $ mais grossa do que as outras.
+
+[MSG$01F2CC,8]
+Crack...
+
+[MSG$01F2E1,70]
+Enquanto estava estudando a p#gina, um dos cantos se rasgou. Na verdade, eram duas p#ginas.
+
+[MSG$01F32C,89]
+Fica perto da `ltima p#gina. A parte que eu apenas dei uma olhada por cima, sem resumir ainda.
+
+[MSG$01F392,41]
+Com cuidado, tento separar as p#ginas.
+
+[MSG$01F3C8,10]
+Crack...
+
+[MSG$01F467,11]
+Minase "?!"
+
+[MSG$01F47F,47]
+Fiquei surpreso ao ver as p#ginas separadas.
+
+[MSG$01F4BB,55]
+H# uma enorme mancha vermelho-escura cobrindo os dois lados.
+
+[MSG$01F4F7,36]
+Foi por isso que elas ficaram presas.
+
+[MSG$01F528,40]
+Reconhe~o imediatamente que $ uma mancha de sangue.
+
+[MSG$01F555,96]
+Assim como as manchas de sangue por todo o por=o, isso aconteceu h# 12 anos. Tenho certeza.
+
+[MSG$01F5C2,96]
+Existem outros vest%gios de sangue seco aqui e ali ao longo do livro, mas a mancha nestas
+
+[MSG$01F627,45]
+|p#ginas $ bem maior e parece muito mais fresca.
+
+[MSG$01F661,62]
+Mas por que uma mancha de sangue t=o grande justamente nessas p#ginas?
+
+[MSG$01F6AC,47]
+Decidi traduzir as palavras destas p#ginas.
+
+[MSG$01F6E0,61]
+Se decifrar o que est# escrito aqui, talvez consiga uma pista.
+
+[MSG$01F72A,49]
+Mas logo descobri que $ uma tarefa in`til.
+
+[MSG$01F768,87]
+A mancha de sangue est# firmemente aderida a todas as p#ginas. O sangue $ escuro e coagulado,
+
+[MSG$01F7C4,67]
+cobrindo as p#ginas de forma que n=o seja poss%vel ver muito bem as palavras por baixo.
+
+[MSG$01F814,88]
+O canto superior direito est# livre de sangue e cont$m a ilustra~=o de um dem\nio feio.
+
+[MSG$01F871,55]
+Concluo que se trata de um desenho do dem\nio Asmodeus.
+
+[MSG$01F8B5,105]
+Mas as `nicas palavras que consigo decifrar s=o fragmentos, e h# apenas uma linha completamente leg%vel.
+
+[MSG$01F923,55]
+|; apenas uma lista de deuses cujos nomes n=o me dizem nada.
+
+[MSG$01F967,40]
+Minase "Hain...Lon...Hilay...Sabaoth..."
+
+[MSG$01F9A9,45]
+Pronuncio esses nomes em voz alta enquanto fa~o anota~^es.
+
+[MSG$01F9E3,91]
+Mas depois de t]-los anotado e analisado, ainda n=o fa~o ideia do que significam.
+
+[MSG$01FA43,51]
+As partes cruciais foram completamente destru%das.
+
+[MSG$01FA83,61]
+Desisto, largo a caneta e junto as p#ginas novamente.
+
+[MSG$01FAC5,80]
+N=o $ de surpreender que essas p#ginas manchadas de sangue n=o sejam as coisas mais agrad#veis de se ver.
+
+[MSG$01FBAA,73]
+Mudando de assunto, encontro a p#gina que procurava e come~o a traduzir.
+
+[MSG$01FC00,75]
+Eu me dedico [ minha tarefa por algumas horas e depois dou uma olhada no rel&gio.
+
+[MSG$01FC58,26]
+Minase "; melhor ir."
+
+[MSG$01FC8C,33]
+Tenho que me encontrar com a Saeki [s 10 horas.
+
+[MSG$01FCB2,30]
+Est# na hora de v]-la.
+
+[MSG$01FCDD,44]
+Deixo o livro como est# e me levanto.
+
+[MSG$01FD0E,48]
+Provavelmente $ uma boa ideia n=o levar isso comigo.
+
+[MSG$01FD4B,63]
+Eu me arrumo e saio de casa, indo em dire~=o [ escola.
+
+[MSG$01FD97,48]
+23 de abril - Escola [ noite, em frente ao port=o.
+
+[MSG$01FEB7,68]
+Na escurid=o, consigo ver o brilho das luzes da escola...
+
+[MSG$01FF08,84]
+Eu tinha entrado escondido na escola depois do hor#rio de aula outro dia, ent=o n=o era nada de novo para mim...
+
+[MSG$01FF69,46]
+Caminho at$ o port=o e olho em volta.
+
+[MSG$01FFD7,20]
+Saeki "Ent=o voc] veio."
+
+[MSG$020005,60]
+Saeki fala comigo das sombras e depois aparece diante de mim.
+
+[MSG$020046,71]
+Ela est# segurando uma bolsa e um bast=o comprido ou algo parecido envolto em um pano...
+
+[MSG$02009A,41]
+Minase "Claro. Eu prometi, n=o foi?"
+
+[MSG$0200DD,50]
+Saeki "Vamos ent=o. ; logo ali a rua."
+
+[MSG$0201C9,57]
+Dito isso, Saeki come~a a andar. Eu a sigo em sil]ncio...
+
+[MSG$02020F,76]
+Saeki "Todas j# devem estar l#. Vou apresent#-las a voc], Minase."
+
+[MSG$020275,104]
+Amigas da Saeki... al$m disso, elas curtem magia negra, ent=o devem ser todas doidinhas tamb$m.
+
+[MSG$0202EA,110]
+M#scaras assustadoras... Estou bastante interessado em conhec]-las. Tenho certeza de que s=o todas nerdonas introvertidas.
+
+[MSG$020365,72]
+Se amigaram com Saeki, n=o tem como ser um ser humano normal...
+
+[MSG$0203BA,30]
+23 de abril - Esconderijo do Clube Secreto
+
+[MSG$020457,20]
+Saeki "Aqui estamos."
+
+[MSG$020485,82]
+Ap&s caminhar por cerca de 10 minutos, Saeki para em frente a um apartamento.
+
+[MSG$0204E4,43]
+Sigo Saeki at$ o pr$dio.
+
+[MSG$0205BC,91]
+Pegamos o elevador e subimos. Logo nos encontramos em frente a uma determinada porta.
+
+[MSG$02061C,24]
+A placa de identifica~=o est# em branco.
+
+[MSG$020641,27]
+Saeki aperta a campainha.
+
+[MSG$020669,10]
+(Ding-dong!)
+
+[MSG$020680,20]
+Voz "Quem est# a%?"
+
+[MSG$0206AE,94]
+Imediatamente, ouvimos a voz de uma garota, juntamente com alguma est#tica, vinda do alto-falante do interfone.
+
+[MSG$020719,16]
+Saeki "Sou eu."
+
+[MSG$020743,22]
+Voice "Um minuto."
+
+[MSG$020773,8]
+(Clique...)
+
+[MSG$020788,56]
+Por fim, ouve-se o som da porta sendo destrancada.
+
+[MSG$0207CD,37]
+Saeki abre a porta e entra.
+
+[MSG$0207FF,40]
+Saeki "Entre. N=o precisa ter vergonha."
+
+[MSG$020841,51]
+Aceito o convite dela e entro com cautela....
+
+[MSG$0208FD,12]
+Est# escuro...
+
+[MSG$02090E,61]
+O ambiente est# escuro, a `nica luz vem das velas.
+
+[MSG$02098B,82]
+Saeki "Desculpe por estar t=o escuro. N=o temos eletricidade aqui porque n=o h# necessidade."
+
+[MSG$0209F7,95]
+Elas se re`nem [ noite e n=o t]m eletricidade? Bando de malucas...
+
+[MSG$020A95,28]
+Garota 1 "Que demora, Kaori."
+
+[MSG$020ACB,46]
+Garota 1 "Voc] sabe que n=o podemos come~ar sem voc]."
+
+[MSG$020B13,58]
+A garota que acabou de dizer essas palavras surge por tr#s de n&s.
+
+[MSG$020B5A,21]
+Saeki "Perd=o, pessoal."
+
+[MSG$020B89,65]
+Saeki "Este $ Taki Minase, o cara de quem eu estava te falando."
+
+[MSG$020BE4,52]
+Saeki "Esta $ Jun Amatsuki, membro do nosso cl=."
+
+[MSG$020C32,28]
+Minase "Prazer em conhec]-la..."
+
+[MSG$020C68,33]
+Sou apresentado e inclino a cabe~a.
+
+[MSG$020C96,35]
+; uma garota que eu nunca vi antes.
+
+[MSG$020CBE,40]
+Ser# que ela n=o $ da nossa escola...?
+
+[MSG$020CF3,111]
+E, ao contr#rio do que eu previa, a garota [ minha frente parecia normal. N=o parecia uma aberra~=o...
+
+[MSG$020D6F,87]
+Mas a% temos o exemplo da pr&pria Saeki. N=o importa a sua apar]ncia externa,
+
+[MSG$020DCB,49]
+ela ainda pode ser completamente maluca por dentro...
+
+[MSG$020E3B,69]
+Amatsuki "Prazer em conhec]-lo, Minase. Ouvi falar de voc] pela Kaori."
+
+[MSG$020E9A,48]
+A garota chamada Amatsuki sorri enquanto diz isso.
+
+[MSG$020F09,28]
+Garota 2 "Voc] est# atrasada, Kaori!"
+
+[MSG$020F3F,49]
+Por fim, outra garota chega atr#s de Amatsuki.
+
+[MSG$020F7D,67]
+Garota 2 "Nem sequer podemos consagrar o lugar a menos que voc] venha!"
+
+[MSG$020FDA,71]
+A garota que acabou de falar parece ser do tipo energ$tica, ao contr#rio de Amatsuki.
+
+[MSG$021026,77]
+Essa garota n=o parece ser do tipo quieta que se interessaria por magia negra.
+
+[MSG$021080,38]
+Estou ficando cada vez mais perdido aqui...
+
+[MSG$0210AB,96]
+Agora que vi algumas verdadeiras entusiastas da magia negra, elas n=o me parecem t=o cru$is quanto eu imaginava...
+
+[MSG$021118,93]
+Saeki "Deixa eu te apresentar algu$m. Este $ Minase, o cara de quem j# te falei."
+
+[MSG$02118F,34]
+Saeki "E esta $ Maki Kurimoto."
+
+[MSG$0211CB,33]
+Inclino a cabe~a em sinal de reconhecimento.
+
+[MSG$02122B,49]
+Kurimoto "Ei, ent=o esse $ o seu namorado, Kaori?"
+
+[MSG$021276,60]
+Kurimoto "Que bom que voc] apareceu com sua cara-metade!"
+
+[MSG$0212CC,35]
+Saeki "N=o fa~a piadas desse tipo."
+
+[MSG$021309,56]
+Kurimoto "Bem-vindo ao nosso cl=. Ficamos felizes em t]-lo conosco."
+
+[MSG$02135B,43]
+A garota chamada Kurimoto tem um jeito meio masculino.
+
+[MSG$02138B,96]
+Ela parece mais o tipo de garota que gosta de esportes do que algo assim.
+
+[MSG$0213F8,112]
+N&s quatro - Saeki, Kurimoto, Amatsuki e eu - terminamos as apresenta~^es e nos dirigimos para a sala dos fundos.
+
+[MSG$021475,22]
+23 de abril - Sala Do Ritual
+
+[MSG$02150A,12]
+(Porta abrindo)
+
+[MSG$021555,35]
+Kurimoto "Esta $ a Sala de rituais."
+
+[MSG$021593,97]
+Ao entrar na sala grande, vejo muitas velas enfileiradas no ch=o e em casti~ais.
+
+[MSG$0215F9,99]
+A luz bruxuleante dessas velas $ o que ilumina este c\modo de forma sinistra, em vez de luzes convencionais.
+
+[MSG$021669,91]
+H# cortinas pretas cobrindo todas as quatro paredes, incluindo todas as janelas.
+
+[MSG$0216D1,88]
+E no ch=o, consigo ver um c%rculo m#gico, uma combina~=o de um c%rculo e um tri@ngulo.
+
+[MSG$021736,82]
+A Sala dos Rituais... Era muito parecida com a Sala Secreta que eu tinha visto no por=o.
+
+[MSG$02178D,58]
+Exceto pelo fato de que n=o havia manchas de sangue aqui...
+
+[MSG$0217D4,54]
+Sinceramente, n=o era um quarto de muito bom gosto.
+
+[MSG$02180F,61]
+Se algu$m visse este lugar, chamaria a pol%cia imediatamente.
+
+[MSG$02188C,89]
+Saeki "Muito bem, vamos nos preparar para o ritual, ent=o espere por n&s, Minase."
+
+[MSG$021923,33]
+Dito isso, Saeki sai da sala.
+
+[MSG$021951,38]
+Fiquei sozinho neste c\modo sinistro...
+
+[MSG$021984,99]
+Mas basta olhar ao redor desta sala para perceber que as garotas praticam bruxaria de forma s$ria.
+
+[MSG$0219EC,17]
+Se elas estivessem apenas
+
+[MSG$021A02,110]
+|brincando ou fazendo como hobby, certamente n=o chegariam ao ponto de alugar um apartamento e fazer tudo isso...
+
+[MSG$021A7D,37]
+Ser# que elas realmente gostam tanto de magia?
+
+[MSG$021AA7,44]
+N=o posso negar que $ um tipo de poder sedutor.
+
+[MSG$021AE0,49]
+E eu sei em primeira m=o o que $ sentir esse poder.
+
+[MSG$021B9C,36]
+Saeki "Desculpe a demora..."
+
+[MSG$021BDA,66]
+Eu estava ali parado, perdido em pensamentos, quando Saeki voltou.
+
+[MSG$021C21,54]
+Ela e as outras garotas estavam vestidas com robes pretos.
+
+[MSG$021C64,45]
+Pareciam um grupo de tr]s bruxas...
+
+[MSG$021C9E,96]
+N=o s& isso, mas ou estavam nuas por baixo, ou usavam apenas roupa %ntima.
+
+[MSG$021D03,85]
+Elas usam apenas esses robes sobre seus corpos nus e t]m uma apar]ncia extremamente sedutora.
+
+[MSG$021D65,89]
+Saeki "Por favor, tente n=o ficar nos encarando muito. Isso tamb$m $ constrangedor para n&s."
+
+[MSG$021DD8,58]
+Saeki n=o parece nada ela mesma quando diz isso.
+
+[MSG$021E17,75]
+Em contraste com seu comportamento na escola, ela parece muito mais animada...
+
+[MSG$021E6F,74]
+Saeki "Mas $ assim que temos que nos vestir para que nossa magia seja eficaz.
+
+[MSG$021EBE,81]
+O ideal seria n=o usar nada, mas isso j# seria demais..."
+
+[MSG$021F29,58]
+Seria incr%vel ver essas tr]s enfileiradas completamente nuas.
+
+[MSG$021F70,41]
+Amatsuki "Muito bem, por que n=o come~amos?"
+
+[MSG$021FB3,54]
+Kurimoto "Sim, vamos fazer isso. Ent=o, quem devemos convocar?"
+
+[MSG$022003,86]
+Saeki "Primeiro vamos invocar Dantalion. Se tudo correr bem, chamaremos tamb$m Astraloth."
+
+[MSG$022073,74]
+Kurimoto "S=o esp%ritos de alto n%vel. Acha que conseguimos lidar com eles?"
+
+[MSG$0220D7,33]
+Saeki "Sim, pode deixar comigo."
+
+[MSG$022112,38]
+As tr]s garotas assentem com a cabe~a e tomam seus lugares.
+
+[MSG$0221C1,109]
+Saeki "; melhor entrar no c%rculo tamb$m, Minase. Voc] ser# afetado pelos esp%ritos se ficar a% parado."
+
+[MSG$022248,37]
+Entro no c%rculo como me foi dito.
+
+[MSG$022282,18]
+Saeki "Tudo bem."
+
+[MSG$0222AE,55]
+Saeki diz isso assim que pega a espada de Amatsuki.
+
+[MSG$0222F2,38]
+Kurimoto "Hekas, hekas, este bebeloi!"
+
+[MSG$022332,56]
+Kurimoto "Anunciamos, por meio deste, o in%cio da presente reuni=o."
+
+[MSG$022384,50]
+Kurimoto "A consagra~=o do c%rculo m#gico..."
+
+[MSG$0223D0,66]
+Saeki acena com a cabe~a e fica no centro do c%rculo m#gico.
+
+[MSG$02241F,52]
+Ent=o Saeki respira fundo e come~a o c@ntico.
+
+[MSG$022460,29]
+Por que eu n=o a desafio?
+
+[MSG$02248A,43]
+Saeki "N&s, humildemente, entramos neste c%rculo."
+
+[MSG$0224CF,54]
+Saeki "Eu te invoco e clamo por ti, & Onipotente."
+
+[MSG$02251F,68]
+Saeki "Com a mais profunda gratid=o pela alegria eterna e pela riqueza divina,
+
+[MSG$022568,58]
+v&s que nos concede a felicidade perfeita e a alegria transbordante."
+
+[MSG$0225BC,80]
+Saeki "Afastem-se de n&s, & profanos, e todos aqueles que se op^em a esta cerim\nia."
+
+[MSG$022627,107]
+Saeki "Que este c%rculo, que afasta todo o caos e conflito, seja aben~oado com a prote~=o dos anjos."
+
+[MSG$0226AC,38]
+Saeki "Estende tua grandeza sobre n&s."
+
+[MSG$0226EC,67]
+Saeki "> Senhor, & Santo, aben~oe esta prece e esta reuni=o."
+
+[MSG$022749,84]
+Saeki "> Senhor, consagra nossa humilde reuni=o, & eternamente bendito e santo...."
+
+[MSG$0227B8,77]
+Quando termina de entoar essa longa ora~=o, ela faz uma pausa para respirar.
+
+[MSG$02280A,73]
+E novamente come~a a entoar palavras arcanas, fazendo o sinal da cruz.
+
+[MSG$022860,15]
+Saeki "Atah..."
+
+[MSG$022889,18]
+Saeki "Malkuth..."
+
+[MSG$0228B5,20]
+Saeki "V'Geburah..."
+
+[MSG$0228E3,20]
+Saeki "V'Gedulah..."
+
+[MSG$022911,22]
+Saeki "Liolahm, Amen."
+
+[MSG$022941,89]
+Saeki "> Senhor, oramos para que o teu reino seja aben~oado com poder e gl&ria para sempre..."
+
+[MSG$0229B4,92]
+Saeki pega a espada, segura-a contra o peito e aponta a l@mina para o teto.
+
+[MSG$022A1D,105]
+Saeki "Em nome do Todo-Poderoso, empunho a Espada imbu%da do poder de me proteger da adversidade."
+
+[MSG$022AA0,67]
+Ela tra~a os contornos do c%rculo m#gico com a ponta da espada.
+
+[MSG$022AF0,99]
+Saeki "E quando, depois que todos os fantasmas tiverem desaparecido, ver#s aquele fogo sagrado e informe."
+
+[MSG$022B6E,110]
+Saeki "O fogo, os dardos e os clar^es atravessam as profundezas ocultas do Universo. Ou~a a Voz do Fogo."
+
+[MSG$022BF6,70]
+Saeki "Nos nomes e nas letras do Grande Quadr@ngulo do Sul,
+
+[MSG$022C41,56]
+eu vos invoco, & Anjos das Torres de Vigia do Sul!"
+
+[MSG$022C93,29]
+Amatsuki "Portanto, em primeiro lugar,
+
+[MSG$022CB5,108]
+o sacerdote que governa as obras do fogo deve aspergir com a #gua lustral do mar ressonante e sonoro."
+
+[MSG$022D3B,85]
+Amatsuki "Nos nomes e nas letras do Grande Quadr@ngulo Ocidental, eu lhes invoco,
+
+[MSG$022D95,42]
+& Anjos das Torres de Vigia do Ocidente!"
+
+[MSG$022DD9,69]
+Kurimoto "Tal fogo existe, estendendo-se atrav$s do fluxo do Ar.
+
+[MSG$022E23,61]
+Ou at$ mesmo um fogo informe, donde surge a imagem de uma voz."
+
+[MSG$022E7A,88]
+Kurimoto "Ou at$ mesmo uma luz intermitente, abundante, girat&ria, rodopiante, gritando alto."
+
+[MSG$022EEC,85]
+Kurimoto "Nos nomes e nas letras do Grande Quadr@ngulo Oriental, eu vos invoco,
+
+[MSG$022F46,42]
+& Anjos das Torres de Vigia do Oriente."
+
+[MSG$022F8A,84]
+Amatsuki "N=o te inclines para esse mundo sombriamente espl]ndido onde continuamente jaz um
+
+[MSG$022FE3,44]
+|infiel e Hades envolto em trevas,
+
+[MSG$023014,59]
+deliciando-se com imagens inintelig%veis, precipitadas e sinuosas."
+
+[MSG$023069,91]
+Amatsuki "Um abismo negro e incessante, que sempre ostenta um corpo sem luz, sem forma e vazio."
+
+[MSG$0230D1,73]
+Amatsuki "Nos nomes e nas letras do Grande Quadr@ngulo do Norte,
+
+[MSG$02311F,56]
+eu vos invoco, & Anjos das Torres de Vigia do Norte!"
+
+[MSG$023171,67]
+Kurimoto "Nos nomes e letras da m%stica T#bua da Uni=o,
+
+[MSG$0231B9,53]
+eu vos invoco, & for~as divinas do Esp%rito da Vida!"
+
+[MSG$023208,91]
+Saeki "Eu vos invoco, & Anjos das esferas celestiais, cuja morada $ no invis%vel.
+
+[MSG$02327D,105]
+Saeki "V&s sois os guardi^es dos port^es do Universo, sede tamb$m os guardi^es desta esfera m%stica.
+
+[MSG$0232EB,46]
+Mantenham bem longe o mal e o desequil%brio."
+
+[MSG$023333,111]
+Saeki "Fortalece-me e inspira-me para que eu possa preservar imaculada esta morada dos mist$rios dos Deuses eternos."
+
+[MSG$0233BC,104]
+Saeki "Que minha esfera seja pura e sagrada para que eu possa entrar e me tornar participante da Luz Divina."
+
+[MSG$02343E,43]
+Saeki "Santo $s Tu, Senhor do Universo."
+
+[MSG$023483,50]
+Saeki "Santo $s Tu, Aquele que a natureza n=o formou."
+
+[MSG$0234CF,85]
+Saeki "Santo Tu $s, o Vasto e Poderoso. Senhor da Luz e das Trevas!"
+
+[MSG$02353E,70]
+Elas finalmente terminam o longo c@ntico, e a sala volta a ficar em sil]ncio.
+
+[MSG$023589,82]
+Em seguida, elas queimam incenso e logo o c\modo se enche de sua fragr@ncia e fuma~a.
+
+[MSG$0235E8,32]
+Saeki "O Lemegeton, por favor..."
+
+[MSG$023622,96]
+Saeki pega o livro de Amatsuki. Abrindo-o, ela come~a a entoar o c@ntico de invoca~=o de esp%ritos.
+
+[MSG$02368F,105]
+Saeki "Eu te invoco e te conjuro, & Esp%rito de Dantalion. E sendo armado com poder pelo Todo-Poderoso."
+
+[MSG$023712,98]
+Saeki "Eu te ordeno fortemente, por BERALANENSIS, BALDACHIENSIS, PAUMACHIA, e APOLOGIAE SEDES,
+
+[MSG$023779,87]
+pelos mais poderosos Pr%ncipes, G]nios, Liachidae e Ministros da Morada T#rtara."
+
+[MSG$0237EB,76]
+Saeki "E pelo Pr%ncipe Chefe da Sede de Apologia na Nona Legi=o."
+
+[MSG$023844,88]
+Saeki "ADONAI, EL, ELOHIM, ELOHI, SABAOTH, ELION, ISCHIROS, JAH, TETRAGRAMMATON, SADAI!"
+
+[MSG$0238B6,100]
+Saeki "Eu te ordeno veementemente que compare~as imediatamente perante mim e respondas a tudo o que te exijo."
+
+[MSG$023934,74]
+Saeki "Tu foste invocado pelo nome do DEUS VIVO e VERDADEIRO, HELIOREN.
+
+[MSG$023983,108]
+Eu te invoco, conjuro e ordeno em nome do DEUS VIVO e VERDADEIRO, e em nome do teu rei...."
+
+[MSG$023A09,113]
+Saeki "Vem, e manifesta as minhas exig]ncias. Portanto, cumpre os meus mandamentos e persiste neles at$ o fim."
+
+[MSG$023A94,117]
+Saeki "Em nome de TETRATRAMMATON JEOV# eu te ordeno, e ouvindo todas as hostes celestiais,
+
+[MSG$023B0E,77]
+terrestres e infernais tremem em coro, perturbados e confusos."
+
+[MSG$023B75,65]
+Saeki "ADONAI, PERAI, PATHUMATON. TETRAGRAMMATON, INESSENSATOAL!"
+
+[MSG$023BD0,59]
+Saeki "Venha, vem, em nome de Adonai Sabaoth!
+
+[MSG$023C10,61]
+Pois $ o Rei dos Reis, Adonai Sadai, quem te ordena!"
+
+[MSG$023C68,65]
+Novamente as vozes se dissipam e a sala $ envolta pelo sil]ncio.
+
+[MSG$023CAE,52]
+Mas, embora o sil]ncio persista, nada acontece.
+
+[MSG$023CEF,47]
+Amatsuki "N=o adianta. N=o sinto nada."
+
+[MSG$023D38,41]
+Kurimoto se pronuncia, quebrando o sil]ncio.
+
+[MSG$023D6E,57]
+Kurimoto "Mas da `ltima vez sentimos a presen~a do esp%rito..."
+
+[MSG$023DC1,80]
+Kurimoto "Voc] acha que talvez dev]ssemos ter tentado invocar um esp%rito de classe inferior?"
+
+[MSG$023E2B,77]
+Saeki "Muito bem... Vou tentar o feiti~o para quebrar a Corrente da Restri~=o."
+
+[MSG$023E92,58]
+Dito isso, Saeki re`ne sua concentra~=o mais uma vez...
+
+[MSG$023ED9,82]
+Saeki "> esp%rito perverso e desobediente, Dantalion, por teres te rebelado,
+
+[MSG$023F30,66]
+e n=o obedeceste nem consideraste as minhas palavras que eu repeti."
+
+[MSG$023F8C,74]
+Saeki "Sendo todos eles nomes gloriosos e incompreens%veis do verdadeiro DEUS,
+
+[MSG$023FDB,60]
+o criador e construtor de ti e de mim, e de todo o mundo."
+
+[MSG$024024,75]
+Saeki "Fa~o isso pelo poder destes nomes, aos quais nenhuma criatura $ capaz de resistir.
+
+[MSG$024074,104]
+Que te amaldi~oem as profundezas do Abismo Sem Fundo, onde permanecer#s acorrentado at$ o Dia do Ju%zo Final."
+
+[MSG$0240F7,100]
+Saeki "E em fogo e enxofre inextingu%veis, a menos que compare~as imediatamente perante este C%rculo,
+
+[MSG$024160,33]
+neste tri@ngulo para que fa~a a minha vontade."
+
+[MSG$02418E,72]
+Saeki "E, portanto, em nome de ADONAI, SABAOTH, ADONAI, AMIORAN.
+
+[MSG$0241DB,86]
+Venha! Venha! Pois $ o Rei dos Reis, ADONAI SADAI, quem te ordena!"
+
+[MSG$02424C,34]
+Assim como antes, nada mudou.
+
+[MSG$024273,80]
+Saeki come~a a demonstrar certo p@nico. Ela come~a a entoar c@nticos em um tom desesperado.
+
+[MSG$0242D0,92]
+Saeki "> Esp%rito Dantalion, se ainda $s t=o desobediente e te recusas a vir,
+
+[MSG$024331,82]
+eu o farei pelo poder do DEUS SUPREMO E ETERNO, JEOV+ TETRAGRAMATON...."
+
+[MSG$02439D,78]
+Saeki "O `nico criador, do C$u, do Inferno e de tudo o que existe.
+
+[MSG$0243F0,74]
+Por todos os nomes gloriosos dos deuses, vis%veis e invis%veis,
+
+[MSG$02443F,61]
+amaldi~oar-te-ei e privar-te-ei do teu cargo, tua alegria e teu lugar."
+
+[MSG$024497,109]
+Saeki "E te aprisionarei nas profundezas do Abismo Sem Fundo, onde permanecer#s at$ o dia do Ju%zo Final.
+
+[MSG$024509,87]
+E eu te aprisionarei no Fogo Eterno e no Lago de Chamas e Enxofre."
+
+[MSG$02457A,48]
+Saeki "Que toda a companhia celestial te amaldi~oe!
+
+[MSG$0245AF,109]
+Que todos os ex$rcitos celestiais te amaldi~oem, lan~ando-te no fogo inextingu%vel e nos tormentos indiz%veis!"
+
+[MSG$024637,89]
+Saeki termina de entoar o longo feiti~o e aguarda uma rea~=o sem mover um m`sculo.
+
+[MSG$02469D,35]
+E, novamente, segue-se um longo sil]ncio...
+
+[MSG$0246CF,58]
+Saeki solta um suspiro, e a tens=o se dissipa num instante.
+
+[MSG$024716,94]
+Amatsuki "Hoje n=o est# dando certo. N=o h# rea~=o nenhuma... Talvez tenhamos escolhido o dia errado."
+
+[MSG$02478E,68]
+Kurimoto "N=o seria estranho. De qualquer forma, eles aparecem raramente."
+
+[MSG$0247EC,84]
+Saeki "Acho que voc] tem raz=o... Acho que teremos mais sorte no pr&ximo s#bado."
+
+[MSG$02485A,86]
+Saeki "E lembrem-se, a Noite de Walpurgis est# chegando. Tenho certeza de que tudo correr# bem nesse dia."
+
+[MSG$0248CA,87]
+Isso parece convencer as tr]s. Elas fecham o c%rculo m#gico e n&s sa%mos.
+
+[MSG$024A27,29]
+No fim, nada aconteceu.
+
+[MSG$024A49,62]
+N=o que eu esperasse que um dem\nio realmente aparecesse ou algo do tipo.
+
+[MSG$024A94,83]
+Voc] pode entoar c@nticos o quanto quiser, mas n=o h# como um dem\nio aparecer assim do nada.
+
+[MSG$024AEC,59]
+Nem mesmo aquelas garotas de 12 anos atr#s conseguiram fazer isso acontecer.
+
+[MSG$024BB2,35]
+Saeki "O que voc] achou, Minase?"
+
+[MSG$024BEF,59]
+Saeki "Infelizmente, n=o conseguimos invocar um dem\nio..."
+
+[MSG$024C44,24]
+Saeki "Algum coment#rio a respeito?"
+
+[MSG$024C76,40]
+Minase "Foi um ritual interessante..."
+
+[MSG$024CB8,18]
+Saeki "...S& isso?"
+
+[MSG$024CE4,96]
+Minase ";... e lamento desiludi-la, mas eu realmente n=o sei muito sobre Magia Negra."
+
+[MSG$024D5E,93]
+Esque~am o n%vel de poder, quando se trata de conhecimento puro, essas garotas t]m muito mais do que eu...
+
+[MSG$024DC8,86]
+Em primeiro lugar, eu nunca invoquei um dem\nio antes, e talvez seja poss%vel.
+
+[MSG$024E23,57]
+Mas o Livro de Magia ao menos me dir# como fazer isso.
+
+[MSG$024E69,54]
+Saeki "N=o tem problema, voc] n=o precisa ser modesto."
+
+[MSG$024EB9,119]
+Saeki "Olha, por que voc] n=o aparece depois de amanh=? Vamos realizar um ritual no s#bado tamb$m."
+
+[MSG$024F4A,59]
+Kurimoto "Sim, voc] devia vir. Ser# muito bem-vindo."
+
+[MSG$024F9F,39]
+Kurimoto "O que acha, Amatsuki?"
+
+[MSG$024FE0,110]
+Amatsuki "Sim, voc] deveria vir. Eu sei que $ um clube secreto, mas $ um pouco triste ter apenas tr]s membros."
+
+[MSG$025068,66]
+Saeki "Veja, todas querem que voc] venha, ent=o espero que apare~a."
+
+[MSG$0250C4,46]
+De jeito nenhum eu poderia recusar um grupo inteiro de garotas.
+
+[MSG$0250F7,77]
+Al$m disso, eu at$ que gosto da ideia de ser o `nico cara em um trio de garotas.
+
+[MSG$025151,14]
+Minase "Claro."
+
+[MSG$025179,35]
+Saeki "S$rio? Agradecemos muito..."
+
+[MSG$0251B6,62]
+Kurimoto "Muito bem, isso significa que agora voc] $ um de n&s, Minase."
+
+[MSG$02520E,115]
+Amatsuki "Ei, da pr&xima vez dever%amos fazer o Minase participar do ritual. Gostaria de ver que tipo de poder ele tem."
+
+[MSG$02529B,66]
+Saeki "Boa ideia. Vou garantir que consiga um robe para Minase at$ l#."
+
+[MSG$0252F7,59]
+De repente, sinto que perdi o controle do que est# acontecendo.
+
+[MSG$02533F,48]
+Minase "Est# ficando tarde. Vou para casa."
+
+[MSG$025389,45]
+Decido ir embora antes que elas prossigam mais.
+
+[MSG$0253C3,87]
+Saeki "Ah? Bem, ainda precisamos esvaziar a sala, ent=o voc] pode ir para casa, Minase."
+
+[MSG$025434,39]
+Decido fazer o que ela diz e voltar para casa.
+
+[MSG$025468,23]
+Amatsuki "Tchau, Minase."
+
+[MSG$025499,18]
+Kurimoto "At$!"
+
+[MSG$025541,82]
+Eu me despe~o delas e saio do pr$dio, sentindo o ar frio da noite l# fora.
+
+[MSG$0255A0,40]
+Um clube secreto para praticar magia negra...
+
+[MSG$0255CD,83]
+mas tendo-as visto passar por todo o inc\modo daquele ritual em v=o...
+
+[MSG$025625,45]
+Vejo que n=o passam de amadores.
+
+[MSG$02565F,21]
+23 de abril - Casa/De Noite
+
+[MSG$025763,72]
+Volto para o meu quarto e sento-me mais uma vez para me dedicar ao livro de magia.
+
+[MSG$0257B8,51]
+E volto a trabalhar no ritual de invoca~=o do portal.
+
+[MSG$025874,47]
+Enquanto trabalho, me lembro do ritual de Saeki...
+
+[MSG$0258A8,74]
+Era igual [ esse que estou traduzindo agora, um ritual de invoca~=o de esp%ritos.
+
+[MSG$0258FF,75]
+De repente, me pergunto exatamente o que estou fazendo, traduzindo algo assim.
+
+[MSG$025957,98]
+Comecei de forma casual. Mas, ao conhecer esses rituais, tamb$m poderei utiliz#-los.
+
+[MSG$0259C6,60]
+E n=o h# como negar que eu vou querer us#-los...
+
+[MSG$025A07,102]
+N=o h# diferen~a entre o que estou fazendo e o que aquelas garotas de 12 anos atr#s tentavam fazer.
+
+[MSG$025A7A,67]
+Mas n=o posso simplesmente parar agora. Estou t=o perto de terminar esse ritual...
+
+[MSG$025AC2,51]
+Ser# que conseguirei resistir ao meu pr&prio desejo?
+
+[MSG$025B02,114]
+Mas, apesar da minha turbul]ncia interna, continuei firme, at$ decifrar toda a se~=o sobre o ritual.
+
+[MSG$025B81,20]
+Minase "Terminei..."
+
+[MSG$025BAF,57]
+Terminei minha tarefa demorada e vou fazer uma pausa.
+
+[MSG$025BED,88]
+J# passa das 2 da manh=. ; melhor eu ir dormir ou vou levar uma bronca da Imari de novo amanh=.
+
+[MSG$025C52,75]
+Eu me encosto na cadeira e come~o a pensar sobre o que acabei de traduzir.
+
+[MSG$025CAA,56]
+O ritual de invoca~=o de esp%ritos em si n=o $ muito dif%cil.
+
+[MSG$025CE7,57]
+Consiste em uma s$rie de cerim\nias, modeladas segundo uma missa.
+
+[MSG$025D2D,82]
+Voc] reza aos deuses e invoca os esp%ritos sob o poder e a prote~=o dos deuses.
+
+[MSG$025D84,47]
+E ent=o tenta controlar os dem\nios.
+
+[MSG$025DB8,61]
+; semelhante [quela que Saeki e sua gangue realizaram hoje.
+
+[MSG$025E02,66]
+Se voc] for bem-sucedido, alcan~ar# um poder que transcende a compreens=o humana.
+
+[MSG$025E49,66]
+A verdade suprema que todo praticante de magia almeja...
+
+[MSG$025E98,72]
+N=o seria dif%cil at$ mesmo para algu$m como eu realizar tal ritual.
+
+[MSG$025EE5,72]
+Agora que tenho este livro e aquele quarto no por=o, $ perfeitamente poss%vel.
+
+[MSG$025F3A,83]
+A `nica diferen~a $ que, ao contr#rio do ritual de Saeki, este exige um sacrif%cio de um ser vivo.
+
+[MSG$025F92,38]
+E isso varia de esp%rito para esp%rito.
+
+[MSG$025FC5,108]
+Se voc] deseja invocar um esp%rito mais poderoso, o sacrif%cio deve estar [ altura desse n%vel de poder.
+
+[MSG$02603E,94]
+Se elas seguiram esse livro, ent=o aquelas garotas de 12 anos atr#s devem ter usado um sacrif%cio vivo.
+
+[MSG$0260A1,26]
+O que foi que elas viram?
+
+[MSG$0260C8,39]
+Eu estaria mentindo se dissesse que n=o me importo...
+
+[MSG$0260F4,39]
+E agora tenho os meios para descobrir...
+
+[MSG$026128,64]
+Se eu tiver sucesso, adquirirei ainda mais poder do que tenho agora.
+
+[MSG$02616D,76]
+Mas tamb$m $ muito prov#vel que eu acabe da mesma forma que aquelas garotas...
+
+[MSG$0261C6,83]
+Primeiro preciso voltar [quela sala no por=o e examinar tudo com aten~=o.
+
+[MSG$02621E,28]
+Tudo come~ou naquele quarto.
+
+[MSG$026247,32]
+A resposta deve estar l#...
+
+[MSG$026274,18]
+..................
+
+[MSG$026293,12]
+............
+
+[MSG$0262AC,6]
+......

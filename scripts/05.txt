@@ -1,0 +1,7006 @@
+﻿#Size=180604
+
+[MSG$000150,2]
+??
+
+[MSG$00016F,3]
+Sim
+
+[MSG$000197,37]
+Fa~a ele correr pelado pela escola
+
+[MSG$0001D9,41]
+Fa~a ele se humilhar no port=o da escola
+
+[MSG$000227,20]
+Ir para o por=o
+
+[MSG$000260,26]
+Acordar ela com mais for~a
+
+[MSG$000297,31]
+Dar o troco e sacanear ela
+
+[MSG$0002DB,17]
+Aceitar o acordo com Kitami
+
+[MSG$000309,13]
+Rejeitar o acordo com Kitami
+
+[MSG$00033B,19]
+Fazer ela engolir
+
+[MSG$00036B,17]
+Gozar em cima dela
+
+[MSG$0003A1,17]
+Sucumbir a Kitami
+
+[MSG$0003CF,13]
+Rejeitar Kitami
+
+[MSG$0003F9,13]
+Rejeitar ela
+
+[MSG$00056E,18]
+24 de abril - Manh~
+
+[MSG$00064E,18]
+Imari "Acorda..."
+
+[MSG$00067A,23]
+Imari "J# amanheceu..."
+
+[MSG$0006AB,63]
+Imari "Que saco, por que tem que ser assim todos os dias?"
+
+[MSG$000704,37]
+Imari "Vamos, anda logo!"
+
+[MSG$000743,25]
+(Mexe, mexe, remexe...)
+
+[MSG$0007F9,43]
+Imari "Ah, cara... acho que n=o tenho escolha."
+
+[MSG$00083E,52]
+Imari vasculha debaixo da cama e pega algo.
+
+[MSG$00087F,19]
+Imari "Aqui est#!"
+
+[MSG$0008AC,29]
+O que ser# que tem debaixo da cama dessa vez?
+
+[MSG$0008D6,57]
+Imari "; melhor ter cuidado para n=o errar de novo..."
+
+[MSG$000929,102]
+Imari "Vejamos, voc] tem girar na dire~=o oposta dos parafusos, ent=o..."
+
+[MSG$0009A9,82]
+Resmungando o tempo todo, Imari coloca algo em volta da minha perna, como ontem.
+
+[MSG$000AA3,9]
+Ghaaa...!
+
+[MSG$000AB9,46]
+Instantaneamente afasto o cobertor e pulo.
+
+[MSG$000AF4,37]
+Minase "Que diabos voc] t# fazendo?"
+
+[MSG$000B33,12]
+Imari "H=?"
+
+[MSG$000B59,36]
+Imari "N=o fiz nada ainda."
+
+[MSG$000B97,18]
+Como se eu fosse deixar!
+
+[MSG$000BB6,58]
+Al$m disso, posso ver que ela errou a voltagem de novo!
+
+[MSG$000BF5,70]
+Ela $ uma daquelas pessoas que nunca usou uma chave de fenda antes?
+
+[MSG$000C48,51]
+Imari "Mas que bom que voc] se levantou sozinho!"
+
+[MSG$000C95,83]
+Se vai me acordar com esse instrumento de tortura, prefiro nem dormir.
+
+[MSG$000CED,68]
+; melhor eu esconder essa engenhoca em algum lugar at$ o final do dia...
+
+[MSG$000D3E,41]
+Imari "Que aparelho inacredit#vel, hein?"
+
+[MSG$000D81,34]
+Inacredit#vel $ voc]!
+
+[MSG$000DB0,26]
+24 de abril - Indo para a escola
+
+[MSG$000E55,36]
+Imari e eu andamos juntos para a escola.
+
+[MSG$000E86,49]
+Imari "Voc] t# bem popular esses dia, Minase."
+
+[MSG$000ED1,45]
+Imari traz esse assunto [ tona de repente.
+
+[MSG$000F0B,13]
+Minase "H=?"
+
+[MSG$000F32,63]
+Imari "Voc] t# sempre cercado durante todas as aulas."
+
+[MSG$000F8B,113]
+Pensando bem, desde o incidente com Murai, aquelas garotas continuam me pentelhando durante as aulas,
+
+[MSG$001001,33]
+esperando que eu fa~a algum feiti~o pra elas.
+
+[MSG$00102F,109]
+Desnecess#rio dizer que sempre recuso. N=o posso atender a todos seus pedidos ou nunca terminarei com eles.
+
+[MSG$0010A1,60]
+Al$m disso, tenho que evitar gerar mais boatos estranhos.
+
+[MSG$0010EA,44]
+Minase "; um p$ no saco tudo isso."
+
+[MSG$001130,43]
+Imari "Mentiroso... at$ parece que n=o t# gostando!"
+
+[MSG$001175,64]
+Imari "Sei n=o, voc] t# agindo de forma estranha ultimamente..."
+
+[MSG$0011CF,81]
+Imari "Lendo livros esquisitos, praticando magia negra... muito estranho."
+
+[MSG$00123A,60]
+Minase "E da%? N=o $ como se eu estivesse lhe causando problemas."
+
+[MSG$001290,21]
+Imari "Sim, voc] t#!"
+
+[MSG$0012BF,26]
+Imari "Ah, sim, voc]..."
+
+[MSG$0012F3,85]
+Imari "Hoje em dia, est# cada vez mais dif%cil te tirar da cama, e tamb$m..."
+
+[MSG$001362,61]
+Quem $ ela pra falar? Imari t# agindo de forma estranha hoje.
+
+[MSG$0013A4,66]
+Acho que ela ainda guarda rancor pelo que aconteceu ontem.
+
+[MSG$0013F3,51]
+Minase "Aposto que voc] est# naqueles dias hoje."
+
+[MSG$0014D9,4]
+BAM!
+
+[MSG$0014EA,17]
+Imari "Idiota!"
+
+[MSG$001515,54]
+Imari "Que se dane voc]! Vou na frente!"
+
+[MSG$001565,28]
+Com isso, ela sai furiosa.
+
+[MSG$001586,21]
+Eu s& tava brincando...
+
+[MSG$0015A8,17]
+24 de abril - Vesti#rio
+
+[MSG$001696,44]
+Acabo encontrando Nonogusa no vesti#rio.
+
+[MSG$0016C7,39]
+Ela tamb$m percebe minha presen~a.
+
+[MSG$0016FB,52]
+Nonogusa me lan~a um olhar e depois vira o rosto rapidamente.
+
+[MSG$001760,29]
+; meio constrangedor...
+
+[MSG$00178A,53]
+Ela deve ter sacado que fiquei com algumas fotos.
+
+[MSG$0017C4,56]
+Mas agora $ tarde demais para devolver elas...
+
+[MSG$00183B,24]
+Imari "O que foi?"
+
+[MSG$00186D,17]
+Minase "Nada."
+
+[MSG$0018D1,44]
+Acabo encontrando Nonogusa no vesti#rio.
+
+[MSG$001902,39]
+Ela nota minha presen~a e olha pra mim.
+
+[MSG$001936,32]
+Nonogusa "Bom dia, Minase."
+
+[MSG$001971,22]
+Minase "Bom dia."
+
+[MSG$0019A1,36]
+Retribuo a sauda~=o alegre dela.
+
+[MSG$0019D2,36]
+Nonogusa "Obrigada pelo outro dia."
+
+[MSG$001A10,20]
+Minase "Imagina."
+
+[MSG$001A62,39]
+Ela sorri para mim e vai para a aula.
+
+[MSG$001B19,24]
+Imari "O que foi isso?"
+
+[MSG$001B4B,98]
+Imari "Aquela n=o era Nonogusa? A garota que voc] sempre implicava, dando apelidos horr%veis?"
+
+[MSG$001BC7,14]
+Minase "Sim."
+
+[MSG$001BEF,39]
+Imari "Ent=o, o que aconteceu outro dia?"
+
+[MSG$001C30,68]
+Minase "Estavam zoando ela e eu a ajudei, s& isso."
+
+[MSG$001C8E,35]
+Imari "O que voc] disse?"
+
+[MSG$001CCB,90]
+Imari "Ei, falando nisso, ouvi dizer que Nonogusa-san ser# a novo capit= da equipe de nata~=o.
+
+[MSG$001D2A,36]
+Uma amiga minha da equipe me contou."
+
+[MSG$001D68,16]
+Minase "S$rio?"
+
+[MSG$001D92,63]
+Parece que aquelas fotos foram mais eficazes do que eu pensava.
+
+[MSG$001DDE,20]
+24 de abril - Sala de aula
+
+[MSG$001E71,75]
+Quando chego na sala de aula, j# tem alguns alunos por aqui...
+
+[MSG$001EC1,20]
+Saeki $ uma delas.
+
+[MSG$001F14,21]
+Saeki "Bom dia."
+
+[MSG$001F43,49]
+Saeki me cumprimenta como se nada tivesse acontecido ontem.
+
+[MSG$001F79,47]
+Ent=o est# pagando de boa aluna na escola, hein?
+
+[MSG$001FCE,54]
+Minase "E a%, voc] t# com algo que $ meu, certo?"
+
+[MSG$00201E,61]
+Estendo minha m=o, com a inten~=o de pegar meu livro de volta.
+
+[MSG$002068,71]
+Saeki "Voc] pode esperar s& mais um pouquinho? N=o se preocupe, eu t\ com ele aqui."
+
+[MSG$0020C9,19]
+Saeki d# um tapinha na sua bolsa.
+
+[MSG$0020E1,25]
+Verdade, d# pra perceber que a bolsa dela est# cheia.
+
+[MSG$002107,50]
+Minase "T#, mas devolva at$ o final do dia."
+
+[MSG$002153,37]
+Dito isso, vou em dire~=o ao meu lugar.
+
+[MSG$00217D,85]
+Bem, pelo menos ela trouxe o livro. S& me resta esperar at$ o fim das aulas.
+
+[MSG$0021E5,14]
+Minase "T# bom."
+
+[MSG$00220D,64]
+Tento parecer o mais indiferente poss%vel e vou para o meu lugar.
+
+[MSG$0022B0,61]
+Murai "Ei, Minase, quero que lance outro feiti~o para mim."
+
+[MSG$002308,37]
+No momento que fala isso, Murai se lan~a sobre mim.
+
+[MSG$00233A,16]
+Vai come~ar...
+
+[MSG$00234F,75]
+No in%cio foi legal ser o centro das aten~^es, mas agora t# enchendo o saco.
+
+[MSG$0023A7,46]
+Minase "Acabei de fazer um pra voc] outro dia."
+
+[MSG$0023EF,72]
+Murai "Bom, o problema $ que t\ saindo com um cara, sabe, mas ele termina r#pido demais..."
+
+[MSG$002451,83]
+Murai "Ent=o queria saber se... se voc] tem um feiti~o que o fizesse durar mais."
+
+[MSG$0024BE,55]
+Murai junta as m=os de maneira suplicante.
+
+[MSG$0024FA,90]
+Que diabos ela quer que eu fa~a? Se ele goza r#pido demais, d# um n& no peru dele!
+
+[MSG$002561,43]
+Minase "Desculpa... mas n=o t\ muito bem hoje."
+
+[MSG$0025A6,101]
+Digo isso em tom de desgosto. Claro, n=o tenho inten~=o de lan~ar feiti~o nenhum pra ela novamente.
+
+[MSG$002618,57]
+Se fizesse o que ela pediu, logo teria uma fila de pedidos.
+
+[MSG$002656,78]
+Por que diabos eu devia ficar ouvindo as reclama~^es da vida sexual dela?
+
+[MSG$0026E3,46]
+Murai "Qu]]]? Minase, voc] est# sendo mesquinho!"
+
+[MSG$00272B,64]
+Minase "Pe~a pra Saeki te ajudar com esse tipo de problema."
+
+[MSG$002785,74]
+Murai "Se estou pedindo pra voc] $ porque respeito seu poder! Por favor!"
+
+[MSG$0027E9,41]
+Cara, que saco.
+
+[MSG$002817,47]
+Ignoro Murai e coloco a cabe~a na mesa.
+
+[MSG$002853,17]
+Minase "Zzzzz..."
+
+[MSG$00287E,44]
+Murai "Vamos, n=o finja que est# dormindo!"
+
+[MSG$0028C4,12]
+Minase "..."
+
+[MSG$0028DD,16]
+Murai "Por favor!"
+
+[MSG$0029F1,24]
+Finalmente a aula come~a.
+
+[MSG$002A16,39]
+.......................................
+
+[MSG$002A4A,30]
+..............................
+
+[MSG$002A75,21]
+.....................
+
+[MSG$002A97,12]
+............
+
+[MSG$002AB0,6]
+......
+
+[MSG$002AD4,16]
+24 de abril - Almo~o
+
+[MSG$002B6B,37]
+O sinal toca e a hora do almo~o come~a.
+
+[MSG$002B9D,41]
+Garota 1 "Ei, Minase-kun, vamos almo~ar juntos."
+
+[MSG$002BE0,14]
+Garota 2 "Comigo tamb$m!"
+
+[MSG$002C08,79]
+Imari estava a caminho da minha mesa com sua lancheira nas m=os, mas ao 
+
+[MSG$002C5C,69]
+ver o que est# acontecendo ela d# meia volta, parecendo triste.
+
+[MSG$002CAE,36]
+As coisas mudaram para mim, de alguma forma.
+
+[MSG$002CD7,65]
+Nos `ltimos dias parece que come~ou a perder o controle...
+
+[MSG$002D25,89]
+Essas garotas que come~aram a me cercar... d# pra perceber que est=o apenas tentando se
+
+[MSG$002D83,53]
+|aproveitar, porque de repente me tornei popular.
+
+[MSG$002DC5,87]
+Aposto que est=o pensando que algum dia pode ser `til me ter como amigo.
+
+[MSG$002E21,39]
+Prefiro a Imari mil vezes do que essa turma.
+
+[MSG$002E55,53]
+Tiro da mochila a marmita que minha irm= preparou para mim.
+
+[MSG$002E8F,84]
+Vejo as garotas arrastando as cadeiras at$ a minha mesa, segurando suas lancheiras.
+
+[MSG$002EF0,16]
+Minase "Aah..."
+
+[MSG$002F1A,99]
+N=o $ que eu n=o goste da ideia de almo~ar com garotas. Mas por alguma raz=o isso me fez suspirar.
+
+[MSG$002F8A,5]
+BAM!
+
+[MSG$002FA4,116]
+Nisso, a porta abre com tudo, quebrando a paz do almo~o. Um grupo de caras est# entrando na sala.
+
+[MSG$003025,32]
+Na mesma hora, todos ficam em sil]ncio.
+
+[MSG$003052,57]
+Esses caras fazem parte da gangue mais temida da escola.
+
+[MSG$003090,83]
+S=o os t%picos delinquentes, algo raro de se ver em col$gios mistos como o nosso.
+
+[MSG$0030E8,40]
+Ouvi dizer que eles praticamente mandam na escola toda.
+
+[MSG$00311D,54]
+Algum idiota deve ter pisado no calo desses babacas...
+
+[MSG$003160,85]
+Dizem que eles at$ usam drogas. O melhor a fazer $ n=o se meter com essa gente.
+
+[MSG$0031BA,76]
+Al$m do mais, esses marginais arranjam briga por qualquer bobagem.
+
+[MSG$00320B,85]
+;, o melhor a fazer $ n=o bater de frente com esses caras.
+
+[MSG$00326D,19]
+Tum, tum, tum...
+
+[MSG$00328D,65]
+Eles v]m na minha dire~=o, chutando todas as carteiras e cadeiras pelo caminho.
+
+[MSG$0032DB,42]
+Um cara arrogante chamado Inoue vem na frente.
+
+[MSG$00330A,64]
+Ele at$ parece dur=o, mas n=o d# para saber se $ mesmo...
+
+[MSG$003357,85]
+Mas quem ser# o infeliz? O ot#rio que vai ser arrastado por essa gangue?
+
+[MSG$003434,37]
+Inoue "Voc] $ o Minase? Vamos dar uma voltinha."
+
+[MSG$003473,22]
+H=? Eles est=o atr#s DE MIM?
+
+[MSG$003496,61]
+Garota 1 "Ah, com licen~a, acabei de lembrar que tenho algo pra fazer."
+
+[MSG$0034ED,25]
+Tap, tap, tap...
+
+[MSG$003513,19]
+Garota 2 "Eu tamb$m..."
+
+[MSG$003540,25]
+Tap, tap, tap...
+
+[MSG$003566,75]
+De uma hora pra outra, as garotas que estavam ao meu redor saem de fininho.
+
+[MSG$0035B6,19]
+Poxa, valeu mesmo, hein!
+
+[MSG$0035D6,42]
+Minase "Acho que voc]s est=o procurando o cara errado."
+
+[MSG$00361A,37]
+Digo isso para Inoue com a voz meio t%mida.
+
+[MSG$003644,82]
+N=o lembro de ter comprado briga, nem de ter provocado eles em algum momento.
+
+[MSG$0036A3,31]
+Inoue "Voc] n=o $ o Taki Minase?"
+
+[MSG$0036FC,14]
+Minase "N-N=o..."
+
+[MSG$003724,16]
+Respondo, com a voz falhando.
+
+[MSG$003741,45]
+Inoue "Ent=o quem diabos $ esse tal de Minase?"
+
+[MSG$003788,24]
+Minase "N=o fa~o ideia..."
+
+[MSG$0037BA,28]
+Desesperado, desviei o olhar.
+
+[MSG$0037E3,90]
+Sem chance de me safar com uma mentira esfarrapada dessas, mas vai que cola...
+
+[MSG$00384A,25]
+Inoue "E o que $ isso a%?"
+
+[MSG$00387D,32]
+Inoue apontou o olhar para a minha marmita.
+
+[MSG$0038A2,58]
+O nome ''Taki Minase'' estava escrito em letras garrafais nela.
+
+[MSG$0038E9,7]
+Merda...
+
+[MSG$0038FD,75]
+Minha irm= escreveu isso contra a minha vontade, para ningu$m pegar por engano.
+
+[MSG$003955,40]
+Inoue "T# tirando uma com a minha cara, $?"
+
+[MSG$003997,7]
+Fodeu...
+
+[MSG$0039AB,22]
+Inoue "Peguem esse cara!'
+
+[MSG$0039E6,15]
+Minase "Sim..."
+
+[MSG$003A0F,18]
+Respondo honestamente.
+
+[MSG$003A2E,32]
+Inoue "Ent=o $ voc] mesmo."
+
+[MSG$003A68,28]
+Pelo visto, eles est=o atr#s de mim...
+
+[MSG$003A89,107]
+E agora? N=o posso usar magia para me safar dessa. Para piorar, n=o sou bom de briga.
+
+[MSG$003B01,22]
+Inoue "Peguem esse cara!"
+
+[MSG$003B55,67]
+Com isso, a gangue me cerca e me arrasta para fora da sala de aula.
+
+[MSG$003BD7,39]
+Imari "O que pensam que est=o fazendo?"
+
+[MSG$003C18,15]
+24 de abril - Terra~o
+
+[MSG$003CB2,33]
+Os delinquentes me arrastam at$ o terra~o.
+
+[MSG$003D5B,58]
+Inoue "Escuta, arrombado, sabe por que te trouxemos aqui?" 
+
+[MSG$003DAF,16]
+Eu balan~o a cabe~a. 
+
+[MSG$003DCC,35]
+Minase "O que foi que eu fiz?" 
+
+[MSG$003E09,64]
+Estou perfeitamente ciente que n=o vai adiantar nada perguntar isso. 
+
+[MSG$003E4E,37]
+Idiotas como eles n=o precisam de motivos. 
+
+[MSG$003E80,86]
+Para eles, isso nada mais $ do que uma forma de matar o tempo, algo para fazer quando est=o entediados. 
+
+[MSG$003EDB,41]
+Mas eu gostaria de saber por que est=o atr#s de mim... 
+
+[MSG$003F11,64]
+Inoue "Fiquei sabendo que voc] $ popular entre as garotas hoje em dia, Minase!" 
+
+[MSG$003F6B,108]
+Inoue "Ouvimos todos os boatos. Voc] $ o cara que manja de magia negra, n=o $ mesmo?" 
+
+[MSG$003FF1,70]
+Inoue "O que vai fazer? Invocar um dem\nio e conquistar o mundo?" 
+
+[MSG$004051,43]
+Os caras atr#s dele caem na gargalhada. 
+
+[MSG$004081,40]
+Quem diria que os boatos se espalhariam assim... 
+
+[MSG$0040B6,56]
+Inoue "Queremos ver o que voc] consegue fazer, sabe. Mostra a% o seu poder!" 
+
+[MSG$004108,17]
+Minase "(Engasga)" 
+
+[MSG$004133,45]
+Inoue "Voc] $ uma aberra~=o... um idiota mesmo." 
+
+[MSG$00417A,74]
+Inoue "Gra~as aos seus feiti~os, temos ouvido todo tipo de merda." 
+
+[MSG$0041DE,46]
+Inoue "O que vai fazer sobre isso, hein?" 
+
+[MSG$004226,43]
+Eles est=o falando sobre o incidente com Murai... 
+
+[MSG$00425E,60]
+Depois de Murai, lancei o mesmo feiti~o em um monte de garotas... 
+
+[MSG$00429F,98]
+N=o me surpreende que algumas pessoas guardem rancor por causa da minha magia negra. 
+
+[MSG$00430E,84]
+O cara que Murai estava atr#s... eu o forcei a terminar com a namorada. 
+
+[MSG$004367,32]
+Tenho certeza que ela pegou birra de mim. 
+
+[MSG$0043AF,49]
+Inoue "Al$m disso, n=o suporto caras como voc]." 
+
+[MSG$0043FA,101]
+Inoue "Nerdolas que ficam se achando por causa dessa macumba... S& de olhar pra sua cara j# me irrito." 
+
+[MSG$004479,44]
+Inoue "Al$m disso, t\ puto da vida hoje." 
+
+[MSG$0044BF,115]
+Inoue "Pisei em coc\ de cachorro no caminho pra c#... Tomei uma multa por estacionar minha moto na frente de casa, 
+
+[MSG$004537,31]
+e agora minha licen~a t# suspensa!" 
+
+[MSG$004570,67]
+Inoue "A culpa $ toda sua! E agora voc] vai pagar por isso!" 
+
+[MSG$0045CD,34]
+De que diabos ele est# falando?
+
+[MSG$0045FC,76]
+Inoue "A], a parada $ essa. N=o leve a mal, mas voc] t[ ferrado!"
+
+[MSG$004668,57]
+Inoue "E ainda por cima... voc] t# saindo com Rika Shiraki!"
+
+[MSG$0046BB,65]
+Inoue cospe isso com uma express=o ainda mais assustadora.
+
+[MSG$004701,31]
+De onde veio esse boato?
+
+[MSG$00472D,68]
+Inoue "Algu$m viu voc] apalpando os peitos da Shiraki atr#s da escola."
+
+[MSG$00478B,18]
+Ent=o algu$m nos viu...
+
+[MSG$0047AA,49]
+Inoue "Sacanagem, eu nem toquei neles ainda!"
+
+[MSG$0047F5,74]
+Inoue "Como ousa botar as m=os nos peitos da nossa idol... Voc] t# fudido!"
+
+[MSG$004859,88]
+Inoue "Ainda vou tocar nos peitos da Shiraki, t#? Escreve o que estou dizendo, idiota!"
+
+[MSG$0048CB,48]
+Os punhos de Inoue est=o tremendo. Ele t# perdendo a linha...
+
+[MSG$004908,44]
+Inoue "At$ onde voc] chegou com a Shiraki?"
+
+[MSG$00494E,53]
+Inoue "N=o me diga que foi at$ o fim, idiota!"
+
+[MSG$00499D,45]
+Inoue pergunta isso enquanto estala os n&s dos dedos.
+
+[MSG$0049CF,45]
+Dependendo da minha resposta, posso ser morto...
+
+[MSG$004A09,12]
+Minase "..."
+
+[MSG$004A22,69]
+Inoue "Sei que tocou nos peitos dela. Nem vem me enrolar!"
+
+[MSG$004A81,47]
+Inoue "Fala logo o que aconteceu, caramba!"
+
+[MSG$004ACA,72]
+Inoue "Dependendo do que disser... voc] vai estar na merda."
+
+[MSG$004B2C,67]
+; uma amea~a. Mas $ como se ele estivesse pedindo para n=o contar a verdade.
+
+[MSG$004B74,57]
+De qualquer forma, tenho que sair dessa situa~=o logo.
+
+[MSG$004BBA,72]
+Inoue "Fiquei sabendo que depois voc]s foram para o dep&sito do gin#sio."
+
+[MSG$004C1C,7]
+Merda...
+
+[MSG$004C28,36]
+Nem me passou pela cabe~a que algu$m tinha visto AQUILO.
+
+[MSG$004C59,50]
+Inoue "O que voc]s estavam fazendo l#, hein, Minase?"
+
+[MSG$004CA5,69]
+Inoue "N=o me diga que era uma sess=o amig#vel de gin#stica, era?"
+
+[MSG$004D04,19]
+Minase "Sabe..."
+
+[MSG$004D31,116]
+Inoue "Desembucha. N=o importa o que diga, voc] j# assinou sua senten~a de morte quando tocou nos peitos dela."
+
+[MSG$004DBF,22]
+Minase "Ei, qual $!"
+
+[MSG$004DEF,47]
+Inoue "Fala, caramba! Voc] fez ou n=o fez?"
+
+[MSG$004E38,17]
+Minase "Eu... eu..."
+
+[MSG$004E63,80]
+O que tenho a perder? N=o importa o que diga, ele vai me matar de qualquer jeito.
+
+[MSG$004EC0,15]
+Minase "Eu fiz."
+
+[MSG$004EE9,7]
+Gulp... 
+
+[MSG$004EFD,39]
+Inoue perde o controle quando ouve minha resposta. 
+
+[MSG$004F31,27]
+Inoue "Eu vou te matar!"
+
+[MSG$004F66,67]
+Inoue "Seu bastardo, eu ia tirar a virgindade da Rika Shiraki, 
+
+[MSG$004FAE,54]
+voc] n=o sabia que foi isso que combinamos h# muito tempo?" 
+
+[MSG$004FFE,33]
+Inoue "Acabem com ele!" 
+
+[MSG$005039,37]
+De repente, toda a gangue salta sobre mim. 
+
+[MSG$005100,4]
+PLAF! 
+
+[MSG$005111,17]
+Minase "Argh" 
+
+[MSG$00513C,74]
+Ningu$m t# pegando leve e eu saio voando. Quando percebo, j# estou no ch=o. 
+
+[MSG$00518B,55]
+Fa%scas est=o explodindo na minha cabe~a e me sinto atordoado. 
+
+[MSG$005268,6]
+TUM! 
+
+[MSG$00527B,15]
+Minase "Ugh!" 
+
+[MSG$0052A4,59]
+Agora no ch=o, estou sendo chutado sem piedade. 
+
+[MSG$0052EC,45]
+Delinquente 1 "N=o mexa com a gente, seu arrombado!" 
+
+[MSG$0053CB,6]
+TUM!! 
+
+[MSG$0053DE,15]
+Minase "Argh!" 
+
+[MSG$005407,67]
+Delinquente 2 "Idiota! Por que n=o vai pra casa bater uma?" 
+
+[MSG$0054FD,17]
+POW... 
+
+[MSG$0055B0,6]
+PLAFT! 
+
+[MSG$0055C3,97]
+J# era. N=o tenho escolha a n=o ser deixar eles me baterem e suportar a dor. 
+
+[MSG$005631,59]
+Inoue "Ei! Levanta, Minase! Ainda $ cedo pra dormir." 
+
+[MSG$005686,38]
+Inoue me obriga a me levantar. 
+
+[MSG$0056B9,94]
+Inoue "N=o pense que vai se safar com uma surra dessas. Vamos te
+
+[MSG$00571C,49]
+|deixar no hospital por pelo menos uma semana." 
+
+[MSG$005767,51]
+Inoue sorri ao ver o sofrimento em meu rosto. 
+
+[MSG$00579F,42]
+Ele recua o punho para me acertar novamente. 
+
+[MSG$0057D6,26]
+Imari "Parem com isso agora mesmo!" 
+
+[MSG$00580A,57]
+De repente, uma voz reverbera pelo terra~o. 
+
+[MSG$0058AE,17]
+Minase "Imari..." 
+
+[MSG$0058D9,45]
+Sussurro o nome dela quando vejo quem acabou de falar. 
+
+[MSG$005913,23]
+Imari aparece do nada. 
+
+[MSG$00592F,26]
+Ela est# encarando a gangue. 
+
+[MSG$00594E,43]
+Ela deve ter vindo aqui porque ficou preocupada comigo. 
+
+[MSG$005986,110]
+Sei que $ rid%culo ter uma garota me protegendo, mas neste momento n=o h# vis=o melhor para meus olhos doloridos... 
+
+[MSG$005A01,29]
+Inoue "Que diabos $ voc]?"
+
+[MSG$005A38,105]
+Inoue me empurra para o lado. Ele fica ali olhando com desconfian~a para a garota impetuosa que acabou de chegar. 
+
+[MSG$005AAE,29]
+Imari "Colega de classe desse garoto." 
+
+[MSG$005AE5,39]
+Inoue "Ent=o o que voc] quer, colega de classe?" 
+
+[MSG$005B26,54]
+Imari "Tr]s contra um? Voc]s n=o t]m vergonha?" 
+
+[MSG$005B76,101]
+Inoue "N=o, isso n=o me incomoda nem um pouco. De qualquer forma, eu poderia acabar como ele sozinho, se quisesse." 
+
+[MSG$005BF5,103]
+N=o provoque ele... Embora seja verdade que eu n=o teria chance, mesmo no mano a mano. 
+
+[MSG$005C61,84]
+Esses caras est=o sempre brigando, algu$m como eu deve ser fichinha pra eles. 
+
+[MSG$005CC2,69]
+Imari "Se n=o pararem de bater nele, v=o ter que se ver comigo!" 
+
+[MSG$005D21,70]
+Imari fica na frente da gangue e faz essa declara~=o imponente. 
+
+[MSG$005D74,82]
+Tenho certeza que seria uma vis=o c\mica para algu$m que estivesse vendo de fora. 
+
+[MSG$005DCB,59]
+Tr]s caras contra uma garota. Al$m disso, eles s=o muito maiores do que ela. 
+
+[MSG$005E69,80]
+Inoue "Ei, escute! N=o pense que s& porque $ uma garota eu n=o vou bater em voc]. 
+
+[MSG$005EBE,66]
+Desculpe, mas n=o sou feminista. N=o vejo problema algum em descer a m=o nas vadias." 
+
+[MSG$005F1A,40]
+Os caras parecem insultados com as palavras de Imari. 
+
+[MSG$005F47,35]
+Eles n=o t]m ideia de qu=o durona ela $. 
+
+[MSG$005F77,114]
+Imari tem aulas de shorinji kempo desde pequena. Meus pais me for~aram a ter aulas com ela tamb$m, 
+
+[MSG$005FEE,36]
+mas n=o aguentei por muito tempo. 
+
+[MSG$00601F,75]
+Imari sempre termina o que come~a, ent=o ela pratica h# um temp=o. 
+
+[MSG$00606F,37]
+J# ganhou at$ um torneio nacional. 
+
+[MSG$0060A1,69]
+Ela tem o que $ preciso para acabar com um delinquente comum. 
+
+[MSG$0060F3,98]
+Imari "Por mim, tudo bem. Apenas n=o tente se conter, t#? Posso acabar causando s$rios danos em voc]." 
+
+[MSG$00616F,43]
+Inoue "Cadela que late n=o morde." 
+
+[MSG$0061B4,64]
+Inoue "Ei, fa~a essa vadia est`pida beijar o ch=o!" 
+
+[MSG$00620E,29]
+Delinquente 1 "Apenas deixe comigo." 
+
+[MSG$006245,56]
+Um dos delinquentes avan~a com um olhar malicioso. 
+
+[MSG$0062EE,50]
+Imari "N=o me subestime porque sou uma garota." 
+
+[MSG$00633A,67]
+Delinquente 1 "N=o se preocupe, depois de te nocautear, vou lamber esse peit=o." 
+
+[MSG$006397,69]
+Ele sorri lascivamente enquanto avan~a com os punhos apontados para o rosto de Imari. 
+
+[MSG$006481,6]
+POW! 
+
+[MSG$006494,69]
+Imari desvia o cruzado de direita dele com facilidade usando a palma da m=o. 
+
+[MSG$0064E6,91]
+Em seguida, ela fecha essa mesma m=o e acerta a cara do delinquente com um soco avassalador.
+
+[MSG$0065E7,5]
+POW! 
+
+[MSG$0065F9,15]
+Delinquente 1 "Ugh..." 
+
+[MSG$006646,60]
+Com um baque nauseante, seu punho afunda na bochecha do infeliz. 
+
+[MSG$006687,66]
+O delinquente cobre o rosto com as duas m=os e depois cai de joelhos. 
+
+[MSG$0066D6,31]
+O sangue esguicha de seus dedos. 
+
+[MSG$006734,28]
+Imari "Eu bem que avisei." 
+
+[MSG$0067BB,56]
+Imari balan~a a m=o direita com uma express=o fria no rosto.
+
+[MSG$0067F8,57]
+No fim, foi o cara que acabou beijando o ch=o... 
+
+[MSG$00683E,73]
+Imari "Esqueci de falar que sou faixa preta em shorinji kempo. Foi mal!" 
+
+[MSG$0068F7,21]
+Inoue "Sua vadia..." 
+
+[MSG$006926,85]
+Ao ver seu companheiro derrubado com um `nico soco, Inoue come~a a tremer de raiva. 
+
+[MSG$006988,63]
+Inoue "Shorinji kempo o cacete, voc] ainda $ s& uma garota." 
+
+[MSG$0069E1,78]
+Inoue "A gente aprendeu a lutar na rua. Vamos te mostrar a diferen~a!" 
+
+[MSG$006A49,63]
+Inoue faz um sinal com os olhos e o outro cara avan~a lentamente. 
+
+[MSG$006A8D,88]
+Apesar da pose de mach=o, Inoue t# claramente abalado com o que a Imari acabou de fazer.
+
+[MSG$006B56,27]
+Delinquente 2 "Vai pro inferno, vadia!" 
+
+[MSG$006BDC,73]
+Ele corre amea~adoramente e desfere uma voadora em Imari. 
+
+[MSG$006C2A,78]
+D# pra ouvir o som da bota cortando o ar em dire~=o ao corpo dela. 
+
+[MSG$006C85,46]
+Mas no `ltimo segundo, Imari desvia. 
+
+[MSG$006CC0,56]
+O delinquente erra o alvo e perde o equil%brio. 
+
+[MSG$006D05,102]
+Sem hesitar, Imari d# um chute na lateral dele, que est# desprotegida. 
+
+[MSG$006D78,91]
+Girando metade do corpo sobre o p$ esquerdo, a outra perna cruza o ar em um arco limpo, 
+
+[MSG$006DD8,51]
+cravando aquele p$, aparentemente fr#gil, bem na costela dele. 
+
+[MSG$006EB0,5]
+POW!! 
+
+[MSG$006EC2,12]
+Delinquente 2 "!!!" 
+
+[MSG$006EFF,120]
+O delinquente nem teve tempo de gritar e sai voando de lado. Quando percebo, ele j# t# rolando no ch=o. 
+
+[MSG$006FB6,58]
+Imari "Que paia. Cad] o mach=o?" 
+
+[MSG$00700A,42]
+Imari fica ali limpando as m=os. 
+
+[MSG$0070C4,11]
+Inoue "..." 
+
+[MSG$0070E9,60]
+Inoue est# olhando incr$dulo para os dois caras no ch=o. 
+
+[MSG$007132,24]
+Inoue "Merda..." 
+
+[MSG$007164,31]
+Imari "Agora s& falta voc]..." 
+
+[MSG$00719D,54]
+Imari "E a%? Quer me contratar?" 
+
+[MSG$0071ED,42]
+Imari est# t=o confiante que at$ debocha de Inoue. 
+
+[MSG$00721C,43]
+Pelo visto o jogo virou. 
+
+[MSG$007254,50]
+Inoue "Ah, t#! N=o vou recuar agora!" 
+
+[MSG$0072A0,59]
+Inoue "Ei, quanto tempo vai ficar a%? Me ajuda!" 
+
+[MSG$00734A,54]
+O primeiro delinquente se levanta com as palavras de Inoue. 
+
+[MSG$007385,68]
+Eles sinalizam um para o outro com os olhos e se voltam para Imari de uma vez s&. 
+
+[MSG$0073D6,23]
+Inoue "Pega essa agora!"
+
+[MSG$007458,64]
+Mesmo sendo dois contra um, Imari permanece calma enquanto faz seu movimento. 
+
+[MSG$0074A5,93]
+Ela se prepara para o ataque do primeiro cara e desvia o punho dele. Ent=o bloqueia o
+
+[MSG$007507,51]
+|chute do outro - por tr#s dela - com o joelho. 
+
+[MSG$007547,62]
+O som do contato f%sico reverbera pelo terra~o. 
+
+[MSG$007592,60]
+Imari "Que covardia, hein... dois caras contra uma garota." 
+
+[MSG$0075E8,65]
+Tendo evitado seus ataques, Imari recua, ainda em posi~=o. 
+
+[MSG$007636,76]
+Inoue "Covardia o cacete. O importante $ vencer." 
+
+[MSG$00769C,31]
+Com isso, eles atacam novamente. 
+
+[MSG$0076C8,11]
+Imari "Ah?" 
+
+[MSG$0076ED,52]
+Isso $ tudo que Imari diz enquanto se prepara rapidamente. 
+
+[MSG$00772E,60]
+Dois caras est=o atacando ela pela frente e por tr#s. 
+
+[MSG$00776F,100]
+Imari se prepara para enfrentar o golpe frontal enquanto fica de olho no agressor atr#s dela. 
+
+[MSG$0077E0,40]
+O cara atr#s dela se movimenta primeiro. 
+
+[MSG$007815,99]
+Fechando a dist@ncia, ele finge um ataque mas desfere um soco em dire~=o
+
+[MSG$00787D,14]
+|ao rosto de Imari. 
+
+[MSG$007898,99]
+Sem pestanejar, ela desvia com um bra~o e, ent=o, quando o cara se lan~a para atacar, 
+
+[MSG$007900,65]
+ela desfere um golpe no pesco~o dele com todo o seu peso. 
+
+[MSG$0079E7,51]
+Nocaute. Engasgando, o delinquente cai. 
+
+[MSG$007A74,55]
+Mas Imari n=o tem tempo para respirar, j# que Inoue parte para cima.
+
+[MSG$007AB8,40]
+Ele tenta pegar ela de surpresa com um chute pelo ponto cego.
+
+[MSG$007AED,108]
+Ela percebe a aproxima~=o e se vira r#pido, mas nessa hora ele j# est# no alcance do golpe.
+
+[MSG$007B66,89]
+Mesmo desequilibrada, ela consegue amortecer o chute. S& que o golpe do Inoue veio t=o certeiro que 
+
+[MSG$007BC4,32]
+ela n=o consegue desviar totalmente. 
+
+[MSG$007BF1,12]
+Imari "Ugh!" 
+
+[MSG$007C17,68]
+O rosto de Imari se contorce de dor enquanto absorve o impacto. 
+
+[MSG$007C68,63]
+Ela olha para Inoue e, estranhamente, assume a ofensiva. 
+
+[MSG$007CB4,29]
+Ela corre debaixo dos bra~os dele. 
+
+[MSG$007CD6,28]
+A dist@ncia entre os dois diminui. 
+
+[MSG$007CFF,12]
+Imari "Hah!" 
+
+[MSG$007DBD,89]
+Abaixando o centro de gravidade, ela dobra os joelhos e se lan~a contra Inoue.
+
+[MSG$007E1B,20]
+Um baque surdo. 
+
+[MSG$007E3C,77]
+Inoue leva uma cotovelada no peito e ofega enquanto inclina o corpo para frente. 
+
+[MSG$007F2F,69]
+Imari aproveita a brecha e emenda um golpe no rosto dele. 
+
+[MSG$007F81,96]
+A cotovelada e o soco de backhand s=o desferidos em sequ]ncia e com for~a avassaladora. 
+
+[MSG$008012,45]
+Sem dizer uma palavra, Inoue cai no ch=o. 
+
+[MSG$0080CF,46]
+Imari "Ah, cara, voc] n=o deu nem pro cheiro." 
+
+[MSG$008117,85]
+Imari zomba de Inoue e coloca as m=os na cintura. Ela suspira de maneira resignada. 
+
+[MSG$008171,67]
+Ela mal est# sem f\lego, apesar de ter enfrentado todos aqueles caras. 
+
+[MSG$0081C1,55]
+Assisto tudo isso de boca aberta. 
+
+[MSG$008205,95]
+Nunca sonhei que ela tivesse movimentos assim. Eu n=o a via lutar h# algum tempo, agora ela
+
+[MSG$008269,42]
+|est# mais letal do que nunca. 
+
+[MSG$0082A0,116]
+Imari se parece com uma garota qualquer, mas as garotas que passam por um treinamento desses devem ser temidas... 
+
+[MSG$008321,47]
+Inoue "Sua vadia... juro que vou te matar!" 
+
+[MSG$00836A,60]
+Inoue se levanta aos poucos com uma express=o de dor. 
+
+[MSG$0083AB,84]
+Ele tira um canivete do bolso e sacode a l@mina com um estalo. 
+
+[MSG$00843E,91]
+Imari "Quer dizer que n=o consegue enfrentar uma garota a menos que tenha uma arma dessas?" 
+
+[MSG$0084B3,22]
+Imari parece enojada. 
+
+[MSG$0084D6,25]
+Inoue "Cale a boca!" 
+
+[MSG$008509,39]
+Aparentemente ele n=o consegue inventar uma desculpa. 
+
+[MSG$00853D,72]
+Inoue "Vou usar isso na sua cara pra nunca mais ter que olhar pra ela!" 
+
+[MSG$00859F,64]
+Com um sorriso maldoso, ele avan~a para cima da Imari, balan~ando o canivete. 
+
+[MSG$0085EC,80]
+H# suor frio em sua testa. Inoue deve estar no limite agora. 
+
+[MSG$008641,79]
+Com a chegada inesperada de Imari, ele e seu grupo desmoronaram completamente. 
+
+[MSG$00869D,53]
+Mas at$ Imari fica nervosa ao ver o canivete. 
+
+[MSG$0086D7,61]
+Se Inoue tiver uma arma, ela definitivamente fica em desvantagem... 
+
+[MSG$008721,23]
+Homem "Pare a%." 
+
+[MSG$008752,44]
+Do nada, surge uma voz. 
+
+[MSG$0087E1,30]
+Todos n&s olhamos para a porta. 
+
+[MSG$008804,43]
+Um cara grande e musculoso est# vindo em nossa dire~=o. 
+
+[MSG$008834,48]
+Pela apar]ncia, de jeito nenhum ele est# do nosso lado. 
+
+[MSG$008871,16]
+Inoue "Shinjou-san!" 
+
+[MSG$00889B,23]
+Inoue chama ele. 
+
+[MSG$0088BF,79]
+Ent=o esse $ Shinjou... o chef=o da gangue, o cara que manda na escola. 
+
+[MSG$008913,28]
+Mais conhecido como Shinjou, o Repetente.
+
+[MSG$008934,64]
+Um delinquente famoso por raramente pisar na escola. 
+
+[MSG$008981,34]
+Excepcionalmente ele t# aqui hoje... 
+
+[MSG$0089A8,77]
+Ele s& aparece quando tem vontade. N=o o vejo h# um bom tempo. 
+
+[MSG$008A02,115]
+Dizem que seu pai $ vereador, por isso ele escapou da expuls=o, apesar de suas muitas transgress^es. 
+
+[MSG$008A82,51]
+Shinjou "Que pau voc]s tomaram." 
+
+[MSG$008ACF,70]
+Shinjou olha para os caras gemendo de dor no ch=o. 
+
+[MSG$008B22,101]
+Inoue "; que... sabe... pegamos leve porque $ uma garota, foi isso..." 
+
+[MSG$008BA1,73]
+Tenho certeza que o resultado seria igual, mesmo se eles n=o tivessem ''pegado leve''... 
+
+[MSG$008BEF,44]
+Shinjou lentamente volta seu olhar para Imari. 
+
+[MSG$008C28,73]
+Shinjou "Garotinha, acho que voc] abusou demais da sorte." 
+
+[MSG$008C8B,59]
+Shinjou olha friamente para Imari enquanto diz isso. 
+
+[MSG$008CD3,56]
+Imari "Foram eles que come~aram, sabe." 
+
+[MSG$008D25,67]
+Imari olha para Shinjou enquanto lan~a essa r$plica. 
+
+[MSG$008D75,43]
+Shinjou "Haha. Bem, desculpe." 
+
+[MSG$008DBA,26]
+Shinjou ri ironicamente. 
+
+[MSG$008DE1,72]
+Shinjou "Para mostrar o quanto estou arrependido, que tal eu ser o pr&ximo?" 
+
+[MSG$008E43,48]
+Shinjou come~a a estalar os dedos. 
+
+[MSG$008E78,44]
+Quando esse cara faz isso, ele com certeza parece feroz. 
+
+[MSG$008F07,54]
+Imari continua encarando Shinjou sem vacilar. 
+
+[MSG$008F4A,44]
+Imari "Ouvi dizer que voc] $ um lutador talentoso." 
+
+[MSG$008F90,96]
+Imari est# certa. Ouvi os boatos tamb$m. Dizem que Shinjou $ um mestre de karat]. 
+
+[MSG$008FF5,48]
+A julgar pelo f%sico dele, posso acreditar. 
+
+[MSG$009032,44]
+Shinjou "Voc] vai descobrir se aceitar."
+
+[MSG$0090AA,62]
+Dizendo isso, Shinjou assume a posi~=o, curvando-se ligeiramente.
+
+[MSG$0090ED,55]
+Ele mant$m os cotovelos contra o corpo, os bra~os relaxados.
+
+[MSG$009129,55]
+N=o $ uma posi~=o t$cnica. ; a postura das brigas de rua.
+
+[MSG$0091BE,48]
+Em contraste, Imari assume uma posi~=o t$cnica.
+
+[MSG$0091F3,115]
+Ela mant$m o bra~o direito contra o corpo, o esquerdo dobrado em um @ngulo reto, perpendicular ao oponente.
+
+[MSG$009273,60]
+Karat] e shorinji kempo s=o dois estilos totalmente diferentes.
+
+[MSG$0092BC,56]
+No karat], voc] usa a for~a, ataca de cima para baixo.
+
+[MSG$0092F9,71]
+Voc] utiliza seu peso corporal para poder causar o m#ximo de dano.
+
+[MSG$00934D,97]
+Shorinji, por outro lado, envolve usar todo o corpo para impulsionar, de baixo para cima.
+
+[MSG$0093B3,86]
+Voc] vai de baixo para cima buscando atingir os pontos vulner#veis do seu oponente. 
+
+[MSG$00940E,88]
+Dessa forma, mesmo algu$m sem muita for~a pode causar s$rios danos. 
+
+[MSG$009473,83]
+No shorinji, h# mais movimentos em que voc] ataca depois de receber um ataque.
+
+[MSG$0094CB,75]
+; eficaz desde que n=o haja discrep@ncia real de altura e peso. 
+
+[MSG$00951B,77]
+Mas como Shinjou $ muito maior que ela, Imari est# em desvantagem. 
+
+[MSG$009575,57]
+Esta briga n=o vai ser com outro amador... 
+
+[MSG$0095BB,96]
+Shinjou "Kempo $ paia, hein? Acha que pode me derrotar com t#ticas meia-boca como essas?" 
+
+[MSG$009635,32]
+Imari "Voc] est# muito confiante." 
+
+[MSG$00966F,94]
+Shinjou "N=o tenho nada contra voc], mas tenho uma imagem a manter. N=o leve a mal, ok?" 
+
+[MSG$0096E7,80]
+Imari "; melhor n=o baixar a guarda s& porque sou uma garota... $ para sua pr&prio bem!" 
+
+[MSG$009751,47]
+Imari espera que Shinjou d] o primeiro passo. 
+
+[MSG$009785,86]
+Ela est# seguindo as regras... fa~a-o dar o primeiro passo e depois mude para o modo de ataque. 
+
+[MSG$0097E8,93]
+Shinjou suspira e depois solta uma de suas pernas em dire~=o ao corpo fr#gil de Imari. 
+
+[MSG$009852,32]
+O chute corta o ar. 
+
+[MSG$00987F,36]
+Imari pula para o lado para evit#-lo. 
+
+[MSG$0098A8,79]
+Como se estivesse antecipando esse movimento, Shinjou d# um soco na dire~=o dela. 
+
+[MSG$009904,56]
+Imari mal consegue evitar o golpe girando para longe. 
+
+[MSG$009941,81]
+Com a m=o esquerda ela agarra o punho que vai parar no espa~o que acabou de desocupar, 
+
+[MSG$009997,50]
+levanta o bra~o direito e se prepara para jog#-lo. 
+
+[MSG$0099D6,110]
+Para criar uma oportunidade de arremesso, Imari pressiona o peito de Shinjou. Mas nesse momento, 
+
+[MSG$009A49,55]
+ele levanta o joelho direito, na dire~=o de Imari. 
+
+[MSG$009A8D,10]
+Imari "!!" 
+
+[MSG$009AB1,82]
+Vendo isso, Imari solta a m=o de Shinjou e bloqueia o joelho na frente dela. 
+
+[MSG$009B08,48]
+O corpo de Imari $ abalado pelo impacto. 
+
+[MSG$009B45,15]
+Shinjou zomba. 
+
+[MSG$009B59,55]
+Ela est# bem na frente de Shinjou, totalmente vulner#vel. 
+
+[MSG$009B9D,72]
+Nesse instante, Shinjou desfere um chute feroz com o p$ direito. 
+
+[MSG$009BF2,25]
+Ela n=o tem tempo para se esquivar. 
+
+[MSG$009C10,77]
+Imari instantaneamente dobra o bra~o e a perna esquerda, para se proteger. 
+
+[MSG$009C62,31]
+Ela vai tentar bloque#-lo. 
+
+[MSG$009D27,6]
+TUM! 
+
+[MSG$009D3A,59]
+H# um grande baque e o corpo de Imari se curva bruscamente. 
+
+[MSG$009D82,117]
+O chute de Shinjou $ t=o brutal que quebra a defesa de Imari. Ela pode ter pensado que estava protegida, 
+
+[MSG$009DFC,73]
+mas na realidade ela n=o fez nada al$m de amortecer o golpe. 
+
+[MSG$009E52,13]
+Imari "Ah!"
+
+[MSG$009E79,30]
+O rosto de Imari se contorce de dor. 
+
+[MSG$009E9C,73]
+Se ela n=o estivesse com a guarda levantada, teria facilmente quebrado um ou dois ossos. 
+
+[MSG$009EF2,60]
+Imari est# cambaleando, mas mant$m sua postura. 
+
+[MSG$009F33,62]
+Seus olhos est=o desfocados. Ela tem meu respeito por n=o desmaiar. 
+
+[MSG$009F7E,26]
+Shinjou "Terminamos aqui." 
+
+[MSG$009FB2,100]
+Com essas palavras frias, Shinjou arremesa o punho para acert#-la na parte superior do corpo, agora desprotegida. 
+
+[MSG$00A0B8,6]
+PLAFT! 
+
+[MSG$00A0CB,51]
+Ele desfere um golpe impiedoso no rosto atordoado de Imari. 
+
+[MSG$00A103,62]
+N=o acredito que ele fez isso com uma garota. Que bastardo... 
+
+[MSG$00A14E,14]
+Imari "Ugh..." 
+
+[MSG$00A1FC,24]
+Imari cai no ch=o. 
+
+[MSG$00A221,102]
+Ela dobra os joelhos e desaba como uma marionete cujos fios foram cortados. 
+
+[MSG$00A28C,41]
+Sangue escorre de seu nariz e boca. 
+
+[MSG$00A2C2,15]
+Minase "Imari!" 
+
+[MSG$00A2EB,48]
+Grito enquanto ela cai no ch=o. 
+
+[MSG$00A328,100]
+Mas n=o tenho como salv#-la. Se ela n=o conseguiu derrotar esse cara, imagina eu. 
+
+[MSG$00A391,44]
+Se tentar enfrent#-lo, posso morrer. 
+
+[MSG$00A3CA,61]
+Shinjou "Achei que ir%amos nos divertir um pouco, mas n=o foi nada."
+
+[MSG$00A421,38]
+Inoue "Mandou bem, Shinjou-san!"
+
+[MSG$00A461,71]
+Shinjou "Essa $ a garota que bateu em voc]s? Que vergonha." 
+
+[MSG$00A4C2,51]
+Inoue "Foi mal por te envolver nisso." 
+
+[MSG$00A50F,35]
+Inoue "O que fazemos com ela?" 
+
+[MSG$00A54C,40]
+Shinjou "Fa~am o que quiserem." 
+
+[MSG$00A58E,38]
+Dizendo isso, Shinjou sai do terra~o. 
+
+[MSG$00A5C1,59]
+Inoue "Ok... voc] nos fez de gato e sapato, n=o foi?" 
+
+[MSG$00A616,93]
+Inoue "Aposto que se divertiu. Ent=o, em troca, chegou a hora de retribuir!" 
+
+[MSG$00A68D,14]
+Imari "Ugh..." 
+
+[MSG$00A6B5,50]
+Imari deve estar inconsciente, tudo o que ela faz $ gemer. 
+
+[MSG$00A6F4,47]
+Inoue "H=h! O que aconteceu com a fanfarrona?" 
+
+[MSG$00A73D,90]
+Inoue "Precisamos que esteja com for~a total agora. ; cedo demais pra voc] ser eliminada." 
+
+[MSG$00A7B1,28]
+Inoue "Ok, levem ela." 
+
+[MSG$00A7E7,14]
+Imari "Ugh..." 
+
+[MSG$00A80F,34]
+Os caras atr#s dele pegam Imari. 
+
+[MSG$00A8DD,17]
+Minase "Pare com isso." 
+
+[MSG$00A908,34]
+Eu os chamo, ainda com dor. 
+
+[MSG$00A937,49]
+Inoue "Ei, $ mesmo, esqueci de voc], n$?"
+
+[MSG$00A982,66]
+Inoue vem at$ mim como se tivesse lembrado da minha exist]ncia. 
+
+[MSG$00A9D1,102]
+Inoue "Nossa treta era com voc], certo? N=o importa, vamos deixar essa passar." 
+
+[MSG$00AA51,45]
+Minase "Ela n=o tem nada a ver com isso!" 
+
+[MSG$00AA98,80]
+Inoue "Acha que vamos deixar assim, depois dela nos humilhar daquele jeito?" 
+
+[MSG$00AB02,48]
+Inoue "Vamos fazer ela pagar com o corpo." 
+
+[MSG$00AB4C,93]
+Inoue "D&i muito onde ela chutou. Ela vai ter que me massagear bem ou n=o vou conseguir
+
+[MSG$00ABAE,17]
+|nem andar direito." 
+
+[MSG$00ABD9,119]
+Inoue "Vamos deixar voc] ir dessa vez. Agrade~a a ela depois. Agora n&s estamos cagando
+
+[MSG$00AC55,33]
+|e andando pra voc]..." 
+
+[MSG$00AC90,80]
+Inoue "De qualquer forma, o acordo $ esse. Vamos pegar sua namorada emprestada por um tempo." 
+
+[MSG$00ACFA,78]
+Inoue "N=o se preocupe, vamos ensinar a ela tudo sobre rela~^es sexuais!" 
+
+[MSG$00AD62,62]
+Com isso, Inoue e os outros v=o embora, levando Imari junto. 
+
+[MSG$00ADA5,47]
+Ela ainda est# atordoada enquanto os delinquentes a arrastam. 
+
+[MSG$00AE05,12]
+(Porta abrindo) 
+
+[MSG$00AE1E,15]
+Minase "Ugh..." 
+
+[MSG$00AE47,51]
+Estou sozinho no terra~o, em meu pr&prio torpor. 
+
+[MSG$00AE87,35]
+Ainda estou dolorido em v#rios lugares. 
+
+[MSG$00AEAF,62]
+Mas isso n=o significa que posso simplesmente ficar aqui, esperando at$ melhorar.
+
+[MSG$00AEFA,104]
+N=o adianta contar aos professores... o corpo docente n=o vai fazer nada contra Shinjou. 
+
+[MSG$00AF67,37]
+Tenho que resolver isso sozinho... 
+
+[MSG$00AF99,59]
+E se n=o me apressar, o pior vai acontecer com Imari... 
+
+[MSG$00AFE1,66]
+Tento suportar a dor enquanto me levanto e cambaleio at$ a porta. 
+
+[MSG$00B030,20]
+24 de abril - Sala de aula 
+
+[MSG$00B11C,49]
+Minase "Saeki! Devolva o livro agora mesmo!" 
+
+[MSG$00B167,63]
+Saeki "Espera, t#? Vou devolver quando as aulas terminarem." 
+
+[MSG$00B1C0,68]
+Minase "Pare com isso. Apenas entregue agora. Era esse o combinado!" 
+
+[MSG$00B21E,11]
+Saeki "..." 
+
+[MSG$00B243,24]
+Saeki "T# bom." 
+
+[MSG$00B275,92]
+Saeki come~a a vasculhar sua bolsa e depois tira o livro, embrulhado em um pano branco. 
+
+[MSG$00B2DE,15]
+Saeki "Aqui..."
+
+[MSG$00B307,36]
+Minase "Enquanto eu tiver isso..." 
+
+[MSG$00B345,53]
+Arranco o livro de Saeki e saio correndo da sala. 
+
+[MSG$00B387,25]
+24 de abril - Imari capturada 
+
+[MSG$00B41F,42]
+Minase "Para onde diabos eles a levaram?" 
+
+[MSG$00B463,67]
+Corro pelo corredor, tentando descobrir onde poderiam ter ido. 
+
+[MSG$00B4B3,42]
+Onde ser# que eles foram? 
+
+[MSG$00B4E2,85]
+Muitas vezes os vi atr#s da escola, mas l# n=o d# para esconderem uma garota. 
+
+[MSG$00B544,57]
+Mesmo assim, $ improv#vel que tenham sa%do do terreno da escola. 
+
+[MSG$00B582,71]
+Eles n=o podem ter ido muito longe com Imari, seria um fardo enorme. 
+
+[MSG$00B5D6,47]
+Minha melhor aposta $ provavelmente o dep&sito do gin#sio... 
+
+[MSG$00B60A,93]
+Uma vez l#, ningu$m saber# o que est=o fazendo. ; ideal para o que eles t]m em mente. 
+
+[MSG$00B674,83]
+Com o livro embrulhado em meus bra~os, corro em dire~=o ao dep&sito. 
+
+[MSG$00B6D4,12]
+(Porta abrindo) 
+
+[MSG$00B71F,15]
+Takashiro "Ah!" 
+
+[MSG$00B748,13]
+Minase "Huh?" 
+
+[MSG$00B808,5]
+TUM! 
+
+[MSG$00B81A,17]
+Takashiro "Ah!" 
+
+[MSG$00B869,6]
+BAM! 
+
+[MSG$00B87C,82]
+Takashiro surge de repente de uma sala de aula e n=o consigo evitar de colidir com ela. 
+
+[MSG$00B8DB,71]
+N&s dois ca%mos no ch=o. Ela derruba seus livros de arte e o di#rio de presen~as. 
+
+[MSG$00B927,59]
+Ao mesmo tempo, deixo cair o livro embrulhado. 
+
+[MSG$00B96F,19]
+Takashiro "A-Ai..." 
+
+[MSG$00B99C,43]
+Ela se levanta inst#vel, esfregando o traseiro. 
+
+[MSG$00BA06,52]
+Takashiro "Ah, $ voc], Minase-kun. Est# tudo bem?" 
+
+[MSG$00BA54,57]
+Minase "Ai, sensei! Voc] n=o devia aparecer assim t=o de repente..." 
+
+[MSG$00BAA7,38]
+Eu me levanto tamb$m, esfregando meu quadril machucado. 
+
+[MSG$00BAD2,63]
+Meu corpo est# gritando de dor. Primeiro a surra e agora isso... 
+
+[MSG$00BB1E,95]
+Takashiro "N=o, voc] $ que n=o devia estar correndo na escola. N=o te ensinaram isso
+
+[MSG$00BB82,14]
+|no ensino m$dio?" 
+
+[MSG$00BBAA,83]
+Dizendo isso, Takashiro come~a a pegar o giz espalhado pelo ch=o. 
+
+[MSG$00BC02,33]
+Est# tudo em peda~os por causa da queda. 
+
+[MSG$00BC30,61]
+Takashiro "Ah, essa n=o... vou ter que comprar uma caixa nova de giz." 
+
+[MSG$00BC87,52]
+Pego apressadamente o livro que deixei cair. 
+
+[MSG$00BCC8,13]
+Minase "Huh?"
+
+[MSG$00BCEF,34]
+Olho para o livro. 
+
+[MSG$00BD16,44]
+Takashiro tamb$m olha, quando ia me ajudar. 
+
+[MSG$00BD4F,17]
+Takashiro "O qu]?" 
+
+[MSG$00BD7A,57]
+Ela v] a capa, agora exposta, e congela. 
+
+[MSG$00BDC0,53]
+O pano branco saiu, expondo o livro por dentro. 
+
+[MSG$00BE02,31]
+Mas n=o $ o Livro de Magia. 
+
+[MSG$00BE26,43]
+De jeito nenhum $ o meu Livro de Magia... 
+
+[MSG$00BE5E,25]
+Garota "Eita! O que $ isso?" 
+
+[MSG$00BE92,75]
+Algumas garotas passam, reparam no que est# no ch=o e fazem coment#rios frios. 
+
+[MSG$00BEEA,92]
+Em vez do Livro de Magia, o pano branco enrolava v#rias revistas porn\s sem censura. 
+
+[MSG$00BF4B,52]
+Tem de tudo, de SM at$ bestialismo... 
+
+[MSG$00BF8C,84]
+Algumas delas se abriram, e d# pra ver umas mulheres com peitos enormes no meio de um lix=o. 
+
+[MSG$00BFE5,40]
+Eita, n=o tem nem os mosaicos. 
+
+[MSG$00C01A,10]
+Caramba! 
+
+[MSG$00C031,50]
+Fico olhando atordoado para as revistas.  
+
+[MSG$00C070,49]
+Takashiro "Ei, Minase-kun... voc] $ um pervertido, $?" 
+
+[MSG$00C0BB,106]
+Takashiro "N=o posso pedir para n=o ler essas coisas, mas n=o aprovo que traga para a escola." 
+
+[MSG$00C13F,41]
+Takashiro fala com um sorriso ir\nico. 
+
+[MSG$00C175,7]
+Nossa... 
+
+[MSG$00C189,65]
+Estou t=o confuso que nem consigo entender o que est# acontecendo. 
+
+[MSG$00C1D7,72]
+Ok, emprestei o Livro de Magia para Saeki. Fiz com que ela devolvesse. 
+
+[MSG$00C224,25]
+E foi isso que recebi... 
+
+[MSG$00C24A,54]
+A culpa n=o $ minha. Isso deve ser da Saeki. 
+
+[MSG$00C28D,46]
+Tamb$m n=o tem como Saeki ter se enganado. 
+
+[MSG$00C2C0,78]
+Mesmo que colocasse o livro errado, ela n=o usaria essas revistas sem querer. 
+
+[MSG$00C31B,18]
+Saeki armou para mim... 
+
+[MSG$00C332,69]
+Desgra~ada... ela nunca teve inten~=o de devolver o livro. 
+
+[MSG$00C384,22]
+Minase "Aquela dem\nia..." 
+
+[MSG$00C3B4,55]
+Mas n=o tenho tempo para ficar aqui reclamando. Preciso me apressar! 
+
+[MSG$00C3F0,58]
+Tenho que fazer algo em rela~=o a Imari antes que seja tarde demais. 
+
+[MSG$00C437,108]
+Se Saeki aprontou isso, ela sabe que eu logo descobriria. Ela provavelmente j# saiu da sala de aula h# muito tempo... 
+
+[MSG$00C4B0,59]
+Afinal, $ Saeki. Ela nunca vai desistir desse livro.
+
+[MSG$00C4F0,71]
+N=o posso mais depender do livro. Tenho que salvar Imari sozinho... 
+
+[MSG$00C544,17]
+Takashiro "Aqui." 
+
+[MSG$00C570,85]
+Takashiro recolhe as revistas porn\s, embrulha elas no pano e me entrega. 
+
+[MSG$00C5D2,22]
+Talvez ela possa me ajudar. 
+
+[MSG$00C5ED,50]
+Ela disse que me ajudaria se algo acontecesse... 
+
+[MSG$00C62C,45]
+Estou me agarrando a qualquer coisa, mas n=o tenho escolha. 
+
+[MSG$00C666,41]
+Minase "Sensei, preciso de sua ajuda!" 
+
+[MSG$00C6A9,35]
+Takashiro "O qu]? O que aconteceu?" 
+
+[MSG$00C6E6,50]
+Minase "Inoue e seus capangas pegaram Imari..." 
+
+[MSG$00C732,54]
+Takashiro "Pegaram Imari? Inoue, aquele encrenqueiro?" 
+
+[MSG$00C782,111]
+Minase "Isso, Imari est# em perigo. Aqueles idiotas pegaram ela e v=o fazer algo terr%vel..." 
+
+[MSG$00C80B,56]
+Dou a vers=o resumida, torcendo para que ela me ajude. 
+
+[MSG$00C850,58]
+Takashiro "Tudo bem, acho que entendi."
+
+[MSG$00C8A4,63]
+Takashiro "Deixa comigo. Vou dar uma li~=o naqueles delinquentes." 
+
+[MSG$00C8FD,45]
+Ela bate no peito para dar ]nfase. 
+
+[MSG$00C92F,104]
+Outros professores certamente fariam vista grossa, mas ela n=o $ como os outros professores. 
+
+[MSG$00C9A4,115]
+Ainda assim, Inoue e sua gangue n=o s=o os tipos que podem ser parados por uma mera professora. N=o sei se Takashiro 
+
+[MSG$00CA1C,71]
+est# ciente disso, mas n=o tenho escolha a n=o ser confiar nela. 
+
+[MSG$00CA70,31]
+Takashiro "Mas onde eles est=o?" 
+
+[MSG$00CAA9,49]
+Minase "Provavelmente no dep&sito do gin#sio." 
+
+[MSG$00CAF4,56]
+Takashiro "Ent=o $ melhor nos apressarmos antes que seja tarde demais." 
+
+[MSG$00CB46,45]
+Dizendo isso, ela rapidamente se dirige para o gin#sio. 
+
+[MSG$00CB78,15]
+Eu sigo ela... 
+
+[MSG$00CC10,32]
+Takashiro e eu entramos no gin#sio... 
+
+[MSG$00CC3D,61]
+As aulas da tarde j# come~aram, mas o gin#sio est# vazio. 
+
+[MSG$00CC7F,94]
+Parece que n=o vai ter aula de educa~=o f%sica hoje. Perfeito para Inoue e sua gangue. 
+
+[MSG$00CCEA,23]
+Takashiro "; isso?" 
+
+[MSG$00CD1B,46]
+Olhamos para a porta de a~o do dep&sito. 
+
+[MSG$00CD4E,38]
+Podemos ouvir vozes vindas de dentro. 
+
+[MSG$00CD79,47]
+Sem d`vida, Inoue e sua gangue est=o l#... 
+
+[MSG$00CDB5,36]
+Takashiro "Pronto? Vamos." 
+
+[MSG$00CDF3,15]
+Aceno silenciosamente. 
+
+[MSG$00CEAE,12]
+(Porta abrindo)
+
+[MSG$00CEC7,53]
+Inoue "Ei, o que diabos voc] pensa que est# fazendo?" 
+
+[MSG$00CF16,65]
+Assim que a porta de a~o se abre, podemos ouvir o grito alto de Inoue. 
+
+[MSG$00CF64,62]
+Assim como pensei, Inoue e os outros est=o vagando por ali. 
+
+[MSG$00CFA7,34]
+E eles est=o em volta de Imari. 
+
+[MSG$00D052,15]
+Minase "Imari!" 
+
+[MSG$00D07B,14]
+Imari "Ugh..." 
+
+[MSG$00D0A3,28]
+Imari me d# um olhar vazio. 
+
+[MSG$00D0CC,42]
+Aparentemente, nada foi feito com ela ainda. 
+
+[MSG$00D103,76]
+Mas eles a despiram parcialmente e voc] pode ver a pele branca de seu peito. 
+
+[MSG$00D154,63]
+Suas pernas est=o bem abertas, com sua calcinha [ vista. 
+
+[MSG$00D1A0,28]
+Mas algo n=o est# certo... 
+
+[MSG$00D1C1,86]
+Os olhos de Imari est=o desfocados. E ela parece n=o conseguir ouvir o que estamos dizendo. 
+
+[MSG$00D224,87]
+Inoue "Voc] de novo? Achei que tivesse aprendido a li~=o. Primeiro essa garota tem que te salvar, 
+
+[MSG$00D280,64]
+e agora $ a professora? E voc] se considera um homem?" 
+
+[MSG$00D2DA,87]
+Vou deixar ele dizer o que quiser. O importante agora $ salvar Imari. 
+
+[MSG$00D33E,34]
+Minase "O que voc] fez com Imari?" 
+
+[MSG$00D37A,56]
+Inoue "Acabamos de fumar um, estamos curtindo a brisa." 
+
+[MSG$00D3CD,66]
+Inoue nos mostra um tro~o parecido com um cigarro em sua m=o. 
+
+[MSG$00D41C,28]
+Inoue "Quer dar um pega tamb$m?" 
+
+[MSG$00D452,70]
+Ele o leva aos l#bios, inspira profundamente e depois expira em nossa dire~=o. 
+
+[MSG$00D49D,62]
+A fuma~a nos envolve e posso sentir seu aroma profundo e doce. 
+
+[MSG$00D4E8,91]
+Isso n=o $ cigarro normal... Conhe~o algumas pessoas na escola que fumam  
+
+[MSG$00D548,7]
+|esses tamb$m... 
+
+[MSG$00D55C,96]
+Takashiro "N=o acredito que est=o fumando isso aqui! Voc] ser# expulso. Esteja preparado..." 
+
+[MSG$00D5D6,51]
+Inoue "Gostaria de ver voc] tentar me expulsar." 
+
+[MSG$00D623,79]
+Com isso, Inoue d# outra tragada e exala a fuma~a pelas narinas. 
+
+[MSG$00D67F,105]
+Inoue sabe. Mesmo que uma professora o denunciasse, seria f#cil para ele encobrir isso. 
+
+[MSG$00D6ED,48]
+E certamente Takashiro sabe disso tamb$m... 
+
+[MSG$00D72A,45]
+Takashiro "Deixe a Sra. Imari sair daqui agora!" 
+
+[MSG$00D771,65]
+Inoue "Bem, se voc] ficar no lugar dela, ficarei feliz em deixar ela ir." 
+
+[MSG$00D7CC,50]
+Inoue "Gosto de fazer com mulheres mais velhas de vez em quando." 
+
+[MSG$00D818,25]
+Takashiro "Como ousa!" 
+
+[MSG$00D84B,73]
+Inoue "Relaxa, Prof. De qualquer forma, essa vadia parece gostar da coisa." 
+
+[MSG$00D8AE,27]
+Ele olha maliciosamente quando diz isso. 
+
+[MSG$00D8D6,20]
+Takashiro "Pare com isso!" 
+
+[MSG$00D904,72]
+Ignorando-a, Inoue aproxima cada vez mais o baseado da boca de Imari. 
+
+[MSG$00D9E2,57]
+Imari tenta resistir, mas ele for~a em sua boca. 
+
+[MSG$00DA20,29]
+Em seguida, ele aperta o nariz de Imari.
+
+[MSG$00DA4A,86]
+Incapaz de respirar ela esperneia e, come~a a inalar a fuma~a. 
+
+[MSG$00DAAD,14]
+Imari "Ugh..." 
+
+[MSG$00DAD5,17]
+Imari "(engasgando)" 
+
+[MSG$00DB00,51]
+Imari come~a a engasgar enquanto seus pulm^es se enchem de fuma~a. 
+
+[MSG$00DB40,20]
+Inoue "(rindo)" 
+
+[MSG$00DB6E,21]
+Minase "Desgra~ado!" 
+
+[MSG$00DB9D,22]
+Estou tremendo de raiva. 
+
+[MSG$00DBC0,44]
+Inoue "O que foi, Minase? T# bravinho? Ha!" 
+
+[MSG$00DC06,81]
+Inoue "Se tiver algum problema com isso, $ s& chegar. Te atendo a qualquer hora." 
+
+[MSG$00DC71,79]
+Zombando, Inoue tenta me atrair. Mas n=o posso fazer nada al$m de cerrar os punhos. 
+
+[MSG$00DCCD,48]
+Takashiro "N=o se preocupe, eu cuidarei disso." 
+
+[MSG$00DD17,47]
+Takashiro fala enquanto tremo de raiva. 
+
+[MSG$00DD53,27]
+Imari "(respirando pesadamente)" 
+
+[MSG$00DD88,72]
+Os olhos de Imari parecem ainda mais sonolentos do que antes. Ela est# respirando pesadamente. 
+
+[MSG$00DDDD,34]
+Inoue "Ela est# ficando agitada agora?" 
+
+[MSG$00DE92,84]
+Com isso, Inoue enfia a m=o entre as pernas abertas de Imari. Seus dedos 
+
+[MSG$00DEEB,44]
+|percorrem sua fenda, esfregando-a de cima a baixo. 
+
+[MSG$00DF24,86]
+Os dois delinquentes atr#s dele observam, olhando maliciosamente enquanto come~am a massagear os seios de Imari. 
+
+[MSG$00DF87,11]
+Minase "!!" 
+
+[MSG$00DF9F,80]
+Takashiro "Parem com isso agora! O que pensam que est=o fazendo na nossa frente?" 
+
+[MSG$00E009,40]
+Inoue "Ha! Voc] tem algum problema com isso?" 
+
+[MSG$00E04B,88]
+Inoue "Quer que eu fa~a com voc], Prof? De qualquer forma, essa vadia parece gostar." 
+
+[MSG$00E0BD,27]
+Imari "Mmm...mmm...ahhh..." 
+
+[MSG$00E0F2,85]
+Imari est# se contorcendo com uma express=o confusa enquanto os dedos de Inoue continuam a 
+
+[MSG$00E14C,15]
+|estimul#-la. 
+
+[MSG$00E168,95]
+Pode ser porque ela foi drogada, mas Imari est# ficando excitada mesmo no estado em que se encontra. 
+
+[MSG$00E1CC,47]
+Definitivamente h# uma mulher madura dentro dela... 
+
+[MSG$00E208,37]
+Inoue "Olha s&. Ela t# gozando!" 
+
+[MSG$00E247,78]
+Inoue se empolga e enfia os dedos dentro. Ele come~a a esfreg#-la 
+
+[MSG$00E29A,83]
+|na #rea sens%vel da vulva, que $ percept%vel mesmo atrav$s da calcinha. 
+
+[MSG$00E2FA,25]
+Imari "Mmm...mmm..ahhhh!" 
+
+[MSG$00E32D,15]
+|Sua calcinha... 
+
+[MSG$00E341,82]
+Por fim, Inoue tira a m=o do meio das pernas de Imari. H# uma pequena mancha 
+
+[MSG$00E398,15]
+|em sua calcinha... 
+
+[MSG$00E3B4,47]
+Inoue come~a a cheirar o suco nos dedos. 
+
+[MSG$00E3F0,35]
+Inoue "Que fedida... Hehehe!"
+
+[MSG$00E42D,43]
+Takashiro "; melhor parar agora mesmo!" 
+
+[MSG$00E472,51]
+Takashiro "Se continuar com isso, vai se arrepender!" 
+
+[MSG$00E4BF,60]
+Inoue "Ah, $? O que vai fazer sobre isso, hein, Prof?" 
+
+[MSG$00E515,96]
+Inoue "Voc] n=o passa de uma professora de arte... Baixa a bola ou vai se arrepender!" 
+
+[MSG$00E62E,48]
+Takashiro "Voc] n=o vai me ouvir, n$?" 
+
+[MSG$00E678,69]
+Takashiro "Bem, nesse caso terei que recorrer a outras medidas." 
+
+[MSG$00E6D7,49]
+Com isso, Takashiro coloca a m=o no bolso. 
+
+[MSG$00E715,11]
+Minase "!?" 
+
+[MSG$00E72D,70]
+Olho para o bolso de Takashiro. Posso ver sua m=o branca segurando 
+
+[MSG$00E778,24]
+|algum tipo de caixa preta. 
+
+[MSG$00E795,23]
+O que ela vai fazer? 
+
+[MSG$00E7B9,49]
+Takashiro avan~a, primeiro um passo, depois outro. 
+
+[MSG$00E7F7,54]
+Inoue "Ei, vamos ser gentis com a Prof, pessoal." 
+
+[MSG$00E8AB,61]
+Dizendo isso, um dos delinquentes avan~a com um olhar malicioso. 
+
+[MSG$00E8ED,103]
+Ele coloca a m=o no quadril e retira um bast=o de uma bolsa presa ao cinto. 
+
+[MSG$00E961,5]
+Vopt! 
+
+[MSG$00E973,99]
+Ele o joga para frente e o bast=o estala com um som vibrante. Aberto, $ tr]s vezes mais longo. 
+
+[MSG$00E9E3,71]
+Inoue "Vai fazer o que agora, Prof? Bora pagar pra ver?" 
+
+[MSG$00EA44,16]
+Inoue "Pega ela!" 
+
+[MSG$00EA6E,45]
+Ao sinal de Inoue, o delinquente levanta o bast=o. 
+
+[MSG$00EAA8,5]
+Vroosh! 
+
+[MSG$00EABA,62]
+A vara de metal $ derrubada com for~a, cortando o ar. 
+
+[MSG$00EB93,6]
+Eita! 
+
+[MSG$00EC4F,12]
+Delinquente "Ah!" 
+
+[MSG$00EC99,48]
+Mas $ o delinquente quem acaba gritando de dor. 
+
+[MSG$00ECD6,13]
+Minase "Huh?" 
+
+[MSG$00ECFD,68]
+O delinquente salta para longe de Takashiro como se tivesse sido repelido de alguma forma. 
+
+[MSG$00ED4E,6]
+TUM! 
+
+[MSG$00ED61,75]
+Seus quatro membros est=o r%gidos e ele rola no ch=o, tendo convuls^es. 
+
+[MSG$00EDB1,35]
+Posso ver o branco dos olhos dele... 
+
+[MSG$00EE5D,40]
+Takashiro "Ah, est# doendo muito?" 
+
+[MSG$00EE9F,67]
+Takashiro se dirige ao delinquente no ch=o com um sorriso maroto. 
+
+[MSG$00EEEF,48]
+H# um objeto preto e indefinido em sua m=o. 
+
+[MSG$00EF24,89]
+; uma arma de choque... e a julgar pelo estado do delinquente, deve ser de alta voltagem. 
+
+[MSG$00F003,26]
+Tac, tac, tac!
+
+[MSG$00F02A,110]
+Takashiro liga o interruptor. Um zumbido e uma luz azulada emana da ponta da arma de choque. 
+
+[MSG$00F0A5,43]
+Takashiro "Quem quer ser o pr&ximo a ser punido?" 
+
+[MSG$00F0EA,83]
+Inoue "Que diabos! Por que uma professora carrega uma maldita arma de choque?" 
+
+[MSG$00F157,54]
+Takashiro "Uma senhora tem que se proteger, sabe..." 
+
+[MSG$00F1A7,13]
+Inoue "Grrr!" 
+
+[MSG$00F1CE,52]
+Inoue "Ei! Algu$m d# um jeito nessa professora psicopata!" 
+
+[MSG$00F21C,44]
+Mas ningu$m tem coragem de chegar perto dela... 
+
+[MSG$00F255,26]
+Takashiro "Que covarde..." 
+
+[MSG$00F289,49]
+Takashiro "Voc] n=o quer me enfrentar, Inoue?" 
+
+[MSG$00F2D4,25]
+Inoue "O que disse?" 
+
+[MSG$00F307,79]
+Takashiro "E a%? Se n=o fizer nada, terei que..." 
+
+[MSG$00F370,42]
+Com isso, Takashiro liga o interruptor. 
+
+[MSG$00F3A7,28]
+Tac, tac, tac... 
+
+[MSG$00F3D0,52]
+Inoue treme ao som sinistro da arma de choque. 
+
+[MSG$00F411,41]
+Inoue "Eu... eu tenho um cora~=o fraco, viu..." 
+
+[MSG$00F454,94]
+Inoue encara a luz branco-azulada enquanto d# essa desculpa esfarrapada, com um sorriso sem gra~a. 
+
+[MSG$00F4B7,29]
+D# para ouvir as pernas dele tremendo. 
+
+[MSG$00F580,42]
+Takashiro "Ningu$m vai fazer nada?" 
+
+[MSG$00F5C4,43]
+Takashiro "Ent=o isso significa que vencemos." 
+
+[MSG$00F609,76]
+Takashiro "Vamos, Minase. Leve Imari para a enfermaria, certo?" 
+
+[MSG$00F66F,74]
+Takashiro "Vou ficar aqui e dar uma li~=o nesses bagunceiros." 
+
+[MSG$00F6D3,85]
+Aceno com a cabe~a, arrumo as roupas de Imari e carrego seu corpo inerte para fora do dep&sito. 
+
+[MSG$00F7B9,115]
+Takashiro "Agora, sabem o que vai acontecer, n$? Vou dar-lhes o castigo de suas vidas!" 
+
+[MSG$00F846,54]
+Pude ouvir essas palavras de dentro do dep&sito. 
+
+[MSG$00F89E,6]
+Nossa! 
+
+[MSG$00F8B1,14]
+Delinquente 1 "Ah!" 
+
+[MSG$00F8EE,6]
+Uou! 
+
+[MSG$00F901,14]
+Delinquente 2 "Ah!" 
+
+[MSG$00F929,52]
+Gritos de agonia ecoam pelo gin#sio silencioso... 
+
+[MSG$00F9F1,53]
+Corro para a sala de aula e vou em dire~=o ao meu lugar. 
+
+[MSG$00FA2B,63]
+Abro minha bolsa e tiro o livro embrulhado em um pano branco. 
+
+[MSG$00FA77,36]
+Minase "Enquanto tiver isso..." 
+
+[MSG$00FAB5,48]
+Agarrando o livro, saio da sala de aula novamente. 
+
+[MSG$00FAF2,25]
+24 de abril - Imari capturada 
+
+[MSG$00FB8A,42]
+Minase "Para onde eles a levaram?" 
+
+[MSG$00FBCE,67]
+Disparo pelo corredor, tentando descobrir onde poderiam ter ido. 
+
+[MSG$00FC1E,42]
+Onde ser# que eles se meteram? 
+
+[MSG$00FC4D,85]
+Eles costumar ficar atr#s da escola, mas n=o tem como esconder uma garota l#. 
+
+[MSG$00FCAF,57]
+Mesmo assim, $ improv#vel que tenham ido muito longe. 
+
+[MSG$00FCED,71]
+Eles n=o tem como sair arrastando Imari por a%, seria um fardo enorme. 
+
+[MSG$00FD41,47]
+Minha melhor aposta $ provavelmente o dep&sito do gin#sio... 
+
+[MSG$00FD75,93]
+Uma vez l# dentro, ningu$m vai saber o que est=o fazendo. ; ideal para o que eles t]m em mente. 
+
+[MSG$00FDDF,83]
+Agarrando o livro embrulhado no pano, corro mais r#pido em dire~=o ao dep&sito. 
+
+[MSG$00FE37,14]
+(Porta abrindo)
+
+[MSG$00FE84,15]
+Takashiro "Ah!" 
+
+[MSG$00FEAD,13]
+Minase "Huh?" 
+
+[MSG$00FF6D,6]
+TUM!! 
+
+[MSG$00FF80,17]
+Takashiro "Ah!" 
+
+[MSG$00FFCF,6]
+BAM! 
+
+[MSG$00FFE2,82]
+Takashiro surge de repente de uma sala de aula e n=o consigo desviar ela. 
+
+[MSG$010041,71]
+N&s dois ca%mos no ch=o. Ela derruba seus livros de arte e o di#rio de presen~as. 
+
+[MSG$01008D,59]
+Ao mesmo tempo, deixo cair o livro embrulhado. 
+
+[MSG$0100D5,19]
+Takashiro "Ai..." 
+
+[MSG$010102,43]
+Ela se levanta inst#vel, esfregando o traseiro. 
+
+[MSG$01016C,52]
+Takashiro "Ah, $ voc], Minase. Est# tudo bem?" 
+
+[MSG$0101BA,57]
+Minase "Ai! Voc] n=o devia sair assim t=o de repente..." 
+
+[MSG$01020D,38]
+Eu me levanto tamb$m, esfregando meu quadril machucado. 
+
+[MSG$010238,63]
+Meu corpo est# gritando de dor. Primeiro a surra e agora isso... 
+
+[MSG$010284,90]
+Takashiro "N=o, voc] % que n=o devia estar correndo pela escola. N=o te ensinaram isso no 
+
+[MSG$0102E3,22]
+|ensino m$dio?" 
+
+[MSG$010313,83]
+Dizendo isso, Takashiro come~a a pegar o giz espalhado pelo ch=o. 
+
+[MSG$01036B,33]
+Est# tudo em peda~os por causa da queda. 
+
+[MSG$010399,61]
+Takashiro "Oh, meu Deus... vou ter que comprar uma caixa nova de giz." 
+
+[MSG$0103F0,52]
+Pego apressadamente o livro que deixei cair. 
+
+[MSG$010429,55]
+N=o quero que Takashiro veja o que h# dentro. 
+
+[MSG$01046D,95]
+Pelo canto do olho, observo Takashiro pegando freneticamente os peda~os quebrados de giz, 
+
+[MSG$0104D1,61]
+enquanto pego rapidamente o livro embrulhado a alguns metros de dist@ncia. 
+
+[MSG$01051B,86]
+O pano se abriu com a queda e d# pra ver o livro ali dentro. 
+
+[MSG$010576,58]
+Rapidamente cubro ele de novo e o pego. 
+
+[MSG$0105BD,46]
+Takashiro "Bem... acho que peguei todos." 
+
+[MSG$010605,80]
+Takashiro termina de colocar o giz de volta na caixa e olha para mim. 
+
+[MSG$010662,47]
+Takashiro "Olhe por onde anda na pr&xima vez." 
+
+[MSG$0106AB,43]
+Ela tira a poeira das roupas. 
+
+[MSG$0106E3,51]
+N=o tenho tempo para serm=o. N=o tenho tempo a perder! 
+
+[MSG$010723,41]
+Minase "At$ mais. T\ com pressa..." 
+
+[MSG$010766,70]
+Takashiro "Ei, n=o acabei de dizer para voc] n=o correr pela escola?" 
+
+[MSG$0107C6,41]
+Ignorando Takashiro, saio voando pelo corredor. 
+
+[MSG$010878,16]
+Entro no gin#sio. 
+
+[MSG$010895,61]
+As aulas da tarde j# come~aram, mas o local est# vazio. 
+
+[MSG$0108D7,94]
+Pelo visto, parece que n=o vai ter aula de educa~=o f%sica agora. Isso $ perfeito para Inoue e sua gangue. 
+
+[MSG$010942,66]
+Minase "Aposto um milh=o que Inoue e seus capangas est=o escondidos aqui..." 
+
+[MSG$01099E,70]
+Estou convencido disso quando olho para a porta de a~o do dep&sito. 
+
+[MSG$0109F1,39]
+Ou~o vozes vindo de dentro... 
+
+[MSG$010A1D,22]
+N=o h# d`vida... 
+
+[MSG$010A40,52]
+Desembrulho lentamente o livro em minhas m=os. 
+
+[MSG$010A81,69]
+Minase "N=o importa se voc] $ um deus ou um dem\nio, apenas me ajude..." 
+
+[MSG$010AE0,61]
+Orando silenciosamente, abro o livro e folheio as p#ginas. 
+
+[MSG$010B2A,23]
+N=o tenho muito tempo.
+
+[MSG$010B46,86]
+Tem que ter um feiti~o com efeito instant@neo. Por isso, n=o h# muitas op~^es que eu possa escolher. 
+
+[MSG$010BA9,76]
+E como n=o tenho ferramentas nem tempo, vou ter que apelar para um amuleto... 
+
+[MSG$010BFA,42]
+Sei o qu=o eficazes eles podem ser. 
+
+[MSG$010C29,46]
+S& espero que desta vez funcione tamb$m... 
+
+[MSG$010C64,19]
+Flip, flip, flip... 
+
+[MSG$010C84,82]
+Folheio p#gina ap&s p#gina com desenhos de pentagramas, em busca do feiti~o certo. 
+
+[MSG$010CDB,92]
+; &bvio que vou ter que improvisar, ent=o nem imagino o tamanho do estrago que isso vai causar. 
+
+[MSG$010D44,75]
+Afasto essas d`vidas da minha mente e escolho um que parece apropriado. 
+
+[MSG$010D94,81]
+Pego uma caneta do bolso do uniforme, tiro a tampa e coloco na palma da m=o. 
+
+[MSG$010DF2,94]
+Minase "O Senhor est# do meu lado, e no dia da sua grande ira ele ferir# todos os reis..." 
+
+[MSG$010E6A,59]
+Desenho o pentagrama na m=o esquerda e sussurro essas palavras. 
+
+[MSG$010EB2,90]
+Quando termino de desenhar, abro e fecho o punho para confirmar. Usei uma caneta [ base de &leo, 
+
+[MSG$010F11,41]
+ent=o tenho certeza que n=o vai sair t=o facilmente.
+
+[MSG$010F47,28]
+Mas n=o vejo nenhuma mudan~a.
+
+[MSG$010F70,35]
+Minase "Ser# que isso vai funcionar mesmo?"
+
+[MSG$010FAD,95]
+O poder do pentagrama... Eu tenho l# as minhas d`vidas, mas agora s& me resta acreditar nisso.
+
+[MSG$011011,52]
+Acho que nunca tive tanta descren~a nas for~as do al$m...
+
+[MSG$011052,19]
+Minase "Certo."
+
+[MSG$01107F,37]
+Respiro fundo e encaro a porta na minha frente.
+
+[MSG$0110A9,109]
+Me concentro, aperto a m=o com o pentagrama desenhado mais uma vez, e, finalmente,
+
+[MSG$01111B,37]
+|toco a fria porta de a~o do dep&sito. 
+
+[MSG$0111EC,14]
+(Porta abrindo)|
+
+[MSG$0111FF,53]
+Inoue "Eita! Que diabos pensa que t# fazendo?"
+
+[MSG$01124E,64]
+Assim que a porta de a~o do dep&sito se abre, posso ouvir o grito de Inoue.
+
+[MSG$01129B,62]
+Como pensei, Inoue e seus capangas est=o aqui. 
+
+[MSG$0112DE,34]
+E eles est=o em volta de Imari. 
+
+[MSG$011389,15]
+Minase "Imari!" 
+
+[MSG$0113B2,14]
+Imari "Ugh..." 
+
+[MSG$0113DA,28]
+Ela me d# um olhar vazio. 
+
+[MSG$011403,42]
+Aparentemente, n=o aconteceu nada ainda. 
+
+[MSG$01143A,76]
+Mas eles tiraram parte da roupa dela e d# pra ver a pele branca de seu peito. 
+
+[MSG$01148B,63]
+Suas pernas est=o totalmente escancaradas, com a calcinha aparecendo. 
+
+[MSG$0114D7,28]
+Mas tem algo estranho aqui... 
+
+[MSG$0114F8,86]
+Os olhos de Imari est=o meio desfocados. Ela nem parece ouvir o que estamos dizendo. 
+
+[MSG$01155B,85]
+Inoue "Voc] de novo? Pensei que j# tinha aprendido a li~=o. Primeiro essa garota tem que te salvar, 
+
+[MSG$0115B5,48]
+e agora $ isso? E voc] ainda se considera um homem?" 
+
+[MSG$0115FF,87]
+Vou deixar ele dizer o que quiser. A coisa mais importante agora $ salvar Imari. 
+
+[MSG$011663,34]
+Minase "O que voc] fez com Imari?" 
+
+[MSG$01169F,56]
+Inoue "Acabamos de fumar um, estamos s& curtindo a brisa."
+
+[MSG$0116F2,66]
+Inoue me mostra um tro~o estranho, parecido com um cigarro, em sua m=o.
+
+[MSG$011741,28]
+Inoue "Quer dar um pega tamb$m?"
+
+[MSG$011777,69]
+Ele o leva aos l#bios, inspira profundamente e depois expira em minha dire~=o.
+
+[MSG$0117C1,62]
+A fuma~a nos envolve e posso sentir seu aroma profundo e doce.
+
+[MSG$01180C,91]
+Minase "Deixe Imari em paz agora mesmo!"                         
+
+[MSG$01186C,7]
+Isso n=o $ um cigarro normal... e o pior $ que j# vi algumas pessoas na escola
+
+[MSG$011878,36]
+|fumando essa merda tamb$m...
+
+[MSG$0118B6,66]
+Inoue "Voc] t# me dando ordens? Cuidado com a boca, idiota."
+
+[MSG$011912,51]
+Inoue "De qualquer forma, essa vadia parece gostar da coisa."
+
+[MSG$01195F,25]
+Ele olha maliciosamente ao dizer isso. 
+
+[MSG$011985,64]
+Imari permanece atordoada, olhando ao redor com olhos desfocados. 
+
+[MSG$0119CA,61]
+Inoue d# outra tragada e depois tira o baseado da boca. 
+
+[MSG$011A14,17]
+Minase "Pare com isso!" 
+
+[MSG$011A3F,71]
+Me ignorando, ele aproxima cada vez mais a droga da boca de Imari. 
+
+[MSG$011B1C,57]
+Imari tenta lutar, mas Inoue for~a o baseado em sua boca 
+
+[MSG$011B5A,29]
+e aperta o nariz dela. 
+
+[MSG$011B84,86]
+Incapaz de respirar, Imari come~a a espernear e $ for~ada a inalar a fuma~a. 
+
+[MSG$011BE7,14]
+Imari "Ugh..." 
+
+[MSG$011C0F,17]
+Imari "Ugh... cof... cof..." 
+
+[MSG$011C3A,51]
+Imari come~a a engasgar enquanto seus pulm^es se enchem de fuma~a. 
+
+[MSG$011C7A,20]
+Inoue "Hehehe!" 
+
+[MSG$011CA8,21]
+Minase "Desgra~ado!" 
+
+[MSG$011CD7,22]
+Estou tremendo de raiva. 
+
+[MSG$011CFA,44]
+Inoue "Que foi, Minase? T# bravinho? Hehehe!" 
+
+[MSG$011D40,81]
+Inoue "Se tiver algum problema, $ s& chegar. Te atendo a qualquer hora." 
+
+[MSG$011DAB,33]
+Zombando, Inoue tenta me atrair. 
+
+[MSG$011DD9,16]
+Minase "Grrr..." 
+
+[MSG$011E03,18]
+Cerro os punhos. 
+
+[MSG$011E1A,50]
+Ser# que consigo acabar com esses idiotas com um feiti~o?
+
+[MSG$011E51,62]
+Se n=o funcionar, estaremos ferrados... 
+
+[MSG$011E9C,27]
+Imari "Aah... aah..." 
+
+[MSG$011ED1,72]
+Os olhos de Imari parecem ainda mais sonolentos do que antes. Ela est# respirando pesadamente. 
+
+[MSG$011F26,34]
+Inoue "J# t# ficando chapada?" 
+
+[MSG$011FDB,84]
+Com isso, Inoue enfia a m=o entre as pernas abertas de Imari. Os dedos
+
+[MSG$012034,44]
+|percorrem sua fenda, esfregando-a de cima a baixo. 
+
+[MSG$01206D,86]
+Os dois delinquentes atr#s dele observam maliciosamente enquanto come~am a massagear os seios de Imari. 
+
+[MSG$0120D0,29]
+Minase "O que est=o fazendo?!" 
+
+[MSG$0120FA,40]
+Inoue "Hehehe! Algum problema com isso?" 
+
+[MSG$01213C,51]
+Inoue "De qualquer forma, parece que essa vadia t# gostando." 
+
+[MSG$012189,27]
+Imari "Mmm...mmm...ahhh..." 
+
+[MSG$0121BE,85]
+Imari est# se contorcendo com uma express=o confusa enquanto os dedos de Inoue continuam a
+
+[MSG$012218,15]
+|estimul#-la. 
+
+[MSG$012234,95]
+Pode ser porque foi drogada, mas Imari est# ficando excitada mesmo no estado em que se encontra. 
+
+[MSG$012298,47]
+Definitivamente h# uma mulher madura dentro dela... 
+
+[MSG$0122D4,37]
+Inoue "Xiii, olha s&. Ela t# gozando!" 
+
+[MSG$012313,78]
+Inoue se empolga e enfia os dedos dentro. Ele come~a a esfreg#-la 
+
+[MSG$012366,83]
+|na #rea sens%vel da vulva, que $ percept%vel at$ mesmo atrav$s da calcinha. 
+
+[MSG$0123C6,25]
+Imari "Mmm...mmm...ahhhh!" 
+
+[MSG$0123F9,15]
+Depois disso, 
+
+[MSG$01240D,82]
+Inoue tira a m=o do meio das pernas de Imari. H# uma pequena mancha
+
+[MSG$012464,15]
+|na sua calcinha... 
+
+[MSG$012480,47]
+Inoue come~a a cheirar o suco nos dedos. 
+
+[MSG$0124BC,35]
+Inoue "Que fedida... Hehehe!" 
+
+[MSG$0124F9,57]
+Inoue "Acho que ela gosta muito mais de mim do que de voc], cuz=o! HAHAHA!" 
+
+[MSG$01254C,27]
+Minase "Pare com isso agora!" 
+
+[MSG$012581,70]
+N=o aguento mais. Tenho que ter f$ no poder do feiti~o. 
+
+[MSG$0125D4,49]
+Inoue "Uiuiui, que medo! Baixa a bola, t#?" 
+
+[MSG$01261F,89]
+Inoue "Vou deixar voc] comer ela depois que eu terminar. Enquanto isso, por que n=o
+
+[MSG$01267D,45]
+|senta a% e bate uma pra relaxar?" 
+
+[MSG$0126C4,48]
+Minase "Se n=o parar, vai se arrepender!" 
+
+[MSG$01270E,75]
+Inoue "Ah, $? E o que vai fazer, hein?" 
+
+[MSG$012773,101]
+Inoue "S& tem voc] aqui, cuz=o. Quer beijar o ch=o de novo?" 
+
+[MSG$0127F2,69]
+Minase "N=o vai acontecer o mesmo dessa vez..." 
+
+[MSG$012851,81]
+Digo isso, rezando com tudo que tenho para que minhas palavras se tornem realidade. 
+
+[MSG$0128AF,22]
+Inoue "Interessante..." 
+
+[MSG$0128DF,35]
+Inoue come~a a estalar os dedos. 
+
+[MSG$0129BC,54]
+Inoue "Ei, algu$m a% d# um fim nesse merda!" 
+
+[MSG$012A0C,81]
+Com essas palavras, um dos delinquentes vem lentamente em minha dire~=o com um olhar malicioso. 
+
+[MSG$012A62,103]
+Ele coloca a m=o no quadril e retira um bast=o retr#til de uma bolsa presa ao cinto. 
+
+[MSG$012AD6,5]
+Tchok! 
+
+[MSG$012AE8,99]
+Ele o joga para frente e o bast=o estala com um som vibrante. Aberto, $ tr]s vezes mais longo. 
+
+[MSG$012B58,72]
+Inoue "O que vai fazer agora, Minase? Vem logo, vem pra cima!" 
+
+[MSG$012BBA,16]
+Inoue "Pega ele!" 
+
+[MSG$012BE4,45]
+Ao sinal de Inoue, o delinquente levanta o bast=o. 
+
+[MSG$012C1E,72]
+Droga... se eu for atingido por essa coisa, j# era. 
+
+[MSG$012C73,5]
+Vruum! 
+
+[MSG$012C85,62]
+O bast=o de metal desce com for~a, cortando o ar. 
+
+[MSG$012CD0,65]
+Fecho os olhos e levanto apavorado a m=o esquerda para me proteger. 
+
+[MSG$012D16,56]
+Quando penso que um dos meus ossos est# prestes a ser quebrado... 
+
+[MSG$012DF4,5]
+TCHUM! 
+
+[MSG$012E06,42]
+Com um som agudo, ele bate na minha m=o. 
+
+[MSG$012E3D,12]
+Delinquente "Kyah!!!" 
+
+[MSG$012E63,38]
+Mas $ o delinquente que grita de dor. 
+
+[MSG$012EBA,13]
+Minase "H=?" 
+
+[MSG$012EE1,15]
+Clang, clang... 
+
+[MSG$012EFD,57]
+Abro os olhos e vejo o delinquente segurando a pr&pria m=o com dor. 
+
+[MSG$012F3B,58]
+O bast=o est# rolando no ch=o. 
+
+[MSG$012F82,84]
+Minha m=o esquerda n=o d&i nada, embora tenha sido onde fui atingido. 
+
+[MSG$012FDB,42]
+Continuo pressionando ela, mas n=o h# nada de errado. 
+
+[MSG$013012,32]
+Minase "Hahaha, eu t\ bem." 
+
+[MSG$01304C,32]
+Olho para minha m=o, incr$dulo. 
+
+[MSG$0130AB,42]
+Inoue "Que... diabo foi isso?" 
+
+[MSG$0130EF,46]
+Os olhos de Inoue est=o prestes a saltar das &rbitas. 
+
+[MSG$01312A,54]
+O fato $ que o bast=o atingiu a palma da minha m=o. 
+
+[MSG$013165,57]
+Mas n=o s& minha m=o n=o quebrou, como transferiu o golpe. 
+
+[MSG$0131A3,38]
+Ent=o esse $ o poder do pentagrama... 
+
+[MSG$0131D6,24]
+Minase "Est# funcionando..." 
+
+[MSG$013208,40]
+Estou convencido agora, o feiti~o est# funcionando.
+
+[MSG$013235,44]
+N=o preciso mais ter medo desses idiotas. 
+
+[MSG$01326E,60]
+Minase "Voc] foi bem corajoso, tentando me atacar daquele jeito..." 
+
+[MSG$0132C4,43]
+Ando em dire~=o a Inoue, estalando os dedos. 
+
+[MSG$0132F4,32]
+Agora o jogo virou. 
+
+[MSG$013321,57]
+Inoue "Voc] teve apenas sorte. Ei, acabem com ele!" 
+
+[MSG$013374,26]
+Minase "Podem vir." 
+
+[MSG$0133A8,54]
+Sorrindo com confian~a chamo eles agitando as m=os. 
+
+[MSG$0133E3,44]
+Quando me veem fazer isso, os dois pulam em mim. 
+
+[MSG$013495,21]
+Minase "Chute do Minaseee!" 
+
+[MSG$0134D8,4]
+TUM! 
+
+[MSG$0134E9,12]
+Delinquente "Kyaaah!!!" 
+
+[MSG$01350F,21]
+Minase "Soco do Minaseee!" 
+
+[MSG$013553,8]
+TUM... 
+
+[MSG$013568,12]
+Delinquente "Ugh-Uaaaah!!!" 
+
+[MSG$01358E,86]
+Adoto a estrat$gia de Imari, pegando e arremessando eles em sequ]ncia... 
+
+[MSG$0135F1,74]
+At$ meus movimentos mais desleixados viram golpes fatais. E gra~as [ sua for~a letal, 
+
+[MSG$013640,50]
+consigo derrubar todos no ch=o, um por um. 
+
+[MSG$01371C,22]
+Inoue "N=o... sem chance..." 
+
+[MSG$01374C,71]
+Piso em cima dos perdedores enquanto tiro a poeira das m=os ruidosamente. 
+
+[MSG$0137A0,41]
+Minase "Ok... agora s& falta voc]." 
+
+[MSG$0137E3,24]
+Olho para Inoue friamente. 
+
+[MSG$013800,97]
+Ele estava observando tudo e sorri para mim como se estivesse prestes a mijar nas cal~as. 
+
+[MSG$01386E,17]
+Inoue "H-Hehehe..." 
+
+[MSG$013899,99]
+Inoue "N&s... sentimos muito pelo que fizemos, Minase-kun. Foi mal, mas podemos ser amigos agora." 
+
+[MSG$013916,16]
+Minase "Nem a pau." 
+
+[MSG$013940,58]
+Inoue "Ei, qual $? Somos amigos, n=o somos?" 
+
+[MSG$013994,43]
+Inoue "Vamos... olha, farei qualquer coisa!" 
+
+[MSG$0139D9,12]
+Minase "..." 
+
+[MSG$0139F2,36]
+Fico encarando friamente o perdedor. 
+
+[MSG$013A1B,78]
+Ele far# qualquer coisa, hein? Nesse caso, por que n=o o fa~o pagar por tudo? 
+
+[MSG$013A9E,44]
+Minase "Voc] disse que faria qualquer coisa, certo?" 
+
+[MSG$013AE4,74]
+Inoue "Claro, claro, isso. Qualquer coisa. Voc] quer dinheiro? Mulheres?" 
+
+[MSG$013B48,46]
+Minase "Quero que corra pelado na escola." 
+
+[MSG$013B90,27]
+Digo isso com uma voz fria. 
+
+[MSG$013BB8,13]
+Inoue "Ugh?" 
+
+[MSG$013BDF,45]
+Inoue "Acha mesmo que eu faria isso?" 
+
+[MSG$013C26,46]
+Minase "Ah, voc] n=o quer? Tudo bem..." 
+
+[MSG$013C6E,65]
+Minase "Mas vou ter que quebrar alguns ossos seus, ent=o..." 
+
+[MSG$013CC9,58]
+Ao ouvir isso, o suor escorre lentamente do rosto de Inoue. 
+
+[MSG$013D10,47]
+Inoue "H=? Espera, eu fa~o isso! Por favor, deixa eu fazer isso!" 
+
+[MSG$013D59,35]
+Minase "Mas voc] n=o quer." 
+
+[MSG$013D96,94]
+Inoue "N=o $ verdade! S& estava pensando como seria &timo correr pela escola pelad=o!" 
+
+[MSG$013E0E,31]
+Ningu$m jamais pensaria isso... 
+
+[MSG$013E3A,38]
+Minase "Certo, ent=o por que n=o vai logo?" 
+
+[MSG$013E9F,116]
+Ao ouvir minhas palavras, Inoue para de enrolar e tira todas suas roupas. Assim que fica nu, ele sai correndo do dep&sito
+
+[MSG$013F18,51]
+|com a sua benga balan~ando de um lado para o outro... 
+
+[MSG$013F58,14]
+Inoue "Auaaaaaaaaaarrrhhhh...!" 
+
+[MSG$013F80,49]
+Com um grito insano, Inoue corre para o pr$dio da escola. 
+
+[MSG$013FBE,36]
+Voz "Kyaaah!! T# maluco?!" 
+
+[MSG$013FFC,38]
+Voz "Uaah, sai fora! Nem chegue perto, seu pervertido!" 
+
+[MSG$01403C,87]
+Depois que Inoue desaparece l# dentro, posso ouvir gritos e gritos vindos de todo o pr$dio. 
+
+[MSG$014098,55]
+A vis=o do corpo nu de Inoue est# causando alvoro~o... 
+
+[MSG$0140EF,44]
+Minase "Voc] disse que faria qualquer coisa, certo?" 
+
+[MSG$014135,74]
+Inoue "Claro, claro, isso. Qualquer coisa. Voc] quer dinheiro? Mulheres?" 
+
+[MSG$014199,81]
+Minase "Ok, fique pelado na frente do port=o da escola." 
+
+[MSG$014204,27]
+Digo isso com uma voz fria. 
+
+[MSG$01422C,13]
+Inoue "Qu]?" 
+
+[MSG$014253,45]
+Inoue "Acha mesmo que eu faria algo assim?" 
+
+[MSG$01429A,46]
+Minase "Ah, voc] n=o quer? Tudo bem..." 
+
+[MSG$0142E2,65]
+Minase "Mas vou ter que quebrar alguns ossos seus, sabe..." 
+
+[MSG$01433D,58]
+Ao ouvir isso, o suor escorre lentamente do rosto de Inoue. 
+
+[MSG$014384,47]
+Inoue "Ok, fa~o isso! Por favor, deixa eu fazer!" 
+
+[MSG$0143CD,35]
+Minase "Mas voc] n=o quer." 
+
+[MSG$01440A,23]
+Inoue "N=o $ verdade.
+
+[MSG$014426,102]
+S& estava pensando como seria &timo ficar pelado na frente do port=o da escola." 
+
+[MSG$0144A6,31]
+Ningu$m jamais pensaria isso... 
+
+[MSG$0144D2,93]
+Minase "Nesse caso, enquanto estiver l#, por que n=o se masturba tamb$m? Na frente de todos?" 
+
+[MSG$014549,30]
+Inoue "Voc]... seu merdinha!" 
+
+[MSG$014581,47]
+Minase "Ah, entendi... voc] n=o quer fazer isso..." 
+
+[MSG$0145CA,40]
+Inoue congela ao ver meu olhar frio. 
+
+[MSG$0145FF,80]
+Inoue "Ah, vamos l#, t\ brincando! Vou me masturbar como se n=o houvesse amanh=!" 
+
+[MSG$014669,38]
+Minase "T#, ent=o por que n=o vai logo?" 
+
+[MSG$0146CD,116]
+Ao ouvir minhas palavras frias, Inoue desiste e tira as roupas. Assim que fica completamente nu, ele sai correndo do dep&sito
+
+[MSG$014746,51]
+|com sua benga balan~ando pra l# e pra c#... 
+
+[MSG$014786,13]
+Inoue "Auaaaaaaaaaarrrhhhh...!" 
+
+[MSG$0147AD,58]
+Posso ouvir o grito de Inoue pela janela do dep&sito. 
+
+[MSG$0147F4,44]
+Voz "Ah! O que ele pensa que t# fazendo?" 
+
+[MSG$01483B,47]
+Voz "Olha o tamanho daquilo!" 
+
+[MSG$014885,39]
+Voz "Kyaaah! Que nojo, acabou de sair alguma coisa!" 
+
+[MSG$0148C7,114]
+Depois que Inoue sai, ou~o gritos e gritos vindos de fora. A vis=o do corpo nu de Inoue est# causando alvoro~o... 
+
+[MSG$014946,22]
+Minase "Que idiota." 
+
+[MSG$014977,44]
+Com isso, ando em dire~=o ao corpo inerte de Imari. 
+
+[MSG$0149A8,61]
+Ent=o arrumo suas roupas e a levo para fora do dep&sito. 
+
+[MSG$0149F2,78]
+Imari acabou assim porque tentou me salvar. Agora $ a minha vez
+
+[MSG$014A45,24]
+|de salvar ela... 
+
+[MSG$014A6A,28]
+24 de abril - Enfermaria 
+
+[MSG$014B6B,12]
+(Porta abrindo) 
+
+[MSG$014B84,74]
+Mancando, carrego Imari para a enfermaria, apoiando ela no ombro. 
+
+[MSG$014BDB,22]
+Tlec, tlec, tlec... 
+
+[MSG$014BFE,67]
+Dentro da enfermaria, a Dra. Kitami est# em sua mesa digitando em um laptop. 
+
+[MSG$014C80,14]
+Kitami "Ora!" 
+
+[MSG$014CA8,57]
+Ela nos nota, fecha rapidamente o laptop e se aproxima. 
+
+[MSG$014CE6,101]
+Ela tem aquele ar sedutor de sempre enquanto nos encara. Parece que est# nos comendo com os olhos. 
+
+[MSG$014D58,30]
+Kitami "O que aconteceu com voc]?" 
+
+[MSG$014D90,32]
+Minase "Ca% da escada..." 
+
+[MSG$014DCA,53]
+Entrego Imari para ela, dando uma desculpa esfarrapada. 
+
+[MSG$014E0C,21]
+Kitami "Voc]s dois?" 
+
+[MSG$014E3B,69]
+Kitami "S$rio, agora... Ah, bem, n=o importa. Deixe-me tratar voc]." 
+
+[MSG$014F2B,9]
+......... 
+
+[MSG$014FBD,16]
+Minase "Ai! Ai!" 
+
+[MSG$014FE7,86]
+Kitami "Vamos, fique quieto. N=o posso desinfetar a ferida se ficar se mexendo." 
+
+[MSG$015057,27]
+Deixei que ela desinfetasse meu corte. 
+
+[MSG$015077,37]
+; o arranh=o que fiz no terra~o. 
+
+[MSG$0150A9,83]
+Imari est# na cama. Acho que ainda est# atordoada, porque assim que cai na cama
+
+[MSG$015101,18]
+|ela apaga. 
+
+[MSG$015120,71]
+Ser# melhor deix#-la descansar at$ voltar ao normal. 
+
+[MSG$015174,71]
+Kitami "Mas como $ que pode ela estar em pior estado que voc]?" 
+
+[MSG$0151D5,31]
+Kitami "Ela lutou por voc]?" 
+
+[MSG$01520F,61]
+Ela pergunta enquanto cuida das minhas feridas. Fa~o uma careta de dor. 
+
+[MSG$015259,13]
+Minase "Huh?" 
+
+[MSG$015280,44]
+Kitami "D# para ver muita coisa dessa janela." 
+
+[MSG$0152C6,33]
+Kitami olha para fora. 
+
+[MSG$0152F4,69]
+A verdade $ que ela tinha uma boa vis=o do terra~o desta janela... 
+
+[MSG$01533E,26]
+Ent=o ela viu tudo... 
+
+[MSG$015365,72]
+Minase "Eu tava levando uma surra e Imari apareceu para tentar me salvar." 
+
+[MSG$0153C7,68]
+Confesso para Kitami, vendo que n=o faz sentido esconder. 
+
+[MSG$015418,55]
+Kitami "Ent=o o cavaleiro foi resgatado pela princesa, hein?" 
+
+[MSG$015469,52]
+Kitami "E por isso voc]s dois acabaram assim?" 
+
+[MSG$0154B7,12]
+Minase "..." 
+
+[MSG$0154D0,73]
+Kitami "Entendi... ent=o o mago n=o $ quem diz ser." 
+
+[MSG$015533,21]
+Minase "Mago...?" 
+
+[MSG$015562,88]
+Kitami "Todo mundo est# falando sobre seus feiti~os. Dizem que s=o extremamente eficazes." 
+
+[MSG$0155D4,89]
+Os delinquentes est=o sempre na enfermaria, ela deve ter ouvido os boatos
+
+[MSG$015632,13]
+|deles... 
+
+[MSG$01564C,80]
+Kitami "Assim como aqueles estudantes de 12 anos atr#s... Eles tamb$m eram magos..." 
+
+[MSG$0156B6,66]
+Minase "Voc] sabe disso? Do que aconteceu h# 12 anos?" 
+
+[MSG$015712,61]
+Kitami "Sim, claro. Eu estudava aqui naquela $poca." 
+
+[MSG$015769,30]
+Eu n=o sabia disso... 
+
+[MSG$015794,101]
+Kitami "Eles eram o assunto da escola, assim como voc] $ agora. O cl= das bruxas ressuscitado..." 
+
+[MSG$015813,45]
+Minase "E o que aconteceu com aqueles alunos?" 
+
+[MSG$01585A,97]
+Kitami "Morreram... Corria o boato de que todos foram possu%dos por um dem\nio que os matou."
+
+[MSG$0158D5,50]
+Ela diz calmamente com uma express=o fria. 
+
+[MSG$015914,82]
+Kitami "Hihihi! Olhe para voc], t=o s$rio. N=o me diga que acredita mesmo em uma hist&ria como essa?" 
+
+[MSG$015980,26]
+Minase "N=o... n=o, eu n=o." 
+
+[MSG$0159D3,41]
+Olho para baixo para escapar do contato visual de Kitami. 
+
+[MSG$015A09,36]
+Ent=o lembro de algo importante. 
+
+[MSG$015A42,21]
+Isso mesmo... Saeki! 
+
+[MSG$015A64,62]
+Tinha esquecido completamente dela gra~as ao incidente com Inoue. 
+
+[MSG$015AA7,67]
+Preciso falar com ela, agora que sei que trocou os livros. 
+
+[MSG$015AF7,81]
+Tudo come~ou a sair do controle desde que a deixei colocar as m=os naquele livro. 
+
+[MSG$015B4D,76]
+Se ao menos eu estivesse com ele, poderia ter conseguido derrotar Inoue. 
+
+[MSG$015BA6,83]
+N=o sei o que Saeki tem em mente, mas preciso recuperar o livro... 
+
+[MSG$015C06,69]
+Tenho que recuper#-lo antes que ela descubra seu poder... 
+
+[MSG$015C58,83]
+Sei que ela n=o bate bem da cabe~a. D# at$ um arrepio ver ela t=o fissurada em magia. 
+
+[MSG$015CB0,85]
+Quando ela sentir o gostinho do poder daquele livro, n=o h# d`vida de que vai tocar o terror. 
+
+[MSG$015D12,62]
+Tenho que recuperar ele logo, antes que d] merda. 
+
+[MSG$015D55,30]
+Como h# 12 anos... 
+
+[MSG$015D80,31]
+Kitami "Tudo bem, est# pronto." 
+
+[MSG$015DB9,48]
+Kitami aplicou um curativo no meu ferimento. 
+
+[MSG$015DF6,36]
+Olho para ele e deslizo da cadeira. 
+
+[MSG$015E27,76]
+Vejo que as aulas da tarde j# terminaram. Talvez Saeki 
+
+[MSG$015E78,36]
+|j# tenha sa%do da escola... 
+
+[MSG$015EA9,23]
+Minase "Estou indo agora." 
+
+[MSG$015EDA,36]
+Kitami "O qu]? Mas e Imari?" 
+
+[MSG$015F18,22]
+Minase "Volto depois." 
+
+[MSG$015F48,56]
+Isso $ tudo que digo enquanto saio correndo da enfermaria. 
+
+[MSG$015F8D,23]
+24 de abril - Depois da aula 
+
+[MSG$016089,12]
+(Porta abrindo) 
+
+[MSG$0160A2,68]
+Entro na sala de aula e agarro Murai, que est# por perto. 
+
+[MSG$016125,29]
+Minase "Voc] viu Saeki?" 
+
+[MSG$01615C,56]
+Murai "Saeki? N=o a vejo desde o almo~o... por qu]?" 
+
+[MSG$0161AF,43]
+Como pensei, ela j# escapou... 
+
+[MSG$0161E7,33]
+Mas a bolsa dela ainda est# na mesa. 
+
+[MSG$016215,47]
+Murai "Ela deve estar na enfermaria." 
+
+[MSG$01625E,77]
+De jeito nenhum. N=o havia sinal dela na enfermaria. Onde ela se meteu? 
+
+[MSG$0162B8,14]
+Minase "Merda!" 
+
+[MSG$0162E0,72]
+Murai "Ah, a prop&sito, Minase, preciso falar com voc] sobre uma coisa..." 
+
+[MSG$016342,31]
+Murai "Ei, voc] t# me ouvindo?" 
+
+[MSG$0163F7,37]
+Ignoro ela e saio correndo da sala. 
+
+[MSG$016429,37]
+Vou direto para a sala dos professores. 
+
+[MSG$016453,34]
+Tenho um mau pressentimento sobre isso... 
+
+[MSG$0164FE,12]
+(Porta abrindo) 
+
+[MSG$016517,50]
+Abro a porta e vou direto para a caixa de chaves. 
+
+[MSG$0165A7,5]
+Clique
+
+[MSG$016635,19]
+Minase "Sumiu!"
+
+[MSG$016662,46]
+N=o h# sinal da chave da Sala Secreta.
+
+[MSG$016695,46]
+Olho para todos os lados, mas n=o h# nenhum vest%gio dela.
+
+[MSG$0166D0,55]
+Minase "Sabia... Saeki desceu para o por=o."
+
+[MSG$016721,22]
+Deve ser isso...
+
+[MSG$01673C,70]
+Saeki deve ter descido para o por=o com o livro. Mas por qu]? 
+
+[MSG$01678F,51]
+N=o me diga que ela vai tentar o ritual... 
+
+[MSG$0167C7,36]
+O livro tamb$m tem minhas anota~^es. 
+
+[MSG$0167F8,56]
+N=o, espere... ainda n=o terminei de decifrar aquela p#gina. 
+
+[MSG$016835,65]
+Nem Saeki conseguiria decifr#-lo em meio dia... 
+
+[MSG$016883,51]
+N=o tenho escolha a n=o ser descer e descobrir. 
+
+[MSG$0168BB,86]
+N=o me importo de ir l#, mas n=o gosto da ideia dela levar o livro naquele lugar. 
+
+[MSG$01691E,108]
+E o pior de tudo, foi Saeki quem pegou. ; como pular no fogo com uma bomba amarrada ao corpo. 
+
+[MSG$016A21,55]
+Paro em frente [ porta com a placa de "Proibida entrada". 
+
+[MSG$016A62,96]
+Posso ver uma luz fraca passando pela fresta. Algu$m definitivamente desceu as escadas. 
+
+[MSG$016AC7,30]
+Coloquei a m=o na ma~aneta. 
+
+[MSG$016AF2,8]
+Clique... 
+
+[MSG$016B07,13]
+Minase "Huh?" 
+
+[MSG$016B2E,13]
+Clique, clique! 
+
+[MSG$016B48,12]
+Est# trancado. 
+
+[MSG$016B61,41]
+N=o tem como essa porta estar trancada. 
+
+[MSG$016B8F,65]
+Ela trancou por dentro? Isso significa que Saeki est# l#. 
+
+[MSG$016BDD,14]
+Minase "Merda!" 
+
+[MSG$016C05,20]
+Clique, clique, clique!
+
+[MSG$016C26,89]
+Giro a ma~aneta v#rias vezes, descontando a minha frustra~=o na porta trancada. Claro, 
+
+[MSG$016C84,29]
+isso n=o me leva a lugar nenhum. 
+
+[MSG$016CAE,39]
+Kitami "O que est# fazendo a% embaixo?" 
+
+[MSG$016CEF,9]
+... 
+
+[MSG$016D88,37]
+Kitami fica olhando para mim, indignada. 
+
+[MSG$016DBA,42]
+Kitami "Voc] est# tentando arrombar a porta?" 
+
+[MSG$016DFE,83]
+Kitami "Voc] deixa Imari deitada na minha enfermaria, e eu te encontro em um lugar como esse..." 
+
+[MSG$016E6B,53]
+Ao ouvi-la, rapidamente tiro a m=o da ma~aneta. 
+
+[MSG$016EAD,74]
+Kitami "Essa sala $ proibida. Os alunos n=o podem entrar a%." 
+
+[MSG$016F11,57]
+Kitami "Ou voc] tem algum tipo de neg&cio a%?" 
+
+[MSG$016F64,28]
+Minase "Uh, n=o, claro que n=o." 
+
+[MSG$016F9A,71]
+Kitami "N=o me diga que voc] teve que vir at$ aqui depois de ouvir minha hist&ria?" 
+
+[MSG$016FFB,27]
+Minase "N=o, n=o $ isso." 
+
+[MSG$017030,100]
+Minase "Acabei de ver uma luz vindo de l#, ent=o tentei abrir a porta, mas est# trancada." 
+
+[MSG$0170AE,52]
+Dou a desculpa mais esfarrapada que consigo inventar. 
+
+[MSG$0170EF,65]
+Kitami "Que estranho. Essa porta n=o devia estar trancada, sabe." 
+
+[MSG$01714A,89]
+Kitami "N=o importa, vou l# embaixo dar uma olhada. Volte e fique com Imari." 
+
+[MSG$0171BD,14]
+Minase "O qu]?" 
+
+[MSG$0171E5,23]
+Mas isso $ in`til... 
+
+[MSG$017209,76]
+Kitami "Voc]s dois s=o pr&ximos, n=o s=o? Voc] devia cuidar dela 
+
+[MSG$01725A,32]
+e lev#-la para casa, n=o acha?" 
+
+[MSG$017294,55]
+Ela parece indignada. ; verdade, devo muito a Imari... 
+
+[MSG$0172D8,21]
+Minase "Tudo bem..." 
+
+[MSG$017307,21]
+Relutantemente, eu saio. 
+
+[MSG$017329,21]
+Kitami "V# em frente, ent=o." 
+
+[MSG$017358,24]
+Kitami "Vamos, r#pido!" 
+
+[MSG$0173AE,21]
+Relutantemente, eu saio. 
+
+[MSG$0173C8,70]
+Estou preocupado com Saeki, mas n=o posso ir l# com Kitami aqui. 
+
+[MSG$01741B,90]
+Al$m disso, enquanto a porta estiver trancada, n=o posso fazer nada al$m de esperar Saeki sair. 
+
+[MSG$017482,42]
+N=o tenho escolha a n=o ser recuar por enquanto... 
+
+[MSG$0174B1,77]
+Se n=o posso ir at$ l# agora, ent=o $ melhor falar com ela amanh=. 
+
+[MSG$01750B,76]
+De qualquer forma, Saeki pode n=o ter descido, e mesmo que ela esteja l#, 
+
+[MSG$01755C,79]
+ela n=o pode realizar esse ritual sem t]-lo decifrado completamente. 
+
+[MSG$0175B0,65]
+Se ela perceber que n=o pode fazer isso, tenho certeza que desistir#. 
+
+[MSG$0175FE,80]
+Da pr&xima vez que eu ver ela, vou pegar o livro de volta, nem que seja a for~a. 
+
+[MSG$017653,50]
+O estrago ainda deve ser leve se eu agir r#pido... 
+
+[MSG$01768A,66]
+Tomo minha decis=o e vou em dire~=o [ enfermaria para ficar com Imari. 
+
+[MSG$0176D9,15]
+24 de abril - In%cio 
+
+[MSG$0177D7,14]
+A porta se abre. 
+
+[MSG$0177F2,33]
+Volto para a enfermaria do campus. 
+
+[MSG$017818,22]
+Imari ainda est# dormindo. 
+
+[MSG$0178B7,19]
+Imari "Zzz..zzz..." 
+
+[MSG$0178E4,63]
+Imari est# dormindo pacificamente. Voc] pode ouvir sua respira~=o leve. 
+
+[MSG$017928,62]
+N=o acredito que ela t# dormindo como uma pedra depois de tudo que aconteceu... 
+
+[MSG$017973,50]
+Minase "Imari... acorda! Vamos pra casa logo..." 
+
+[MSG$0179BF,66]
+Estou impressionado com a capacidade dela dormir enquanto a sacudo suavemente. 
+
+[MSG$017A0E,19]
+Imari "Zzz..zzz..." 
+
+[MSG$017A3B,53]
+Minase "Eu disse pra acordar! Vou deixar voc] aqui." 
+
+[MSG$017A8A,19]
+Imari "Zzz..zzz..." 
+
+[MSG$017AB7,12]
+Minase "..." 
+
+[MSG$017AD0,28]
+Minase "Acorda, sua idiota." 
+
+[MSG$017B06,19]
+Imari "Zzz..zzz..." 
+
+[MSG$017B33,35]
+Minase "Por que voc] n=o beija minha bunda?" 
+
+[MSG$017B70,19]
+Imari "Zzz..zzz..." 
+
+[MSG$017B9D,12]
+Minase "..." 
+
+[MSG$017BB6,71]
+Estou irritando-a impiedosamente, mas ela n=o mostra sinais de acordar. 
+
+[MSG$017C02,25]
+Isso $ incomum para Imari. 
+
+[MSG$017C28,63]
+Quem $ ela para falar, afinal? Nem acorda sozinha! 
+
+[MSG$017C74,19]
+Por que eu simplesmente n=o... 
+
+[MSG$017CB4,31]
+Minase "Ei, acorde!" 
+
+[MSG$017CED,19]
+(Mexe, mexe, remexe...) 
+
+[MSG$017D0D,20]
+Dou um soquinho em seus seios. 
+
+[MSG$017D2E,32]
+Eles balan~am como um saco de pancadas. 
+
+[MSG$017D53,35]
+Vamos ver o qu=o eficaz isso foi... 
+
+[MSG$017D83,19]
+Imari "Zzz..zzz..." 
+
+[MSG$017DB0,8]
+Sem chance. 
+
+[MSG$017DC5,72]
+Minase "Mais dif%cil do que pensava. Terei que fazer algo mais dr#stico."
+
+[MSG$017E27,25]
+(C&cegas, c&cegas, c&cegas...) 
+
+[MSG$017E4D,34]
+Em seguida, fa~o c&cegas nas laterais de Imari. 
+
+[MSG$017E7C,19]
+Imari "Zzz..zzz..." 
+
+[MSG$017EA9,25]
+Tamb$m n=o funciona. 
+
+[MSG$017ECF,45]
+Minase "N=o seja chata. Pega essa!" 
+
+[MSG$017F17,9]
+(Massageando) 
+
+[MSG$017F2D,30]
+Come~o a massagear seus seios. 
+
+[MSG$017F58,36]
+Huh... eles s=o maiores do que eu pensava. 
+
+[MSG$017F81,43]
+Ent=o ficaram grandes sem que eu percebesse. 
+
+[MSG$017FB1,14]
+Que coisa. 
+
+[MSG$017FF3,19]
+Minase "(risos)" 
+
+[MSG$018020,29]
+Esta $ uma oportunidade de ouro. 
+
+[MSG$018042,63]
+Agora posso me vingar dela por sempre me acordar t=o violentamente. 
+
+[MSG$01808E,81]
+Pego um marcador permanente na mesa, retiro a tampa e aproximo cada vez mais 
+
+[MSG$0180E4,19]
+|na cara de Imari... 
+
+[MSG$018104,38]
+Minase "Agora voc] vai saber como me sinto..." 
+
+[MSG$018144,25]
+(Risc, risc, risc...) 
+
+[MSG$0181F3,44]
+Minase "Vou deixar passar dessa vez." 
+
+[MSG$018239,16]
+Ei, ei, ei... 
+
+[MSG$01824E,50]
+Mal posso esperar para ver a cara dela quando perceber. 
+
+[MSG$01828D,14]
+Imari "Hmm..." 
+
+[MSG$0182B5,85]
+Rapidamente afasto minhas m=os do rosto de Imari enquanto ela come~a a recuperar a consci]ncia. 
+
+[MSG$01830F,47]
+Se ela descobrir o que fiz agora, vai me matar. 
+
+[MSG$01834B,20]
+Imari "Mmm...mmm..." 
+
+[MSG$018486,10]
+(Levantando) 
+
+[MSG$01849D,31]
+Imari "O que estou fazendo na cama?" 
+
+[MSG$0184D6,14]
+Imari se senta. 
+
+[MSG$0184F1,5]
+Uau! 
+
+[MSG$018503,29]
+Imari n=o est# usando nada. 
+
+[MSG$018525,34]
+Sua calcinha $ de um branco deslumbrante... 
+
+[MSG$018554,70]
+Imari "Ah, sim, acabei de lembrar! Era aquele cara chamado Shinjou..." 
+
+[MSG$0185B4,83]
+Imari "Grr! Que raiva que ele me bateu! Da pr&xima vez que eu o ver, vou chutar a bunda dele!" 
+
+[MSG$018621,75]
+Imari fica tremendo ao se lembrar do que aconteceu no terra~o. 
+
+[MSG$018679,84]
+Parece que ela n=o se lembra de nada do que aconteceu depois que perdeu a consci]ncia. 
+
+[MSG$0186D2,88]
+Fico feliz, seria complicado se ela se lembrasse do que rolou no gin#sio. 
+
+[MSG$018737,65]
+Imari "Ah, n=o, olha a hora! A reuni=o do clube j# acabou!" 
+
+[MSG$018792,53]
+Imari "Huh? O que foi? Por que est# olhando para mim?" 
+
+[MSG$0187E1,53]
+Imari percebe que estou encarando ela e olha para baixo. 
+
+[MSG$018823,16]
+Minase "Isso..." 
+
+[MSG$01884D,23]
+Aponto para o suti= dela. 
+
+[MSG$018871,12]
+Imari "Huh?" 
+
+[MSG$018897,11]
+Imari "..." 
+
+[MSG$0188AF,48]
+Imari olha para seu corpo pela primeira vez. 
+
+[MSG$0189F7,47]
+Imari "Augh! N=o olhe pra mim! Por que estou nua?" 
+
+[MSG$018A40,24]
+Imari "N=o me diga..." 
+
+[MSG$018A72,19]
+Imari me encara. 
+
+[MSG$018A8A,22]
+Como se eu fosse o culpado. 
+
+[MSG$018AAD,49]
+Minase "N=o fui eu! Essa $ uma acusa~=o falsa!" 
+
+[MSG$018AF8,34]
+Imari "Sei n=o, hein..." 
+
+[MSG$018B34,96]
+Estou sendo acusado injustamente. Tudo que fiz foi voltar para acord#-la. E este $ o agradecimento que recebo. 
+
+[MSG$018B99,57]
+De qualquer forma, Kitami n=o precisou tirar toda a roupa... 
+
+[MSG$018BDF,55]
+Imari "Pare de olhar pra mim j#! Feche a cortina!" 
+
+[MSG$018C30,5]
+Vrosh! 
+
+[MSG$018C42,35]
+Fecho a cortina em volta da cama dela. 
+
+[MSG$018C72,77]
+Imari, vestida apenas de calcinha, e eu nos entreolhamos na penumbra. 
+
+[MSG$018CCC,25]
+(Treme, treme, treme...) 
+
+[MSG$018CF2,24]
+Imari "Sai daqui!" 
+
+[MSG$018DB9,7]
+Tchau! 
+
+[MSG$018DCD,19]
+(Rola, rola, rola...) 
+
+[MSG$018E69,76]
+Ela me chuta com for~a, saio voando pela cortina e caio no ch=o. 
+
+[MSG$018EC2,67]
+Eu estava apenas tentando anim#-la e meu plano saiu pela culatra. 
+
+[MSG$018F0A,57]
+Mas se ela tem tanta energia, deve estar bem. 
+
+[MSG$01909C,28]
+Imari "Voc] viu, n=o foi?" 
+
+[MSG$0190D2,15]
+Minase "Vi." 
+
+[MSG$0190FB,31]
+Imari e eu voltamos para casa juntos. 
+
+[MSG$019127,18]
+Imari "Pervertido..."
+
+[MSG$019153,94]
+Minase "Ei, j# disse! Foi Kitami quem te despiu, e o que aconteceu foi um acidente." 
+
+[MSG$0191CB,83]
+Imari "Ah, deixa pra l#. N=o h# nada que eu possa fazer agora que j# viu." 
+
+[MSG$019238,83]
+Imari "Al$m disso, parece que voc] me salvou daqueles idiotas depois da luta..." 
+
+[MSG$0192A6,45]
+Por que ela tem que me culpar por tudo? 
+
+[MSG$0192E0,71]
+Imari "Se me comprar um sorvete no caminho pra casa, eu te perdoo." 
+
+[MSG$019341,28]
+Imari "Um triplo, $ claro." 
+
+[MSG$019377,107]
+Ela est# falando sobre esse sorvete em uma loja a caminho de casa. S=o 3 camadas de menta, baunilha e chocolate. 
+
+[MSG$0193EF,92]
+Imari tem um ritual estranho: ela come uma camada por dia, demorando 3 dias para terminar o pote inteiro. 
+
+[MSG$019458,25]
+Minase "Voc] est# falando s$rio?" 
+
+[MSG$01948B,62]
+Minase "Est# frio agora. N=o $ temporada de sorvete!" 
+
+[MSG$0194E3,93]
+Imari "N=o importa. Os conhecedores comem coisas frias no frio, sabia?"
+
+[MSG$01955A,39]
+Imari "Vamos, n=o custa nada."
+
+[MSG$01959B,30]
+Minase "T# bom, t# bom." 
+
+[MSG$0195D3,66]
+Indignado, verifico meus bolsos para ver quanto tenho...
+
+[MSG$01961A,45]
+; por isso que as mulheres s=o t=o chatas.
+
+[MSG$019672,50]
+Imari "Quer saber, acabei de perceber uma coisa... 
+
+[MSG$0196A9,48]
+Todo mundo que passa t# olhando pra mim 
+
+[MSG$0196DE,20]
+|por algum motivo..."
+
+[MSG$01970C,9]
+Opa...
+
+[MSG$019722,12]
+Minase "..."
+
+[MSG$01973B,42]
+Imari "Tem algo estranho em mim?"
+
+[MSG$01977F,23]
+Imari "Hein? Tem?"
+
+[MSG$0197B0,49]
+Sim, tem algo extremamente estranho nela.
+
+[MSG$0197EE,32]
+Minase "T\ vendo nada..."
+
+[MSG$019828,73]
+Minase "Imari, aposto que todo mundo est# te olhando porque voc] $ linda."
+
+[MSG$01988B,16]
+Ei, ei, ei...
+
+[MSG$0198A0,52]
+Digo isso mesmo n=o tendo a menor inten~=o de dizer.
+
+[MSG$019913,46]
+Imari "S$rio? Voc] acha mesmo?"
+
+[MSG$01995B,31]
+Imari cora e ri timidamente.
+
+[MSG$01997F,89]
+V]-la corar desse jeito com rosto riscado a faz parecer incrivelmente est`pida.
+
+[MSG$0199E5,46]
+Imari "Entendi... todo mundo me acha fofa, n$?"
+
+[MSG$019A2D,38]
+Imari "Sou linda assim mesmo?" 
+
+[MSG$019A6D,79]
+Perguntando isso, Imari para e olha seu reflexo na janela de um carro estacionado.
+
+[MSG$019AC1,21]
+Idiota, n=o fa~a isso!
+
+[MSG$019AE3,21]
+Imari "Hahaha... HUH?"
+
+[MSG$019B44,13]
+Imari "O qu]?"
+
+[MSG$019B6B,11]
+Imari "..."
+
+[MSG$019B83,38]
+Imari v] seu reflexo e congela.
+
+[MSG$019BAE,17]
+Merda, socorro.
+
+[MSG$019BCC,15]
+Imari "MINASE!"
+
+[MSG$019BF5,25]
+(Treme, treme, treme...)
+
+[MSG$019C1B,44]
+Imari come~a a tremer como uma paciente com dengue.
+
+[MSG$019C4C,19]
+Deu ruim. 
+
+[MSG$019C6C,27]
+Imari "Eu vou te matar!" 
+
+[MSG$019CA1,21]
+24 de abril - Noite/Casa 
+
+[MSG$019DC3,5]
+Clique 
+
+[MSG$019DD5,18]
+Minase "Cheguei." 
+
+[MSG$019E01,40]
+Grito enquanto trope~o dentro de casa. 
+
+[MSG$019E36,71]
+Estou todo espancado pela tortura que Imari me submeteu na rua. 
+
+[MSG$019E8A,97]
+Ela ficou t=o empolgada que me usou como saco de pancadas e foi para casa furiosa. 
+
+[MSG$019EFE,18]
+Minase "Estou em casa." 
+
+[MSG$019F2A,61]
+Chego em casa como sempre, tiro os sapatos e vou para o meu quarto. 
+
+[MSG$019F74,26]
+24 de abril - Noite/Seu Quarto 
+
+[MSG$01A026,64]
+Afundo exausto na cadeira e abro minha mochila como sempre. 
+
+[MSG$01A073,48]
+Minase "Ah, $ mesmo, Saeki est# com o livro." 
+
+[MSG$01A0BD,49]
+H# um espa~o vazio dentro da minha mochila novamente hoje. 
+
+[MSG$01A0FB,65]
+Minase "Tenho que recuperar aquele livro, n=o importa o que aconte~a." 
+
+[MSG$01A156,54]
+Droga, Saeki, que diabos voc] est# aprontando, afinal? 
+
+[MSG$01A191,52]
+Gra~as a ela, s& tive problemas hoje. 
+
+[MSG$01A1D2,92]
+Come~o a pensar em todas as reclama~^es que posso fazer amanh= para recuperar o livro, 
+
+[MSG$01A233,21]
+e caio na cama. 
+
+[MSG$01A255,15]
+Minase "(suspiro)" 
+
+[MSG$01A27E,108]
+Todas aquelas anota~^es que fiz com tanto cuidado ainda est=o naquele livro. N=o tenho absolutamente nada em m=os. 
+
+[MSG$01A2F7,75]
+Nos `ltimos dias, estive absorto naquele livro, e agora que ele se foi, 
+
+[MSG$01A347,36]
+tudo parece t=o anticlim#tico... 
+
+[MSG$01A378,68]
+Agora que penso nisso, desde que encontrei aquele livro, ele me pertence. 
+
+[MSG$01A3C9,50]
+Fico atordoado, sentindo o tempo passar...
+
+[MSG$01A42F,58]
+Depois de jantar e tomar banho, vou para a cama cedo. 
+
+[MSG$01A476,81]
+Por que n=o esquecer aquele livro por uma noite e ter uma boa noite de sono... 
+
+[MSG$01A4CC,38]
+O que tiver que acontecer amanh=, acontecer#.
+
+[MSG$01A527,18]
+..................
+
+[MSG$01A546,12]
+............
+
+[MSG$01A55F,6]
+......
+
+[MSG$01A57E,43]
+Baixo a cabe~a para fugir do olhar de Kitami. 
+
+[MSG$01A5B6,106]
+N=o $ uma quest=o de acreditar... eu vi aquele por=o. Imposs%vel n=o acreditar. 
+
+[MSG$01A62D,15]
+Isso mesmo... 
+
+[MSG$01A641,54]
+Lembro que estava planejando ir l# novamente. 
+
+[MSG$01A68C,98]
+Agora que decifrei aquele ritual de 12 anos atr#s, vou l# dar outra olhada. 
+
+[MSG$01A6FB,50]
+As `nicas pistas que tenho s=o aquele por=o e o livro. 
+
+[MSG$01A732,107]
+Enquanto usar o Livro de Magia, o incidente de 12 anos atr#s sempre ficar# no meu caminho. 
+
+[MSG$01A7AA,74]
+Pode ser perigoso guardar esse livro, a menos que eu descubra o que aconteceu... 
+
+[MSG$01A7F9,94]
+N=o posso nem negar o fato de que h# uma chance de ter o mesmo fim que os outros. 
+
+[MSG$01A864,31]
+Kitami "Certo, est# pronto." 
+
+[MSG$01A89D,48]
+Kitami aplicou o curativo no meu ferimento. 
+
+[MSG$01A8DA,36]
+Olho para ele e deslizo da cadeira. 
+
+[MSG$01A90B,82]
+Vejo que as aulas da tarde j# terminaram. Talvez seja o momento perfeito... 
+
+[MSG$01A96A,23]
+Minase "Estou indo agora." 
+
+[MSG$01A99B,36]
+Kitami "O qu]? Mas e Imari?" 
+
+[MSG$01A9D9,22]
+Minase "J# volto." 
+
+[MSG$01AA09,56]
+Isso $ tudo que digo enquanto saio correndo da enfermaria. 
+
+[MSG$01AA4E,23]
+24 de abril - Depois das aulas
+
+[MSG$01AAE4,14]
+Abro a porta. 
+
+[MSG$01AB7C,98]
+Com o livro em m=os, entro na sala dos professores e pego a chave do dep&sito no por=o. 
+
+[MSG$01ABE3,48]
+A chave est# exatamente onde a vi pela `ltima vez. 
+
+[MSG$01AC20,88]
+Coloco ela no bolso, saio rapidamente da sala dos professores e sigo para as escadas do primeiro andar. 
+
+[MSG$01AD01,76]
+Checo se n=o h# ningu$m por perto e abro a porta com a placa de ''Proibida entrada''. 
+
+[MSG$01ADD2,97]
+Ligo o interruptor, iluminando a escadaria. Assim que fa~o isso, posso ver a luz fraca
+
+[MSG$01AE38,39]
+|contornando os degraus na escurid=o. 
+
+[MSG$01AE6C,31]
+Lentamente, vou descendo. 
+
+[MSG$01AE98,19]
+Tum, tum, tum...
+
+[MSG$01AF34,79]
+Quando chego ao final da escada, meu caminho est# bloqueado por uma porta de a~o frio. 
+
+[MSG$01AF88,64]
+Tiro a chave do bolso, enfio na fechadura e viro. 
+
+[MSG$01AFD5,8]
+Clique... 
+
+[MSG$01AFEA,5]
+Vruumm... 
+
+[MSG$01AFFC,32]
+Abro a porta de a~o e entro. 
+
+[MSG$01B029,24]
+24 de abril - Sala do Por=o 
+
+[MSG$01B140,75]
+Usando o isqueiro que tenho no bolso, consigo acender uma vela na escurid=o. 
+
+[MSG$01B190,68]
+Agora posso distinguir a vis=o inalterada do altar nas trevas. 
+
+[MSG$01B1E1,80]
+Foi aqui que aqueles estudantes invocaram um dem\nio pela `ltima vez, h# 12 anos... 
+
+[MSG$01B23E,37]
+Este lugar ainda me d# arrepios. 
+
+[MSG$01B270,75]
+O ar mofado e frio, as manchas por toda a sala e os c%rculos m#gicos... 
+
+[MSG$01B2C0,53]
+Est=o todos aqui como se estivessem congelados no tempo... 
+
+[MSG$01B353,78]
+Ando em dire~=o ao centro da sala, olhando para o Livro de Magia em minhas m=os. 
+
+[MSG$01B3AE,82]
+O `ltimo ritual que conduziu quem leu esse livro ao seu destino final. 
+
+[MSG$01B40D,82]
+O poder com que todos os magos sonham. Controlar o mal, fazendo com que cumpra suas ordens. 
+
+[MSG$01B464,41]
+Assim como o rei Salom=o, h# muito, muito tempo atr#s... 
+
+[MSG$01B49A,63]
+Esta sala testemunhou como essas pessoas alcan~aram seus objetivos. 
+
+[MSG$01B4E6,31]
+Come~o a investigar o local. 
+
+[MSG$01B50A,113]
+Antes n=o sabia o que esperar, ent=o fiquei confuso. Foi por isso que n=o consegui dar uma boa olhada. 
+
+[MSG$01B588,45]
+Mas acabo n=o encontrando nada relevante.
+
+[MSG$01B5C2,70]
+A `nica coisa que descobri $ que h# sete grandes manchas de sangue aqui. 
+
+[MSG$01B615,53]
+Se bem me lembro, Saeki disse que eram 6. 
+
+[MSG$01B64F,82]
+Mas isso pode ser explicado assumindo que Saeki obteve informa~^es erradas. 
+
+[MSG$01B6AE,83]
+Minhas descobertas est=o abaixo das expectativas e fico perplexo na sala silenciosa. 
+
+[MSG$01B797,113]
+Decido tentar outra coisa e desembrulho o livro. Folheando as p#ginas, encontro a se~=o sobre rituais. 
+
+[MSG$01B815,65]
+Tudo que tenho para me ajudar a encontrar a verdade $ este livro, afinal... 
+
+[MSG$01B863,36]
+Chuto a poeira do ch=o. 
+
+[MSG$01B894,84]
+A poeira sobe no ar, revelando o contorno n%tido de um c%rculo m#gico. 
+
+[MSG$01B8ED,73]
+Dou uma olhada mais de perto e descubro que $ igual ao do livro. 
+
+[MSG$01B943,57]
+Ent=o pego a espada em forma de cruz que est# no ch=o. 
+
+[MSG$01B981,43]
+A letra ''A'' est# gravada na ponta do cabo. 
+
+[MSG$01B9B9,61]
+Eu o seguro e entro lentamente no c%rculo m#gico. 
+
+[MSG$01BA80,95]
+Tenho a espada numa m=o e o livro na outra. Experimento o in%cio do ritual. 
+
+[MSG$01BAEC,78]
+Tra~o a borda do c%rculo branco no ch=o com a ponta da espada. 
+
+[MSG$01BB3F,97]
+Claro, s& estou fazendo isso de maneira casual. N=o tenho inten~=o de abrir o portal... 
+
+[MSG$01BBAD,58]
+Mas, antes que perceba, estou recitando o c@ntico. 
+
+[MSG$01BBF4,54]
+Minase "> Senhor, estamos prestes a voar em dire~=o ao teu poder. 
+
+[MSG$01BC2F,44]
+> Senhor, pedimos que reconhe~as o nosso trabalho." 
+
+[MSG$01BC75,50]
+Nesse momento, sinto uma tens=o no ar. 
+
+[MSG$01BCAC,20]
+Continuo a entoar. 
+
+[MSG$01BCCD,85]
+Minase "Esse poder que usamos agora n=o $ mais do que a poeira que gira no vento. 
+
+[MSG$01BD27,111]
+E seremos visitados por um Anjo de Deus. Extinga as trevas e persiga o Anjo de Deus por toda a eternidade." 
+
+[MSG$01BDB0,62]
+Minase "Alfa, Omega, Elohi, Elohim, Sabaoth, Elion, Sadai..."
+
+[MSG$01BE08,53]
+N=o h# janelas nesta sala, mas sinto um vento.
+
+[MSG$01BE4A,67]
+Ignorando tudo, uso a espada para tra~ar o c%rculo no sentido hor#rio.
+
+[MSG$01BE9A,87]
+O som da l@mina arranhando se mistura com a minha voz recitando o c@ntico, 
+
+[MSG$01BEF6,67]
+criando um ritmo estranho que ecoa pela sala fechada... 
+
+[MSG$01BF46,39]
+Fora de mim, continuo com o encantamento. 
+
+[MSG$01BF7A,52]
+Minase "Abriremos o livro com os Sete Selos. 
+
+[MSG$01BFB3,77]
+Veremos Satan#s quando ele cair do c$u para a terra em um rel@mpago." 
+
+[MSG$01C01A,96]
+Minase "Voc] nos dotou com o poder de destruir drag^es, escorpi^es e todos os seus inimigos. 
+
+[MSG$01C07F,48]
+N=o existe nada que possa nos colocar em perigo..." 
+
+[MSG$01C0C9,77]
+Minase "Elohi, Elohim, Sabaoth, Elion, Eschiros, Adonai, Jah, Tetragrammaton, 
+
+[MSG$01C11B,7]
+Sadai!" 
+
+[MSG$01C13C,56]
+E ent=o, o c%rculo m#gico come~a a brilhar em branco azulado. 
+
+[MSG$01C179,36]
+Percebo isso e continuo. 
+
+[MSG$01C1AA,50]
+Mas estou prestes a chegar [ parte principal do c@ntico. 
+
+[MSG$01C1E1,50]
+Se recitar mais, n=o poderei voltar... 
+
+[MSG$01C220,40]
+Sinto isso, mas n=o consigo me conter. 
+
+[MSG$01C255,91]
+Minase "> sacrif%cio vivo, salvador dos esp%ritos, tu que abrir#s os port^es do c$u. 
+
+[MSG$01C2B5,77]
+Nossos inimigos nos desafiam na batalha, portanto invocamos o teu poder e a tua ajuda."
+
+[MSG$01C31E,25]
+Voz "Pare a%!"
+
+[MSG$01C351,55]
+Ou~o uma voz gritando comigo da porta. 
+
+[MSG$01C395,11]
+Minase "!?" 
+
+[MSG$01C3AD,89]
+Paro de entoar. Saio do transe e olho para ver de quem era a voz que acabei de ouvir. 
+
+[MSG$01C49E,20]
+Minase "Kitami Sensei?" 
+
+[MSG$01C4CC,34]
+Kitami est# parada na porta.
+
+[MSG$01C4FB,61]
+Mas ela estava na enfermaria. Como pode estar aqui agora? 
+
+[MSG$01C53D,32]
+N=o me diga que ela me seguiu? 
+
+[MSG$01C56A,65]
+Mas, agora que penso nisso, tenho certeza que tranquei a porta. 
+
+[MSG$01C5B0,32]
+Ent=o, como ela entrou? 
+
+[MSG$01C5DD,33]
+Minase "O que est# fazendo aqui?" 
+
+[MSG$01C618,46]
+Kitami "Vim te resgatar, garoto ignorante..." 
+
+[MSG$01C660,67]
+Kitami "N=o me diga que pretendia invocar um dem\nio?" 
+
+[MSG$01C6BD,35]
+Perguntando isso, Kitami vem em minha dire~=o. 
+
+[MSG$01C6ED,51]
+Kitami "Faz tanto tempo que n=o vejo isso..." 
+
+[MSG$01C73A,51]
+Ela diz enquanto olha para o livro que estou segurando. 
+
+[MSG$01C77A,49]
+Kitami "Esse livro $ muito conveniente, sabe... 
+
+[MSG$01C7B0,91]
+Cont$m muitos segredos demon%acos que dizem ter sido transmitidos pelo Diabo..." 
+
+[MSG$01C825,114]
+Kitami "O fruto proibido por Deus. Aqueles humanos dos tempos b%blicos comeram o fruto proibido e sentiram a ira de Deus. 
+
+[MSG$01C89C,39]
+Eles foram amaldi~oados e expulsos do ;den." 
+
+[MSG$01C8DD,109]
+Kitami "Sabe por qu]? Aqueles que comem esse fruto tornam-se iguais a Deus. Como Deus era t=o medroso e ciumento, 
+
+[MSG$01C94F,82]
+ele tornou pecado com]-lo e usou isso como pretexto para expuls#-los. 
+
+[MSG$01C9BB,106]
+Kitami "Em outras palavras, esse livro $ o fruto proibido do conhecimento. E aqueles que comem deste fruto 
+
+[MSG$01CA2A,38]
+|podem se tornar mais pr&ximos de Deus." 
+
+[MSG$01CA6A,30]
+Minase "Como sabe disso?" 
+
+[MSG$01CAA2,55]
+Fico cauteloso com as palavras de Kitami enquanto agarro o Livro de Magia. 
+
+[MSG$01CAE6,90]
+Kitami "Porque pratico o que est# nesse livro. Voc] mesmo tentou us#-lo, n=o foi?" 
+
+[MSG$01CB5A,88]
+Kitami "Sou a `nica que testemunhou aquele ritual h# 12 anos do in%cio ao fim..." 
+
+[MSG$01CBCC,38]
+Com isso, Kitami sorri estranhamente. 
+
+[MSG$01CBF7,67]
+Do jeito que falou, $ como se ela fosse membro daquele cl=. 
+
+[MSG$01CC47,59]
+Minase "Todas as pessoas daquela $poca morreram, certo?" 
+
+[MSG$01CC9C,59]
+Kitami "Sim, morreram... Foi um banho de sangue aqui." 
+
+[MSG$01CCF1,59]
+N=o estou entendendo. Olho para ela com desconfian~a. 
+
+[MSG$01CD31,70]
+Kitami est# tentando me enganar. Est# usando suas palavras para me confundir. 
+
+[MSG$01CD84,96]
+Kitami "N=o me olhe assim. Pare~o um fantasma? Tenho dois p$s, est# vendo?" 
+
+[MSG$01CDFE,45]
+Ela d# um sorriso frio ao dizer isso. 
+
+[MSG$01CE38,104]
+Ela disse que tamb$m usa o poder. Se for esse o caso, ela sabe mais sobre esse livro do que eu? 
+
+[MSG$01CEA5,102]
+N=o acredito que havia mais algu$m na escola, que sabia desse livro. 
+
+[MSG$01CF18,98]
+Minase "Ent=o, que tipo de neg&cio uma bruxa quer comigo? Voc] veio buscar o livro de volta?" 
+
+[MSG$01CF95,27]
+Kitami "N=o, nada disso."
+
+[MSG$01CFCA,94]
+Kitami "Se quiser o livro, pode ficar com ele. Mas s& se estiver do meu lado, $ claro." 
+
+[MSG$01D042,34]
+Minase "O que quer dizer com isso?" 
+
+[MSG$01D07E,33]
+Kitami "Vim te convidar." 
+
+[MSG$01D0B9,19]
+Minase "Convidar?" 
+
+[MSG$01D0E6,22]
+Kitami "Isso mesmo." 
+
+[MSG$01D116,90]
+Kitami "Voc] $ algu$m que foi atra%do pela magia, assim como eu. Vim para salv#-lo." 
+
+[MSG$01D18A,50]
+Kitami olha direto nos meus olhos enquanto diz isso. 
+
+[MSG$01D1C9,68]
+Kitami "Voc] quer descobrir a verdade. A verdade sobre este mundo." 
+
+[MSG$01D227,108]
+Kitami "Ter o poder de um deus. O poder divino que nenhum humano espera ter." 
+
+[MSG$01D2DF,75]
+Kitami "Se desejar, pode usufruir dele. Assim como eu." 
+
+[MSG$01D344,43]
+O sorriso de Kitami distorce sua boca. 
+
+[MSG$01D37C,11]
+Minase "!?" 
+
+[MSG$01D394,71]
+Kitami "Sim... h# 12 anos, adquiri esse poder aqui mesmo." 
+
+[MSG$01D3F5,75]
+Kitami "H# 12 anos, vi o Inferno com meus pr&prios olhos... O Inferno deste mundo." 
+
+[MSG$01D45A,83]
+Kitami "E enquanto estava naquele Inferno fiz um pacto com o Diabo." 
+
+[MSG$01D4C7,73]
+Quer dizer que ela adquiriu o poder de Governante do Inferno durante aquele ritual?! 
+
+[MSG$01D51D,24]
+Imposs%vel... 
+
+[MSG$01D53A,34]
+Quero dizer, o ritual n=o foi um fracasso? 
+
+[MSG$01D569,38]
+Kitami "Voc] n=o acredita em mim, n=o $?" 
+
+[MSG$01D5A9,84]
+Kitami "Mas eu sobrevivi ao ritual. Sou a `nica sobrevivente daquela sess=o no Inferno..." 
+
+[MSG$01D617,81]
+Kitami "Voc] n=o quer esse poder tamb$m? Mais poder do que pode imaginar?" 
+
+[MSG$01D682,105]
+Kitami "; o tipo de poder com o qual todos os magos sonham. Toda entidade viva se curvar# diante de voc].
+
+[MSG$01D6F0,30]
+Se $ isso que deseja, o mundo inteiro..."
+
+[MSG$01D728,91]
+Kitami "Se fizer o que digo, posso te mostrar esse sonho. Claro, n=o h# nada a temer." 
+
+[MSG$01D79D,32]
+Kitami morde o l#bio. 
+
+[MSG$01D7CA,62]
+Kitami "Se voc] se tornar meu parceiro, isso vai me aliviar." 
+
+[MSG$01D822,100]
+Kitami "Voc] s& precisa fazer o que digo. Isso $ tudo que precisa fazer para adquirir poder e prazer." 
+
+[MSG$01D8A0,98]
+Kitami "; um contrato. Voc] deseja... eu forne~o. Mas tem que satisfazer todos meus desejos..." 
+
+[MSG$01D90F,69]
+Kitami "Apenas fa~a o que digo. Juntos podemos inaugurar um novo mil]nio." 
+
+[MSG$01D96E,78]
+Kitami "Ent=o... o que vai ser, Minase? Agora quero ouvir sua resposta."
+
+[MSG$01DA16,21]
+Minase "Tudo bem..."
+
+[MSG$01DA45,58]
+Incapaz de resistir mais, cedi a Kitami.
+
+[MSG$01DA8C,52]
+A partir daqui, eu poderia voar o mais longe que pudesse.
+
+[MSG$01DAC5,76]
+Mesmo que minha mente tente rejeit#-la, meu corpo tem outros planos.
+
+[MSG$01DB1E,52]
+A partir do momento em que me convenci do poder do livro, 
+
+[MSG$01DB57,85]
+eu sabia em algum lugar l# no fundo que n=o seria capaz de resistir...
+
+[MSG$01DBB9,111]
+Acontece que sou igual [queles alunos de 12 anos atr#s. N=o ficarei satisfeito a menos que v# at$ o fim. 
+
+[MSG$01DC2D,32]
+Mesmo que seja o caminho para o inferno... 
+
+[MSG$01DC5A,31]
+Kitami "Estou feliz que voc] disse sim." 
+
+[MSG$01DC93,105]
+Kitami "Tudo bem, vou te ensinar tudo o que sei... Sobre as maravilhas das Artes das Trevas." 
+
+[MSG$01DD16,29]
+Kitami "Agora, venha aqui." 
+
+[MSG$01DD4D,57]
+Inst#vel, caio em seus bra~os sem oferecer resist]ncia. 
+
+[MSG$01DD8B,56]
+Ela coloca a m=o no meu pesco~o e cola a sua boca na minha...
+
+[MSG$01DEC3,16]
+Minase "(gulps)"
+
+[MSG$01DEED,20]
+Smack...smack... 
+
+[MSG$01DF0E,58]
+Logo, a l%ngua comprida da Kitami for~a a passagem entre os meus l#bios.
+
+[MSG$01DF55,15]
+Kitami "Hmm..." 
+
+[MSG$01DF7E,18]
+Minase "(Engolindo)" 
+
+[MSG$01DFAA,72]
+Ter a l%ngua de outra pessoa rastejando por dentro da minha boca... 
+
+[MSG$01DFF7,27]
+Foi uma sensa~=o estranha. 
+
+[MSG$01E01F,61]
+N=o consigo resistir, ent=o deixo que ela fa~a o que quiser comigo. 
+
+[MSG$01E061,52]
+E logo estou intoxicado com a doce sensa~=o... 
+
+[MSG$01E0A2,81]
+Nossas l%nguas eventualmente se entrela~am e a saliva se mistura em nossas bocas. 
+
+[MSG$01E0F8,19]
+Eu chupo com avidez. 
+
+[MSG$01E118,66]
+Ficamos assim por um longo tempo, at$ que Kitami me liberta. 
+
+[MSG$01E1E0,14]
+Minase 'Ah..." 
+
+[MSG$01E208,29]
+Nos afastamos um do outro. 
+
+[MSG$01E22A,77]
+Um fio de saliva se estende entre n&s. Caio no ch=o. 
+
+[MSG$01E284,28]
+Minase "(respirando pesadamente)" 
+
+[MSG$01E2BA,73]
+Kitami "Agora, tire a roupa. Mostre tudo o que voc] tem!" 
+
+[MSG$01E396,26]
+Deixei Kitami me despir... 
+
+[MSG$01E3BD,59]
+Ela joga minhas cal~as, minha jaqueta e meu short no ch=o. 
+
+[MSG$01E405,23]
+Logo estou completamente nu... 
+
+[MSG$01E429,73]
+Fico envergonhado porque minha virilha est# [ vista, ent=o a cubro com a m=o. 
+
+[MSG$01E47F,77]
+Kitami "Voc] n=o pode fazer nada se sua m=o estiver a%. Vamos, fora do caminho!" 
+
+[MSG$01E55F,12]
+Minase "Ah!" 
+
+[MSG$01E585,27]
+Kitami afasta minha m=o. 
+
+[MSG$01E5AD,58]
+Kitami "Bem, agora... voc] tem um equipamento muito bom a%."
+
+[MSG$01E601,49]
+Kitami "E j# est# duro por antecipa~=o." 
+
+[MSG$01E64C,59]
+Meu pau est# ereto desde o nosso beijo agora h# pouco. 
+
+[MSG$01E694,47]
+Kitami "Primeiro de tudo, vou te comer." 
+
+[MSG$01E6DD,59]
+Com isso, ela empurra os l#bios contra a ponta do meu pau. 
+
+[MSG$01E79E,53]
+Meu p]nis r%gido desaparece gradualmente dentro de sua boca. 
+
+[MSG$01E7E0,14]
+Minase "Uau!" 
+
+[MSG$01E808,55]
+Kitami manipula habilmente meu pau dentro de sua boca. 
+
+[MSG$01E84C,13]
+Ela $ boa... 
+
+[MSG$01E866,55]
+Ela envolve sua l%ngua quente em volta do meu p]nis, chupando com for~a. 
+
+[MSG$01E8A2,61]
+De vez em quando, ela estimula minha uretra com a l%ngua. 
+
+[MSG$01E8EC,99]
+O prazer $ t=o intenso que estou pronto para derreter. Estou atordoado enquanto me deixo perder no ]xtase. 
+
+[MSG$01E954,84]
+Se for para ter um gostinho disso, at$ que sucumbir [s Artes das Trevas n=o $ t=o ruim assim... 
+
+[MSG$01EA2E,27]
+Esmague... esmague... esmague... 
+
+[MSG$01EA56,39]
+Kitami agarra minhas bolas com a m=o livre. 
+
+[MSG$01EA82,75]
+Enquanto continua acariciando meu pau na boca, ela massageia minhas bolas. 
+
+[MSG$01EADA,28]
+Minase "(Respirando pesadamente)" 
+
+[MSG$01EB10,31]
+Kitami "Se solte... deixe sair." 
+
+[MSG$01EB49,69]
+Kitami "Voc] n=o vai ficar satisfeito s& uma vez, certo?" 
+
+[MSG$01EBA8,54]
+Minase "(Respirando pesadamente) N=o aguento mais!" 
+
+[MSG$01EBF8,38]
+Kitami "Quer que eu engula?" 
+
+[MSG$01EC58,48]
+Minase "Engula... r#pido... vou..." 
+
+[MSG$01ECA2,65]
+Digo isso, tentando desesperadamente conter minha vontade de ejacular. 
+
+[MSG$01ECF0,34]
+Kitami "Acho que n=o tenho escolha." 
+
+[MSG$01EDA9,76]
+Mais uma vez ela empurra a boca contra meu pau e lentamente o desliza para dentro. 
+
+[MSG$01EE02,8]
+Slurp... 
+
+[MSG$01EE17,34]
+Minase "N=o aguento mais!" 
+
+[MSG$01EF45,21]
+Tchock! Tchock! Tchock!
+
+[MSG$01EF67,26]
+Minase "Ah! Uau! Ahhh!" 
+
+[MSG$01EF9B,75]
+Assim que ela coloca meu pau na boca, come~o a ejacular implacavelmente. 
+
+[MSG$01EFF3,48]
+Estou me contorcendo quando come~o a disparar. 
+
+[MSG$01F030,13]
+Gulp, gulp... 
+
+[MSG$01F04A,77]
+Enquanto sua boca se enche com o esperma com cheiro inebriante, ela engole ruidosamente. 
+
+[MSG$01F0A4,19]
+Glub, glu, glu... 
+
+[MSG$01F0C4,53]
+A estimula~=o $ t=o forte que n=o consigo parar de ejacular. 
+
+[MSG$01F106,119]
+H# tanto esperma e estou a disparar com tanta for~a que come~a a transbordar da boca de Kitami, escorrendo pelo seu queixo. 
+
+[MSG$01F182,54]
+Ela n=o aguenta e tira meu pau da boca. 
+
+[MSG$01F23E,8]
+Respingo... 
+
+[MSG$01F253,18]
+Kitami "(engasgando)" 
+
+[MSG$01F27F,63]
+Kitami "S$rio! Isso $ muito esperma, n=o consigo engolir tudo isso!" 
+
+[MSG$01F2D8,88]
+Com isso, Kitami come~a a lamber o s]men grosso e branco que se acumula ao redor de sua boca. 
+
+[MSG$01F33D,35]
+Kitami "Voc] ainda est# atirando." 
+
+[MSG$01F37A,71]
+Depois de sair da boca de Kitami, meu pau continua a borrifar esperma. 
+
+[MSG$01F3CE,28]
+Minase "(respirando pesadamente)" 
+
+[MSG$01F404,52]
+Estou completamente acabado e caio de exaust=o. 
+
+[MSG$01F450,40]
+Minase "Posso... gozar em cima de voc]?" 
+
+[MSG$01F492,65]
+Digo isso, tentando desesperadamente conter minha vontade de ejacular. 
+
+[MSG$01F4E0,29]
+Kitami "Tudo bem, v# em frente."
+
+[MSG$01F517,34]
+Kitami "Cubra-me com seu suco..." 
+
+[MSG$01F553,75]
+N=o aguento mais e come~o a me masturbar com meu pau nas m=os. 
+
+[MSG$01F5AB,16]
+Esfregue, esfregue, esfregue... 
+
+[MSG$01F5C8,66]
+J# estou estimulado, ent=o n=o falta muito para gozar. 
+
+[MSG$01F617,26]
+Minase "N=o consigo segurar!" 
+
+[MSG$01F73D,21]
+Tchock! Tchock! Tchock!
+
+[MSG$01F75F,26]
+Minase "Ah! Uau! Ahhh!" 
+
+[MSG$01F793,38]
+Pulverizo meu esperma por todo o corpo de Kitami. 
+
+[MSG$01F7BE,79]
+Estou me contorcendo e ejaculando ao mesmo tempo. Estou desmaiando de prazer. 
+
+[MSG$01F81A,22]
+Espalhe, espalhe, espalhe... 
+
+[MSG$01F83D,55]
+Meu esperma branco espumoso chove em seu rosto e seios. 
+
+[MSG$01F879,33]
+Ela nem tenta se esquivar. 
+
+[MSG$01F8A7,19]
+Glub, glu, glu... 
+
+[MSG$01F8C7,53]
+A estimula~=o $ t=o forte que n=o consigo parar de ejacular. 
+
+[MSG$01F909,37]
+O esperma come~a a escorrer pelo seu corpo. 
+
+[MSG$01F933,51]
+Seu rosto j# est# coberto de suco espesso. 
+
+[MSG$01F9EC,86]
+Kitami "Isso $ muita porra. Olhe meu rosto, est# todo molhado e pegajoso por sua causa." 
+
+[MSG$01FA5C,76]
+Dizendo isso, ela lambe o s]men que escorre pelo rosto perto da boca. 
+
+[MSG$01FAB5,33]
+Kitami "E voc] ainda vem." 
+
+[MSG$01FAF0,59]
+Ainda h# um pouco de suco jorrando da ponta do meu pau. 
+
+[MSG$01FB38,28]
+Minase "(respirando pesadamente)" 
+
+[MSG$01FB6E,52]
+Estou totalmente exausto e caio de imediato. 
+
+[MSG$01FC2B,59]
+Kitami "Tudo bem, agora vou te comer com minha buceta." 
+
+[MSG$01FC80,33]
+Dizendo isso, Kitami lambe os l#bios. 
+
+[MSG$01FCAE,36]
+Mas meu pau est# come~ando a amolecer. 
+
+[MSG$01FCD7,86]
+N=o pode ser ajudado, j# que gozei com tanta for~a agora h# pouco. De jeito nenhum posso fazer isso de novo t=o cedo... 
+
+[MSG$01FD3A,32]
+Minase "Deixe-me descansar um minuto..." 
+
+[MSG$01FD74,62]
+Kitami "N=o seja t=o covarde. N&s apenas come~amos." 
+
+[MSG$01FDCC,41]
+Minase "Mas n=o posso fazer isso de novo t=o cedo." 
+
+[MSG$01FE0F,42]
+Kitami "N=o se preocupe, deixe comigo." 
+
+[MSG$01FE53,87]
+Com isso, Kitami agarra meu pau, enche a boca de saliva e come~a a cuspir 
+
+[MSG$01FEAF,12]
+no meu p]nis. 
+
+[MSG$01FEC8,35]
+Kitami "> Uvall, Amon, Astaroth..." 
+
+[MSG$01FF05,77]
+Enquanto sussurra, ela come~a a bombear meu pau, agora brilhando com sua saliva. 
+
+[MSG$01FF5F,25]
+Esmague, esmague, esmague... 
+
+[MSG$01FF85,90]
+A saliva tem um efeito lubrificante. Sua m=o escorrega e desliza enquanto ela continua a me esfregar. 
+
+[MSG$01FFEC,69]
+Na medida que ela continua o trabalho manual, meu pau fica ainda mais duro do que antes. 
+
+[MSG$020036,68]
+As veias est=o distendidas e se contraem como se eu estivesse prestes a gozar. 
+
+[MSG$020087,38]
+Kitami "Agora voc] consegue, n=o $?" 
+
+[MSG$0200C7,60]
+Meu pau fica ereto em suas m=os. Todo o meu corpo est# formigando. 
+
+[MSG$020110,72]
+Ela v] o que est# acontecendo, solta meu p]nis e arranca a roupa. 
+
+[MSG$0201EE,51]
+O corpo bem constru%do de Kitami est# exposto diante dos meus olhos. 
+
+[MSG$02022E,7]
+Gulp... 
+
+[MSG$020242,20]
+Engulo em seco com a vis=o. 
+
+[MSG$020263,62]
+Bem na frente, bem ao meu alcance, est# a virilha obscena de Kitami. 
+
+[MSG$0202A6,70]
+Meu pau fica ainda mais ereto quando prevejo me empurrar para dentro. 
+
+[MSG$0202F9,41]
+Minase "Deixa... deixa eu colocar meu pau dentro." 
+
+[MSG$02033C,41]
+Falo sem nem pensar nisso. 
+
+[MSG$020372,87]
+Kitami "Quer colocar isso em mim? Quer colocar essa coisa nojenta e ingurgitada dentro de mim?" 
+
+[MSG$0203E3,21]
+Minase "Sim, eu quero..."
+
+[MSG$020412,49]
+Estou implorando a ela. ; como se eu estivesse sendo manipulado. 
+
+[MSG$020450,58]
+Kitami "O que voc] diz quando pede um favor a algu$m?" 
+
+[MSG$0204A4,46]
+Minase "Por favor, deixa eu colocar meu pau dentro de voc]." 
+
+[MSG$0204EC,65]
+Sei o qu=o rid%culo deve parecer, mas imploro em tom queixoso. 
+
+[MSG$020532,86]
+No momento, tudo que consigo pensar $ em meter na Kitami. Farei qualquer coisa se ela deixar. 
+
+[MSG$020595,21]
+Kitami "Tudo bem..." 
+
+[MSG$0205C4,53]
+Kitami "Mas primeiro, vai ter que me lamber aqui embaixo." 
+
+[MSG$020613,49]
+Fa~o o que ela diz e abaixo a cabe~a at$ sua virilha. 
+
+[MSG$020651,8]
+Slurp... 
+
+[MSG$020666,68]
+Beijo o monte sens%vel da sua vulva e encaixo a minha boca. 
+
+[MSG$0206AF,55]
+Ent=o come~o a lamber sua fenda como um cachorro. 
+
+[MSG$0206F3,13]
+Lambe, lambe... 
+
+[MSG$020786,16]
+Kitami "Ahhh..." 
+
+[MSG$0207B0,59]
+Imediatamente o suco dela come~a a fluir e atinge minha l%ngua. 
+
+[MSG$0207F0,56]
+Deixei minha l%ngua percorrer toda sua fenda, lambendo-a. 
+
+[MSG$020835,90]
+Kitami "Mmm... Mete toda a sua l%ngua a%. Quero que me lamba completamente por dentro tamb$m." 
+
+[MSG$0208A9,75]
+Fa~o o que ela diz, mostrando a l%ngua e empurrando-a para dentro de sua fenda. 
+
+[MSG$0208F9,55]
+Afasto seus l#bios e minha l%ngua desaparece por dentro. 
+
+[MSG$02093D,7]
+Lamber... 
+
+[MSG$020951,101]
+Passo minha l%ngua por toda sua vagina. Ao mesmo tempo estimulo seu clit&ris com a ponta do nariz. 
+
+[MSG$0209C3,55]
+Kitami "Isso $ &timo...Voc] $ muito bom nisso!" 
+
+[MSG$020A14,14]
+Glub...glob... 
+
+[MSG$020A2F,42]
+Continuo a com]-la fora por muito tempo. 
+
+[MSG$020A5E,83]
+Kitami come~a a respirar pesadamente enquanto eu enterro minha cabe~a em sua virilha, totalmente fora de si. 
+
+[MSG$020ABE,36]
+Kitami "Estou quase pronto agora..." 
+
+[MSG$020AFC,67]
+Retiro minha boca da #rea de sua virilha como se estivesse sendo arrancada. 
+
+[MSG$020B44,66]
+A #rea ao redor da minha boca est# pegajosa de saliva e suco de Kitami. 
+
+[MSG$020B93,55]
+Kitami "Tudo bem, agora vou limpar seu corpo." 
+
+[MSG$020BE4,13]
+Minase "...?" 
+
+[MSG$020BFE,55]
+Kitami "Voc] vai ser batizado com meu Fluido Sagrado..." 
+
+[MSG$020C4F,31]
+Kitami "Fique quieto agora. Ahhh!" 
+
+[MSG$020D11,8]
+Jorro... 
+
+[MSG$020D26,10]
+(Pulveriza~=o) 
+
+[MSG$020D3D,62]
+Kitami "Eu batizo este homem, Taki Minase, em meu nome..." 
+
+[MSG$020D95,23]
+Esguicho, esguicho, esguicho! 
+
+[MSG$020DB9,20]
+Minase "Uau! Augh!" 
+
+[MSG$020DE7,95]
+De repente, um fluxo de fluido cor de @mbar sai da fenda de Kitami, respingando em meu rosto. 
+
+[MSG$020E53,41]
+Kitami "Vamos, beba. Beba agora!" 
+
+[MSG$020E96,48]
+Levanto o rosto e pego o spray na boca. 
+
+[MSG$020ED3,30]
+Minase "(engolindo e engasgando)" 
+
+[MSG$020F0B,94]
+Kitami "> Governante Todo-Poderoso do Inferno, voc] nos aben~oou com a capacidade de reproduzir infinitamente. 
+
+[MSG$020F6E,77]
+Que aqueles que desejam juntar-se a n&s renas~am pela gra~a desta #gua batismal, 
+
+[MSG$020FC0,110]
+e para que eles se tornem um de seus filhos amados, conceda-lhes agora maior conhecimento de seus ensinamentos." 
+
+[MSG$021048,71]
+Kitami "Pe~o isso em nome de nossos grandes governantes, Astaroth, Belzebub, 
+
+[MSG$021094,15]
+e L`cifer..." 
+
+[MSG$021136,16]
+Respingo... respingo... 
+
+[MSG$021153,31]
+Minase "(tossindo e engolindo em seco)" 
+
+[MSG$02118C,57]
+Ela terminou de mijar e estou liberado da minha tarefa. 
+
+[MSG$0211CA,76]
+Bebi tanto que quando arroto fica com gosto de urina. N=o consigo parar de engasgar. 
+
+[MSG$021223,41]
+Kitami "Muito bem. Agora voc] $ um de n&s." 
+
+[MSG$021266,53]
+Kitami "Ok, agora $ a minha vez de deixar voc] entrar em mim."
+
+[MSG$0212B5,50]
+Com isso, ela coloca meu pau contra sua virilha. 
+
+[MSG$0212F4,55]
+Kitami "Vou te dar o maior prazer..." 
+
+[MSG$021345,74]
+Kitami "O tipo de prazer que voc] normalmente n=o experimentaria. 
+
+[MSG$021394,46]
+N=o se contenha... fique t=o excitado quanto quiser. 
+
+[MSG$0213DC,38]
+Com isso, Kitami afunda lentamente... 
+
+[MSG$0214B1,16]
+Kitami "Ah..." 
+
+[MSG$0214DB,16]
+Glub, glu, glu 
+
+[MSG$0214F8,16]
+Minase "Ah..." 
+
+[MSG$021522,38]
+Meu pau est# espetando a virilha de Kitami. 
+
+[MSG$021555,105]
+A cabe~a do meu p]nis empurra sua fenda. Eu vejo isso desaparecer lentamente dentro dela, e uma sensa~=o de 
+
+[MSG$0215C3,67]
+um prazer intenso toma conta da minha virilha at$ que estou pronta para desmaiar. 
+
+[MSG$021613,94]
+Uma onda de prazer maior do que aquela que senti quando ela me deu movimentos de cabe~a sobre meu corpo. 
+
+[MSG$021707,48]
+Kitami "Bem? Qual $ a sensa~=o de estar dentro de mim?" 
+
+[MSG$021751,61]
+Ela est# olhando para mim com um sorriso obsceno no enquanto eu desmaio. 
+
+[MSG$021793,72]
+Eu olho para baixo e vejo que meu pau est# inserido em sua vagina at$ o fim. 
+
+[MSG$0217E8,32]
+Minase "$ uma sensa~=o... muito boa." 
+
+[MSG$021822,20]
+Eu respondo com um gemido. 
+
+[MSG$021843,26]
+Se eu perder o foco eu irei. 
+
+[MSG$021862,98]
+A vagina de Kitami parece ter vida pr&pria. Ele envolve meu pau, se contorcendo o tempo todo... 
+
+[MSG$0218D1,58]
+Kitami "Vou me mudar agora... mantenha a cabe~a voltada para voc]." 
+
+[MSG$021925,53]
+Com isso, Kitami come~a a se agitar lentamente para cima e para baixo. 
+
+[MSG$021967,18]
+Esmague... esmague... 
+
+[MSG$021986,14]
+Minase "Uau!" 
+
+[MSG$0219AE,70]
+No segundo em que ela come~a a se mover, come~o a ter convuls^es devido [ estimula~=o. 
+
+[MSG$0219F9,61]
+; como se todo o meu corpo tivesse se tornado um grande &rg=o sexual. 
+
+[MSG$021A43,56]
+Kitami "Bem... eu apenas comecei, voc] sabe." 
+
+[MSG$021A95,25]
+Esmague, esmague, esmague... 
+
+[MSG$021ABB,66]
+Tal como ela disse, $ um prazer t=o intenso que estou prestes a desmaiar. 
+
+[MSG$021B02,78]
+Sinto que meu c$rebro vai derreter. Cheguei perto de desmaiar in`meras vezes. 
+
+[MSG$021B5D,45]
+Deitamo-nos juntos no topo do c%rculo m#gico... 
+
+[MSG$021B8F,84]
+Estou me contorcendo em cima daquele diagrama misterioso. $ como se eu estivesse sendo estuprada por Kitami. 
+
+[MSG$021BF0,67]
+Um padre sendo estuprado pelo diabo... essa $ a descri~=o perfeita. 
+
+[MSG$021C40,92]
+Estou deitado embaixo de Kitami e n=o tenho escolha a n=o ser deix#-la fazer o que quiser comigo. 
+
+[MSG$021CA1,28]
+Eu n=o consigo nem me mover sozinho. 
+
+[MSG$021CC2,33]
+Se eu tentasse, chegaria em um segundo. 
+
+[MSG$021CF0,82]
+N&s dois estamos gemendo, e o som de nossas vozes ecoa pela sala como um canto. 
+
+[MSG$021D4F,55]
+Kitami "Bem? Este n=o $ o melhor sexo que voc] j# fez?" 
+
+[MSG$021DA0,62]
+Minase "$ o melhor, tudo bem. N=o aguento mais!" 
+
+[MSG$021DF8,40]
+Kitami "Voc] n=o pode vir ainda. Aguente firme!" 
+
+[MSG$021E3A,55]
+Minase "Mas voc] n=o entende... n=o consigo segurar!" 
+
+[MSG$021E8B,108]
+Kitami "N=o se preocupe. Todos os seus sentidos est=o sob meu controle. Mesmo se quiser vir, n=o ser# poss%vel 
+
+[MSG$021EFC,23]
+|a menos que eu queira que voc] fa~a isso." 
+
+[MSG$021F2D,36]
+Minase "Do que voc] est# falando?" 
+
+[MSG$021F6B,63]
+Mas pensando bem, embora eu tenha tido vontade de vir, 
+
+[MSG$021FAF,65]
+continuo tendo a sensa~=o de que estou sendo for~ado a me conter. 
+
+[MSG$021FFD,50]
+E o prazer continua diminuindo e fluindo tamb$m. 
+
+[MSG$022034,33]
+Tudo porque ela est# me controlando? 
+
+[MSG$022062,108]
+Kitami "Ent=o? Normalmente, voc] teria vindo h# muito tempo. Mas estou esticando, fazendo voc] durar um pouco mais." 
+
+[MSG$0220E8,33]
+Kitami "Muito estimulante, n$?"
+
+[MSG$022123,36]
+Ela balan~a os quadris enquanto diz isso. 
+
+[MSG$022154,44]
+Desesperadamente tento suportar o est%mulo. 
+
+[MSG$02218D,84]
+N=o h# como me livrar desse prazer torturante, a menos que eu goze. 
+
+[MSG$0221E6,37]
+Mas como ela n=o me permite ir, 
+
+[MSG$022210,36]
+N=o tenho escolha a n=o ser me conter... 
+
+[MSG$022241,34]
+Mas j# cheguei ao meu limite. 
+
+[MSG$022268,52]
+Se eu segurar por mais tempo, vou enlouquecer. 
+
+[MSG$0222A9,42]
+Minase "Deixe-me ir agora! Estou ficando louco!" 
+
+[MSG$0222ED,32]
+Desesperadamente, imploro a Kitami. 
+
+[MSG$022312,73]
+Se ela continuar me enrolando assim, sei que vou enlouquecer. 
+
+[MSG$022368,99]
+; como se eu chapado por alguma droga pesada... Esse prazer que n=o consigo me controlar 
+
+[MSG$0223D0,46]
+|excedeu em muito os limites da racionalidade... 
+
+[MSG$02240B,40]
+Kitami "Ent=o voc] est# quase no seu limite?" 
+
+[MSG$02244D,48]
+Kitami "Tudo bem ent=o, vou deixar voc] vir agora." 
+
+[MSG$022497,75]
+Kitami "Vou at$ deixar voc] gozar dentro de mim. Isso n=o te deixa feliz?" 
+
+[MSG$0224FC,52]
+Minase "Me deixa muito feliz... ent=o deixe-me ir agora!" 
+
+[MSG$02254A,43]
+Kitami "Tudo bem. Deixe tudo sair de uma vez!" 
+
+[MSG$02258F,54]
+Com isso, Kitami come~a a movimentar os quadris ainda mais r#pido. 
+
+[MSG$0225CA,46]
+Ao mesmo tempo, meu orgasmo atinge o pico de uma s& vez. 
+
+[MSG$022605,27]
+Espalhe! Espalhe! Espalhe! Espalhe! 
+
+[MSG$02262D,75]
+O som de nossos corpos batendo um no outro ecoa pela sala. 
+
+[MSG$022685,116]
+Kitami "Tudo bem, tudo bem! Voc] quer vir, n=o $? Quer descarregar seu esperma sujo dentro de mim, n=o $? 
+
+[MSG$022713,42]
+Minase "Eu vou! Ah! Estou indo!" 
+
+[MSG$022757,69]
+Kitami "Venha para dentro de mim. Quero que voc] deixe tudo sair dentro do meu ventre!" 
+
+[MSG$0227B6,16]
+Minase "Ahhhh!" 
+
+[MSG$0227E0,118]
+Naquele instante, minha mente fica em branco. Ejaculo com tanta for~a dentro de Kitami que parece que meu pau vai explodir. 
+
+[MSG$0228DC,20]
+Pulsar, pulsar, pulsar! 
+
+[MSG$022976,63]
+Kitami "Posso sentir voc] chegando. Est# gozando por todo o meu ventre." 
+
+[MSG$0229CF,14]
+Minase "Ah!" 
+
+[MSG$0229F7,20]
+Jato! Espalhe! Espalhe! 
+
+[MSG$022A18,48]
+Eu continuo vindo. ; como se eu estivesse mijando. 
+
+[MSG$022A55,89]
+Continuo a borrifar esperma. A vagina de Kitami torce at$ a `ltima gota de s]men 
+
+[MSG$022AB3,18]
+| reunido dentro de mim. 
+
+[MSG$022AD2,37]
+Kitami "Oh, que coisa, voc] ainda vem." 
+
+[MSG$022B11,91]
+Kitami "Voc] $ meu servo agora. Tudo bem, vou lhe conceder o poder que prometi." 
+
+[MSG$022B86,77]
+Kitami "Voc] ainda $ muito inexperiente para ter um esp%rito de alto n%vel te servindo. 
+
+[MSG$022BD8,55]
+Ent=o vou dar a voc] meu pr&prio servo demon%aco, um Imp." 
+
+[MSG$022C29,47]
+Kitami "Este $ Rasha, o Diabrete. Aceite-o agora." 
+
+[MSG$022C72,48]
+A voz de Kitami atravessa a n$voa da minha mente. 
+
+[MSG$022CA7,85]
+Ainda n=o parei de gozar, e estou convulsionando e tremendo de prazer... 
+
+[MSG$022D09,94]
+Kitami "Assine esse pacto comigo. Jure que ser# leal e me trar# prazer..." 
+
+[MSG$022D81,52]
+Enquanto canta, ela empurra suas unhas compridas contra mim. 
+
+[MSG$022DC2,52]
+Suas unhas afiadas cravam em minha carne e tiram sangue... 
+
+[MSG$022E03,64]
+Ela co~a meu corpo com as unhas enquanto move as m=os. 
+
+[MSG$022E48,43]
+Tor~o meu corpo por causa da dor e do prazer. 
+
+[MSG$022F09,68]
+Quando ela deixa uma marca triangular no meu corpo, ela retira as m=os. 
+
+[MSG$022F52,54]
+O sangue est# pingando dos arranh^es no ch=o... 
+
+[MSG$022F95,106]
+Kitami "Isso finaliza nosso contrato. Voc] fez um pacto comigo. De agora em diante, meu servo dem\nio Rasha 
+
+[MSG$023004,26]
+| lhe emprestar# seu poder." 
+
+[MSG$023038,66]
+Kitami "Ele $ uma esp$cie de %ncubo, altamente qualificado na arte da lux`ria.
+
+[MSG$02307F,64]
+Como homem, tenho certeza que voc] encontrar# muita utilidade para ele, n=o $?" 
+
+[MSG$0230D9,38]
+Enquanto sussurra, ela lentamente se levanta. 
+
+[MSG$02310C,70]
+Meu pau, coberto pelo meu pr&prio esperma, desliza para fora, saltando da sua vagina. 
+
+[MSG$023157,63]
+Agora que foi retirado, meu p]nis ainda exala s]men. 
+
+[MSG$0231A3,67]
+Kitami "Parece que voc] ficou muito excitado. Isso me deixa feliz." 
+
+[MSG$023200,61]
+Quando ela se levanta, um jato de esperma sai de sua fenda. 
+
+[MSG$023242,48]
+Ele escorre pelas coxas e se acumula no ch=o. 
+
+[MSG$02327F,28]
+Minase "(respirando pesadamente)" 
+
+[MSG$0232B5,90]
+Kitami "O dia est# se aproximando... J# tenho todos os jogadores, agora s& me resta esperar." 
+
+[MSG$023329,106]
+Kitami "Mas antes de tudo, precisamos nos livrar dessas moscas chatas...ser# uma boa maneira de matar o tempo, 
+
+[MSG$023398,12]
+pelo menos..." 
+
+[MSG$0233BE,39]
+Kitami "Conto com voc], Minase..." 
+
+[MSG$0233FF,93]
+Fui libertado do meu prazer louco e caio na inconsci]ncia enquanto ela fala. 
+
+[MSG$0234F9,18]
+.................. 
+
+[MSG$023518,12]
+............ 
+
+[MSG$023531,6]
+...... 
+
+[MSG$02354F,23]
+Minase "Eu n=o vou fazer isso." 
+
+[MSG$023580,21]
+Eu rejeito o pedido dela. 
+
+[MSG$0235A2,62]
+O que ela est# me pedindo $ basicamente me tornar seu escravo. 
+
+[MSG$0235ED,88]
+N=o sei o que ela tem em mente, mas n=o tenho vontade de estar [ disposi~=o de Kitami. 
+
+[MSG$023652,92]
+Posso sentir que seria perigoso acreditar nela, que apareceu do nada. 
+
+[MSG$0236B3,60]
+De qualquer forma, nunca fui capaz de confiar na Kitami, por algum motivo... 
+
+[MSG$0236FC,42]
+Kitami "Por qu]? Por que voc] est# me recusando?" 
+
+[MSG$023740,87]
+Minase "N=o acha que $ demais me pedir para acreditar em uma hist&ria como essa?" 
+
+[MSG$0237B1,41]
+Minase "Eu n=o sei nada sobre voc]." 
+
+[MSG$0237F4,24]
+Kitami "Voc] est# com medo?" 
+
+[MSG$023826,12]
+Minase "..." 
+
+[MSG$02383F,39]
+Kitami "N=o se preocupe, pode confiar em mim." 
+
+[MSG$023880,51]
+Kitami "Eu sou o tipo de pessoa que voc] precisa agora." 
+
+[MSG$0238CD,101]
+Kitami "Voc] j# mordeu o fruto proibido. Pecadores como voc] merecem viver em um mundo
+
+[MSG$023937,14]
+|para transgressores." 
+
+[MSG$02395F,66]
+Com isso, ela d# um passo em minha dire~=o. Instintivamente, dou um passo para tr#s. 
+
+[MSG$0239AE,96]
+Ela olha diretamente para mim, e sou dominado pela sensa~=o de que ela est# me sugando diretamente com seus olhos. 
+
+[MSG$023A13,32]
+N=o adianta... n=o posso escapar...
+
+[MSG$023A40,72]
+Kitami "Quer me conhecer? Depois te conto tudo..." 
+
+[MSG$023AA2,68]
+Depois que diz isso, ela estende a m=o e a coloca sobre a minha virilha, 
+
+[MSG$023AEB,62]
+massageando at$ segurar meu pau. 
+
+[MSG$023B36,14]
+Minase "Ah..." 
+
+[MSG$023B5E,51]
+Kitami "Agora, voc] e eu vamos cair juntos..." 
+
+[MSG$023C15,17]
+Minase "Pare com isso!" 
+
+[MSG$023CD9,59]
+De repente, afasto Kitami, libertando-me de sua maldi~=o. 
+
+[MSG$023D21,59]
+Minase "Eu n=o vou ser seu escravo! V# procurar outra pessoa!" 
+
+[MSG$023D76,38]
+Digo isso a ela com convic~=o. 
+
+[MSG$023DA9,66]
+A `ltima coisa que quero $ ir para o inferno com essa professora. 
+
+[MSG$023DF0,42]
+Al$m disso, ainda n=o cheguei a esse n%vel. 
+
+[MSG$023E59,12]
+Kitami "..." 
+
+[MSG$023E72,63]
+Kitami me encara friamente, sem mover um m`sculo o tempo todo. 
+
+[MSG$023EBE,47]
+Depois de um sil]ncio, ela fala com voz mon&tona. 
+
+[MSG$023F07,60]
+Seus olhos est=o brilhando t=o friamente que faz minha pele arrepiar. 
+
+[MSG$023F50,79]
+Kitami "E eu tinha tantas expectativas em rela~=o a voc]... Que decep~=o." 
+
+[MSG$023FB9,81]
+N=o h# mais nenhum tra~o em sua voz da professora que ela supostamente $. 
+
+[MSG$024017,72]
+Se Kitami possui o Poder das Trevas, ent=o n=o sou p#reo para ela. 
+
+[MSG$024064,58]
+Ningu$m conhece a magnitude desse poder melhor do que eu... 
+
+[MSG$0240B6,12]
+Minase "..." 
+
+[MSG$0240CF,39]
+Afinal, n=o posso confiar nessa professora. 
+
+[MSG$0240FB,38]
+Eu a ignoro e caminho em dire~=o [ porta. 
+
+[MSG$024160,12]
+Kitami "..." 
+
+[MSG$024179,63]
+Kitami me encara friamente, sem mover um m`sculo o tempo todo. 
+
+[MSG$0241BD,81]
+No momento em que estendo a m=o em dire~=o [ ma~aneta, ela fala em voz baixa. 
+
+[MSG$02421B,29]
+Kitami "Entendo... que pena." 
+
+[MSG$024252,60]
+Seus olhos est=o brilhando t=o friamente que faz minha pele arrepiar. 
+
+[MSG$02429B,79]
+Kitami "E eu tinha tantas expectativas em rela~=o a voc]... Que decep~=o." 
+
+[MSG$024304,81]
+N=o h# mais nenhum tra~o em sua voz da professora que ela supostamente $. 
+
+[MSG$024362,72]
+Se Kitami possui o Poder das Trevas, ent=o n=o sou p#reo para ela. 
+
+[MSG$0243AF,58]
+Ningu$m conhece a magnitude desse poder melhor do que eu... 
+
+[MSG$0243F6,72]
+Kitami "Mas o problema $ que sempre posso encontrar algu$m para ocupar o seu lugar." 
+
+[MSG$024458,96]
+Percebo que Kitami est# se aproximando cada vez mais de mim. Abro impulsivamente o Livro de Magia. 
+
+[MSG$0244C5,54]
+Procuro desesperadamente por um feiti~o que me proteja. 
+
+[MSG$024500,63]
+Mas quanto mais fren$tico fico, mais dif%cil $ virar as p#ginas. 
+
+[MSG$02454C,101]
+Kitami "Isso n=o vai adiantar nada. Os feiti~os desse livro s& ter=o um efeito tempor#rio em mim." 
+
+[MSG$0245CB,59]
+Quando ou~o isso, paro de virar as p#ginas e olho para Kitami. 
+
+[MSG$024613,34]
+Minase "O que voc] quer de mim?" 
+
+[MSG$02464F,37]
+Kitami "Mudei de ideia, viu..." 
+
+[MSG$02468E,77]
+Kitami "Eu n=o estava planejando te matar, mas agora tenho vontade de abusar de voc]." 
+
+[MSG$0246F5,30]
+Dizendo isso, Kitami olha maliciosamente para mim. 
+
+[MSG$024720,16]
+Minase "Gulp!" 
+
+[MSG$02474A,41]
+Eu a amea~o com a espada na m=o. 
+
+[MSG$024780,27]
+Minase "Fique longe de mim!" 
+
+[MSG$0247B5,67]
+Kitami n=o se comove com a luz bruxuleante refletida na l@mina. 
+
+[MSG$0247FD,68]
+De repente, a espada n=o parece mais uma arma letal. 
+
+[MSG$02484E,56]
+Kitami "N=o se preocupe agora... sou muito boa em necromancia." 
+
+[MSG$0248A0,106]
+Kitami "Seu corpo f%sico se tornar# um recipiente para atender minhas ordens. Vou mant]-lo como meu animal de estima~=o."
+
+[MSG$024924,29]
+Minase "N=o mexa comigo!" 
+
+[MSG$02495B,31]
+Agito a espada descontroladamente. 
+
+[MSG$024987,15]
+Vrosh! Vrosh!
+
+[MSG$0249A3,12]
+Kitami "..."
+
+[MSG$0249BC,73]
+Kitami nem sequer recua. Ela est# t=o relaxada que tem um sorriso nos l#bios. 
+
+[MSG$024A12,61]
+Estou com tanto medo que des~o a espada em seu corpo. 
+
+[MSG$024AF5,6]
+Clang! 
+
+[MSG$024B08,78]
+Mas pouco antes de atingi-la, $ aparentemente desviada por alguma parede invis%vel, 
+
+[MSG$024B5B,36]
+e mergulha no ch=o com um estrondo. 
+
+[MSG$024B8C,16]
+Minase "O que $ isso!?" 
+
+[MSG$024BB6,17]
+Kitami "Huhuhu..." 
+
+[MSG$024BE1,17]
+Kitami "AHAHAHAHA!" 
+
+[MSG$024C0D,76]
+Estou atordoado. Posso ouvir a risada zombeteira de Kitami ecoando por toda a sala. 
+
+[MSG$024C66,74]
+Kitami "Idiota! Achou mesmo que poderia me machucar?" 
+
+[MSG$024CCA,65]
+Kitami "Vou mandar voc] lamentar sua estupidez no inferno!" 
+
+[MSG$024D25,41]
+Ao ouvir isso, tento fugir. 
+
+[MSG$024D53,92]
+Kitami est# falando s$rio. Al$m disso, esta mulher tem o poder de fazer exatamente o que disse que faria. 
+
+[MSG$024DBC,11]
+Minase "!!" 
+
+[MSG$024DD4,19]
+Minase "Puta merda!" 
+
+[MSG$024E01,70]
+; quando descubro que n=o consigo me mover. $ como se meu corpo estivesse congelado. 
+
+[MSG$024E4C,64]
+N=o importa o quanto eu tente seguir em frente, n=o movo um cent%metro. 
+
+[MSG$024E99,43]
+Kitami "N=o adianta. Voc] n=o pode escapar agora." 
+
+[MSG$024EDE,41]
+Com isso, Kitami olha para seus p$s. 
+
+[MSG$024F0C,20]
+Sigo o olhar dela... 
+
+[MSG$024F2D,11]
+Minase "!?" 
+
+[MSG$024F45,96]
+Posso ver minha pr&pria sombra, criada pela luz das velas. Kitami plantou os p$s nela. 
+
+[MSG$024FAA,39]
+Mas certamente n=o $ por isso que estou im&vel...
+
+[MSG$024FDE,46]
+Kitami "E agora, como devo brincar com voc]?" 
+
+[MSG$025026,53]
+Kitami se aproxima lentamente, passando por cima da minha sombra. 
+
+[MSG$025068,75]
+Kitami "Se eu te deixar algum hematoma vis%vel, s& vai ser um inc\modo mais tarde..." 
+
+[MSG$0250CD,115]
+Kitami "J# sei... por que n=o ser misericordiosa e mandar voc] ao auge do ]xtase? A% voc] pode enlouquecer e morrer!" 
+
+[MSG$02515A,61]
+Com isso, Kitami tira uma esp$cie de c#psula do bolso. 
+
+[MSG$0251A4,85]
+Kitami "Voc] vai ter um orgasmo t=o poderoso que vai te matar. Ha ha ha!" 
+
+[MSG$025213,69]
+Kitami "Voc] $ um garoto forte, tenho certeza que os efeitos ser=o monstruosos." 
+
+[MSG$025272,40]
+Minase "O que diabos voc] vai fazer?" 
+
+[MSG$0252B4,46]
+Ela me mostra a c#psula em sua m=o em resposta. 
+
+[MSG$0252EF,101]
+Kitami "Esta $ uma po~=o secreta que vai te ensinar sobre a lux`ria. Em outras palavras, um afrodis%aco." 
+
+[MSG$02536E,102]
+Kitami "; algo que inventei misturando magia e medicina moderna. Sua efic#cia $ garantida." 
+
+[MSG$0253EE,90]
+Kitami "Isso $ mais de 10 vezes a dose normal. Uma vers=o especial de for~a m#xima..." 
+
+[MSG$025462,72]
+Kitami "Como um presente para voc], estou lhe dando uma dosagem superconcentrada. 
+
+[MSG$0254AF,60]
+Isso levaria at$ um elefante [ loucura num instante." 
+
+[MSG$025505,62]
+Minase "Voc] t# louca? De jeito nenhum vou tomar essa coisa!" 
+
+[MSG$02555D,92]
+Kitami "Ah, sim, voc] vai... lute o quanto quiser, mas n=o h# nada que possa fazer para escapar." 
+
+[MSG$02564F,85]
+Com isso, Kitami coloca a c#psula entre os l#bios e depois encosta a boca na minha. 
+
+[MSG$0256A9,48]
+N=o consigo me mover. Estou indefeso contra seus avan~os. 
+
+[MSG$0256E6,16]
+Kitami "Hummm..." 
+
+[MSG$025710,20]
+Minase "Mmmm! Mmmm!" 
+
+[MSG$02573E,15]
+(Jorrar, respingar...)
+
+[MSG$02575A,47]
+A l%ngua de Kitami abre caminho entre meus l#bios, 
+
+[MSG$02578E,61]
+e come~a a empurrar a c#psula para o fundo da minha garganta. 
+
+[MSG$0257D8,16]
+Kitami "Hummm..." 
+
+[MSG$025802,18]
+Minase "Mmmm! Mmmm!" 
+
+[MSG$02582E,90]
+Desesperadamente, tento n=o engolir a c#psula. Mas a l%ngua de Kitami $ muito h#bil.
+
+[MSG$02588D,32]
+Eventualmente ela consegue for~ar
+
+[MSG$0258B2,72]
+|a c#psula, coberta por nossa saliva, no fundo da minha garganta. 
+
+[MSG$025907,7]
+Gulp... 
+
+[MSG$025994,27]
+Minase "Ah... ah... ah..." 
+
+[MSG$0259C9,42]
+Kitami retira a l%ngua da minha boca. 
+
+[MSG$0259F8,50]
+Um longo fio pegajoso de saliva oscila entre n&s. 
+
+[MSG$025A37,31]
+Droga, engoli aquela coisa. 
+
+[MSG$025A63,89]
+Kitami "Voc] entrou para a hist&ria. A c#psula derreter# instantaneamente. Apenas desista." 
+
+[MSG$025AD6,36]
+Minase "O que vai acontecer agora?" 
+
+[MSG$025B14,66]
+Kitami "Quem sabe? Nunca usei essa quantidade em um humano antes." 
+
+[MSG$025B70,71]
+Kitami "Mas n=o se preocupe, voc] vai descobrir em breve... Em primeira m=o, claro." 
+
+[MSG$025BD1,96]
+Kitami "S& para sua refer]ncia, quando dei a outro aluno um d$cimo da quantidade que voc] acabou de engolir, 
+
+[MSG$025C36,79]
+ele n=o conseguia parar de se masturbar. Ficou fazendo isso at$ perder a consci]ncia."
+
+[MSG$025C9F,120]
+Kitami "Bem, digamos apenas que mesmo que voc] sobreviva a isso, $ improv#vel que ainda mantenha sua sanidade." 
+
+[MSG$025D31,25]
+Minase "Voc] est# falando s$rio?" 
+
+[MSG$025E04,108]
+Tudo o que posso fazer $ olhar para Kitami enquanto ela fala naquele tom de voz calmo, com um pequeno sorriso nos l#bios. 
+
+[MSG$025E7D,13]
+Minase "Ugh!" 
+
+[MSG$025EA4,52]
+Logo depois, come~o a sentir uma mudan~a dentro do meu corpo. 
+
+[MSG$025EE5,57]
+Kitami "Parece que o rem$dio j# est# fazendo efeito." 
+
+[MSG$025F38,5]
+Tudum! 
+
+[MSG$025FA2,14]
+Minase "Ah!" 
+
+[MSG$025FCA,46]
+Meu corpo est# sendo tomado por um choque enorme. 
+
+[MSG$025FFD,49]
+Desejo de prazer... est# incendiando minha mente. 
+
+[MSG$02603B,32]
+Minase "Ah! Ah... ah..." 
+
+[MSG$026075,25]
+Kitami "Como se sente?" 
+
+[MSG$0260A8,84]
+Kitami "Quer que eu te ajude? Ou prefere se virar sozinho?" 
+
+[MSG$026116,14]
+Minase "M-Merda!" 
+
+[MSG$02613E,45]
+Desesperadamente tento lutar contra a sensa~=o...
+
+[MSG$026170,32]
+Mas logo percebo que $ in`til. 
+
+[MSG$02619D,67]
+N=o importa o quanto eu tente rejeit#-la, minha lux`ria s& fica mais forte. 
+
+[MSG$0261ED,24]
+Tum...tudum...tudum... 
+
+[MSG$026212,65]
+Cada vez que meu cora~=o bate, posso sentir um tremor na minha virilha. 
+
+[MSG$026258,64]
+N=o consigo mais me conter. Se eu resistir mais, vou enlouquecer. 
+
+[MSG$0262A5,23]
+Minase "Ajude... me ajude! 
+
+[MSG$0262D6,116]
+Desisto. Estou no ponto em que n=o me importo mais com o que vai acontecer, desde que ela satisfa~a minha lux`ria. 
+
+[MSG$026357,65]
+Kitami "Tudo bem, relaxa. Vou te dar um al%vio imediato." 
+
+[MSG$02642F,56]
+Kitami tira minhas cal~as e saca meu pau ereto. 
+
+[MSG$026474,67]
+Kitami "Meu Deus. Parece que voc] vir# com apenas um aperto." 
+
+[MSG$0264D2,56]
+Kitami "Vamos ver... que tal fazer isso com meus seios?" 
+
+[MSG$0265A0,38]
+Kitami exp^e seus seios enormes para mim. 
+
+[MSG$0265D3,48]
+Kitami "Tudo bem, apenas coloque entre eles." 
+
+[MSG$0266A6,69]
+Sucumbo [s suas palavras tentadoras e mergulho meu pau entre seus seios. 
+
+[MSG$0266F8,83]
+S=o t=o grandes que ainda h# bastante espa~o, mesmo depois de envolver meu pau. 
+
+[MSG$026758,60]
+Ela empurra os seios de ambos os lados e aperta meu pau. 
+
+[MSG$026799,69]
+Eu n=o aguento. Come~o a tentar me movimentar em meus limites estreitos. 
+
+[MSG$0267EB,73]
+Kitami "Que garoto impaciente... Seu pau est# t=o quente, parece que est# pegando fogo!" 
+
+[MSG$02684E,27]
+Vrosh... vrosh... vrosh...
+
+[MSG$026876,93]
+O suco do meu pau umedece seus seios. J# posso ouvir sons de fric~=o entre eles. 
+
+[MSG$0268D8,101]
+Os seios de Kitami s=o surpreendentemente macios e, por causa da po~=o, estou pronto para gozar rapidamente. 
+
+[MSG$02694A,105]
+Kitami "Voc] est# prestes a gozar, n=o $? Tudo bem, basta borrifar sempre que quiser." 
+
+[MSG$0269CD,70]
+Desesperadamente tento me conter, mas n=o consigo. Tem vida pr&pria. 
+
+[MSG$026A18,57]
+Kitami me aperta, me estimulando ainda mais. 
+
+[MSG$026A5E,27]
+Vrosh... vrosh... vrosh...
+
+[MSG$026A86,40]
+Minase "Eu vou! Vou! Vou! Vouuu..."
+
+[MSG$026AC8,37]
+Kitami "V# em frente, venha o quanto quiser." 
+
+[MSG$026B07,14]
+Minase "Uaaaaaaahh!" 
+
+[MSG$026B2F,89]
+O prazer $ intenso quando paro de mover os quadris e chego ao cl%max nos seios de Kitami. 
+
+[MSG$026C87,20]
+Spurt! Spurt! Spurt!
+
+[MSG$026CA8,44]
+Kitami "Ahahahaha! Voc] com certeza chegou com tudo!" 
+
+[MSG$026CEE,75]
+O suco branco jorra de seus seios enormes e suja seu rosto. 
+
+[MSG$026D3E,86]
+Meu c$rebro $ estimulado pelo prazer intenso, estou t=o excitado que sei que vou desmaiar
+
+[MSG$026D99,39]
+|se perder o foco. Todo o meu corpo treme. 
+
+[MSG$026DCD,26]
+Tum... spurt... tudum... 
+
+[MSG$026DF4,107]
+Continuo a atirar por muito tempo. O esperma transborda de seu peito e escorre pelo ch=o. 
+
+[MSG$026E6C,83]
+Kitami "Se tem tanta porra para mostrar, deve ter gostado muito!" 
+
+[MSG$026ED9,71]
+Kitami "; melhor aproveitar enquanto pode. Esta $ sua `ltima vez..." 
+
+[MSG$026F3A,93]
+Normalmente, eu j# teria terminado, mas meu pau continua cuspindo um jato enorme de
+
+[MSG$026F9C,5]
+|porra. 
+
+[MSG$026FAE,52]
+Isso $ estranho... definitivamente tem algo acontecendo comigo. 
+
+[MSG$026FEF,15]
+Minase "Ugh..." 
+
+[MSG$027091,24]
+Spurt...spurt...spurt...
+
+[MSG$02712F,38]
+Minase "N=o consigo parar! N=o consigo..."
+
+[MSG$02716F,43]
+O prazer tamb$m ainda n=o passou. 
+
+[MSG$02719F,96]
+Isso est# me fazendo sentir como se meu c$rebro fosse derreter e, por dentro, estou gritando para que isso acabe. 
+
+[MSG$02720C,69]
+Kitami "N=o adianta. N=o vai parar at$ que seu cora~=o pare." 
+
+[MSG$02726B,114]
+Kitami "O que vai quebrar primeiro, seu c$rebro ou seu cora~=o? N=o que isso fa~a muita diferen~a..." 
+
+[MSG$0272F7,116]
+Falando com calma, Kitami me empurra e enxuga o esperma que a sujou. Ela veste suas roupas e se levanta. 
+
+[MSG$02741A,24]
+Minase "Ajude... me ajude!" 
+
+[MSG$02744C,102]
+Kitami "Certo, vou indo agora. N=o tenho tempo para ver essa cena pat$tica." 
+
+[MSG$0274CC,14]
+Minase "Espere!" 
+
+[MSG$0274F4,97]
+Kitami "Voc] tem muita sorte! Morte por tes=o, poucas pessoas t]m essa felicidade, sabe?" 
+
+[MSG$02756F,41]
+Minase "N=o! Eu n=o quero morrer! Aaaah..." 
+
+[MSG$0275B2,22]
+Kitami "Ahahaha! Boa noite..." 
+
+[MSG$027606,9]
+Vruum... 
+
+[MSG$02761C,7]
+Tudum... 
+
+[MSG$027630,43]
+Kitami me abandona ali, saindo do local. 
+
+[MSG$027660,32]
+Come~o a perder a consci]ncia... 
+
+[MSG$027708,30]
+Agora $ tarde demais para arrependimentos. 
+
+[MSG$02772B,79]
+O pre~o a pagar por subestimar o poder das Artes das Trevas era muito alto... 
+
+[MSG$027787,88]
+Eu te imploro, & grande e misericordioso Deus, tenha piedade de n&s e perdoe nossos pecados...
+
+[MSG$02780C,29]
+Final 5 ''Reika Kitami''
+
+[MSG$02782E,10]
+...Final Ruim 
+
+[MSG$02786F,70]
+Kitami "Mas voc] acha mesmo que pode voltar de onde est#?" 
+
+[MSG$0278CF,61]
+Kitami "Sempre posso encontrar outra pessoa para ocupar o seu lugar..." 
+
+[MSG$027926,96]
+Percebo que Kitami est# se aproximando cada vez mais. Abro impulsivamente o Livro de Magia. 
+
+[MSG$027993,94]
+Voc] j# deu uma mordida no Fruto Proibido. H# um pre~o alto a pagar por isso." 
+
+[MSG$027A03,54]
+Procuro desesperadamente por um feiti~o que me proteja. 
+
+[MSG$027A3E,63]
+Mas quanto mais fren$tico fico, mais dif%cil $ virar as p#ginas. 
+
+[MSG$027A8A,101]
+Kitami "Isso n=o vai adiantar. Os feiti~os desse livro s& ter=o um efeito tempor#rio em mim." 
+
+[MSG$027B09,59]
+Quando ou~o isso, paro de virar as p#ginas e olho para Kitami. 
+
+[MSG$027B51,33]
+Kitami "Hora de desistir."
+
+[MSG$027B8C,85]
+Continuo recuando, tentando com todas as minhas for~as encontrar uma maneira de sair daqui. 
+
+[MSG$027BEE,66]
+Kitami "N=o adianta tentar escapar. Agora venha aqui." 
+
+[MSG$027C4A,93]
+Ent=o noto algo estranho. Kitami ainda esta fora do c%rculo m#gico. 
+
+[MSG$027CAC,63]
+Ela nem est# tentando entrar... como se ela n=o pudesse... 
+
+[MSG$027CF8,60]
+; isso, ela n=o pode entrar. Por causa do c%rculo m#gico... 
+
+[MSG$027D39,109]
+C%rculos m#gicos s=o desenhados para proteger os magos do mal. E acabei de santificar este agora 
+
+[MSG$027DAB,8]
+|mesmo. 
+
+[MSG$027DC0,100]
+Provavelmente n=o teria efeito em uma pessoa normal, mas se Kitami for afiliada ao diabo, 
+
+[MSG$027E29,52]
+ent=o os efeitos do c%rculo m#gico devem entrar em a~=o. 
+
+[MSG$027E6A,80]
+Em outras palavras, enquanto permanecer aqui dentro ela n=o poder# fazer nada comigo. 
+
+[MSG$027F4A,37]
+Minase "Entendi, ent=o $ isso, hein?" 
+
+[MSG$027F89,56]
+Kitami "Qual $ o problema, decidiu ceder?" 
+
+[MSG$027FDB,36]
+Minase "N=o, na verdade $ o contr#rio." 
+
+[MSG$028019,47]
+Minase "Voc] n=o pode entrar neste c%rculo m#gico." 
+
+[MSG$028062,12]
+Kitami "..." 
+
+[MSG$02807B,49]
+Minase "E a%, o que me diz sobre isso?" 
+
+[MSG$0280C6,45]
+Minase "Vamos, tente entrar no c%rculo."
+
+[MSG$02810D,45]
+Lentamente, ela estende a m=o em minha dire~=o. 
+
+[MSG$02825C,7]
+Thwack!
+
+[MSG$028270,16]
+Kitami "Droga..." 
+
+[MSG$02829A,92]
+No instante em que tentou colocar a m=o sobre a linha do c%rculo m#gico, algo a desviou. 
+
+[MSG$0282FB,26]
+Est# funcionando. 
+
+[MSG$028322,57]
+Minase "Como pensei... voc] n=o pode entrar aqui." 
+
+[MSG$028375,12]
+Kitami "..." 
+
+[MSG$02838E,50]
+Minase "Voc] pode ter todo o poder do mundo, 
+
+[MSG$0283C5,72]
+mas um simples c%rculo no ch=o pode te deixar inofensiva." 
+
+[MSG$028427,29]
+Zombei dela dizendo isso. 
+
+[MSG$028449,75]
+Enquanto eu permanecer dentro do c%rculo, ela n=o poder# me machucar. 
+
+[MSG$0284A1,42]
+Kitami "Eu n=o teria tanta certeza..." 
+
+[MSG$0284E5,13]
+Minase "Huh?" 
+
+[MSG$02850C,68]
+Kitami "Acha mesmo que pode se proteger nesse c%rculo m#gico?" 
+
+[MSG$02856A,104]
+Kitami "Saiba que durante o ritual de 12 anos atr#s, este c%rculo m#gico tamb$m n=o protegeu ningu$m..." 
+
+[MSG$0285EC,52]
+Com isso, ela estende a m=o para mim novamente. 
+
+[MSG$028742,17]
+Whack! Crackle...
+
+[MSG$028760,64]
+Sua m=o toca o campo de barreira e fa%scas branco-azuladas voam. 
+
+[MSG$0287AD,30]
+Kitami "OKTNS ITRPS TUER OILIF 
+
+[MSG$0287D0,19]
+|TUER IRTAP EYROLG" 
+
+[MSG$0287FD,54]
+Enquanto Kitami entoa, o campo de barreira come~a a piscar. 
+
+[MSG$028840,15]
+Minase "Qu]?!" 
+
+[MSG$028869,77]
+A m=o de Kitami continua a consumir o campo de barreira, abrindo caminho para dentro. 
+
+[MSG$0288BB,64]
+; apenas uma quest=o de tempo at$ que a barreira seja violada. 
+
+[MSG$028908,66]
+Kitami "Ent=o, ainda acredita no poder do c%rculo m#gico?" 
+
+[MSG$028964,14]
+Minase "Merda!" 
+
+[MSG$02898C,89]
+Tenho que escapar... se a barreira for violada, n=o terei nenhuma prote~=o. 
+
+[MSG$0289EA,30]
+N=o tenho tempo para perder. 
+
+[MSG$028A15,23]
+Minase "Saia do meu caminho!" 
+
+[MSG$028A46,72]
+Enquanto grito, jogo o Livro de Magia na cara de Kitami com toda a for~a que posso. 
+
+[MSG$028A9B,6]
+TUM! 
+
+[MSG$028AAE,87]
+O livro $ pesado. Posso ouvir uma rajada de vento voando em dire~=o ao rosto dela. 
+
+[MSG$028B0A,51]
+No instante seguinte, corro em dire~=o [ porta. 
+
+[MSG$028BE2,5]
+TUM! 
+
+[MSG$028BF4,13]
+Kitami "Uh!" 
+
+[MSG$028C98,41]
+O livro atinge o rosto de Kitami com um baque. 
+
+[MSG$028CC6,100]
+Ela o afasta com a m=o, mas o impacto a desequilibra por um instante. 
+
+[MSG$028D37,82]
+Ignorando-a, abro a porta com um chute, subo as escadas e entro no corredor. 
+
+[MSG$028E14,5]
+TUM! 
+
+[MSG$028E26,87]
+Fecho a porta imediatamente. Engulo o ar tentando acalmar minha respira~=o. 
+
+[MSG$028E8A,30]
+Minase "Aah... ahh... ahh..." 
+
+[MSG$028EC2,77]
+Kitami n=o est# me perseguindo. Alguns estudantes no corredor ficam olhando para mim. 
+
+[MSG$028F24,69]
+De alguma forma consegui escapar. Mas ser# que Kitami vai me deixar ir? 
+
+[MSG$028F76,104]
+Sei que isso seria bom demais para ser verdade, mas nem Kitami me atacaria na frente de outras pessoas... 
+
+[MSG$02901D,50]
+Saeki "O que est# fazendo... em um lugar como esse?" 
+
+[MSG$029069,65]
+Saeki me v] parado, recuperando o f\lego, enquanto passa. 
+
+[MSG$0290AF,38]
+O que ela ainda est# fazendo aqui na escola? 
+
+[MSG$0290E2,31]
+Minase "Nada, n=o $ nada." 
+
+[MSG$02911B,83]
+Saeki "Voc] t# bem? Parece p#lido. Por que n=o vai para a enfermaria?"
+
+[MSG$029188,31]
+Eu iria para l# de qualquer maneira. 
+
+[MSG$0291B4,32]
+Minase "N=o $ nada, estou bem." 
+
+[MSG$0291EE,11]
+Saeki "..." 
+
+[MSG$029206,111]
+Com isso, vou em dire~=o [ enfermaria onde Imari est# dormindo. Meus passos s=o pesados enquanto caminho pelo corredor. 
+
+[MSG$029282,15]
+24 de abril - In%cio 
+
+[MSG$029310,10]
+A porta abre 
+
+[MSG$029327,52]
+Volto para a enfermaria e verifico Imari na cama. 
+
+[MSG$0293E4,20]
+Imari "Zzz...zzz..." 
+
+[MSG$029412,21]
+Ela ainda est# dormindo. 
+
+[MSG$029434,20]
+Imari "Zzz...zzz..." 
+
+[MSG$029462,55]
+Olho para Imari deitada, ela est# dormindo pacificamente. 
+
+[MSG$02949E,52]
+Ver seu rosto adormecido me tranquiliza. 
+
+[MSG$0294DF,27]
+Eu n=o devia ficar aqui por muito tempo. 
+
+[MSG$029507,113]
+Neste momento preciso evitar aquela professora maluca. ; melhor acordar Imari e sair logo. 
+
+[MSG$029585,30]
+Minase "Imari... ei, acorde!" 
+
+[MSG$0295BD,25]
+(Mexe, mexe, remexe...) 
+
+[MSG$0295E3,14]
+Sacudo Imari. 
+
+[MSG$0295FE,14]
+Imari "Hmm..." 
+
+[MSG$029626,57]
+Imari torce o corpo e come~a a recuperar a consci]ncia. 
+
+[MSG$029664,60]
+N=o acredito que ela consegue dormir profundamente depois do que aconteceu. 
+
+[MSG$0296AD,20]
+Imari "Mmm...mmm..." 
+
+[MSG$0296DB,21]
+Imari "Huh... Minase?" 
+
+[MSG$029786,10]
+Levantando 
+
+[MSG$02979D,22]
+Imari acorda lentamente. 
+
+[MSG$0297C0,45]
+Imari "Mmm... hein? Ei, o que estou fazendo aqui?" 
+
+[MSG$029807,35]
+Ela esfrega os olhos e olha em volta. 
+
+[MSG$029837,7]
+Uau... 
+
+[MSG$02984B,32]
+Imari est# sem roupa. 
+
+[MSG$029870,36]
+Sua calcinha $ incrivelmente branca... 
+
+[MSG$0298A1,79]
+Imari "Espera, lembrei! Aquele idiota do Shinjou ou qualquer que seja o nome dele, ele..." 
+
+[MSG$02990A,83]
+Imari "Grr! Que &dio, ele me bateu! Da pr&xima vez que eu o ver, vou chutar a bunda dele!" 
+
+[MSG$029977,75]
+Imari est# tremendo de raiva ao lembrar do que aconteceu no terra~o. 
+
+[MSG$0299CF,87]
+Parece que ela n=o se lembra de nada do que aconteceu depois que perdeu a consci]ncia. 
+
+[MSG$029A2B,88]
+Melhor assim, seria complicado se ela se lembrasse do que aconteceu no gin#sio. 
+
+[MSG$029A90,65]
+Imari "Ah, n=o, olha a hora! A reuni=o do clube j# acabou!" 
+
+[MSG$029AEB,53]
+Imari "Huh? O que foi? Por que est# me olhando assim?" 
+
+[MSG$029B3A,53]
+Imari percebe que estou encarando ela e olha para baixo. 
+
+[MSG$029B7C,16]
+Minase "Isso..." 
+
+[MSG$029BA6,23]
+Aponto para o suti= de Imari. 
+
+[MSG$029BCA,12]
+Imari "Huh?" 
+
+[MSG$029BF0,11]
+Imari "..." 
+
+[MSG$029C08,48]
+Imari olha para seu corpo pela primeira vez. 
+
+[MSG$029CC2,47]
+Imari "Augh! N=o olhe pra mim! Por que estou nua?" 
+
+[MSG$029D0B,24]
+Imari "N=o me diga..." 
+
+[MSG$029D3D,19]
+Imari me encara. 
+
+[MSG$029D55,22]
+Como se eu fosse o culpado. 
+
+[MSG$029D78,49]
+Minase "N=o fui eu! Essa $ uma acusa~=o falsa!" 
+
+[MSG$029DC3,34]
+Imari "Ser# mesmo...?" 
+
+[MSG$029DFF,26]
+Estou sendo acusado injustamente. 
+
+[MSG$029E1E,80]
+De qualquer forma, Kitami n=o precisou tirar toda a roupa. Ela estava apenas sendo m#? 
+
+[MSG$029E7B,67]
+Imari "Pare de olhar pra mim! Vire-se, pelo amor de Deus!" 
+
+[MSG$029ED8,5]
+Vrum! 
+
+[MSG$029EEA,34]
+I hurriedly turn my back on Imari.
+
+[MSG$029F19,21]
+24 de abril - Noite/Casa
+
+[MSG$02A01D,5]
+Clique 
+
+[MSG$02A02F,18]
+Minase "Cheguei." 
+
+[MSG$02A05B,40]
+Grito enquanto trope~o dentro de casa. 
+
+[MSG$02A090,75]
+Imari desabafou sua raiva contra Inoue e sua gangue durante todo o caminho de volta, mas 
+
+[MSG$02A0E0,70]
+eu mal ouvi, apenas dando respostas vagas de vez em quando. 
+
+[MSG$02A133,51]
+No momento, n=o tenho tempo para ouvir sua ladainha. 
+
+[MSG$02A1EF,38]
+Vou para a minha mesa e abro a mochila. 
+
+[MSG$02A21A,39]
+O Livro da Magia n=o est# aqui... 
+
+[MSG$02A24E,36]
+Eu joguei ele na cara de Kitami. 
+
+[MSG$02A277,89]
+Lamento ter perdido o livro. Mas n=o havia nada que eu pudesse fazer... 
+
+[MSG$02A2DD,73]
+Al$m disso, aquele livro s& me atrapalharia se eu tentasse escapar de Kitami. 
+
+[MSG$02A32B,100]
+Agora n=o tenho liga~=o com a sala do por=o. Com o passar do tempo, aposto que Kitami vai esquecer de mim... 
+
+[MSG$02A39C,16]
+Minase "(bocejos)" 
+
+[MSG$02A3C6,27]
+Estou realmente esgotado hoje. 
+
+[MSG$02A3E6,57]
+Se eu for para a cama, adormecerei em tr]s segundos. 
+
+[MSG$02A42C,29]
+Voc] n=o pode me culpar, s$rio... 
+
+[MSG$02A44E,30]
+Muita coisa aconteceu hoje. 
+
+[MSG$02A479,49]
+Levanto da cadeira e tiro minhas roupas... 
+
+[MSG$02A4AF,84]
+Deixo um bilhete para minha irm=, dizendo que n=o preciso jantar, e vou para cama. 
+
+[MSG$02A510,51]
+Minase "N=o sei se aquilo $ verdade ou n=o..." 
+
+[MSG$02A55D,26]
+Lembro das palavras de Kitami. 
+
+[MSG$02A57C,66]
+Kitami... uma maga demon%aca que participou daquele ritual h# 12 anos. 
+
+[MSG$02A5CB,106]
+Ser# verdade? Estranho que ela tenha sido a `nica sobrevivente. E se seguir o que Kitami disse, 
+
+[MSG$02A63A,27]
+a hist&ria n=o bate certo... 
+
+[MSG$02A662,48]
+Mas ponderar sobre isso n=o me trar# nenhuma resposta. 
+
+[MSG$02A697,86]
+Tenho muito em que pensar. Nem sei o que tenho que resolver primeiro. 
+
+[MSG$02A6FA,52]
+Assim que perco a concentra~=o, adorme~o... 
+
+[MSG$02A7B6,18]
+.................. 
+
+[MSG$02A7D5,12]
+............ 
+
+[MSG$02A7EE,6]
+...... 
+
+[MSG$02A808,15]
+24 de abril - In%cio 
+
+[MSG$02A81A,18]
+Voz "Acorde..." 
+
+[MSG$02A846,32]
+Voz "Vamos, eu disse para acordar!" 
+
+[MSG$02A880,25]
+(Mexe, mexe, remexe...) 
+
+[MSG$02A936,15]
+Minase "Mmm..." 
+
+[MSG$02A95F,61]
+Imari "Ent=o n=o vai levantar, n$? Tudo bem..." 
+
+[MSG$02A9B6,65]
+Eu a ou~o farfalhar, ent=o ela coloca algo em meus ouvidos. 
+
+[MSG$02AA04,15]
+Imari "Sss...." 
+
+[MSG$02AA2D,25]
+Imari "Acorde!" 
+
+[MSG$02AA60,14]
+Minase "Ah!" 
+
+[MSG$02AA88,28]
+Instantaneamente pulo da cama. 
+
+[MSG$02AAA9,92]
+Tenho um estetosc&pio encostado aos ouvidos e Imari segura a ponta dele como se fosse um microfone. 
+
+[MSG$02ABB1,60]
+Imari "Qual $, quanto tempo voc] vai demorar para se levantar?" 
+
+[MSG$02AC07,23]
+Minase "J# $ de manh=?" 
+
+[MSG$02AC38,54]
+Bocejo enquanto pergunto isso a Imari. Ela est# ao meu lado. 
+
+[MSG$02AC7B,39]
+Imari "Voc] ainda est# sonhando ou o qu]?" 
+
+[MSG$02ACBC,39]
+; verdade, este n=o parece meu quarto... 
+
+[MSG$02ACF0,22]
+E estou de uniforme. 
+
+[MSG$02AD0B,37]
+Tamb$m h# um leve cheiro de hospital. 
+
+[MSG$02AD35,29]
+; a enfermaria da escola? 
+
+[MSG$02AD5F,97]
+Imari "N=o h# nada estranho em estar aqui, mas por que voc] estava dormindo ao meu lado?" 
+
+[MSG$02ADDA,13]
+Eu me pergunto por qu]?
+
+[MSG$02ADEC,95]
+Lembro de levar um surra do Inoue e sua turma no terra~o. Depois fui para o por=o... 
+
+[MSG$02AE50,29]
+E depois disso, lembro de... 
+
+[MSG$02AE7A,73]
+Imari "Que horas s=o? A reuni=o do clube terminou h# um tempo atr#s." 
+
+[MSG$02AEDD,59]
+Olho para o meu rel&gio e vejo que $ o fim do dia. 
+
+[MSG$02AF1D,56]
+Muito tempo se passou desde que estive no por=o... 
+
+[MSG$02AF62,11]
+Por=o... 
+
+[MSG$02AF7A,43]
+Isso mesmo... eu estava no por=o e... 
+
+[MSG$02AFB2,22]
+Eu lembro de tudo, 
+
+[MSG$02AFCD,32]
+do que aconteceu l#... 
+
+[MSG$02AFF5,15]
+Kitami e eu... 
+
+[MSG$02B009,29]
+Ser# que foi um sonho? 
+
+[MSG$02B033,44]
+Imari "O que foi? Voc] parece meio perdido." 
+
+[MSG$02B079,31]
+Minase "Huh? Ah, n=o $ nada." 
+
+[MSG$02B0B2,32]
+Minase "Ei, onde est# Kitami?" 
+
+[MSG$02B0EC,60]
+Imari "E eu vou saber? N=o tinha mais ningu$m aqui quando acordei." 
+
+[MSG$02B142,14]
+Minase "Ah..." 
+
+[MSG$02B16A,45]
+Tamb$m n=o sei h# quanto tempo estou aqui. 
+
+[MSG$02B19C,41]
+Parece que tudo que aconteceu foi um sonho. 
+
+[MSG$02B1D2,65]
+Imari "De qualquer forma, vamos logo pra casa. O port=o vai fechar." 
+
+[MSG$02B22D,30]
+Minase "Sim, voc] est# certa..." 
+
+[MSG$02B265,55]
+Desisto de tentar descobrir e levanto da cama. 
+
+[MSG$02B2A9,27]
+Minase "Voc] est# bem?" 
+
+[MSG$02B2DE,52]
+Pergunto isso a Imari enquanto me desembara~o da cama. 
+
+[MSG$02B31F,45]
+Imari "Sim, dormi profundamente, estou bem agora." 
+
+[MSG$02B398,83]
+Imari "Grr! Que &dio que ele me bateu! Da pr&xima vez que eu o ver, vou chutar a bunda dele!" 
+
+[MSG$02B405,52]
+Imari parece a mesma de sempre, como se nada tivesse acontecido. 
+
+[MSG$02B43E,68]
+Eu n=o posso acreditar como ela $ teimosa. 
+
+[MSG$02B4B3,7]
+Tum... 
+
+[MSG$02B4C7,64]
+Assim que meus p$s tocam o ch=o, algo cai.
+
+[MSG$02B514,49]
+Vejo um objeto embrulhado em um pano branco. 
+
+[MSG$02B552,20]
+O Livro de Magia... 
+
+[MSG$02B56B,66]
+Pego ele rapidamente. N=o lembro de trazer isso comigo... 
+
+[MSG$02B5BA,41]
+Quando me levanto, sou dominado pelo cansa~o. 
+
+[MSG$02B5E8,26]
+Meu corpo parece super pesado. 
+
+[MSG$02B641,21]
+Imari "O que foi?" 
+
+[MSG$02B670,22]
+Minase "N=o $ nada." 
+
+[MSG$02B6A0,33]
+Balan~o a cabe~a para me livrar disso. 
+
+[MSG$02B6CE,17]
+Meu est\mago d&i. 
+
+[MSG$02B6E4,36]
+Toco nele e sinto um formigamento doloroso.
+
+[MSG$02B70D,34]
+Levanto a camisa para dar uma olhada.
+
+[MSG$02B73C,11]
+Minase "!?"
+
+[MSG$02B754,38]
+H# um tri@ngulo vermelho sob minha camisa.
+
+[MSG$02B77F,47]
+Como um diagrama desenhado com sangue.
+
+[MSG$02B7BB,29]
+O s%mbolo do pacto...
+
+[MSG$02B7DD,28]
+Foi Kitami quem desenhou... 
+
+[MSG$02B806,69]
+Nesse caso, tudo que aconteceu no por=o foi real. 
+
+[MSG$02B850,32]
+Rapidamente escondo isso de Imari. 
+
+[MSG$02B87D,17]
+Imari "Vamos." 
+
+[MSG$02B8A8,69]
+Pego o livro embrulhado e saio da enfermaria com ela. 
+
+[MSG$02B8FA,21]
+24 de abril - Noite/Casa 
+
+[MSG$02B9FE,5]
+Clique 
+
+[MSG$02BA10,18]
+Minase "Cheguei." 
+
+[MSG$02BA3C,40]
+Grito enquanto trope~o dentro de casa. 
+
+[MSG$02BA71,79]
+Imari desabafou toda a sua raiva contra Inoue e sua gangue durante todo o caminho de volta, mas 
+
+[MSG$02BAC5,70]
+eu mal a ouvi, apenas dando respostas vagas de vez em quando. 
+
+[MSG$02BB18,51]
+No momento, n=o tenho tempo para ouvir sua ladainha. 
+
+[MSG$02BBD4,38]
+Vou para a minha mesa e abro a mochila. 
+
+[MSG$02BBFF,51]
+Pego o Livro de Magia e o coloco sobre a mesa. 
+
+[MSG$02BC3F,80]
+Lembro de levar isso para o por=o. E ent=o transei com Kitami... 
+
+[MSG$02BC9C,79]
+Quando fecho os olhos, isso volta para mim. Meu corpo ainda se lembra de como se sentiu. 
+
+[MSG$02BCF8,16]
+Minase "(bocejos)" 
+
+[MSG$02BD22,27]
+Estou realmente esgotado hoje. 
+
+[MSG$02BD42,57]
+Se eu for para a cama, adormecerei em tr]s segundos. 
+
+[MSG$02BD88,29]
+Voc] n=o pode se culpar, s$rio...
+
+[MSG$02BDB2,41]
+N=o depois do que aconteceu naquele por=o. 
+
+[MSG$02BDE8,47]
+Levanto da cadeira e tiro minhas roupas. 
+
+[MSG$02BE24,84]
+Deixo um bilhete para minha irm=, dizendo que n=o preciso jantar, e vou para a cama. 
+
+[MSG$02BE85,51]
+Minase "N=o sei se $ verdade ou n=o..." 
+
+[MSG$02BED2,26]
+Lembro das palavras de Kitami. 
+
+[MSG$02BEF1,66]
+Kitami... uma maga demon%aca que participou daquele ritual h# 12 anos. 
+
+[MSG$02BF40,106]
+Ser# verdade? ; estranho que ela tenha sido a `nica sobrevivente. E se voc] seguir o que Kitami disse, 
+
+[MSG$02BFAF,27]
+a hist&ria n=o bate certo... 
+
+[MSG$02BFD7,48]
+Mas ponderar sobre isso n=o me trar# nenhuma resposta. 
+
+[MSG$02C00C,85]
+Tenho muito em que pensar. E nem sei por onde come~ar. 
+
+[MSG$02C06E,52]
+Assim que perco a concentra~=o, adorme~o...
+
+[MSG$02C12A,18]
+..................
+
+[MSG$02C149,12]
+............
+
+[MSG$02C162,6]
+......
