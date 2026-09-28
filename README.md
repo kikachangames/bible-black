@@ -17,14 +17,14 @@
 <br/>
 
 <h3>Progresso da tradução</h3>
-<p>[▓▓▓▓░░░░░░] 40%</p>
+<p>[▓▓▓▓▓░░░░░] 45,45%</p>
 
 <ul>
     <li>20/04 - 100%</li>
     <li>21/04 - 100%</li>
     <li>22/04 - 100%</li>
     <li>23/04 - 100%</li>
-    <li>24/04 - 35%</li>
+    <li>24/04 - 100%</li>
     <li>25/04 - 0%</li>
     <li>26/04 - 0%</li>
     <li>27/04 - 0%</li>
@@ -95,14 +95,14 @@
 <br/>
 
 <h3>Download do patch</h3>
-<p>Em breve...</p>
+<p>Na próxima noite de Walpurgis...</p>
 
 <br/>
 <br/>
 
 
 <hr>
-<p><small>Última atualização: 20/09/2026.</small></p>
+<p><small>Última atualização: 28/09/2026.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
 
