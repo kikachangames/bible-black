@@ -37,7 +37,7 @@
 <p>A ser anunciado.</p>
 <br/>
 
-<img src="https://kikachangames.github.io/bible-black/img/1.png">
+<img src="https://github.com/user-attachments/assets/7dad8553-b9ce-48de-95ff-652223e12187"/>
 <br/>
 <img src="https://kikachangames.github.io/bible-black/img/2.png">
 <br/>
