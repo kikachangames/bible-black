@@ -20,17 +20,17 @@
 <p>[▓▓▓▓▓░░░░░] 45,45%</p>
 
 <ul>
-    <li>20/04 - 100%</li>
-    <li>21/04 - 100%</li>
-    <li>22/04 - 100%</li>
-    <li>23/04 - 100%</li>
-    <li>24/04 - 100%</li>
-    <li>25/04 - 0%</li>
-    <li>26/04 - 0%</li>
-    <li>27/04 - 0%</li>
-    <li>28/04 - 0%</li>
-    <li>29/04 - 0%</li>
-    <li>30/04 - 0%</li>
+    <li>Dia 1 - 20 de abril: 100%</li>
+    <li>Dia 2 - 21 de abril: 100%</li>
+    <li>Dia 3 - 22 de abril: 100%</li>
+    <li>Dia 4 - 23 de abril: 100%</li>
+    <li>Dia 5 - 24 de abril: 100%</li>
+    <li>Dia 6 - 25 de abril: 0%</li>
+    <li>Dia 7 - 26 de abril: 0%</li>
+    <li>Dia 8 - 27 de abril: 0%</li>
+    <li>Dia 9 - 28 de abril: 0%</li>
+    <li>Dia 10 - 29 de abril: 0%</li>
+    <li>Dia 11 - 30 de abril: 0%</li>
 </ul>
 <br/>
 <h3>Lançamento</h3>
@@ -102,7 +102,7 @@
 
 
 <hr>
-<p><small>Última atualização: 28/09/2026.</small></p>
+<p><small>Última atualização: 22/10/2026.</small></p>
 <p><small>Kikachan Games (Desde 2024) <a href="https://kikachangames.github.io/projetos/">Projetos</a> - <a href="https://twitter.com/kikachangames/" target="_blank">X</a> - <a href="https://discord.gg/jsm8yKtu2E" target="_blank">Discord</a> - <a href="https://kikachan-games.itch.io/" target="_blank">Itch</a></small></p>
 
 
